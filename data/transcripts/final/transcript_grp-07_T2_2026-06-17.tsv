@@ -1,0 +1,300 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms	context_label
+113.727	5.306	P3	Shall we get started?	SPK		0.01661	3.53	mic11	manual						
+119.053	4.625	P3	I think before we can decide format, we should maybe start with the topics.	SPK		0.026473	9.42	mic11	manual	20.0	20.0				
+123.678	1.102	GROUP	(1.1)	SIL				shared	manual	0.0					
+124.78	0.941	P3	Topic selection.	SPK		0.019717	7.49	mic11	manual	0.0	1102.0				
+125.721	0.08	GROUP	(.)	SIL				shared	manual	0.0					
+125.801	1.642	P3	Do you have any opinions on that?	SPK		0.018469	1.37	mic11	manual	0.0	80.0			2886.0	
+126.0	1.0	P4	That's correct.	SPK				shared	manual	-1443.0	-1443.0	-1443.0		2000.0	
+126.0	1.0	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-1000.0				2000.0	
+127.0	7.0	P4	I have one topic which is people and culture.	SPK				shared	manual	0.0	0.0	-443.0		1107.0	
+127.0	0.443	P4	[OVL:smooth]	OVL	smooth			shared	confident	-7000.0				886.0	
+133.709	0.221	P3	mm-hmm	BCK				shared	manual	6266.0			6709.0	221.0	
+134.0	0.322	GROUP	(0.3)	SIL				shared	manual	70.0					
+134.322	2.821	P4	Here there are topics number three and four.	SPK		0.023951	6.15	mic12	manual	0.0	322.0	6879.0			
+137.143	0.2	GROUP	(.)	SIL				shared	manual	0.0					
+137.343	6.002	P4	So topic number three, how to apply GN's environmental sustainability commitments in everyday work.	SPK		0.016184	7.11	mic12	manual	0.0	200.0	9900.0			
+143.345	0.56	GROUP	(0.6)	SIL				shared	manual	0.0					
+143.905	6.482	P4	And the second is how to manage stress and the workload at work.	SPK		0.012637	5.96	mic12	manual	0.0	560.0	16462.0			
+150.387	0.24	GROUP	(0.2)	SIL				shared	manual	0.0					
+150.627	6.042	P4	I think this is a very important topic given it's part of the leadership commitments.	SPK		0.015396	6.42	mic12	manual	0.0	240.0	23184.0			
+156.709	6.851	P4	We have some targets for this, so I believe this topic we should prioritize in the upcoming workshop.	SPK		0.011393	5.4	mic12	manual	40.0	40.0	29266.0			
+163.56	1.339	GROUP	(1.3)	SIL				shared	manual	0.0				1033.0	
+163.866	24.403	P1	uuh	BCK				shared	manual	-1033.0				24685.0	
+164.899	6.963	P1	I agree with you on it because I think everything starts with people and the commitments.	SPK		0.025393	6.37	mic9	manual	-23370.0	1339.0	1339.0		6963.0	
+171.862	0.461	GROUP	(0.5)	SIL				shared	manual	0.0				461.0	
+172.323	3.181	P1	I think it's a good way of working.	SPK		0.020475	5.5	mic9	manual	0.0	461.0	8763.0		3181.0	
+175.504	0.4	GROUP	(0.4)	SIL				shared	manual	0.0				400.0	
+175.904	11.286	P1	So starting with something small and then maybe the future workshops developing more into other specific areas which need attention would actually make a lot of sense.	SPK		0.021694	5.85	mic9	manual	0.0	400.0	12344.0		11286.0	
+187.19	1.04	GROUP	(1.0)	SIL				shared	manual	0.0				1283.0	
+187.987	0.869	P1	[BRE]	BRE				shared	manual	-243.0				1151.0	
+188.23	11.728	P1	So, I totally agree with you that going with people and culture to start with actually defines who we are and what we are for the company.	SPK		0.021741	5.62	mic9	manual	-626.0	1040.0	24670.0		665.0	
+199.958	3.242	GROUP	(3.2)	SIL				shared	manual	0.0					
+203.2	0.16	P1	Uh, yes?	SPK		0.026407	7.3	mic9	manual	0.0	3242.0	39640.0			
+203.36	0.64	GROUP	(0.6)	SIL				shared	manual	0.0					
+204.0	18.0	P2	Yeah, but for these things we first also need to align with some online trainings and quizzes and I think this should be a very good point to start from.	SPK				shared	manual	0.0	640.0	640.0			
+222.0	12.768	P2	So like this, we all find out our way of doing things in GN and in our departments.	SPK				shared	manual	0.0	0.0	18640.0			
+234.768	0.627	GROUP	(0.6)	SIL				shared	manual	0.0					
+235.395	4.749	P2	And I think we should start with this one.	SPK		0.006918	4.15	mic9	manual	0.0	627.0	32035.0			
+240.144	0.633	GROUP	(0.6)	SIL				shared	manual	0.0				500.0	
+240.243	0.5	P1	[BRE]	BRE				shared	manual	-534.0				500.0	
+240.777	4.0	P1	Sorry, I think we were talking about the topics right now, right?	SPK		0.030279	6.08	mic9	manual	34.0	633.0	633.0		0.0	
+244.777	0.061	GROUP	(.)	SIL				shared	manual	0.0					
+244.838	5.501	P1	So I think we can maybe finalize the topics and then go to the formats, like one step at a time.	SPK		0.019744	5.85	mic9	manual	0.0	61.0	4694.0			
+250.339	0.7	GROUP	(0.7)	SIL				shared	manual	0.0					
+251.039	5.309	P1	So what do you think about the topics to start with?	SPK		0.020601	5.29	mic9	manual	0.0	700.0	10895.0			
+256.348	1.599	GROUP	(1.6)	SIL				shared	manual	0.0					
+257.947	0.488	P3	I think they're fine.	SPK		0.036364	10.38	mic11	manual	0.0	1599.0	1599.0			
+258.435	0.12	GROUP	(.)	SIL				shared	manual	0.0					
+258.555	2.041	P3	I mean, you brought good reasons.	SPK		0.025771	8.42	mic11	manual	0.0	120.0	2207.0			
+260.596	0.761	GROUP	(0.8)	SIL				shared	manual	0.0					
+261.357	2.121	P3	It's all about our commitments these days.	SPK		0.031255	9.0	mic11	manual	0.0	761.0	5009.0			
+263.478	1.24	GROUP	(1.2)	SIL				shared	manual	0.0					
+264.718	3.982	P3	And yeah, I have no further opinion.	SPK		0.019516	10.69	mic11	manual	0.0	1240.0	8370.0		0.0	
+268.7	0.26	GROUP	(0.3)	SIL				shared	manual	0.0				0.0	
+268.96	1.22	P3	I'm fine with those two.	SPK		0.018267	8.91	mic11	manual	0.0	260.0	12612.0			
+270.18	1.21	GROUP	(1.2)	SIL				shared	manual	0.0					
+271.39	0.368	P4	mmh	SPK		0.02683	2.65	mic12	manual	0.0	1210.0	1210.0			
+271.758	0.242	GROUP	(0.2)	SIL				shared	manual	0.0					
+272.0	2.269	P4	So we agree on the topics?	SPK				shared	manual	0.0	242.0	1820.0		556.0	
+273.991	2.064	P4	Then we go for people and culture?	SPK		0.025011	1.85	mic9	manual	-278.0	-278.0	3811.0		556.0	
+273.991	0.278	P4	[OVL:smooth]	OVL	smooth			shared	confident	-2064.0				556.0	collaborative
+276.055	0.377	GROUP	(0.4)	SIL				shared	manual	1786.0					
+276.432	2.459	P1	Yeah, but we need to choose one of them, right?	SPK				shared	manual	0.0	377.0	377.0			
+278.891	0.109	GROUP	(.)	SIL				shared	manual	0.0					
+279.0	1.0	P3	One of three or four?	SPK				shared	manual	0.0	109.0	109.0			
+280.0	1.0	P1	So, if it's one of the…	SPK				shared	manual	0.0	0.0	0.0			
+281.0	1.0	P1	One of the four.	SPK				shared	manual	0.0	0.0	1000.0			
+282.0	1.0	P3	One of the four.	SPK				shared	manual	0.0	0.0	0.0			
+283.0	1.0	P4	mmh	SPK				shared	manual	0.0	0.0	0.0			
+284.0	4.0	P1	And then in that case, if we agree, it would be people and culture, which will zoom on one between three and four.	SPK				shared	manual	0.0	0.0	0.0			
+288.0	2.0	UNK	mmh	SPK				shared	manual	0.0	0.0	0.0			
+290.0	9.52	P1	So we could actually choose one of them which actually makes the most sense, and I think...	SPK				shared	manual	0.0	0.0	0.0		7055.0	
+294.476	2.011	P4	Yeah, I agree, which is one of them.	SPK		0.036668	1.16	mic12	manual	-5044.0	-5044.0	-5044.0		4022.0	
+294.476	2.011	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2011.0				4022.0	
+296.487	5.513	GROUP	(5.5)	SIL				shared	manual	0.0				3533.0	
+300.109	0.5	P3	mmh	BCK				shared	manual	-1891.0				500.0	
+302.0	24.291	P1	Sustainability is something which is a hot topic right now, which actually needs a lot of attention because the world is changing and in order for us to come to work and actually go from work without any imbalances in the environment, I think it's important that we start with environment as a whole.	SPK				shared	manual	1391.0	5513.0	5513.0		5320.0	
+322.0	1.029	UNK	mmh	SPK				shared	manual	-4291.0	-4291.0	-4291.0		2058.0	
+322.0	1.029	UNK	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1029.0				2058.0	
+323.029	4.731	GROUP	(4.7)	SIL				shared	manual	0.0				3262.0	
+327.76	18.04	P1	Uh, and since, like, the stress and the workload is more subjective and team dependent, so I think a generalized workshop on sustainability would make more sense in terms of engaging everyone in the organization.	SPK		0.017979	1.24	mic9	manual	0.0	4731.0	4731.0		1600.0	
+345.0	5.0	P4	I would tend to agree with you because everyone is talking about sustainability these days.	SPK				shared	manual	-800.0	-800.0	-800.0		1600.0	
+345.0	0.8	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-5000.0				1600.0	collaborative
+350.0	3.0	GROUP	(3.0)	SIL				shared	manual	4200.0					
+353.0	0.1	P3	mmh	SPK				shared	manual	0.0	3000.0	3000.0			
+353.1	0.618	GROUP	(0.6)	SIL				shared	manual	0.0					
+353.718	11.244	P4	You hear it in the company when you go on the street and the news.	SPK		0.017132	3.21	mic12	manual	0.0	618.0	618.0		21672.0	
+354.126	10.874	P4	But I think for people who don't work with sustainability, it's actually difficult to understand how they can contribute to this agenda in the company, in their everyday work.	SPK				shared	manual	-10836.0	-10836.0	1026.0		21672.0	
+354.126	10.836	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-10874.0				21672.0	competitive
+365.0	0.682	GROUP	(0.7)	SIL				shared	manual	38.0					
+365.682	0.319	P3	mmh	SPK		0.012196	2.24	mic12	manual	0.0	682.0	682.0		0.0	
+366.001	1.048	GROUP	(1.0)	SIL				shared	manual	0.0				0.0	
+367.049	7.351	P4	And I think it would be definitely very helpful to raise awareness and to increase maturity of our employees	SPK				shared	manual	0.0	1048.0	1048.0		800.0	
+374.0	1.0	P3	mmh	SPK				shared	manual	-400.0	-400.0	-400.0		800.0	
+374.0	0.4	P3	[OVL:smooth]	OVL	smooth			shared	confident	-1000.0				800.0	collaborative
+375.0	1.0	P4	about environmental topics.	SPK				shared	manual	600.0	0.0	0.0			
+376.0	4.0	UNK	yeah	SPK				shared	manual	0.0	0.0	0.0		40.0	
+379.96	0.5	P1	[BRE]	BRE				shared	manual	-40.0				500.0	
+380.0	0.592	GROUP	(0.6)	SIL				shared	manual	-460.0				460.0	
+380.592	6.465	P1	So we vote for three, or do we have some other points anyone would like to bring up?	SPK		0.021847	6.94	mic9	manual	0.0	592.0	592.0			
+387.057	1.151	GROUP	(1.2)	SIL				shared	manual	0.0					
+388.208	0.36	P3	All good.	SPK		0.04753	8.87	mic11	manual	0.0	1151.0	1151.0		0.0	
+388.568	0.39	GROUP	(0.4)	SIL				shared	manual	0.0				0.0	
+388.958	0.401	P1	All good?	SPK		0.02775	4.82	mic9	manual	0.0	390.0	390.0		0.0	
+389.359	0.76	GROUP	(0.8)	SIL				shared	manual	0.0				0.0	
+390.119	1.9	P1	What do you say?	SPK		0.037346	2.31	mic9	manual	0.0	760.0	1551.0		1378.0	
+391.33	7.109	P2	Honestly, I don't understand.	SPK		0.028376	1.03	shared	manual	-689.0	-689.0	-689.0		1378.0	
+391.33	0.689	P2	[OVL:competitive]	OVL	competitive			shared	uncertain	-7109.0				1378.0	
+398.474	2.762	P2	So what are we talking about here?	SPK		0.0032	1.05	shared	manual	6455.0	35.0	6455.0			
+401.236	0.12	GROUP	(.)	SIL				shared	manual	0.0					
+401.356	4.223	P2	What our workshop should be on or what?	SPK		0.019848	6.98	mic11	manual	0.0	120.0	9337.0			
+405.579	3.237	GROUP	(3.2)	SIL				shared	manual	0.0				0.0	
+408.816	3.701	P1	So first we agreed that we will choose one of the topics for the workshop.	SPK		0.027929	6.11	mic9	manual	0.0	3237.0	3237.0		1034.0	
+412.0	4.0	P1	And after that, how do we want to conduct that workshop?	SPK				shared	manual	-517.0	-517.0	6421.0		1034.0	
+412.0	0.517	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-4000.0				1034.0	collaborative
+416.0	1.355	GROUP	(1.4)	SIL				shared	manual	3483.0					
+417.355	0.38	P2	Ah, okay, yes.	SPK		0.008174	1.0	mic12	manual	0.0	1355.0	1355.0			
+417.775	9.611	P1	Yeah so first one, we were talking about what makes sense to have as a workshop out of those four.	SPK		0.005206	0.95	mic12	manual	40.0	40.0	40.0		2809.0	
+426.0	4.0	P2	Yes.	SPK				shared	manual	-1386.0	-1386.0	-1386.0		3272.0	
+426.0	1.386	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-4000.0				2809.0	collaborative
+427.349	0.5	P2	yes	BCK				shared	manual	-37.0			9574.0	574.0	
+430.0	0.401	GROUP	(0.4)	SIL				shared	manual	2151.0					
+430.401	13.506	P1	Olena and me, and I think even you agree with it, that going with sustainability would be a better topic to start with, so we can engage everyone.	SPK		0.027965	4.22	mic9	manual	0.0	401.0	401.0		2000.0	
+437.048	0.5	P2	yes	BCK				shared	manual	-6859.0			6647.0	500.0	
+439.126	0.5	P2	yes	BCK				shared	manual	1578.0			8725.0	500.0	
+440.254	0.5	P2	yes	BCK				shared	manual	628.0			9853.0	500.0	
+442.294	0.5	P2	yes	BCK				shared	manual	1540.0			11893.0	500.0	
+443.907	0.093	GROUP	(.)	SIL				shared	manual	1113.0				0.0	
+444.0	2.0	P1	So do you, is it okay?	SPK				shared	manual	0.0	93.0	14000.0			
+446.0	2.395	GROUP	(2.4)	SIL				shared	manual	0.0					
+448.395	0.841	P1	Yeah.	SPK		0.025573	6.52	shared	manual	0.0	2395.0	18395.0			
+449.236	0.681	GROUP	(0.7)	SIL				shared	manual	0.0					
+449.917	1.441	P1	Okay, that's good.	SPK		0.039643	6.66	mic9	manual	0.0	681.0	19917.0		376.0	
+451.17	4.145	P1	So 50% done.	SPK		0.067437	1.1	mic11	manual	-188.0	-188.0	21170.0		5514.0	
+451.17	0.188	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-4145.0				376.0	
+452.72	2.543	P1	Then comes the formats.	SPK		0.072509	7.92	mic9	manual	1362.0	-2595.0	22720.0		5086.0	
+452.72	2.543	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2543.0				5086.0	
+455.263	0.64	GROUP	(0.6)	SIL				shared	manual	0.0				52.0	
+455.903	10.332	P1	So we have four different types of formats.	SPK		0.038548	6.2	mic9	manual	0.0	640.0	25903.0		16470.0	
+458.0	9.0	P1	And I think a little bit of progress from each and every	SPK				shared	manual	-8235.0	-8235.0	28000.0		16979.0	
+458.0	8.235	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-9000.0				16470.0	
+466.4	0.509	P1	uh	FP				shared	manual	165.0				509.0	
+467.0	0.542	GROUP	(0.5)	SIL				shared	manual	91.0					
+467.542	24.928	P1	team, I think, would bring big results, like the saying in English, right, little water to the plant every day makes the plant grow bigger than you. So I think something like an interactive informal workshop where people don't come stressed and have it like a meeting, but more like an entertainment, fun way of learning about sustainability.	SPK		0.036218	6.95	mic9	manual	0.0	542.0	37542.0			
+492.47	0.78	GROUP	(0.8)	SIL				shared	manual	0.0					
+493.25	15.945	P1	Or we can also do it in cross-functional groups, like bringing them closer by having random people from different departments sitting together as a working group, say their opinions instead of being biased towards one particular topic.	SPK		0.030489	6.46	mic9	manual	0.0	780.0	63250.0			
+509.195	0.38	GROUP	(0.4)	SIL				shared	manual	0.0					
+509.575	14.267	P3	Yeah, but I think, given that we are a couple of thousand people in the company and you want to put everyone in workshops, I think we should start with the independent format and first create awareness of the topic overall.	SPK		0.043443	10.28	mic11	manual	0.0	380.0	380.0			
+523.842	0.22	GROUP	(0.2)	SIL				shared	manual	0.0					
+524.062	6.303	P3	And that, I think, the e-learning and the quiz may be the best option.	SPK		0.034443	9.52	mic11	manual	0.0	220.0	14867.0		1230.0	
+528.546	0.5	P4	yeah	BCK				shared	manual	-1819.0			4484.0	500.0	
+530.0	4.0	P3	Or it can be a lecture, like a town hall format, right?	SPK				shared	manual	954.0	-365.0	20805.0		730.0	
+530.0	0.365	P3	[OVL:smooth]	OVL	smooth			shared	confident	-4000.0				730.0	
+534.0	1.887	GROUP	(1.9)	SIL				shared	manual	3635.0					
+535.887	1.941	P3	And the Q&A.	SPK		0.032732	9.95	mic11	manual	0.0	1887.0	26692.0			
+537.828	0.4	GROUP	(0.4)	SIL				shared	manual	0.0					
+538.228	2.141	P3	I think that should be the first one to go, and those workshops they can always come later.	SPK		0.028745	10.27	mic11	manual	0.0	400.0	29033.0			
+540.369	0.52	GROUP	(0.5)	SIL				shared	manual	0.0					
+540.889	7.323	P3	You need a more specific topic, I think, for those, as opposed to—you can start broadly in the independent format.	SPK		0.030132	9.38	mic11	manual	0.0	520.0	31694.0			
+548.212	2.607	GROUP	(2.6)	SIL				shared	manual	0.0				1206.0	
+549.79	1.189	P1	[BRE]	BRE				shared	manual	-1029.0				1504.0	
+550.642	0.315	P1	uh	FP				shared	manual	-337.0				630.0	
+550.819	9.126	P1	I would also like to add that having e-sessions and things like this, it's like people are not so engaged and it's just like they do it.	SPK		0.028025	6.66	mic9	manual	-138.0	2607.0	2607.0		298.0	
+559.945	0.86	GROUP	(0.9)	SIL				shared	manual	0.0				0.0	
+560.805	1.821	P1	Could we continue or we should stop?	SPK		0.022669	5.91	mic9	manual	0.0	860.0	12593.0		0.0	
+562.626	2.242	GROUP	(2.2)	SIL				shared	manual	0.0					
+564.868	0.3	P1	Okay.	SPK		0.059687	2.79	mic9	manual	0.0	2242.0	16656.0			
+565.168	1.68	GROUP	(1.7)	SIL				shared	manual	0.0					
+566.848	5.101	P1	So I was actually thinking instead of having all the...	SPK		0.048616	6.51	mic9	manual	0.0	1680.0	18636.0			
+571.949	0.14	GROUP	(.)	SIL				shared	manual	0.0					
+572.089	14.523	P1	The quiz is actually a good topic, but I think having it more in an e-way, e-learning, would actually make people just press continue, continue, continue, and not actually read about it.	SPK		0.037481	7.05	mic9	manual	0.0	140.0	23877.0		0.0	
+586.612	0.5	GROUP	(0.5)	SIL				shared	manual	0.0				0.0	
+587.112	4.901	P1	And the quiz is like, if you don't do it once, you know the answers for the next time, and then you...	SPK		0.031569	6.89	mic9	manual	0.0	500.0	38900.0			
+592.013	0.801	GROUP	(0.8)	SIL				shared	manual	0.0				451.0	
+592.363	0.97	P3	[SOFT LAUGHTER]	LAU				shared	manual	-451.0				970.0	
+592.814	27.56	P2	That depends on which department you are working in. I think with the continue, continue, because there are some departments that are really using these online trainings and the quizzes,	SPK		0.005142	1.33	shared	manual	-519.0	801.0	801.0		35267.0	
+603.0	1.0	P3	mmh	SPK				shared	manual	-17374.0	-17374.0	-17374.0		2000.0	
+603.0	1.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1000.0				2000.0	collaborative
+604.0	25.549	P2	and in sustainability I think it is very, as you said, it is something new in our society and I think it is almost necessary in some departments, for example like mine, where you need to read it and understand better what you are working with and how you could protect your colleagues from what you are working with.	SPK				shared	manual	0.0	0.0	0.0		41453.0	
+604.0	16.374	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-25549.0				32748.0	
+622.472	1.408	P3	mmh	SPK		0.027326	6.49	mic11	manual	2098.0	-7077.0	-7077.0		2816.0	
+622.472	1.408	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1408.0				2816.0	collaborative
+623.88	5.278	GROUP	(5.3)	SIL				shared	manual	0.0				5278.0	
+629.158	0.22	P3	yeah	SPK		0.013699	3.49	mic12	manual	0.0	5278.0	-391.0		440.0	
+629.158	0.22	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-220.0				440.0	
+629.378	2.056	GROUP	(2.1)	SIL				shared	manual	0.0				171.0	
+631.434	6.062	P3	And you can always make the quiz mandatory and say there's only one chance.	SPK		0.054592	10.12	mic11	manual	0.0	2056.0	1885.0		992.0	
+637.0	3.0	P3	I think actually our sustainability team has done that once.	SPK				shared	manual	-496.0	-496.0	7451.0		5560.0	
+637.0	0.496	P3	[OVL:smooth]	OVL	smooth			shared	uncertain	-3000.0				992.0	
+637.716	8.502	P3	And then you could, for example, give a prize.	SPK		0.041339	11.25	mic11	manual	220.0	-2284.0	8167.0		16786.0	
+637.716	2.284	P3	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-8502.0				4568.0	competitive
+640.0	6.0	P3	And I think the participation rate was much higher than it would have been otherwise because they were promised a prize.	SPK				shared	manual	0.0	-6218.0	10451.0		12000.0	
+640.0	6.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-6000.0				12000.0	
+646.0	0.238	GROUP	(0.2)	SIL				shared	manual	0.0				218.0	
+646.238	4.861	P2	I was also surprised how many I saw online in our services.	SPK		0.005503	1.6	shared	manual	0.0	238.0	238.0			
+651.099	3.306	GROUP	(3.3)	SIL				shared	manual	0.0				712.0	
+653.427	0.712	P4	yeah	BCK				shared	manual	-978.0				712.0	
+654.405	4.702	P3	yeah	SPK		0.003597	1.02	shared	manual	266.0	3306.0	3306.0		8627.0	
+654.74	4.26	P4	So it's very new and it's a lot of learning there.	SPK				shared	manual	-4367.0	-4367.0	-4367.0		8520.0	
+654.74	4.26	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-4260.0				8520.0	collaborative
+659.0	0.948	GROUP	(0.9)	SIL				shared	manual	0.0				176.0	
+659.879	0.44	P4	mmh	BCK				shared	manual	-69.0				440.0	
+659.948	4.541	P4	Yeah, I mean, I think this is a really good idea with the online training and quiz.	SPK		0.03858	5.75	mic12	manual	-371.0	948.0	841.0		371.0	
+664.489	0.46	GROUP	(0.5)	SIL				shared	manual	0.0				0.0	
+664.949	5.723	P4	However, I would support, I think, more interactive and informal workshop because back to Harsha's point, you know, when people are not that familiar with the topic,	SPK		0.019503	6.04	mic12	manual	0.0	460.0	5842.0		0.0	
+670.672	6.328	GROUP	(6.3)	SIL				shared	manual	0.0					
+677.0	4.0	P4	And of course, we all have our day-to-day jobs.	SPK				shared	manual	0.0	6328.0	17893.0			
+681.0	2.0	P4	So you want something kind of easy, right?	SPK				shared	manual	0.0	0.0	21893.0			
+683.0	11.0	P4	So when you enter this setting, when it's informal and you can ask sometimes very basic questions, I think that invites and welcomes more the audience.	SPK				shared	manual	0.0	0.0	23893.0		1000.0	
+688.84	0.5	P2	yeah	BCK				shared	manual	-5160.0			5840.0	500.0	
+689.615	0.5	P2	yeah	BCK				shared	manual	275.0			6615.0	500.0	
+694.0	0.183	GROUP	(.)	SIL				shared	manual	3885.0					
+694.183	15.061	P3	Yeah, but then you have to carve out a specific hour and maybe you're not ready for that and don't have the time and don't want to prioritize it, and that's why I think we are more flexible with the independent format because that can be taken at any time.	SPK		0.039167	1.99	mic11	manual	0.0	183.0	183.0			
+709.244	0.336	GROUP	(0.3)	SIL				shared	manual	0.0					
+709.58	1.301	P4	Yeah. Yeah, I see what you mean.	SPK		0.04762	5.26	mic12	manual	0.0	336.0	336.0			
+710.921	4.684	P4	But I think I would still schedule a session and say this is mandatory, right?	SPK		0.034196	2.04	mic12	manual	40.0	40.0	1677.0		1210.0	
+715.0	3.08	P4	Same with online learning.	SPK				shared	manual	-605.0	-605.0	5756.0		4873.0	
+715.0	0.605	P4	[OVL:competitive]	OVL	competitive			shared	confident	-3080.0				1210.0	competitive
+715.625	1.131	P3	Mmh	SPK		0.021102	1.29	mic12	manual	20.0	-2455.0	-2455.0		2262.0	
+715.625	1.131	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1131.0				2262.0	collaborative
+716.756	1.247	GROUP	(1.2)	SIL				shared	manual	0.0				1247.0	
+718.003	2.483	P4	It's just the format will be different.	SPK		0.010619	0.59	mic9	manual	0.0	1247.0	1247.0		154.0	
+718.003	0.077	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-2483.0				154.0	
+720.486	5.255	GROUP	(5.3)	SIL				shared	manual	2406.0					
+725.741	24.855	P1	So I think the topic we all agree would be the sustainability.	SPK		0.025546	6.64	mic9	manual	0.0	5255.0	5255.0		43192.0	
+729.0	8.0	P1	But when it comes to the formats, I think it is like there are a lot of inputs regarding whether…	SPK				shared	manual	-21596.0	-21596.0	8514.0		16000.0	
+729.0	8.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-8000.0				16000.0	
+737.0	8.0	P1	So we can narrow it down to online training quiz or the interactive informal workshop.	SPK				shared	manual	0.0	0.0	16514.0		16000.0	
+737.0	8.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-8000.0				16000.0	collaborative
+745.0	6.0	P1	But I think interactive means, again, building a little bit on it.	SPK				shared	manual	0.0	0.0	24514.0		11192.0	
+745.0	5.596	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-6000.0				11192.0	
+751.0	1.076	GROUP	(1.1)	SIL				shared	manual	404.0					
+752.076	21.61	P1	Everything what people can touch and feel, I know it's electronic, but still seeing some pictures and actually interacting with it and saying, oh, next one, what do we have?	SPK		0.027537	4.91	mic9	manual	0.0	1076.0	31590.0		31670.0	
+755.0	1.298	P4	yeah	SPK				shared	manual	-18686.0	-18686.0	-18686.0		2596.0	
+755.0	1.298	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1298.0				2596.0	
+756.298	5.702	GROUP	(5.7)	SIL				shared	manual	0.0				5702.0	
+762.0	2.0	P1	And then you see a building block coming on top of it.	SPK				shared	manual	0.0	5702.0	5702.0		4000.0	
+762.0	2.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2000.0				4000.0	competitive
+764.0	11.0	P1	It actually engages much more than online training and quizzes because most of the sustainability is not something which is	SPK				shared	manual	0.0	0.0	7702.0		19372.0	
+764.0	9.686	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-11000.0				19372.0	competitive
+775.0	0.41	GROUP	(0.4)	SIL				shared	manual	1314.0					
+775.41	7.781	P1	quite used on daily basis within certain or most of the teams.	SPK		0.029522	7.12	mic9	manual	0.0	410.0	19112.0		382.0	
+783.0	13.0	P1	It is mostly like, yes, we have a sustainability team, but then we also have all the other teams which indirectly contribute to sustainability, but not directly seen like that.	SPK				shared	manual	-191.0	-191.0	26702.0		382.0	
+783.0	0.191	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-13000.0				382.0	
+796.0	0.917	GROUP	(0.9)	SIL				shared	manual	12809.0					
+796.917	14.211	P1	So I think something like an interactive workshop, again in my opinion, would actually create some good output in terms of the knowledge and stuff. So, uuh, if...	SPK		0.020694	1.22	mic9	manual	0.0	917.0	40619.0		1794.0	
+810.231	19.812	P3	So we give it a vote. I think we are out of time. So with the online training	SPK		0.027225	1.59	mic11	manual	-897.0	-897.0	-897.0		27308.0	
+810.231	0.897	P3	[OVL:competitive]	OVL	competitive			shared	confident	-19812.0				1794.0	competitive
+812.677	0.5	P1	yeah	BCK				shared	manual	1549.0			2446.0	500.0	
+817.737	0.18	P4	One.	SPK		0.030379	2.99	mic12	manual	4560.0	-12306.0	-12306.0		360.0	
+817.737	0.18	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-180.0				360.0	
+817.917	1.421	GROUP	(1.4)	SIL				shared	manual	0.0				1421.0	
+819.338	1.82	P4	Interactive informal workshop.	SPK		0.029905	5.24	mic12	manual	0.0	1421.0	-10705.0		4114.0	
+819.338	1.82	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1820.0				4114.0	
+821.0	4.0	P3	yeah	SPK				shared	manual	-158.0	-158.0	-158.0		8474.0	
+821.0	4.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-4000.0				8474.0	
+821.0	0.158	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-4000.0				790.0	
+825.0	5.0	P3	It's one against two, unless you are…	SPK				shared	manual	3842.0	0.0	3842.0		11392.0	
+825.0	5.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-5000.0				11392.0	
+827.682	1.392	P3	[LAUGHTER]	LAU				shared	manual	-2318.0				4176.0	
+830.0	0.091	GROUP	(.)	SIL				shared	manual	926.0				43.0	
+830.091	0.568	P3	What's your take?	SPK		0.00298	1.14	shared	manual	0.0	91.0	8933.0			
+830.659	1.341	GROUP	(1.3)	SIL				shared	manual	0.0					
+832.0	7.0	P2	I think first it's online training and quiz and then interactive workshop.	SPK				shared	manual	0.0	1341.0	1341.0			
+839.0	0.645	GROUP	(0.6)	SIL				shared	manual	0.0					
+839.645	0.18	P1	yeah	SPK		0.006979	2.4	mic9	manual	0.0	645.0	645.0			
+839.825	1.861	GROUP	(1.9)	SIL				shared	manual	0.0					
+841.686	2.062	P4	So we are split. It's a draw.	SPK		0.01032	1.51	shared	manual	0.0	1861.0	1861.0		2882.0	
+842.307	1.441	P4	But yeah, it's two sides, I think. It can start with both.	SPK		0.008943	1.15	mic9	manual	-1441.0	-1441.0	2482.0		2882.0	
+842.307	1.441	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1441.0				2882.0	
+843.748	4.343	GROUP	(4.3)	SIL				shared	manual	0.0					
+848.091	1.621	P1	yeah	SPK		0.00583	2.89	mic9	manual	0.0	4343.0	4343.0			
+849.712	0.26	GROUP	(0.3)	SIL				shared	manual	0.0					
+849.972	3.022	P2	Of course each of us needs to sustain its cards.	SPK		0.002566	1.1	shared	manual	0.0	260.0	260.0			
+852.994	4.237	GROUP	(4.2)	SIL				shared	manual	0.0				3367.0	
+853.864	3.76	GROUP	[GROUP LAUGHTER]	LAU				shared	manual	-3367.0				3760.0	
+857.231	9.046	P2	But you can find out both from online training first time and also from an interactive workshop.	SPK		0.005923	1.01	shared	manual	-393.0	4237.0	7519.0		393.0	
+866.277	15.01	GROUP	(15.0)	SIL				shared	manual	0.0					
+881.287	2.625	P3	Topic we know.	SPK		0.037647	10.0	mic11	manual	0.0	15010.0	15010.0		1090.0	
+883.367	1.269	P3	Format we don't.	SPK		0.034547	12.54	mic11	manual	-545.0	-545.0	17090.0		1090.0	
+883.367	0.545	P3	[OVL:competitive]	OVL	competitive			shared	uncertain	-1269.0				1090.0	
+884.636	0.911	GROUP	(0.9)	SIL				shared	manual	724.0					
+885.547	1.378	P3	Who's the fastest now?	SPK		0.031192	2.36	mic12	manual	0.0	911.0	19270.0		0.0	
+886.925	2.094	GROUP	(2.1)	SIL				shared	manual	0.0				0.0	
+889.019	0.12	P4	I think one of us needs to do it, right?	SPK		0.040111	5.87	mic9	manual	0.0	2094.0	2094.0			
+889.139	1.493	GROUP	(1.5)	SIL				shared	manual	0.0				0.0	
+890.632	2.0	P1	Now, I just did it	SPK				shared	manual	0.0	1493.0	1493.0		846.0	
+892.006	0.22	P4	Just one of us.	SPK		0.00387	0.86	mic10	manual	-626.0	-626.0	-626.0		440.0	
+892.006	0.22	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-220.0				440.0	
+892.226	2.022	GROUP	(2.0)	SIL				shared	manual	0.0				406.0	
+894.248	1.643	P1	Yes.	SPK		0.028971	7.64	mic9	manual	0.0	2022.0	2022.0		0.0	
+895.891	1.928	GROUP	(1.9)	SIL				shared	manual	0.0				0.0	
+897.819	2.0	P2	You did it?	SPK				shared	manual	0.0	1928.0	1928.0		1594.0	
+898.467	2.501	GROUP	[GROUP LAUGHTER]	LAU				shared	manual	-1352.0				2743.0	
+899.698	0.741	P1	Okay.	SPK		0.056945	4.19	mic9	manual	-1270.0	-121.0	-121.0		983.0	
+899.698	0.121	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-741.0				363.0	
+900.439	0.16	GROUP	(.)	SIL				shared	manual	620.0				160.0	
+900.599	0.822	P1	I thought you were on it.	SPK		0.127401	3.9	mic9	manual	0.0	160.0	780.0		1211.0	
+901.0	2.0	P1	So I was like, okay, should I submit?	SPK				shared	manual	-421.0	-421.0	1181.0		842.0	
+901.0	0.421	P1	[OVL:smooth]	OVL	smooth			shared	confident	-2000.0				842.0	

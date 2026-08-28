@@ -1,0 +1,197 @@
+session_id	participant_id	task_id	et_available	gaze_usable	pupil_usable	duration_s	gaze_valid_frac	pupil_missing_frac	qc_flag	qc_notes
+ses-20260312_grp-07_run01	P1	T0	True	True	True	450.37696800002595	0.9353618933226567	0.06463810667734327	ok	ok
+ses-20260312_grp-07_run01	P2	T0	True	False	False	450.31704699998954	0.6610606869549742	0.3389393130450258	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260312_grp-07_run01	P3	T0	True	True	True	450.3777199999895	0.9188131144623871	0.08118688553761289	ok	ok
+ses-20260312_grp-07_run01	P4	T0	True	True	True	450.0809710000176	0.9217859686609686	0.07821403133903138	ok	ok
+ses-20260312_grp-07_run01	P1	T1	True	True	True	684.6419170000008	0.9520060870328642	0.04799391296713584	ok	ok
+ses-20260312_grp-07_run01	P2	T1	True	False	False	684.6422010000097	0.4999268385473062	0.5000731614526939	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable;gaze_out_of_bounds;pupil_velocity_spike	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag. | More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts. | Mean pupil dilation velocity (computed only between consecutive valid samples) exceeds 10.0 mm/s, suggesting systematic artefactual jumps.
+ses-20260312_grp-07_run01	P3	T1	True	True	True	684.6230229999637	0.8685689201053556	0.13143107989464442	ok	ok
+ses-20260312_grp-07_run01	P4	T1	True	True	True	684.6287979999906	0.934211296458882	0.06578870354111799	ok	ok
+ses-20260312_grp-07_run01	P1	T2	True	True	True	1136.60175599996	0.9365569031166268	0.06344309688337324	ok	ok
+ses-20260312_grp-07_run01	P2	T2	True	False	False	1136.602229000011	0.2670638837963616	0.7329361162036384	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260312_grp-07_run01	P3	T2	True	True	True	1136.603654000035	0.9031871386264279	0.09681286137357215	ok	ok
+ses-20260312_grp-07_run01	P4	T2	True	True	True	1136.5932039999752	0.9131806723429761	0.08681932765702394	ok	ok
+ses-20260312_grp-07_run01	P1	T3	True	True	True	878.0126840000157	0.9516681119072612	0.048331888092738806	ok	ok
+ses-20260312_grp-07_run01	P2	T3	True	False	False	878.0130500000087	0.10423987951257359	0.8957601204874264	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;pupil_asymmetry_large;blink_detection_unreliable;pupil_velocity_spike	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Mean absolute left–right pupil difference exceeds 1.5 mm; possible anisocoria or per-eye tracking failure. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag. | Mean pupil dilation velocity (computed only between consecutive valid samples) exceeds 10.0 mm/s, suggesting systematic artefactual jumps.
+ses-20260312_grp-07_run01	P3	T3	True	True	True	878.0141509999521	0.9139701519784583	0.08602984802154168	ok	ok
+ses-20260312_grp-07_run01	P4	T3	True	True	True	878.0215559999924	0.9033818629911916	0.09661813700880839	ok	ok
+ses-20260312_grp-07_run01	P1	T4	True	True	True	460.5353950000135	0.9542330113982425	0.04576698860175754	ok	ok
+ses-20260312_grp-07_run01	P2	T4	True	False	False	460.5355869999621	0.1484816845036109	0.8515183154963891	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable;gaze_out_of_bounds	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag. | More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260312_grp-07_run01	P3	T4	True	True	True	460.5361639999901	0.9035934916905942	0.09640650830940578	blink_rate_unusual	Estimated blink rate (when detection is reliable) is outside the expected range (2–45 blinks/min); possible systematic gaze-validity artefact.
+ses-20260312_grp-07_run01	P4	T4	True	True	True	460.5400490000029	0.9079004611502653	0.09209953884973465	ok	ok
+ses-20260313_grp-08_run01	P1	T0	True	True	True	730.1641369999852	0.8995966303542519	0.10040336964574814	ok	ok
+ses-20260313_grp-08_run01	P2	T0	True	True	True	730.183285999985	0.9480024146635935	0.05199758533640653	ok	ok
+ses-20260313_grp-08_run01	P3	T0	True	True	True	730.2253299999866	0.9354112934204027	0.06458870657959725	ok	ok
+ses-20260313_grp-08_run01	P4	T0	True	True	True	730.049927999964	0.9598485056398716	0.04015149436012844	ok	ok
+ses-20260313_grp-08_run01	P1	T1	True	True	True	844.130812999967	0.8137950677648288	0.1862049322351712	ok	ok
+ses-20260313_grp-08_run01	P2	T1	True	True	True	844.1498240000219	0.8686271717459413	0.13137282825405872	ok	ok
+ses-20260313_grp-08_run01	P3	T1	True	True	True	844.1320660000201	0.8977712373311814	0.10222876266881864	ok	ok
+ses-20260313_grp-08_run01	P4	T1	True	True	True	844.13776100002	0.8667726851961738	0.1332273148038262	ok	ok
+ses-20260313_grp-08_run01	P1	T2	True	True	True	995.1647100000409	0.8189816585797982	0.1810183414202018	ok	ok
+ses-20260313_grp-08_run01	P2	T2	True	True	True	995.1434639999643	0.8148506080373681	0.18514939196263192	ok	ok
+ses-20260313_grp-08_run01	P3	T2	True	True	True	995.1461509999936	0.816461303052267	0.18353869694773295	ok	ok
+ses-20260313_grp-08_run01	P4	T2	True	True	True	995.1528640000033	0.8518361923169848	0.14816380768301518	ok	ok
+ses-20260313_grp-08_run01	P1	T3	True	True	True	955.1321109999553	0.9207274863124332	0.07927251368756683	ok	ok
+ses-20260313_grp-08_run01	P2	T3	True	True	True	955.1309510000283	0.9238530762937635	0.07614692370623655	ok	ok
+ses-20260313_grp-08_run01	P3	T3	True	True	True	955.1335299999919	0.9619894694887877	0.03801053051121228	ok	ok
+ses-20260313_grp-08_run01	P4	T3	True	True	True	955.1199370000395	0.9666876442206839	0.03331235577931613	ok	ok
+ses-20260313_grp-08_run01	P1	T4	True	True	True	474.380278000026	0.9161633652912109	0.0838366347087891	ok	ok
+ses-20260313_grp-08_run01	P2	T4	True	True	True	474.37970200000564	0.9511340119102927	0.048865988089707324	ok	ok
+ses-20260313_grp-08_run01	P3	T4	True	True	True	474.3609469999792	0.9518922115222166	0.04810778847778341	ok	ok
+ses-20260313_grp-08_run01	P4	T4	True	True	True	474.56451200001175	0.9526302457147682	0.047369754285231824	ok	ok
+ses-20260317_grp-09_run01	P1	T1	True	False	True	85.03471099992748	0.9637220259128386	0.03627797408716138	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260317_grp-09_run01	P2	T1	True	True	True	85.03474200004712	0.9314487632508834	0.06855123674911656	ok	ok
+ses-20260317_grp-09_run01	P3	T1	True	False	True	84.99402600002941	0.9710110770681122	0.028988922931887817	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260317_grp-09_run01	P4	T1	True	True	True	85.01415299996734	0.8979736098020735	0.10202639019792648	ok	ok
+ses-20260317_grp-09_run01	P1	T2	True	True	True	704.0767500000075	0.95933524942375	0.040664750576249964	ok	ok
+ses-20260317_grp-09_run01	P2	T2	True	True	True	704.0957349999808	0.9429173069261851	0.05708269307381486	ok	ok
+ses-20260317_grp-09_run01	P3	T2	True	True	True	704.0782380000455	0.9319598190148259	0.06804018098517406	ok	ok
+ses-20260317_grp-09_run01	P4	T2	True	True	True	704.0777660000604	0.9247033379812755	0.07529666201872454	ok	ok
+ses-20260317_grp-09_run01	P1	T3	True	True	True	834.3730239999713	0.9549274805494189	0.045072519450581106	ok	ok
+ses-20260317_grp-09_run01	P2	T3	True	True	True	834.3717789999209	0.9535587359523581	0.04644126404764193	ok	ok
+ses-20260317_grp-09_run01	P3	T3	True	True	True	834.394823999959	0.9519990395005403	0.04800096049945968	ok	ok
+ses-20260317_grp-09_run01	P4	T3	True	True	True	834.3942650000099	0.911634049705847	0.08836595029415295	ok	ok
+ses-20260317_grp-09_run01	P1	T4	True	True	True	456.92857900005765	0.9542225730071034	0.04577742699289655	ok	ok
+ses-20260317_grp-09_run01	P2	T4	True	True	True	456.92789699998684	0.9451460142067877	0.05485398579321232	ok	ok
+ses-20260317_grp-09_run01	P3	T4	True	True	True	456.9295450000791	0.9472945716039639	0.05270542839603609	ok	ok
+ses-20260317_grp-09_run01	P4	T4	True	True	True	456.92923900007736	0.9368148732789616	0.06318512672103838	ok	ok
+ses-20260317_grp-10_run01	P1	T0	True	True	True	317.975288	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P2	T0	True	True	True	317.97529699999996	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260317_grp-10_run01	P3	T0	True	True	True	317.97530400000005	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P4	T0	True	True	True	317.915125	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P1	T1	True	True	True	383.974695	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P2	T1	True	True	True	383.974697	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260317_grp-10_run01	P3	T1	True	True	True	383.97469800000005	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P4	T1	True	True	True	383.99467500000003	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P1	T2	True	True	True	279.96657600000003	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P2	T2	True	True	True	279.98655900000006	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260317_grp-10_run01	P3	T2	True	False	True	279.98655799999995	1.0	0.0	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260317_grp-10_run01	P4	T2	True	True	True	279.966464	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P1	T3	True	True	True	197.7778780000001	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P2	T3	True	True	True	197.97823700000004	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260317_grp-10_run01	P3	T3	True	True	True	197.97823299999993	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P4	T3	True	True	True	197.7577879999999	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P1	T4	True	True	True	859.7955609999999	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P2	T4	True	True	True	899.8480740000002	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260317_grp-10_run01	P3	T4	True	True	True	899.968288	1.0	0.0	ok	ok
+ses-20260317_grp-10_run01	P4	T4	True	True	True	899.8881539999998	1.0	0.0	ok	ok
+ses-20260318_grp-11_run01	P1	T0	True	True	True	899.9681999999999	1.0	0.0	pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable	Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-11_run01	P2	T0	True	False	True	899.988279	1.0	0.0	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-11_run01	P3	T0	True	True	True	899.988289	1.0	0.0	ok	ok
+ses-20260318_grp-11_run01	P4	T0	True	True	True	899.9882759999999	1.0	0.0	ok	ok
+ses-20260318_grp-11_run01	P1	T1	True	False	False	524.129443	0.33719418960244646	0.6628058103975536	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-11_run01	P2	T1	True	False	True	524.3702880000001	0.9486092006724745	0.05139079932752555	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-11_run01	P3	T1	True	True	True	524.191671	0.9300538929021901	0.0699461070978099	ok	ok
+ses-20260318_grp-11_run01	P4	T1	True	True	True	559.658806	0.8302411873840445	0.1697588126159555	pupil_left_low_coverage	Left-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260318_grp-11_run01	P1	T2	True	False	False	856.7118859999999	0.3077246895390444	0.6922753104609556	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable;pupil_velocity_spike	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag. | Mean pupil dilation velocity (computed only between consecutive valid samples) exceeds 10.0 mm/s, suggesting systematic artefactual jumps.
+ses-20260318_grp-11_run01	P2	T2	True	False	True	856.7326869999999	0.9451824134705332	0.05481758652946678	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-11_run01	P3	T2	True	True	True	856.7353439999999	0.9385173058933582	0.061482694106641755	ok	ok
+ses-20260318_grp-11_run01	P4	T2	True	True	True	856.7148899999999	0.8860824621717065	0.1139175378282935	ok	ok
+ses-20260318_grp-11_run01	P1	T3	True	False	False	607.2214309999999	0.2395816148084601	0.7604183851915399	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-11_run01	P2	T3	True	False	True	607.1994999999997	0.938395037286346	0.06160496271365401	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-11_run01	P3	T3	True	True	True	607.201233	0.9418267009833037	0.05817329901669632	ok	ok
+ses-20260318_grp-11_run01	P4	T3	True	True	True	607.220462	0.8472300128683142	0.15276998713168577	ok	ok
+ses-20260318_grp-11_run01	P1	T4	True	False	False	470.93431199999986	0.1828121676239098	0.8171878323760902	gaze_low_validity;pupil_low_coverage;pupil_left_low_coverage;pupil_right_low_coverage;blink_detection_unreliable	Fewer than 70 % of gaze samples are marked valid; gaze-position and velocity features may be unreliable. | Combined (mean) pupil diameter is missing for more than 30 % of samples; pupil features should be treated with caution. | Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples. | Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-11_run01	P2	T4	True	False	True	470.933497	0.9506913422676027	0.04930865773239734	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-11_run01	P3	T4	True	True	True	470.93279600000005	0.9449478834290577	0.05505211657094233	ok	ok
+ses-20260318_grp-11_run01	P4	T4	True	True	True	470.935962	0.8932992980216975	0.1067007019783025	ok	ok
+ses-20260318_grp-12_run01	P1	T0	True	True	True	670.8162549999997	0.7523670141274156	0.24763298587258442	pupil_right_low_coverage	Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260318_grp-12_run01	P2	T0	True	True	True	670.8557680000013	0.8184153152345967	0.18158468476540335	blink_rate_unusual	Estimated blink rate (when detection is reliable) is outside the expected range (2–45 blinks/min); possible systematic gaze-validity artefact.
+ses-20260318_grp-12_run01	P3	T0	True	True	True	670.6170189999993	0.8848256699829703	0.1151743300170297	ok	ok
+ses-20260318_grp-12_run01	P4	T0	True	True	True	670.8310200000014	0.9456706788925062	0.05432932110749378	ok	ok
+ses-20260318_grp-12_run01	P1	T1	True	True	True	779.3931149999989	0.961388174807198	0.03861182519280204	ok	ok
+ses-20260318_grp-12_run01	P2	T1	True	True	True	779.3924659999993	0.90573264781491	0.09426735218508997	ok	ok
+ses-20260318_grp-12_run01	P3	T1	True	True	True	779.3944260000007	0.867866323907455	0.132133676092545	ok	ok
+ses-20260318_grp-12_run01	P4	T1	True	True	True	779.3701959999999	0.9405882050491028	0.05941179495089721	ok	ok
+ses-20260318_grp-12_run01	P1	T2	True	True	True	876.0884320000005	0.9081095915473631	0.09189040845263685	ok	ok
+ses-20260318_grp-12_run01	P2	T2	True	True	True	876.0075570000008	0.904418828049952	0.095581171950048	ok	ok
+ses-20260318_grp-12_run01	P3	T2	True	True	True	876.2501969999994	0.871267206292587	0.12873279370741297	ok	ok
+ses-20260318_grp-12_run01	P4	T2	True	True	True	875.927384999999	0.9264359402520759	0.07356405974792413	ok	ok
+ses-20260318_grp-12_run01	P1	T3	True	True	True	652.8988339999996	0.8317530455061524	0.16824695449384763	ok	ok
+ses-20260318_grp-12_run01	P2	T3	True	True	True	652.7809589999997	0.8800834842392805	0.11991651576071949	ok	ok
+ses-20260318_grp-12_run01	P3	T3	True	True	True	653.5448300000007	0.8838407063367976	0.11615929366320243	ok	ok
+ses-20260318_grp-12_run01	P4	T3	True	True	True	653.6679700000004	0.9363371647509579	0.06366283524904215	ok	ok
+ses-20260318_grp-12_run01	P1	T4	True	True	True	388.5848760000008	0.9325599381283836	0.06744006187161644	ok	ok
+ses-20260318_grp-12_run01	P2	T4	True	True	True	388.5849580000013	0.9118329466357309	0.08816705336426911	ok	ok
+ses-20260318_grp-12_run01	P3	T4	True	True	True	388.58558900000025	0.8978087135859758	0.1021912864140242	ok	ok
+ses-20260318_grp-12_run01	P4	T4	True	True	True	388.5859819999987	0.9407063676205207	0.059293632379479266	ok	ok
+ses-20260318_grp-13_run01	P1	T0	True	True	True	830.1248430000014	0.9863631975284805	0.013636802471519549	ok	ok
+ses-20260318_grp-13_run01	P2	T0	True	True	True	830.6653870000009	0.9470078873103548	0.05299211268964521	ok	ok
+ses-20260318_grp-13_run01	P3	T0	True	True	True	830.3516100000015	0.8315758994281301	0.16842410057186985	ok	ok
+ses-20260318_grp-13_run01	P4	T0	True	True	True	1160.233733000001	0.8847090545359659	0.11529094546403407	ok	ok
+ses-20260318_grp-13_run01	P1	T1	True	True	True	803.1759900000034	0.992167036695188	0.00783296330481198	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-13_run01	P2	T1	True	True	True	803.1555310000003	0.9534001895923764	0.04659981040762362	ok	ok
+ses-20260318_grp-13_run01	P3	T1	True	True	True	803.1821500000005	0.9510564522164293	0.048943547783570684	ok	ok
+ses-20260318_grp-13_run01	P4	T1	True	False	True	803.1773620000022	0.9523037393668771	0.04769626063312293	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-13_run01	P1	T2	True	True	True	917.8638949999986	0.8781078780205628	0.12189212197943722	ok	ok
+ses-20260318_grp-13_run01	P2	T2	True	True	True	917.8834489999972	0.9488561948834366	0.05114380511656336	ok	ok
+ses-20260318_grp-13_run01	P3	T2	True	True	True	917.8709350000026	0.829560585885486	0.17043941411451402	ok	ok
+ses-20260318_grp-13_run01	P4	T2	True	False	True	917.8654629999983	0.9321123747571544	0.06788762524284564	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260318_grp-13_run01	P1	T3	True	True	True	841.9262369999997	0.9922181766259728	0.007781823374027219	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-13_run01	P2	T3	True	True	True	841.904681	0.9575351734758161	0.04246482652418393	pupil_velocity_spike	Mean pupil dilation velocity (computed only between consecutive valid samples) exceeds 10.0 mm/s, suggesting systematic artefactual jumps.
+ses-20260318_grp-13_run01	P3	T3	True	True	True	841.9169709999987	0.948285540534219	0.051714459465781015	pupil_velocity_spike	Mean pupil dilation velocity (computed only between consecutive valid samples) exceeds 10.0 mm/s, suggesting systematic artefactual jumps.
+ses-20260318_grp-13_run01	P4	T3	True	True	True	841.9260130000002	0.954081081081081	0.04591891891891897	ok	ok
+ses-20260318_grp-13_run01	P1	T4	True	True	True	295.175091000001	0.9923980180547071	0.007601981945292935	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260318_grp-13_run01	P2	T4	True	True	True	295.195418000003	0.9639952683720242	0.036004731627975795	ok	ok
+ses-20260318_grp-13_run01	P3	T4	True	True	True	295.1803629999995	0.929248777596681	0.07075122240331899	ok	ok
+ses-20260318_grp-13_run01	P4	T4	True	True	True	295.1776720000016	0.9648972602739726	0.0351027397260274	ok	ok
+ses-20260319_grp-14_run01	P1	T0	True	True	True	471.6953579999972	0.9027311727477382	0.09726882725226182	ok	ok
+ses-20260319_grp-14_run01	P2	T0	True	True	True	471.67489099998784	0.8964828816583128	0.1035171183416872	ok	ok
+ses-20260319_grp-14_run01	P3	T0	True	True	True	471.45570900000166	0.9325995495304067	0.06740045046959331	ok	ok
+ses-20260319_grp-14_run01	P4	T0	True	True	True	471.616154000003	0.9145673138196185	0.08543268618038147	ok	ok
+ses-20260319_grp-14_run01	P1	T1	True	True	True	857.1142650000111	0.9405549451833843	0.05944505481661566	ok	ok
+ses-20260319_grp-14_run01	P2	T1	True	True	True	857.1134829999937	0.9477781154304682	0.05222188456953181	ok	ok
+ses-20260319_grp-14_run01	P3	T1	True	True	True	857.0956599999918	0.9607976062462014	0.03920239375379864	ok	ok
+ses-20260319_grp-14_run01	P4	T1	True	True	True	857.0959399999992	0.9197718453410632	0.08022815465893685	ok	ok
+ses-20260319_grp-14_run01	P1	T2	True	True	True	945.6948940000002	0.9330720338983051	0.06692796610169494	ok	ok
+ses-20260319_grp-14_run01	P2	T2	True	True	True	945.6940319999994	0.9368008474576272	0.06319915254237285	ok	ok
+ses-20260319_grp-14_run01	P3	T2	True	True	True	945.7165099999984	0.9450859091968391	0.0549140908031609	ok	ok
+ses-20260319_grp-14_run01	P4	T2	True	True	True	945.6967830000067	0.9252754237288136	0.07472457627118645	ok	ok
+ses-20260319_grp-14_run01	P1	T3	True	True	True	812.6937140000082	0.9381933829692816	0.061806617030718436	ok	ok
+ses-20260319_grp-14_run01	P2	T3	True	True	True	812.6929729999974	0.9429761846062817	0.05702381539371826	ok	ok
+ses-20260319_grp-14_run01	P3	T3	True	True	True	812.6950710000092	0.9734480548296435	0.026551945170356528	ok	ok
+ses-20260319_grp-14_run01	P4	T3	True	True	True	812.7153729999991	0.9265586864876858	0.0734413135123142	ok	ok
+ses-20260319_grp-14_run01	P1	T4	True	True	True	487.8246059999947	0.9392968621652702	0.0607031378347298	ok	ok
+ses-20260319_grp-14_run01	P2	T4	True	True	True	487.82416200000443	0.9474700180712995	0.05252998192870051	ok	ok
+ses-20260319_grp-14_run01	P3	T4	True	True	True	488.06585699999414	0.948440065681445	0.05155993431855499	ok	ok
+ses-20260319_grp-14_run01	P4	T4	True	True	True	487.84561699999904	0.919586019959752	0.08041398004024802	ok	ok
+ses-20260319_grp-15_run01	P1	T0	True	True	True	918.1005299999961	0.9496748286849112	0.050325171315088846	ok	ok
+ses-20260319_grp-15_run01	P2	T0	True	True	True	918.043410000013	0.8724137931034482	0.12758620689655176	pupil_left_low_coverage	Left-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260319_grp-15_run01	P3	T0	True	True	True	918.1665800000046	0.9293632435735172	0.07063675642648282	ok	ok
+ses-20260319_grp-15_run01	P4	T0	True	True	True	915.0945180000126	0.8075803025990235	0.19241969740097653	pupil_right_low_coverage	Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260319_grp-15_run01	P1	T1	True	True	True	900.9691719999973	0.9592812506949541	0.04071874930504593	ok	ok
+ses-20260319_grp-15_run01	P2	T1	True	True	True	900.9724790000037	0.8787359900373599	0.12126400996264008	pupil_left_low_coverage	Left-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260319_grp-15_run01	P3	T1	True	True	True	900.9553400000004	0.9682433784775502	0.031756621522449846	ok	ok
+ses-20260319_grp-15_run01	P4	T1	True	True	True	900.9683590000059	0.855646488457946	0.144353511542054	ok	ok
+ses-20260319_grp-15_run01	P1	T2	True	True	True	1035.415267999997	0.9411730557114384	0.05882694428856161	ok	ok
+ses-20260319_grp-15_run01	P2	T2	True	True	True	1035.4160779999947	0.8553930105654244	0.14460698943457562	pupil_left_low_coverage;pupil_right_low_coverage	Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260319_grp-15_run01	P3	T2	True	True	True	1035.4194080000016	0.9433801617709664	0.0566198382290336	ok	ok
+ses-20260319_grp-15_run01	P4	T2	True	True	True	1035.4173239999946	0.9039786361173465	0.09602136388265348	ok	ok
+ses-20260319_grp-15_run01	P1	T3	True	True	True	877.8668849999958	0.9734103254667458	0.026589674533254226	ok	ok
+ses-20260319_grp-15_run01	P2	T3	True	True	True	877.8706209999946	0.8791966221613603	0.1208033778386397	pupil_left_low_coverage;pupil_right_low_coverage	Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260319_grp-15_run01	P3	T3	True	True	True	877.8534070000023	0.9452686355959282	0.05473136440407178	ok	ok
+ses-20260319_grp-15_run01	P4	T3	True	False	True	877.8655790000048	0.915527354894666	0.08447264510533403	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260319_grp-15_run01	P1	T4	True	True	True	418.02517100000114	0.9553776840490797	0.044622315950920255	ok	ok
+ses-20260319_grp-15_run01	P2	T4	True	True	True	418.0174090000073	0.8511790644171779	0.14882093558282206	pupil_left_low_coverage;pupil_right_low_coverage	Left-eye pupil diameter is missing for more than 30 % of samples. | Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260319_grp-15_run01	P3	T4	True	True	True	418.0387899999914	0.9447399952072849	0.05526000479271509	ok	ok
+ses-20260319_grp-15_run01	P4	T4	True	True	True	418.034090000001	0.8894746932515337	0.11052530674846628	pupil_right_low_coverage	Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260320_grp-16_run01	P1	T0	True	True	True	381.991064	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P2	T0	True	True	True	381.710653	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P3	T0	True	True	True	381.971089	1.0	0.0	pupil_right_low_coverage	Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260320_grp-16_run01	P4	T0	True	True	True	381.971071	1.0	0.0	ok	ok
+ses-20260320_grp-16_run01	P1	T1	True	True	True	307.97714999999994	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P2	T1	True	True	True	307.35607600000003	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P3	T1	True	True	True	307.997242	1.0	0.0	pupil_right_low_coverage	Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260320_grp-16_run01	P4	T1	True	True	True	307.97714399999995	1.0	0.0	ok	ok
+ses-20260320_grp-16_run01	P1	T2	True	False	True	401.98723600000005	1.0	0.0	blink_detection_unreliable;gaze_out_of_bounds	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag. | More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260320_grp-16_run01	P2	T2	True	False	True	401.90708399999994	1.0	0.0	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260320_grp-16_run01	P3	T2	True	True	True	401.9672549999999	1.0	0.0	pupil_right_low_coverage	Right-eye pupil diameter is missing for more than 30 % of samples.
+ses-20260320_grp-16_run01	P4	T2	True	True	True	401.98722599999996	1.0	0.0	ok	ok
+ses-20260320_grp-16_run01	P1	T3	True	False	True	181.96922199999995	1.0	0.0	blink_detection_unreliable;gaze_out_of_bounds	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag. | More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260320_grp-16_run01	P2	T3	True	False	True	181.9892030000001	1.0	0.0	gaze_out_of_bounds	More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260320_grp-16_run01	P3	T3	True	False	True	181.98920999999996	1.0	0.0	pupil_right_low_coverage;gaze_out_of_bounds	Right-eye pupil diameter is missing for more than 30 % of samples. | More than 10 % of valid gaze samples fall outside the scene-camera frame [0, 1] in either axis; possible calibration drift or head rotation artefacts.
+ses-20260320_grp-16_run01	P4	T3	True	True	True	181.92914999999994	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P1	T4	True	True	True	899.9882790000001	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P2	T4	True	True	True	899.6676990000001	1.0	0.0	blink_detection_unreliable	Gaze validity is too low (< 70%) to distinguish blinks from tracking failures; blink_count_est, blink_rate_per_min, and blink_duration_mean_s are set to NaN. When gaze_valid is stuck at 1.0 (>= 99%), pupil-NaN transitions are used as a fallback instead of raising this flag.
+ses-20260320_grp-16_run01	P3	T4	True	True	True	899.9682010000001	1.0	0.0	ok	ok
+ses-20260320_grp-16_run01	P4	T4	True	True	True	899.9882809999999	1.0	0.0	ok	ok

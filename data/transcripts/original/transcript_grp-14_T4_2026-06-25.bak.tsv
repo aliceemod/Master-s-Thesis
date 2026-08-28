@@ -1,0 +1,139 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+179.945	3.021	MODERATOR	Okay, now we'll reveal the group outcome first.	SPK		0.003316	1.40	shared	confident					
+182.966	24.650	GROUP	(24.7)	SIL				shared	confident	0				
+207.616	1.521	MODERATOR	You can discuss if you want.	SPK		0.001615	1.13	shared	confident	0	24650			
+209.137	17.065	GROUP	(17.1)	SIL				shared	confident	0				
+226.202	1.501	P1	So I was expecting more return.	SPK		0.029490	6.97	mic9	confident	0	17065	17065		
+227.703	0.680	GROUP	(0.7)	SIL				shared	confident	0				
+228.383	1.321	P1	Maybe I didn't do the math correctly.	SPK		0.023493	7.28	mic9	confident	0	680	19246		
+229.704	8.358	GROUP	(8.4)	SIL				shared	confident	0				
+238.062	1.420	P2	I don't, yeah, maybe I don't understand it.	SPK		0.014814	4.23	mic10	confident	0	8358	8358		
+239.482	0.860	GROUP	(0.9)	SIL				shared	confident	0				
+240.342	8.222	P2	If I had kept all 10 tokens, then I would have ended up with more money?	SPK		0.012952	2.49	mic10	confident	0	860	10638		0
+248.564	0.372	GROUP	(0.4)	SIL				shared	confident	0				0
+248.936	0.321	P1	Yeah.	SPK		0.013000	1.09	mic9	confident	0	372	372		308
+249.103	0.180	P4	Yeah.	SPK		0.011844	6.36	mic12	confident	-154	-154	-154		308
+249.103	0.154	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-180				308
+249.283	1.202	GROUP	(1.2)	SIL				shared	confident	26				0
+250.485	0.940	P2	That doesn't make sense to me.	SPK		0.004257	2.45	mic10	confident	0	1202	1202		
+251.425	1.109	GROUP	(1.1)	SIL				shared	confident	0				0
+252.534	2.322	MODERATOR	I will now share everyone's contribution and you can discuss the outcome for three minutes	SPK		0.010576	1.23	mic11	confident	0	1109	1109		0
+254.856	22.473	GROUP	(22.5)	SIL				shared	confident	0				
+277.329	0.781	P2	I don't get the math.	SPK		0.004682	2.99	mic10	confident	0	22473	22473		
+278.110	2.137	GROUP	(2.1)	SIL				shared	confident	0				
+280.247	25.767	P1	So the more	SPK		0.014607	1.11	mic9	confident	0	2137	2137		41875
+280.294	3.342	P4	But that's how much we contributed or how much we have left?	SPK		0.030308	1.64	mic12	confident	-25720	-25720	-25720		6684
+280.294	3.342	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-3342				6684
+283.636	0.360	GROUP	(0.4)	SIL				shared	confident	0				360
+283.996	0.781	P4	How much we have left?	SPK		0.027837	4.49	mic12	confident	0	360	-22018		1562
+283.996	0.781	P4	[OVL:competitive]	OVL	competitive			shared	confident	-781				1562
+284.797	0.100	P4	Yeah.	SPK		0.006924	2.89	mic12	confident	20	20	-21217		200
+284.797	0.100	P4	[OVL:smooth]	OVL	smooth			shared	confident	-100				200
+284.897	1.281	GROUP	(1.3)	SIL				shared	confident	0				1281
+286.178	0.240	P4	Okay.	SPK		0.009897	5.19	mic12	confident	0	1281	-19836		480
+286.178	0.240	P4	[OVL:smooth]	OVL	smooth			shared	confident	-240				480
+286.418	6.582	GROUP	(6.6)	SIL				shared	confident	0				6582
+293.000	5.000	P1	So the one that gave the less got the more in total the one who kept the most tokens gets the most	SPK				shared	confident	0	6582	6582		10000
+293.000	5.000	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-5000				10000
+298.000	0.982	GROUP	(1.0)	SIL				shared	confident	0				982
+298.982	3.223	P2	Huh?	SPK		0.012570	6.07	mic10	confident	0	982	982		6446
+298.982	3.223	P2	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-3223				6446
+302.205	0.280	GROUP	(0.3)	SIL				shared	confident	0				280
+302.485	0.221	P2	No?	SPK		0.016172	6.48	mic10	confident	0	280	4485		442
+302.485	0.221	P2	[OVL:smooth]	OVL	smooth			shared	confident	-221				442
+302.706	0.102	GROUP	(.)	SIL				shared	confident	0				113
+302.797	0.300	P3	Yeah,	BCK		0.017004	0.62	mic11	confident	-11			22550	889
+302.808	0.761	P4	Yeah, apparently.	SPK		0.029037	2.17	mic12	confident	-289	102	102		1811
+302.808	0.761	P4	[OVL:competitive]	OVL	competitive			shared	confident	-761				1811
+303.569	0.238	GROUP	(0.2)	SIL				shared	confident	0				238
+303.807	2.282	P2	The one who kept the most tokens gets the most.	SPK		0.019680	7.07	mic10	confident	0	238	238		4414
+303.807	2.207	P2	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2282				4414
+306.089	0.362	GROUP	(0.4)	SIL				shared	confident	75				
+306.451	0.240	P4	Yeah.	SPK		0.017973	5.85	mic12	confident	0	362	362		0
+306.691	2.000	GROUP	(2.0)	SIL				shared	confident	0				0
+308.691	1.041	P2	But I don't understand that.	SPK		0.001937	1.43	mic10	confident	0	2000	2000		
+309.732	1.982	GROUP	(2.0)	SIL				shared	confident	0				0
+311.714	3.483	P2	There was no... Is that if you keep your token...	SPK		0.060073	2.16	mic10	confident	0	1982	5023		1134
+314.630	1.481	P4	Yeah, I'm also a little bit confused.	SPK		0.047003	1.66	mic12	confident	-567	-567	-567		1134
+314.630	0.567	P4	[OVL:competitive]	OVL	competitive			shared	confident	-1481				1134
+316.111	2.441	GROUP	(2.4)	SIL				shared	confident	914				
+318.552	6.163	P1	So before I had put only one, then I put way more	SPK		0.075349	1.39	mic12	confident	0	2441	2441		4474
+321.382	1.141	P1	So you have our tokens now.	SPK		0.062460	1.61	mic9	confident	-3333	-3333	5271		2282
+321.382	1.141	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1141				2282
+322.523	2.477	GROUP	(2.5)	SIL				shared	confident	0				2192
+325.000	4.000	P2	You robbed us!	SPK				shared	confident	0	2477	2477		4714
+325.287	1.001	P4	Yeah, basically, I robbed you.	SPK		0.126759	4.02	mic10	confident	-3713	-3713	-3713		2002
+325.287	1.001	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1001				2002
+326.288	2.862	GROUP	(2.9)	SIL				shared	confident	0				2712
+329.150	1.161	P2	But how do you have them all?	SPK		0.056618	5.22	mic10	confident	0	2862	2862		0
+330.311	0.520	GROUP	(0.5)	SIL				shared	confident	0				
+330.831	0.640	P2	Well, I don't get it.	SPK		0.011539	4.96	mic10	confident	0	520	4543		
+331.471	1.408	GROUP	(1.4)	SIL				shared	confident	0				
+332.879	3.142	P4	Because someone else put more, and then it divides equally at the end.	SPK		0.027299	6.17	mic12	confident	0	1408	1408		
+336.021	2.511	GROUP	(2.5)	SIL				shared	confident	0				0
+338.532	2.902	P4	So the one who put more has less.	SPK		0.029846	5.26	mic12	confident	0	2511	7061		0
+341.434	0.841	GROUP	(0.8)	SIL				shared	confident	0				0
+342.275	2.662	P4	And then the result is when it's divided equally.	SPK		0.019493	7.00	mic12	confident	0	841	10804		0
+344.937	1.164	GROUP	(1.2)	SIL				shared	confident	0				44
+346.057	0.560	P2	Yeah,	BCK		0.025536	0.77	mic10	confident	-44				560
+346.101	1.542	P3	So what was your reason to keep?	SPK		0.036164	2.17	mic11	confident	-516	1164	1164		516
+347.643	1.276	GROUP	(1.3)	SIL				shared	confident	0				
+348.919	1.582	P4	I did it so fast, I'm not going to lie. Didn’t think it through	SPK		0.033551	5.85	mic12	confident	0	1276	1276		
+350.501	1.285	GROUP	(1.3)	SIL				shared	confident	0				
+351.786	1.261	P3	Fair enough.	SPK		0.148893	1.48	mic11	confident	0	1285	1285		
+353.047	0.596	GROUP	(0.6)	SIL				shared	confident	0				0
+353.643	0.981	P4	I'm not going to lie.	SPK		0.213079	1.24	mic12	confident	0	596	596		0
+354.624	3.842	GROUP	(3.8)	SIL				shared	confident	0				
+358.466	4.023	P4	Because I thought, is this the only one that we're contributing to?	SPK		0.094956	6.23	mic12	confident	0	3842	5419		0
+362.489	0.280	GROUP	(0.3)	SIL				shared	confident	0				0
+362.769	0.741	P4	Or do we have more?	SPK		0.063488	9.27	mic12	confident	0	280	9722		
+363.510	1.408	GROUP	(1.4)	SIL				shared	confident	0				
+364.918	0.460	P4	Only this?	SPK		0.086596	10.13	mic12	confident	0	1408	11871		
+365.378	0.320	GROUP	(0.3)	SIL				shared	confident	0				
+365.698	1.902	P4	Because I thought this is in total.	SPK		0.065905	7.07	mic12	confident	0	320	12651		
+367.600	0.080	GROUP	(.)	SIL				shared	confident	0				
+367.680	1.400	P4	It's like 10 tokens in total.	SPK		0.053219	9.54	mic12	confident	0	80	14633		
+369.100	2.262	P4	And then we're going to have more things to contribute to.	SPK		0.037676	7.49	mic12	confident	20	20	16053		
+371.362	0.340	GROUP	(0.3)	SIL				shared	confident	0				
+371.702	1.541	P4	So I was like, okay, I'm going to give one.	SPK		0.064761	7.41	mic12	confident	0	340	18655		
+373.263	2.381	P4	Let me keep my tokens for something more important.	SPK		0.147243	2.57	mic12	confident	20	20	20216		
+375.644	3.356	GROUP	(3.4)	SIL				shared	confident	0				
+379.000	4.000	P4	I'm sorry.	SPK				shared	confident	0	3356	25953		4594
+379.046	0.640	P1	I decided to gamble and put almost all inside	SPK		0.255401	1.51	mic12	confident	-3954	-3954	-3954		1280
+379.046	0.640	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-640				1280
+379.686	3.682	GROUP	(3.7)	SIL				shared	confident	0				3314
+383.368	0.781	P4	Yeah, I'm sorry.	SPK		0.054517	6.12	mic12	confident	0	3682	3682		
+384.149	1.918	GROUP	(1.9)	SIL				shared	confident	0				
+386.067	2.922	P4	So it wasn't my intention to rob you guys.	SPK		0.078846	2.11	mic12	confident	0	1918	6381		0
+388.989	2.002	GROUP	(2.0)	SIL				shared	confident	0				0
+390.991	0.940	P4	That's my argument.	SPK		0.048215	7.97	mic12	confident	0	2002	11305		
+391.931	2.579	GROUP	(2.6)	SIL				shared	confident	0				
+394.510	2.723	P2	But if we'd all given all of our tokens, then what?	SPK		0.043057	4.40	mic10	confident	0	2579	2579		
+397.233	0.860	GROUP	(0.9)	SIL				shared	confident	0				
+398.093	1.141	P2	Then we all get more money, no?	SPK		0.009969	4.51	mic10	confident	0	860	6162		0
+399.234	0.683	GROUP	(0.7)	SIL				shared	confident	0				0
+399.917	1.141	P4	Then we all get the same.	SPK		0.026757	7.24	mic12	confident	0	683	683		
+401.058	0.521	GROUP	(0.5)	SIL				shared	confident	0				43
+401.536	0.120	P2	yeah,	BCK		0.009515	3.37	mic10	confident	-43				120
+401.579	0.800	P4	Yeah.	SPK		0.018010	1.36	mic12	confident	-77	521	2345		239
+402.217	0.840	P2	okay.	BCK		0.007258	0.51	mic10	confident	-162			638	840
+402.379	0.664	GROUP	(0.7)	SIL				shared	confident	-678				664
+403.043	5.243	P1	And if no one gave anything, then we all remain intent because we don't get anything.	SPK		0.027591	2.06	mic9	confident	0	664	664		939
+407.801	0.440	P2	Mm-hmm.	SPK		0.033760	1.46	mic10	confident	-485	-485	-485		880
+407.801	0.440	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-440				880
+408.241	1.286	GROUP	(1.3)	SIL				shared	confident	0				45
+409.527	2.762	P1	But if you give only one, then you get the same share than everyone.	SPK		0.044513	1.34	mic9	confident	0	1286	1286		3706
+409.664	1.081	P4	Yeah, but we also don't...	SPK		0.050066	1.05	mic12	confident	-2625	-2625	-2625		2162
+409.664	1.081	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-1081				2162
+410.745	5.255	GROUP	(5.3)	SIL				shared	confident	0				1544
+416.000	2.000	P4	I would have also given all of them if I knew.	SPK				shared	confident	0	5255	3711		3706
+416.147	13.886	P4	Very unfair	SPK		0.042485	1.59	mic12	confident	-1853	-1853	3858		9272
+416.147	1.853	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-13886				3706
+420.194	0.581	P2	Take my money.	SPK		0.116515	1.51	mic10	confident	2194	-9839	-9839		1162
+420.194	0.581	P2	[OVL:competitive]	OVL	competitive			shared	confident	-581				1162
+420.775	3.225	GROUP	(3.2)	SIL				shared	confident	0				3225
+424.000	0.100	P2	Yeah.	SPK				shared	confident	0	3225	-6033		200
+424.000	0.100	P2	[OVL:smooth]	OVL	smooth			shared	confident	-100				200
+424.100	0.097	GROUP	(.)	SIL				shared	confident	0				97
+424.197	0.441	P1	You can keep my tokens.	SPK		0.044169	1.93	mic10	confident	0	97	97		882
+424.197	0.441	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-441				882

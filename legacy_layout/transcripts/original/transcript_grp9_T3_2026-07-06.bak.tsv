@@ -1,0 +1,275 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+3.362	3.521	MODERATOR	They usually just knock if something is wrong with the calibration.	SPK		0.008456	2.95	MOD	confident					
+6.923	1.661	P1	I'll stare at the door just in case.	SPK		0.018211	1.02	P1	confident	40	40	40		
+8.584	3.757	GROUP	(3.8)	SIL				shared	manual	0				
+12.341	2.023	MODERATOR	Okay, so are you all finished?	SPK		0.008053	3.31	MOD	confident	0	3757	3757		264
+14.232	0.641	P2	Yes.	SPK		0.003514	1.22	P2	confident	-132	-132	-132		291
+14.232	0.132	P2	[OVL:smooth]	OVL	smooth			shared	manual	-641				264
+14.846	0.900	P1	Yeah.	SPK		0.005604	0.69	P1	confident	482	-27	-27		27
+15.746	0.340	GROUP	(0.3)	SIL				shared	manual	0				0
+16.086	3.344	MODERATOR	Okay, so we can start with task three.	SPK		0.003531	1.33	MOD	confident	0	340	340		0
+19.430	1.325	GROUP	(1.3)	SIL				shared	manual	0				
+20.755	3.281	MODERATOR	So this is an idea generation task.	SPK		0.002744	1.20	MOD	confident	0	1325	5009		
+24.036	0.060	GROUP	(.)	SIL				shared	manual	0				
+24.096	8.203	MODERATOR	So basically you have to brainstorm ideas about a social event that will be for all GN employees.	SPK		0.003104	1.31	MOD	confident	0	60	8350		
+32.299	1.600	GROUP	(1.6)	SIL				shared	manual	0				
+33.899	9.843	MODERATOR	And you can be as regional creative as you like, but of course, try to be realistic and propose something that is feasible and accessible to as many employees as possible.	SPK		0.002821	1.28	MOD	confident	0	1600	18153		0
+43.742	0.801	GROUP	(0.8)	SIL				shared	manual	0				0
+44.543	8.467	MODERATOR	First you will be able to brainstorm ideas individually and then you will have to decide on only one best final idea.	SPK		0.003299	1.50	MOD	confident	0	801	28797		
+53.010	0.861	GROUP	(0.9)	SIL				shared	manual	0				
+53.871	6.626	MODERATOR	So you will first have some time to think about some ideas and just write them and submit them on the tablets.	SPK		0.002536	1.36	MOD	confident	0	861	38125		
+60.497	150.373	GROUP	(150.4)	SIL				shared	manual	0				
+210.870	1.666	P3	We didn't have to describe it, right?	SPK		0.015444	4.78	P3	confident	0	150373	150373		
+212.536	0.697	GROUP	(0.7)	SIL				shared	manual	0				
+213.233	0.721	MODERATOR	They will appear.	SPK		0.006379	2.14	MOD	confident	0	697	697		
+213.954	25.404	GROUP	(25.4)	SIL				shared	manual	0				5958
+235.714	3.009	P4	[LAUGHTER]	LAU				P4	manual	-3644				5958
+235.743	2.949	P3	[LAUGHTER]	LAU				P3	manual	-2980				5898
+239.358	0.300	MODERATOR	Okay.	SPK		0.002548	1.26	MOD	confident	666	25404	26822		0
+239.658	1.130	GROUP	(1.1)	SIL				shared	manual	0				0
+240.788	6.379	MODERATOR	So now you will have your ideas displayed and you can discuss for seven minutes.	SPK		0.004234	1.06	MOD	confident	0	1130	28252		
+247.167	2.908	GROUP	(2.9)	SIL				shared	manual	0				
+250.075	1.141	P1	Bixby wants in on this.	SPK		0.010273	2.65	P1	confident	0	2908	2908		
+251.216	4.113	GROUP	(4.1)	SIL				shared	manual	0				
+255.329	3.002	P4	Oh, no.	SPK		0.010505	1.28	P4	confident	0	4113	4113		2504
+257.079	1.380	P1	Enterprise vs. Hearing	SPK		0.012686	4.70	P1	confident	-1252	-1252	-1252		2504
+257.079	1.252	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1380				2504
+258.459	0.421	GROUP	(0.4)	SIL				shared	manual	128				
+258.880	1.981	P1	Hearing is way too many people now for that.	SPK		0.019645	5.75	P1	confident	0	421	549		
+260.861	6.780	GROUP	(6.8)	SIL				shared	manual	0				
+267.641	1.901	P1	Let's all watch Guardians of the Galaxy Volume 3.	SPK		0.013806	1.70	P1	confident	0	6780	9310		0
+269.542	3.529	GROUP	(3.5)	SIL				shared	manual	0				1540
+269.548	1.540	P3	[SOFT LAUGHTER]	LAU				P3	manual	-3523				1540
+273.071	5.141	P2	I honestly think participant 1 and 3 had bad suggestions anyway, so it's just fine.	SPK		0.044602	1.58	P2	confident	1983	3529	3529		170
+278.042	2.460	P4	[LAUGHTER]	LAU				P4	manual	-170				4823
+278.212	3.010	GROUP	(3.0)	SIL				shared	manual	-2290				5373
+278.520	1.591	P3	[LAUGHTER]	LAU				P3	manual	-2702				3563
+279.730	4.821	P2	[LAUGHTER]	LAU				P2	manual	-381				5974
+281.222	2.461	P3	Mine are really short because I didn't see the others.	SPK		0.033766	1.67	P3	confident	-3329	3010	3010		2461
+283.683	0.520	GROUP	(0.5)	SIL				shared	manual	0				520
+284.203	2.181	P3	I was like, okay, I'll just pop in something quick.	SPK		0.024909	1.81	P3	confident	0	520	5991		348
+286.384	1.963	GROUP	(2.0)	SIL				shared	manual	0				0
+288.347	7.342	P1	I feel like a participant P4-2 and mine from P1-3 are very, very similar.	SPK		0.034298	5.74	P1	confident	0	1963	1963		0
+295.689	1.341	GROUP	(1.3)	SIL				shared	manual	0				0
+297.030	0.880	P1	Similar vibes.	SPK		0.021249	5.90	P1	confident	0	1341	10646		0
+297.910	1.248	GROUP	(1.2)	SIL				shared	manual	0				
+299.158	0.240	P2	Yep.	SPK		0.013567	5.05	P2	confident	0	1248	1248		
+299.398	3.253	GROUP	(3.3)	SIL				shared	manual	0				
+302.651	10.044	P1	No, and I don't know what it's called, but like a type of place that has like big foam obstacle courses and like kind of jungle gym that you like.	SPK		0.032460	1.85	P1	confident	0	3253	3253		3530
+311.259	3.949	P4	Oh, yeah, yeah, yeah.	BCK				P4	manual	-1436			8608	6846
+311.648	1.830	P3	Ah, Adventure Park	SPK				P3	manual	-3560	-1047	-1047		3927
+311.648	1.047	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1830				3141
+313.475	0.920	P1	Adventure Park, yeah.	SPK		0.109443	1.50	P1	confident	780	-3	-3		1329
+313.989	0.800	P3	Yeah.	BCK		0.083009	0.89	P3	confident	-406			514	1600
+314.395	0.220	GROUP	(0.2)	SIL				shared	manual	-394				440
+314.615	0.720	P1	Yeah, yeah, yeah.	SPK		0.057312	1.24	P1	confident	0	220	1137		767
+315.355	1.801	P1	I could not think of the term for the life of me.	SPK		0.029430	6.18	P1	confident	20	20	1877		
+317.156	4.884	GROUP	(4.9)	SIL				shared	manual	0				1941
+320.232	0.520	P1	Yeah.	BCK		0.050490	0.81	P1	confident	-1808				870
+320.402	1.421	P4	Yeah.	BCK		0.005951	0.64	P4	confident	-350				1771
+322.040	1.880	P3	And this would be for the whole company, right?	SPK				P3	manual	217	4884	4884		
+323.920	0.594	GROUP	(0.6)	SIL				shared	manual	0				
+324.514	10.537	P1	Yeah so like rent out a whole i've seen some are like big warehouses you can just rent out the space	SPK		0.024157	1.70	P1	confident	0	594	594		13049
+329.547	0.260	P3	Yeah.	BCK		0.014393	5.82	P3	confident	-5504			5033	260
+330.410	5.805	P4	Yeah, and then if you have grievances against your boss, you can just...	SPK		0.029245	2.37	P4	confident	603	-4641	-4641		15117
+330.410	4.641	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-5805				12789
+333.882	3.211	P2	Would you like to elaborate on the back to the 80's suggestion?	SPK				P2	manual	-1169	-2333	-2333		8173
+333.882	1.169	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-3211				5845
+333.882	2.333	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1169				8173
+337.093	2.218	GROUP	(2.2)	SIL				shared	manual	878				0
+339.311	17.771	P3	Think what i imagined was like kind of like a a disco party but then also you could have like some videos with like 80s movies going in the background and then the music and everybody's like dressed in different costumes and they're like 80s cocktails and everything 80s inspired	SPK		0.025937	3.38	P3	confident	0	2218	2218		50
+352.269	0.050	P1	Mhm.	BCK				P1	manual	-4813			12958	50
+357.082	3.046	GROUP	(3.0)	SIL				shared	manual	4763				
+360.128	2.526	P2	I'm seeing a lot of fun ideas here.	SPK		0.018687	4.70	P2	confident	0	3046	3046		
+362.654	0.380	GROUP	(0.4)	SIL				shared	manual	0				
+363.034	0.642	P2	I guess maybe...	SPK		0.024093	4.55	P2	confident	0	380	5952		
+363.676	3.095	GROUP	(3.1)	SIL				shared	manual	0				
+366.771	25.828	P2	something that I think could be good I'm not a huge fan of a golf tournament just because I think that's something where skill level can have a huge impact but I do like the fact that there is some sort of competitive nature in between that I think that having some very relaxed competition could make the event quite fun	SPK		0.015994	3.05	P2	confident	0	3095	9689		1541
+385.176	0.770	P3	Mhm.	BCK				P3	manual	-7423			18405	770
+386.699	0.331	P1	Yeah.	BCK				P1	manual	753			19928	331
+389.056	0.440	P4	Mhm.	BCK				P4	manual	2026			22285	440
+392.599	1.331	GROUP	(1.3)	SIL				shared	manual	3103				
+393.930	1.882	P1	I'm okay dropping golf tournament if you guys want.	SPK		0.025340	6.53	P1	confident	0	1331	1331		
+395.812	0.440	GROUP	(0.4)	SIL				shared	manual	0				
+396.252	1.061	P1	We had that in the US.	SPK		0.046837	6.46	P1	confident	0	440	3653		
+397.313	1.241	GROUP	(1.2)	SIL				shared	manual	0				
+398.554	1.221	P1	It was groups of four.	SPK		0.023224	6.10	P1	confident	0	1241	5955		
+399.775	0.140	GROUP	(.)	SIL				shared	manual	0				
+399.915	1.382	P1	Most people never played golf.	SPK		0.025531	6.92	P1	confident	0	140	7316		
+401.297	0.240	GROUP	(0.2)	SIL				shared	manual	0				0
+401.537	0.941	P1	It was still very fun.	SPK		0.037896	1.36	P1	confident	0	240	8938		675
+401.803	0.761	P3	[SOFT LAUGHTER]	LAU				P3	manual	-675				761
+402.478	0.215	GROUP	(0.2)	SIL				shared	manual	-86				86
+402.693	2.609	P2	It sounds like a blast, I trust you	SPK				P2	manual	0	215	215		1324
+404.640	2.482	P1	More people don't play it than people do play it.	SPK		0.049299	6.52	P1	confident	-662	-662	-662		1467
+404.640	0.662	P1	[OVL:competitive]	OVL	competitive			shared	manual	-2482				1324
+406.979	0.720	P3	Yeah.	BCK				P3	manual	1677			2339	720
+407.122	0.568	GROUP	(0.6)	SIL				shared	manual	-577				568
+407.690	3.021	P4	Is it pretentious to say equipment provided if needed?	SPK		0.035174	2.95	P4	confident	0	568	568		9
+410.711	1.621	GROUP	(1.6)	SIL				shared	manual	0				
+412.332	1.142	P1	Well, like, I don't have clubs.	SPK		0.057999	2.30	P1	confident	0	1621	1621		
+413.474	0.720	GROUP	(0.7)	SIL				shared	manual	0				907
+413.593	0.340	P4	Okay.	BCK		0.174086	6.92	P4	confident	-601				448
+413.825	0.419	P2	Yeah.	BCK				P2	manual	-108				775
+413.996	2.479	P4	[LAUGHTER]	LAU				P4	manual	-248				3916
+414.194	0.921	P1	Yeah, that's what I mean.	SPK		0.144456	1.65	P1	confident	-2281	720	3483		1381
+414.705	1.189	P3	[SOFT LAUGHTER]	LAU				P3	manual	-410				2378
+415.115	0.340	GROUP	(0.3)	SIL				shared	manual	-779				680
+415.455	2.603	P1	Like, you don't have to own clubs to participate.	SPK		0.095748	1.71	P1	confident	0	340	4744		1459
+418.098	2.242	P1	I was trying to hit on the inclusive bullet point.	SPK		0.057542	1.07	P1	confident	40	40	7387		782
+419.949	3.291	P4	Ah, and I am the negative guy seeing all the...	SPK				P4	manual	-391	-391	-391		2743
+419.949	0.391	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-3291				782
+421.660	2.199	P2	[LAUGHTER]	LAU				P2	manual	1320				2580
+421.902	0.381	P1	Yeah.	BCK		0.165740	1.38	P1	confident	-1957			1953	762
+423.240	1.945	GROUP	(1.9)	SIL				shared	manual	957				619
+425.185	4.064	P1	They'd also, like, rent out golf carts for every team so you could, like, drive around.	SPK		0.038457	4.55	P1	confident	0	1945	1945		
+429.249	0.631	GROUP	(0.6)	SIL				shared	manual	0				
+429.880	1.040	P4	I would sign up just for that.	SPK		0.048156	12.69	P4	confident	0	631	631		
+430.920	1.070	GROUP	(1.1)	SIL				shared	manual	0				1050
+431.049	0.461	P1	Exactly.	BCK		0.087013	3.43	P1	confident	-941				570
+431.401	1.080	P3	Yeah.	BCK		0.068287	0.87	P3	confident	-109				1189
+431.990	1.402	P1	We had some people do that.	SPK		0.067376	1.21	P1	confident	-491	1070	1070		491
+433.401	1.681	P3	Race car competition.	SPK		0.106510	1.10	P3	confident	9	9	9		922
+434.500	1.741	P4	[SOFT LAUGHTER]	LAU				P4	manual	-582				2081
+434.653	0.340	P1	Yeah.	BCK		0.144497	1.01	P1	confident	-1588			1252	680
+435.082	1.673	GROUP	(1.7)	SIL				shared	manual	89				1159
+436.755	2.881	P4	Is salsa class dancing or making salsa?	SPK		0.059117	3.65	P4	confident	0	1673	1673		
+439.636	0.634	GROUP	(0.6)	SIL				shared	manual	0				0
+440.270	0.961	P2	That was the idea.	SPK		0.013340	4.35	P2	confident	0	634	634		0
+441.231	0.060	GROUP	(.)	SIL				shared	manual	0				
+441.291	1.241	P2	I mean, you know, I...	SPK		0.012635	3.52	P2	confident	0	60	1655		
+442.532	0.946	GROUP	(0.9)	SIL				shared	manual	0				
+443.478	0.840	P3	I mean, it could be one.	SPK		0.032001	6.08	P3	confident	0	946	946		
+444.338	3.162	P3	You can start with salsa dancing and then end up in like whatever.	SPK		0.017260	4.52	P3	confident	20	20	1806		
+447.500	0.760	GROUP	(0.8)	SIL				shared	manual	0				321
+447.939	0.790	P4	[SOFT LAUGHTER]	LAU				P4	manual	-321				923
+448.260	2.641	P3	Everybody will start dancing now.	SPK		0.046194	1.24	P3	confident	-469	760	5728		1170
+448.596	0.701	P2	Yeah, yeah.	BCK		0.076354	1.21	P2	confident	-2305			336	834
+450.901	1.318	GROUP	(1.3)	SIL				shared	manual	1604				
+452.219	0.320	P2	Um...	SPK		0.025271	4.83	P2	confident	0	1318	1318		
+452.539	2.137	GROUP	(2.1)	SIL				shared	manual	0				
+454.676	3.662	P2	No, but between that and a disco party, I would definitely back a disco party much more.	SPK		0.017065	5.06	P2	confident	0	2137	3775		
+458.338	0.161	GROUP	(.)	SIL				shared	manual	0				
+458.499	6.684	P2	But I guess something like bowling, tug-of-war, or paintball, I think, even.	SPK		0.019590	4.50	P2	confident	0	161	7598		0
+465.183	0.566	GROUP	(0.6)	SIL				shared	manual	0				0
+465.749	21.362	P3	I think bowling can become a little bit difficult sometimes depends how big the groups are like personally if i play bowling and there's like seven people in a team then until you're like it's your turn again it just becomes a little bit boring but i guess you can yeah talk to other people just i'm also quite competitive so i feel like...	SPK		0.024350	1.74	P3	confident	0	566	566		300
+477.671	0.300	P2	Yeah, yeah.	BCK		0.034976	2.16	P2	confident	-9440			11922	300
+487.111	0.409	GROUP	(0.4)	SIL				shared	manual	9140				0
+487.520	0.821	P2	But I think it's good.	SPK		0.017674	4.14	P2	confident	0	409	409		
+488.341	0.140	GROUP	(.)	SIL				shared	manual	0				
+488.481	21.748	P2	I think that competition can sometimes be toxic in a work environment and having an outlet to really... You have your co-worker that you love but also really hate because there's this unspoken competition between you two and now you just get to let it all out at the bowling tournament or whatever, I think.	SPK		0.024167	1.83	P2	confident	0	140	1370		2814
+495.617	1.178	P3	[LAUGHTER]	LAU				P3	manual	-14612				1178
+502.078	1.340	P3	[LAUGHTER]	LAU				P3	manual	5283				1340
+510.081	3.404	P1	I feel like bowling sets you up very linearly, though.	SPK		0.035596	6.25	P1	confident	6663	-148	-148		296
+510.081	0.148	P1	[OVL:smooth]	OVL	smooth			shared	manual	-3404				296
+513.505	3.383	P1	It's tough to mingle past the people just next to you.	SPK		0.030285	3.59	P1	confident	3276	20	3276		1532
+516.122	1.000	P3	That's true	SPK				P3	manual	-766	-766	-766		1532
+516.122	0.766	P3	[OVL:competitive]	OVL	competitive			shared	manual	-1000				1532
+517.122	0.393	GROUP	(0.4)	SIL				shared	manual	234				
+517.515	11.549	P4	True but i think in in the same vein like if you get to shoot uh your co-workers that you don't like that much that could also release some pressure	SPK		0.023087	1.14	P4	confident	0	393	393		6081
+524.045	1.971	P1	[SOFT LAUGHTER]	LAU				P1	manual	-5019				1971
+526.065	1.111	P2	Of course not	SPK				P2	manual	49	-2999	-2999		2222
+526.065	1.111	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1111				2222
+527.176	2.331	GROUP	(2.3)	SIL				shared	manual	0				1888
+529.507	6.371	P1	I do feel like in an adventure park situation, you could choose how much aggression you want to let out	SPK		0.028597	1.04	P1	confident	0	2331	2331		0
+535.878	0.718	GROUP	(0.7)	SIL				shared	manual	0				
+536.596	1.851	P3	I do like the obstacle course, yeah	SPK				P3	manual	0	718	718		2340
+537.277	5.709	P1	Like you could go to the you could go to the foam source area and have a duo with the person you've been biffing with	SPK				P1	manual	-1170	-1170	-1170		2340
+537.277	1.170	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-5709				2340
+542.990	9.332	P3	I think the only issue with that is being inclusive, because if somebody has any issues, physically speaking, then it can become a problem.	SPK		0.022525	2.30	P3	confident	4543	4	4		10639
+543.104	0.459	P4	That is true	SPK				P4	manual	-9218	-9218	-9218		918
+543.104	0.459	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-459				918
+543.563	8.457	GROUP	(8.5)	SIL				shared	manual	0				9117
+545.961	0.329	P1	Yeah.	BCK				P1	manual	-6059			2971	658
+549.641	0.331	P1	Yeah.	BCK				P1	manual	3351			6651	662
+552.020	0.981	P1	It's tougher to jump in.	SPK		0.023797	1.31	P1	confident	2048	8457	8457		604
+552.020	0.302	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-981				604
+553.001	0.422	GROUP	(0.4)	SIL				shared	manual	679				
+553.423	2.484	P3	Or if you're afraid of heights or things like that.	SPK		0.015737	4.97	P3	confident	0	422	422		
+555.907	0.695	GROUP	(0.7)	SIL				shared	manual	0				371
+556.144	0.371	P4	Mhm.	BCK				P4	manual	-458				371
+556.602	6.840	P1	My hope was that it would be one with the variety, but I think the core of what you're saying it's still there, yeah	SPK				P1	manual	87	695	695		3162
+561.660	1.380	P3	It's hardcore.	SPK		0.096375	3.50	P3	confident	-1782	-1782	-1782		2760
+561.660	1.380	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1380				2760
+563.040	1.517	GROUP	(1.5)	SIL				shared	manual	0				622
+563.961	0.220	P3	Yeah.	BCK		0.030316	3.15	P3	confident	-596				220
+564.557	5.243	P4	But I actually think we haven't discussed it, but the food cultural exchange sounds really nice.	SPK		0.028327	3.13	P4	confident	376	1517	1517		530
+569.015	0.530	P3	Yeah.	BCK				P3	manual	-785			4458	530
+569.842	3.081	P3	So that would be because we're such an international company.	SPK		0.025140	2.18	P3	confident	297	42	42		331
+572.361	0.331	P4	Yeah.	BCK				P4	manual	-562			2519	331
+572.923	0.200	GROUP	(0.2)	SIL				shared	manual	231				
+573.123	4.142	P3	Everybody can bring something and there could be like different stands from different countries.	SPK		0.019381	4.32	P3	confident	0	200	3323		460
+576.443	0.460	P1	Mhm.	BCK				P1	manual	-822			3320	460
+577.265	0.080	GROUP	(.)	SIL				shared	manual	362				0
+577.345	5.581	P3	And then you could try and taste different foods that are made at home by the people.	SPK		0.024118	4.51	P3	confident	0	80	7545		
+582.926	1.241	GROUP	(1.2)	SIL				shared	manual	0				350
+583.095	0.350	P4	Yeah.	BCK				P4	manual	-1072				350
+584.167	4.081	P3	So there would be a lot of exchange also in that sense and value.	SPK		0.015519	2.69	P3	confident	722	1241	14367		
+588.248	0.679	GROUP	(0.7)	SIL				shared	manual	0				
+588.927	6.969	P1	That was actually also one that we did in the US and it was a big hit yeah yeah a ton of different good foods that come out	SPK		0.009100	1.22	P1	confident	0	679	679		301
+592.274	0.301	P4	Yeah?	BCK		0.023802	4.22	P4	confident	-3622			3347	301
+595.896	0.070	GROUP	(.)	SIL				shared	manual	3321				0
+595.966	0.340	P4	Yeah	SPK		0.027213	11.65	P4	confident	0	70	70		
+596.306	1.308	GROUP	(1.3)	SIL				shared	manual	0				260
+597.012	0.260	P3	Yeah.	BCK		0.015871	1.04	P3	confident	-602				260
+597.614	10.101	P3	And if it's like in spring or it's like nice outside and we have the lake for instance then  we wouldn't have to  rent anything because you already have the space, so you save money	SPK				P3	manual	342	1308	1308		609
+605.339	0.609	P1	Mhm.	BCK				P1	manual	-2376			7725	609
+607.715	11.241	GROUP	(11.2)	SIL				shared	manual	1767				
+618.956	5.824	P2	Maybe we can just narrow it down to, let's say, two options.	SPK		0.013536	4.19	P2	confident	0	11241	11241		
+624.780	2.552	GROUP	(2.6)	SIL				shared	manual	0				321
+625.871	0.321	P4	Yeah.	BCK		0.029726	12.75	P4	confident	-1461				321
+627.332	3.862	P2	There seems to be some agreement on the obstacle course.	SPK		0.017002	4.27	P2	confident	1140	2552	19617		
+631.194	0.140	GROUP	(.)	SIL				shared	manual	0				
+631.334	1.221	P2	Like it could be a good idea.	SPK		0.013363	4.12	P2	confident	0	140	23619		
+632.555	0.460	GROUP	(0.5)	SIL				shared	manual	0				
+633.015	7.524	P2	It gives us a balance between just socializing, mingling, and also bringing out that competitive spirit if you want.	SPK		0.012683	4.13	P2	confident	0	460	25300		
+640.539	2.802	GROUP	(2.8)	SIL				shared	manual	0				
+643.341	5.183	P2	Yeah, I think the food culture exchange is like a low risk, very high reward social event as well.	SPK		0.015855	1.78	P2	confident	0	2802	35626		3027
+647.047	0.781	P4	Yeah, for sure.	SPK		0.021228	1.19	P4	confident	-1477	-1477	-1477		2331
+647.047	0.781	P4	[OVL:competitive]	OVL	competitive			shared	manual	-781				2331
+647.341	0.429	P3	Yeah.	BCK				P3	manual	-487			294	1627
+647.352	0.340	P1	Yeah.	BCK				P1	manual	-418			305	1360
+647.828	1.736	GROUP	(1.7)	SIL				shared	manual	136				696
+649.564	5.023	P2	A lot of really tasty food and you also get to put your cooking skills on display if you'd like.	SPK		0.011075	2.37	P2	confident	0	1736	1736		95
+654.492	0.431	P3	Yeah.	BCK				P3	manual	-95			4928	431
+654.587	1.421	GROUP	(1.4)	SIL				shared	manual	-336				336
+656.008	0.620	P2	if you have them.	SPK		0.016176	3.63	P2	confident	0	1421	8180		
+656.628	3.521	GROUP	(3.5)	SIL				shared	manual	0				
+660.149	6.263	P2	But yeah, I would maybe lean more towards the optical course between those two if those are the two we want to consider.	SPK		0.025831	4.13	P2	confident	0	3521	12321		
+666.412	2.733	GROUP	(2.7)	SIL				shared	manual	0				1041
+667.935	1.041	P3	Yeah.	BCK		0.012754	1.11	P3	confident	-1210				1041
+669.145	2.000	P3	My only reason to lean towards...	SPK		0.010551	3.06	P3	confident	169	2733	2733		1468
+670.411	8.471	MODERATOR	One last minute, and as before, one of you at the end would say, sorry, the timer is not showing, but I will come and tell you.	SPK				P1	manual	-734	-734	-734		1468
+670.411	0.734	MODERATOR	[OVL:competitive]	OVL	competitive			shared	manual	-8471				1468
+678.882	0.894	GROUP	(0.9)	SIL				shared	manual	7737				
+679.776	1.161	P2	Yeah, finish your point though.	SPK		0.013937	4.57	P2	confident	0	894	894		
+680.937	0.115	GROUP	(.)	SIL				shared	manual	0				
+681.052	0.240	P3	Oh, no.	SPK		0.033144	5.12	P3	confident	0	115	115		
+681.292	0.721	GROUP	(0.7)	SIL				shared	manual	0				
+682.013	5.923	P3	No, I was just saying that the only reason to lean towards the other one for the food one was just because of the inclusivity, that was the only reason	SPK		0.016442	4.35	P3	confident	0	721	1076		
+687.936	0.901	GROUP	(0.9)	SIL				shared	manual	0				
+688.837	0.140	P3	Yeah.	SPK		0.004456	2.69	P3	confident	0	901	7900		
+688.977	1.521	GROUP	(1.5)	SIL				shared	manual	0				
+690.498	0.440	P1	What do you think?	SPK		0.014074	4.82	P1	confident	0	1521	1521		0
+690.938	0.875	GROUP	(0.9)	SIL				shared	manual	0				0
+691.813	4.987	P4	I'm i think food exchange is a safer choice	SPK		0.012470	1.21	P4	confident	0	875	875		118
+696.741	0.260	P1	Safer?	SPK		0.020462	6.58	P1	confident	-59	-59	-59		203
+696.741	0.059	P1	[OVL:smooth]	OVL	smooth			shared	manual	-260				118
+696.916	0.340	P4	Yeah.	BCK		0.008689	0.94	P4	confident	116			175	340
+697.001	0.340	GROUP	(0.3)	SIL				shared	manual	-255				255
+697.341	0.600	P1	Alright.	SPK		0.022451	5.88	P1	confident	0	340	541		
+697.941	0.801	GROUP	(0.8)	SIL				shared	manual	0				0
+698.742	1.280	P1	Go inclusive.	SPK		0.028874	2.64	P1	confident	0	801	1942		0
+700.022	0.260	GROUP	(0.3)	SIL				shared	manual	0				
+700.282	1.221	P1	Food, cultural exchange.	SPK		0.015304	5.51	P1	confident	0	260	3482		
+701.503	6.967	GROUP	(7.0)	SIL				shared	manual	0				
+708.470	2.344	P1	with optional adventure park afters.	SPK		0.010363	1.18	P1	confident	0	6967	11670		2
+710.812	1.562	P3	We can add one around the lake.	SPK		0.029399	3.71	P3	confident	-2	-2	-2		2
+712.374	3.165	GROUP	(3.2)	SIL				shared	manual	0				
+715.539	3.705	P4	Do we have these obstacle courses in Copenhagen?	SPK		0.042742	10.73	P4	confident	0	3165	3165		
+719.244	0.306	GROUP	(0.3)	SIL				shared	manual	0				0
+719.550	3.226	P1	I think there's at least one near-ish.	SPK		0.015210	1.77	P1	confident	0	306	306		1671
+721.346	0.241	P4	Really?	SPK		0.028915	8.65	P4	confident	-1430	-1430	-1430		482
+721.346	0.241	P4	[OVL:smooth]	OVL	smooth			shared	manual	-241				482
+721.587	2.170	GROUP	(2.2)	SIL				shared	manual	0				1189
+723.757	0.521	P1	Yeah, I feel like...	SPK		0.024366	6.47	P1	confident	0	2170	2170		

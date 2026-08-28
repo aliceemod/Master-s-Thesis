@@ -1,0 +1,40 @@
+group_id	task_id	n_completions	n_repetitions
+ grp-07  	 T2     	0	2
+ grp-07  	 T3     	0	0
+ grp-08  	 T3     	1	0
+ grp-10  	 T1     	0	1
+ grp-10  	 T3     	0	1
+ grp-11  	 T1     	0	1
+ grp-11  	 T2     	0	1
+ grp-11  	 T3     	0	0
+ grp-12  	 T1     	0	0
+ grp-13  	 T2     	0	0
+ grp-14  	 T2     	1	0
+ grp-14  	 T3     	0	0
+ grp-15  	 T1     	0	1
+ grp-15  	 T2     	0	0
+ grp-15  	 T3     	0	0
+ grp-16  	 T1     	0	1
+ grp-16  	 T2     	0	0
+ grp-16  	 T3     	0	2
+grp-07	T2	0	1
+grp-08	T1	0	1
+grp-08	T2	0	0
+grp-08	T3	0	0
+grp-09	T3	0	0
+grp-10	T2	0	0
+grp-10	T3	1	0
+grp-11	T1	1	1
+grp-11	T2	0	0
+grp-11	T3	0	0
+grp-12	T1	0	0
+grp-12	T2	0	0
+grp-12	T3	0	0
+grp-13	T1	0	0
+grp-14	T1	0	0
+grp-14	T2	0	0
+grp-15	T1	0	0
+grp-15	T2	0	0
+grp-15	T3	1	0
+grp-16	T1	0	0
+grp-16	T2	0	0

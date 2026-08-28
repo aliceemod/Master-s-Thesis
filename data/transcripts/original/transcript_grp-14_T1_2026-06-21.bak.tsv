@@ -1,0 +1,154 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+210.629	2.269	MODERATOR	You can start now.	SPK		0.002169	1.31	shared	manual					
+212.898	2.585	GROUP	(2.6)	SIL				shared	manual	0				
+215.483	0.320	P2	Okay.	SPK		0.005649	3.06	mic10	manual	0	2585	2585		
+215.803	1.934	GROUP	(1.9)	SIL				shared	manual	0				
+217.737	1.482	P3	Okay, so what do you think of the candidates?	SPK		0.011146	1.89	mic11	manual	0	1934	1934		
+219.219	0.941	GROUP	(0.9)	SIL				shared	manual	0				
+220.160	12.299	P1	so can we say which candidate we think okay then I will vote for b with more technical experience in this in this area	SPK		0.013927	1.31	mic9	manual	0	941	941		
+232.459	1.855	GROUP	(1.9)	SIL				shared	manual	0				1097
+232.509	0.500	P3	mm-hmm	BCK				shared	manual	-1805				500
+233.717	1.304	P2	um	FP				shared	manual	708				1304
+234.314	6.386	P2	Okay, uhh, I think that that's maybe not the best candidate.	SPK		0.015186	6.31	mic10	manual	-707	1855	1855		707
+240.700	0.400	GROUP	(0.4)	SIL				shared	manual	0				
+241.100	1.701	P2	I would go with candidate C.	SPK		0.015408	4.62	mic10	manual	0	400	8641		
+242.801	3.982	GROUP	(4.0)	SIL				shared	manual	0				1051
+244.496	1.051	P2	uh	FP				shared	manual	-2287				1051
+246.783	12.725	P2	Only because the role is more so about transformation and adoption across departments, uhh, not necessarily like the technical intricacies of it.	SPK		0.017268	4.40	mic10	manual	1236	3982	14324		
+259.508	0.320	GROUP	(0.3)	SIL				shared	manual	0				
+259.828	2.819	P2	Surely someone else will do that part.	SPK		0.011242	5.23	mic10	manual	0	320	27369		
+262.647	1.342	GROUP	(1.3)	SIL				shared	manual	0				1307
+262.682	1.495	P2	um	FP				shared	manual	-1307				1495
+263.989	6.299	P2	But it's more so getting people on board and buying into	SPK		0.019555	5.55	mic10	manual	-188	1342	31530		342
+270.211	19.484	P2	the new adoption of of these ai programs um where candidate C has experience facilitating between various departments um so he ultimately right now for me looks like the the best candidate do you guys have any different thoughts?	SPK		0.008539	1.31	shared	manual	-77	-77	37752		3945
+270.211	0.077	P2	[OVL:smooth]	OVL	smooth			shared	manual	-19484				154
+277.459	1.411	P2	(1.4)	SIL				shared	manual	7171				1411
+283.154	0.140	P2	right	BCK		0.009114	3.82	mic10	manual	4284				140
+288.468	0.200	P3	Yeah.	SPK		0.008259	5.59	mic11	manual	5174	-1227	-1227		400
+288.468	0.200	P3	[OVL:smooth]	OVL	smooth			shared	manual	-200				400
+288.668	0.214	GROUP	(0.2)	SIL				shared	manual	0				214
+288.882	15.874	P3	I was thinking about Candidate C, but I was also thinking about Candidate A, but I think I will go with Candidate C because given the scope of what we are looking for, I think the most important is more like stakeholder management and get people on board.	SPK		0.020010	4.79	mic11	manual	0	214	-813		2626
+288.882	0.813	P3	[OVL:competitive]	OVL	competitive			shared	manual	-15874				1626
+292.013	0.500	P2	mmh	BCK				shared	manual	2318			3131	500
+299.813	0.500	P2	mm-hmm	BCK				shared	manual	7300			10931	500
+304.756	0.461	GROUP	(0.5)	SIL				shared	manual	4443				0
+305.217	3.603	P3	And I think in internal survey, people said like,	SPK		0.021199	6.30	mic11	manual	0	461	15522		
+308.820	1.741	GROUP	(1.7)	SIL				shared	manual	0				
+310.561	2.843	P3	Candidate C helped me understand why we needed a new tool.	SPK		0.026806	5.79	mic11	manual	0	1741	20866		
+313.404	0.420	GROUP	(0.4)	SIL				shared	manual	0				
+313.824	8.589	P3	So I think he has good communication skills and can also see some benefits and limitations of the software.	SPK		0.020857	6.46	mic11	manual	0	420	24129		500
+313.932	0.500	P2	mm-hmm	BCK				shared	manual	-8481			108	500
+322.413	0.880	GROUP	(0.9)	SIL				shared	manual	7981				
+323.293	4.064	P3	So I think he could be a good facilitator to onboard people.	SPK		0.015977	5.62	mic11	manual	0	880	33598		
+327.357	0.801	GROUP	(0.8)	SIL				shared	manual	0				
+328.158	4.164	P3	But I'm happy to hear other thoughts.	SPK		0.013380	5.48	mic11	manual	0	801	38463		
+332.322	0.591	GROUP	(0.6)	SIL				shared	manual	0				
+332.913	11.230	P4	Yeah, I'm also between candidate A and C. But it's because I see the points for candidate C. But I don't know why I'm being dragged more to candidate A.	SPK		0.021190	7.26	mic12	manual	0	591	591		0
+344.143	0.620	GROUP	(0.6)	SIL				shared	manual	0				0
+344.763	6.606	P4	It's because maybe it shows the actual experience and the exact experience that he has.	SPK		0.019972	7.59	mic12	manual	0	620	12441		
+351.369	2.561	GROUP	(2.6)	SIL				shared	manual	0				1138
+352.792	1.341	P4	um	FP				shared	manual	-1138				1341
+353.930	27.249	P4	and like it's given more examples and, um, I can, uh, see a willingness to learn which I think is very important and as you Nikita said this role is about helping teams and it's cross departmental and it's related to change management and I think his background and his experience is supporting that	SPK		0.018432	6.71	mic12	manual	-203	2561	21608		203
+381.179	0.821	GROUP	(0.8)	SIL				shared	manual	0				0
+382.000	4.000	P4	But again, I’m in between Candidate A and C.	SPK				shared	manual	0	821	49678		
+386.000	0.403	GROUP	(0.4)	SIL				shared	manual	0				
+386.403	17.256	P2	Yeah, umm, the reason that I didn't like candidate A is because, um, the bottom point there where he likes to keep processes and things the same, which is maybe not necessarily what	SPK		0.018864	4.61	mic10	manual	0	403	403		500
+401.312	0.500	P3	yeah	BCK				shared	manual	-2347			14909	500
+403.659	1.398	GROUP	(1.4)	SIL				shared	manual	1847				
+405.057	1.801	P2	we want for this role.	SPK		0.013820	4.20	mic10	manual	0	1398	19057		
+406.858	0.480	GROUP	(0.5)	SIL				shared	manual	0				
+407.338	20.027	P2	If it's someone that has to convince others that something new is the right way to go and a positive direction for the company, then someone who tends to stay in their lanes is not going to be someone maybe that's easily able to sway others to move in a different direction.	SPK		0.015897	1.57	mic10	manual	0	480	21338		1000
+410.447	0.500	P4	mmh	BCK				shared	manual	-16918			3109	500
+420.579	0.500	P4	mmh	BCK				shared	manual	9632			13241	500
+427.365	0.206	GROUP	(0.2)	SIL				shared	manual	6286				
+427.571	3.703	P4	Sorry, do we have different candidates or different information about candidates?	SPK		0.018117	7.99	mic12	manual	0	206	206		
+431.274	0.160	GROUP	(.)	SIL				shared	manual	0				
+431.434	0.841	MODERATOR	Same candidates.	SPK		0.001712	1.15	shared	manual	0	160	160		0
+432.275	0.260	GROUP	(0.3)	SIL				shared	manual	0				0
+432.535	0.901	P4	And same information?	SPK		0.025053	10.04	mic12	manual	0	260	260		0
+433.436	1.994	GROUP	(2.0)	SIL				shared	manual	0				0
+435.430	0.361	P4	I see.	SPK		0.032593	1.46	mic12	manual	0	1994	3155		
+435.791	0.800	GROUP	(0.8)	SIL				shared	manual	0				
+436.591	0.980	P4	Now it's...	SPK		0.053721	1.15	mic12	manual	0	800	4316		1712
+436.715	0.860	P1	We shouldn't ask that.	SPK		0.049598	1.19	mic9	manual	-856	-856	-856		1712
+436.715	0.856	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-860				1712
+437.575	0.860	GROUP	(0.9)	SIL				shared	manual	4				543
+437.892	0.660	P4	Okay.	BCK		0.037742	0.66	mic12	manual	-543				660
+438.435	21.568	P3	I think because I see your point Nikita because candidate A is like I got like a steady hand and I feel like it's not so like yeah it seems like a bit more like too tight on track so I would be worried that he will just try to keep the process as it is and not try to be flexible with other opinions	SPK		0.026461	1.49	mic11	manual	-117	860	860		5563
+444.427	0.500	P2	mmh	BCK				shared	manual	-15576			5992	843
+444.584	1.400	P4	[SOFT LAUGHTER]	LAU				shared	manual	-343				1743
+448.744	0.981	P3	(1.0)	SIL				shared	manual	2760				981
+451.554	1.072	P2	mmh	BCK				shared	manual	1829			13119	1072
+456.843	1.320	P2	mm-hmm	BCK				shared	manual	4217			18408	1320
+459.830	0.500	P2	mm-hmm	BCK				shared	manual	1667			21395	500
+460.003	0.548	GROUP	(0.5)	SIL				shared	manual	-327				327
+460.551	1.048	P3	So....	SPK		0.013180	1.97	mic12	manual	0	548	22976		2
+461.597	1.051	P2	Yeah.	SPK		0.026927	4.34	mic10	manual	-2	-2	-2		2
+462.648	1.107	GROUP	(1.1)	SIL				shared	manual	0				0
+463.755	17.644	P1	I would insist on candidate B due to the experience in this field that they have, because here we are trying to identify opportunities, for example, and I feel that someone that knows what the technology is capable of, they could have more opportunity to improve this.	SPK		0.027716	6.88	mic9	manual	0	1107	1107		0
+481.399	0.800	GROUP	(0.8)	SIL				shared	manual	0				
+482.199	25.767	P4	um I get it but um I also I mean from the experience with my team for example someone that has a technical skills might not have the soft skills to transmit the information that they need and to I feel like for example also in the position of a project coordinator let's say you have the part where you do the technical stuff and then you have the change management where you work with the people I feel like when you work with the people and implement the changes that you want to	SPK		0.021632	5.76	mic12	manual	0	800	800		
+507.966	0.660	GROUP	(0.7)	SIL				shared	manual	0				0
+508.626	24.197	P4	transmit that's like the part that takes the longer and that requires kind of like of a skilled person in in communication and yeah that's	SPK		0.015018	1.08	mic12	manual	0	660	27227		28311
+518.643	0.801	P2	Yeah, I agree with you.	SPK		0.027132	3.83	mic10	manual	-14180	-14180	-14180		1602
+518.643	0.801	P2	[OVL:competitive]	OVL	competitive			shared	manual	-801				1602
+519.464	13.350	P2	I think that typically, not always, of course, but typically the people with the highest technical skill and knowledge are maybe not the best to always get people on board.	SPK		0.017457	3.79	mic10	manual	20	20	-13359		26700
+519.464	13.350	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-13350				26700
+532.814	0.186	GROUP	(.)	SIL				shared	manual	0				9
+533.000	4.000	P1	I agree. 100% agree	SPK				shared	manual	0	186	186		3096
+533.904	4.600	GROUP	[GROUP LAUGHTER]	LAU				shared	manual	-3096				4600
+537.000	0.658	GROUP	(0.7)	SIL				shared	manual	-1504				658
+537.658	7.826	P2	But not that he probably can't do the job, but I just don't know that he would be the best one necessarily for this one.	SPK		0.055763	5.66	mic10	manual	0	658	658		846
+545.484	6.752	GROUP	(6.8)	SIL				shared	manual	0				2631
+549.605	3.058	P2	uh okay yeah	BCK		0.015801	2.39	mic10	manual	-2631				3058
+552.236	2.731	P3	So what would be our choice?	SPK		0.014690	5.97	mic11	manual	-427	6752	6752		427
+555.000	23.000	P2	Yeah I mean I’m still going with with with c he like uh oh he this person has uh some interest in tech or interest in um technology of some sort uh maybe he's not an expert	SPK				shared	manual	33	33	33		500
+573.672	0.500	P4	mmh	BCK				shared	manual	-4328			18672	500
+578.000	0.107	GROUP	(.)	SIL				shared	manual	3828				
+578.107	2.941	P2	But I like that there's an interest there.	SPK		0.020181	2.73	mic10	manual	0	107	23140		731
+580.587	0.500	P4	mm-hmm	BCK				shared	manual	-461			2480	809
+580.778	0.859	P4	um	FP				shared	manual	-309				1168
+581.048	2.180	GROUP	(2.2)	SIL				shared	manual	-589				628
+583.228	16.205	P2	And the fact that he's able to run projects between different departments, I think also shows an ability to get people on board and moving in the same direction, right?	SPK		0.011731	2.59	mic10	manual	0	2180	28261		3132
+590.007	2.632	P2	(2.6)	SIL				shared	manual	-9426				2632
+593.657	0.500	P4	mm-hmm	BCK				shared	manual	1018			10429	500
+599.433	1.020	GROUP	(1.0)	SIL				shared	manual	5276				
+600.453	1.401	P2	Which is sort of what we want here.	SPK		0.007106	4.08	mic10	manual	0	1020	45486		
+601.854	0.339	GROUP	(0.3)	SIL				shared	manual	0				0
+602.193	1.589	P1	I will buy it.	SPK		0.108221	1.11	mic12	manual	0	339	339		128
+603.654	2.211	GROUP	[GROUP LAUGHTER]	LAU				shared	manual	-128				2242
+603.782	1.550	GROUP	(1.5)	SIL				shared	manual	-2083				1550
+605.332	0.441	P4	Okay.	SPK		0.066958	7.95	mic12	manual	0	1550	1550		472
+605.742	1.320	P4	I'm bought.	SPK		0.024034	1.58	mic11	manual	-31	-31	1960		3265
+606.000	1.891	P4	Sold.	SPK				shared	manual	-1062	-1062	2218		4769
+606.000	1.062	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1891				3111
+606.733	4.840	P3	So we decided candidate C. If...	SPK		0.050244	1.23	mic12	manual	-329	-1158	-1158		3523
+606.733	0.329	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-4840				1645
+606.733	1.158	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-329				3303
+610.995	0.220	P1	Yes.	BCK		0.007979	3.91	mic9	manual	3104			4262	220
+611.573	0.443	GROUP	(0.4)	SIL				shared	manual	358				
+612.016	0.220	P4	Yeah.	SPK		0.014785	7.44	mic12	manual	0	443	443		
+612.236	2.070	GROUP	(2.1)	SIL				shared	manual	0				
+614.306	25.546	P4	I think we have different information so um yeah so in my opinion like I mean from my board it looks different but then your point is valid about the candidate c the information that I don't have so yeah	SPK		0.019820	1.50	mic12	manual	0	2070	2733		19216
+615.841	0.760	P2	yeah	BCK		0.021157	0.82	mic10	manual	-24011			1535	760
+621.549	0.979	P2	mmh	BCK				shared	manual	4948			7243	979
+630.000	1.459	P2	alright	BCK				shared	manual	7472			15694	1459
+631.843	8.699	MODERATOR	okay now I will send to all the tablets a selection form but you have to choose only one person among yourself that sends it in	SPK		0.018452	3.55	mic10	manual	384	-8009	-8009		16018
+631.843	8.009	MODERATOR	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-8699				16018
+640.542	5.932	GROUP	(5.9)	SIL				shared	manual	690				
+646.474	0.712	P2	Oh, okay.	SPK		0.019974	4.04	mic10	manual	0	5932	5932		
+647.186	0.604	GROUP	(0.6)	SIL				shared	manual	0				0
+647.790	0.160	P2	Yeah.	SPK		0.008241	4.22	mic10	manual	0	604	7248		0
+647.950	0.761	GROUP	(0.8)	SIL				shared	manual	0				
+648.711	0.280	P2	I don't know.	SPK		0.007405	4.19	mic10	manual	0	761	8169		
+649.011	0.381	P2	I don't care.	SPK		0.004183	2.90	mic10	manual	20	20	8469		
+649.392	4.858	GROUP	(4.9)	SIL				shared	manual	0				
+654.250	0.480	P2	Does anyone want to send it in?	SPK		0.015475	1.04	mic12	manual	0	4858	13708		
+654.730	0.367	GROUP	(0.4)	SIL				shared	manual	0				97
+655.000	1.000	P2	Oh,	BCK				shared	manual	-97				1000
+655.097	0.120	P4	Yeah, sure.	SPK		0.069824	4.45	mic10	manual	-903	367	367		120
+655.217	0.783	GROUP	(0.8)	SIL				shared	manual	0				783
+656.000	3.960	P1	I thought it was individual and then I noticed it was a group decision.	SPK				shared	manual	0	783	783		8930
+656.312	5.829	GROUP	[LAUGHTER]	LAU				shared	manual	-3648				8930
+656.532	2.641	P3	I did send it in	SPK		0.194932	1.32	mic9	manual	-5609	-3428	-3428		7923
+656.532	2.641	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2641				7923

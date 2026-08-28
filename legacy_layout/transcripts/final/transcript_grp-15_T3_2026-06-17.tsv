@@ -1,0 +1,212 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms	context_label
+320.244	3.305	MODERATOR	Please start the discussion.	SPK		0.009338	1.15	shared	manual					0.0	
+323.549	4.956	GROUP	(5.0)	SIL				shared	manual	0.0				0.0	
+328.505	2.128	P2	Maybe we should just present it quickly?	SPK		0.013946	1.42	shared	manual	0.0	4956.0	4956.0		430.0	
+330.418	0.741	P4	Yeah.	SPK		0.01886	2.66	mic10	manual	-215.0	-215.0	-215.0		430.0	
+330.418	0.215	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-741.0				430.0	
+331.159	1.895	GROUP	(1.9)	SIL				shared	manual	526.0					
+333.054	1.582	P3	Go, P1	SPK	collaborative			shared	manual	0.0	1895.0	1895.0			
+334.68	8.087	P1	Okay, so Falster, that's an island outside of Copenhagen, and now where we just sold half of GN, we have money to host that one.	SPK		0.063368	1.5	mic9	manual	44.0	44.0	44.0		2205.0	
+341.478	0.902	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-1289.0				1818.0	
+341.744	0.28	P4	Yeah	SPK		0.047705	1.99	mic12	manual	-636.0	-1023.0	-1023.0		840.0	
+341.744	0.28	P4	[OVL:smooth]	OVL	smooth			shared	confident	-280.0				840.0	collaborative
+342.024	0.843	GROUP	(0.8)	SIL				shared	manual	0.0				1099.0	
+342.867	3.604	P1	So I think it would also be good for stress relief of the employees.	SPK		0.05653	3.83	mic9	manual	0.0	843.0	843.0			
+346.471	0.96	GROUP	(1.0)	SIL				shared	manual	0.0					
+347.431	5.946	P1	Then we have a petanque tournament, I think that's self-explanatory, and then a GN-wide cocktail course.	SPK		0.044638	6.53	mic9	manual	0.0	960.0	5407.0			
+353.377	2.479	GROUP	(2.5)	SIL				shared	manual	0.0					
+355.856	0.481	P2	Sounds fun.	SPK		0.003646	1.8	shared	manual	0.0	2479.0	2479.0			
+356.337	2.527	GROUP	(2.5)	SIL				shared	manual	0.0					
+358.864	3.322	P2	I guess I'm number two right	SPK		0.054291	2.66	mic12	manual	0.0	2527.0	5487.0		851.0	
+360.005	0.5	P3	yeah	BCK	collaborative			shared	manual	-2181.0			1141.0	701.0	
+360.042	0.201	P1	Yes,	BCK		0.040787	0.57	mic9	manual	-463.0			1178.0	402.0	
+362.111	7.461	P2	Mmh okay, the first one is we did it at my old job, which was quite fun, but we did a job swap.	SPK		0.0142	3.4	mic10	manual	1868.0	-75.0	8734.0		150.0	
+362.111	0.075	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-7461.0				150.0	
+369.572	0.48	GROUP	(0.5)	SIL				shared	manual	7386.0					
+370.052	4.781	P2	So you either follow a person for a day and see what they do.	SPK		0.010782	2.64	mic10	manual	0.0	480.0	16675.0			
+374.833	0.14	GROUP	(.)	SIL				shared	manual	0.0					
+374.973	4.901	P2	You choose your, like, you set up your own, like, deals or something.	SPK		0.006963	3.3	mic10	manual	0.0	140.0	21596.0			
+379.874	0.84	GROUP	(0.8)	SIL				shared	manual	0.0					
+380.714	5.881	P2	Or you have, like, a department be in another department for a day just to see what other people are working with.	SPK		0.008784	3.34	mic10	manual	0.0	840.0	27337.0			
+386.595	1.18	GROUP	(1.2)	SIL				shared	manual	0.0				0.0	
+387.775	4.183	P2	Then I think foraging at this campus could be quite fun.	SPK		0.01281	3.34	mic10	manual	0.0	1180.0	34398.0		0.0	
+391.958	0.7	GROUP	(0.7)	SIL				shared	manual	0.0					
+392.658	7.424	P2	So like hunting for plants and stuff like that around campus and then maybe having a cooking lesson or something.	SPK		0.010498	3.69	mic10	manual	0.0	700.0	39281.0			
+400.082	0.881	GROUP	(0.9)	SIL				shared	manual	0.0					
+400.963	9.205	P2	And then the third one is a trip to the production site in Praesto to see how they make the hearing aids and PCB boards and stuff like that.	SPK		0.010273	3.44	mic10	manual	0.0	881.0	47586.0			
+410.168	0.2	GROUP	(.)	SIL				shared	manual	0.0					
+410.368	1.021	P2	Like a nice outing.	SPK		0.007405	3.2	mic10	manual	0.0	200.0	56991.0			
+411.389	0.54	GROUP	(0.5)	SIL				shared	manual	0.0				0.0	
+411.929	1.541	P2	Both a trip to Praesto.	SPK		0.005829	2.59	mic10	manual	0.0	540.0	58552.0		0.0	
+413.47	0.24	GROUP	(0.2)	SIL				shared	manual	0.0				0.0	
+413.71	4.047	P2	and then it's it's pretty pretty there and then also yeah seeing something	SPK		0.008349	3.32	mic10	manual	0.0	240.0	60333.0		0.0	
+417.757	4.327	GROUP	(4.3)	SIL				shared	manual	0.0				620.0	
+419.042	0.5	P3	mmh	BCK	collaborative			shared	manual	-3042.0				500.0	
+421.902	0.12	P3	er	FP	collaborative			shared	manual	2360.0				120.0	
+422.084	4.324	P3	My ideas go from more to less appealing to me.	SPK		0.03212	6.56	mic11	manual	62.0	4327.0	4327.0			
+426.408	0.901	GROUP	(0.9)	SIL				shared	manual	0.0				680.0	
+426.713	2.0	P3	[SOFT LAUGHTER]	LAU	collaborative			shared	manual	-596.0				3488.0	
+427.225	2.0	P1	[SOFT LAUGHTER]	LAU	collaborative			shared	manual	-1488.0				3488.0	
+427.309	8.549	P3	The first one is I think there's quite a detachment between what we do in the company and how the company is run.	SPK		0.047368	2.61	mic11	manual	-1916.0	901.0	9552.0		4362.0	
+435.337	3.004	P3	So I think it would be nice to have an event that actually	SPK		0.029597	5.01	mic11	manual	-521.0	-521.0	17580.0		1042.0	
+435.337	0.521	P3	[OVL:competitive]	OVL	competitive			shared	confident	-3004.0				1042.0	competitive
+438.341	0.88	GROUP	(0.9)	SIL				shared	manual	2483.0					
+439.221	16.489	P3	allows people to become an acoustic engineer or something like that and I mean there's a very easy way to do that which is just build instruments with simple objects you can do that you can make your own guitar out of a box and a stick and some strings and then you understand about you know what is sound and how difficult it is to make something that sounds good	SPK		0.031528	4.01	mic11	manual	0.0	880.0	21464.0		1000.0	
+443.0	0.5	P1	mh	BCK	collaborative			shared	manual	-12710.0			3779.0	500.0	
+451.88	0.5	P2	mmh	BCK	collaborative			shared	manual	8380.0			12659.0	500.0	
+455.71	0.62	GROUP	(0.6)	SIL				shared	manual	3330.0					
+456.33	0.821	P3	And stuff like that, right?	SPK		0.022885	4.8	mic11	manual	0.0	620.0	38573.0			
+457.171	0.5	P3	So, I don't know.	SPK		0.010566	4.68	mic11	manual	20.0	20.0	39414.0			
+457.671	0.06	GROUP	(.)	SIL				shared	manual	0.0					
+457.731	0.4	P3	And it's fun.	SPK		0.015256	3.97	mic11	manual	0.0	60.0	39974.0			
+458.131	0.741	GROUP	(0.7)	SIL				shared	manual	0.0					
+458.872	2.801	P3	Instead of marshmallows and spaghettis, right?	SPK		0.021344	6.26	mic11	manual	0.0	741.0	41115.0			
+461.673	0.06	GROUP	(.)	SIL				shared	manual	0.0					
+461.733	6.844	P3	Then, I mean, we have steel series and people talk about it, but I haven't known anyone who has used the gaming.	SPK		0.042472	5.13	mic11	manual	0.0	60.0	43976.0			
+468.577	0.841	GROUP	(0.8)	SIL				shared	manual	0.0					
+469.418	0.961	P3	I haven't.	SPK		0.054277	5.96	mic11	manual	0.0	841.0	51661.0			
+470.379	0.08	GROUP	(.)	SIL				shared	manual	0.0					
+470.459	3.402	P3	Facilities we have, but I mean, why not having a gaming league between everyone?	SPK		0.043458	6.09	mic11	manual	0.0	80.0	52702.0			
+473.881	1.4	P3	There are multiple games.	SPK		0.023052	5.44	mic11	manual	20.0	20.0	56124.0			
+475.281	0.181	GROUP	(.)	SIL				shared	manual	0.0					
+475.462	1.44	P3	It doesn't need to be a shooting one, right?	SPK		0.017817	1.69	mic11	manual	0.0	181.0	57705.0		500.0	
+476.073	0.5	P2	mmh	BCK	collaborative			shared	manual	-829.0			611.0	500.0	
+476.902	0.06	GROUP	(.)	SIL				shared	manual	329.0					
+476.962	0.781	P3	It can be any game.	SPK		0.008512	3.76	mic11	manual	0.0	60.0	59205.0			
+477.743	2.299	GROUP	(2.3)	SIL				shared	manual	0.0					
+480.042	4.063	P1	Maybe people should just do whatever they want.	SPK		0.126657	1.22	mic9	manual	0.0	2299.0	2299.0		2544.0	
+481.991	2.659	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-2114.0				3089.0	
+483.89	1.461	P3	So, yeah, that's it.	SPK		0.063885	1.08	mic11	manual	-760.0	-215.0	-215.0		1190.0	
+483.89	0.215	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-1461.0				645.0	
+485.371	1.981	P2	So, get half a day off	SPK		0.181066	3.89	mic11	manual	1266.0	20.0	20.0		852.0	
+486.5	3.68	P1	[LAUGHTER]	LAU	collaborative			shared	manual	-852.0				3680.0	
+487.352	3.089	GROUP	(3.1)	SIL				shared	manual	-2828.0				2828.0	
+490.441	6.501	P4	Okay, I put a cultural tour of Copenhagen, because I know we have a lot of international co-workers, so going around showing it.	SPK		0.051261	10.1	mic12	manual	0.0	3089.0	3089.0			
+496.942	0.48	GROUP	(0.5)	SIL				shared	manual	0.0					
+497.422	2.52	P4	And I put Secret Santa, because I ran out of ideas.	SPK		0.030909	8.28	mic12	manual	0.0	480.0	10070.0			
+499.942	0.541	GROUP	(0.5)	SIL				shared	manual	0.0					
+500.483	6.621	P4	And then I put the Best Visit Team Competition, because there's nothing that builds team spirit more than competing against it.	SPK		0.05414	3.12	mic12	manual	0.0	541.0	13131.0		1351.0	
+505.301	0.18	P3	No.	BCK		0.009189	1.2	mic11	manual	-1803.0			4818.0	180.0	
+505.872	1.171	P3	[LAUGHTER]	LAU	collaborative			shared	manual	391.0				1171.0	
+507.104	3.371	GROUP	(3.4)	SIL				shared	manual	61.0				2978.0	
+508.115	2.029	P1	[LAUGHTER]	LAU	collaborative			shared	manual	-2360.0				2647.0	
+509.526	1.011	GROUP	[SOFT LAUGHTER]	LAU	collaborative			shared	manual	-618.0				1629.0	
+510.475	4.981	P4	but without it being physical I feel like it's always like a soccer like dodgeball I don't know something so something a bit more	SPK		0.065806	1.93	mic12	manual	-62.0	3371.0	23123.0		975.0	
+514.144	0.5	P3	mmh	BCK	collaborative			shared	manual	-1312.0			3669.0	500.0	
+515.043	1.161	P3	yeah	BCK		0.020502	2.73	mic11	manual	399.0			4568.0	1161.0	
+515.456	4.011	GROUP	(4.0)	SIL				shared	manual	-748.0				748.0	
+519.467	9.92	P4	I'll just say first I really like the day in the life job swap like I would love to do that uhm that one stood out to me	SPK	collaborative			shared	manual	0.0	4011.0	32115.0		5260.0	
+525.587	0.3	P4	(0.3)	SIL	collaborative			shared	manual	-3800.0				300.0	
+526.427	2.0	P2	yeah that' also quite fun	SPK	collaborative			shared	manual	540.0	-2960.0	-2960.0		4000.0	
+526.427	2.0	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2000.0				4000.0	collaborative
+528.427	3.482	GROUP	(3.5)	SIL				shared	manual	0.0				1460.0	
+530.528	0.5	P1	mmh	BCK	collaborative			shared	manual	-1381.0				500.0	
+531.909	6.869	P2	I shadowed or job swapped with a chemist. And I know nothing about chemistry but it was kind of fun	SPK		0.009183	1.91	shared	manual	881.0	3482.0	2522.0		7093.0	
+534.984	3.299	P4	exactly that sounds kind of cool	SPK		0.019814	1.57	mic12	manual	-3794.0	-3794.0	-3794.0		6598.0	
+534.984	3.299	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-3299.0				6598.0	
+538.283	2.561	GROUP	(2.6)	SIL				shared	manual	0.0				495.0	
+540.844	0.541	P3	Yeah, that could be.	SPK		0.01398	5.03	mic11	manual	0.0	2561.0	2561.0		0.0	
+541.385	1.796	GROUP	(1.8)	SIL				shared	manual	0.0				0.0	
+543.181	2.221	P1	I also like the launchable instrument thing. And also...	SPK		0.032979	6.12	mic9	manual	0.0	1796.0	1796.0			
+545.402	0.9	GROUP	(0.9)	SIL				shared	manual	0.0					
+546.302	2.081	P2	I like something that you could do during the day	SPK		0.008476	2.78	mic9	manual	0.0	900.0	900.0			
+548.383	1.629	GROUP	(1.6)	SIL				shared	manual	0.0				0.0	
+550.012	0.46	P2	No, sorry.	SPK		0.007114	2.62	mic10	manual	0.0	1629.0	4610.0		0.0	
+550.472	1.16	GROUP	(1.2)	SIL				shared	manual	0.0					
+551.632	0.4	P2	Like that.	SPK		0.009806	3.13	mic10	manual	0.0	1160.0	6230.0			
+552.032	0.16	GROUP	(.)	SIL				shared	manual	0.0					
+552.192	0.921	P2	Yeah, it's cool.	SPK		0.004739	1.84	shared	manual	0.0	160.0	6790.0		300.0	
+552.192	0.3	P1	Yeah,	BCK		0.004812	2.43	shared	manual	-921.0			0.0	300.0	
+553.113	4.562	GROUP	(4.6)	SIL				shared	manual	621.0				0.0	
+557.675	7.091	P3	I mean, there are many, how to say, wannabe musicians in this company. So ahaha	SPK		0.027608	5.31	mic11	manual	0.0	4562.0	4562.0		298.0	
+564.617	1.149	P1	Yeah, yeah, exactly.	SPK		0.197958	2.67	mic9	manual	-149.0	-149.0	-149.0		298.0	
+564.617	0.149	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-1149.0				298.0	
+565.766	6.676	GROUP	(6.7)	SIL				shared	manual	1000.0					
+572.442	1.121	P3	Yeah, but we are not good enough.	SPK		0.094889	1.01	mic11	manual	0.0	6676.0	6676.0			
+573.563	0.402	GROUP	(0.4)	SIL				shared	manual	0.0					
+573.965	5.104	P1	I guess people should feel somewhat related to sound, at least, or something like that, right?	SPK		0.081752	6.68	mic9	manual	0.0	402.0	402.0		0.0	
+579.069	0.421	GROUP	(0.4)	SIL				shared	manual	0.0				0.0	
+579.49	1.161	P1	I think it's interesting, yeah.	SPK		0.031179	3.15	mic9	manual	0.0	421.0	5927.0		123.0	
+580.528	0.26	P3	yeah	BCK		0.014608	1.51	mic11	manual	-123.0			1038.0	260.0	
+580.651	0.857	GROUP	(0.9)	SIL				shared	manual	-137.0				137.0	
+581.508	2.92	P3	but the job swap could be something more	SPK	collaborative			shared	manual	0.0	857.0	857.0		2323.0	
+582.596	0.24	P1	Yeah.	SPK		0.043165	1.9	mic9	manual	-1832.0	-1832.0	-1832.0		480.0	
+582.596	0.24	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-240.0				480.0	
+582.836	1.341	GROUP	(1.3)	SIL				shared	manual	0.0				1341.0	
+584.177	1.541	P1	It's a bit more to the heavy side now.	SPK		0.083198	6.21	mic9	manual	0.0	1341.0	-251.0		502.0	
+584.177	0.251	P1	[OVL:smooth]	OVL	smooth			shared	confident	-1541.0				502.0	
+585.718	0.3	GROUP	(0.3)	SIL				shared	manual	1290.0				0.0	
+586.018	2.402	P1	I guess in the serious box, right?	SPK		0.06164	7.71	mic9	manual	0.0	300.0	1590.0		0.0	
+588.42	2.107	GROUP	(2.1)	SIL				shared	manual	0.0				1261.0	
+589.16	0.761	P2	Yeah.	BCK		0.044291	0.88	shared	manual	-1367.0				761.0	
+589.988	0.5	P1	yeah	BCK	collaborative			shared	manual	67.0				500.0	
+590.527	0.989	P1	but is nice though	SPK	collaborative			shared	manual	39.0	2107.0	6099.0		0.0	
+591.516	1.406	GROUP	(1.4)	SIL				shared	manual	0.0				0.0	
+592.922	0.658	P3	If we have a budget of half a million kroner to spend	SPK	collaborative			shared	manual	0.0	1406.0	1406.0		337.0	
+593.243	0.38	P1	Yeah,	BCK		0.140918	0.95	mic9	manual	-337.0			321.0	380.0	
+593.58	0.824	GROUP	(0.8)	SIL				shared	manual	-43.0				43.0	
+594.404	0.24	P1	Yeah. Exactly	SPK		0.064759	6.6	mic9	manual	0.0	824.0	824.0			
+594.644	4.608	GROUP	(4.6)	SIL				shared	manual	0.0				2284.0	
+595.599	0.18	P3	right	BCK		0.067963	1.83	mic11	manual	-3653.0				180.0	
+597.148	2.768	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	1369.0				2768.0	
+599.252	0.28	P2	definitely also for the networking of it	SPK		0.022599	3.79	shared	manual	-664.0	4608.0	4608.0		280.0	
+599.532	3.503	GROUP	(3.5)	SIL				shared	manual	0.0				384.0	
+603.035	0.24	P2	right?	SPK		0.007201	0.69	shared	manual	0.0	3503.0	8391.0		0.0	
+603.275	0.2	GROUP	(0.2)	SIL				shared	manual	0.0					
+603.475	5.884	P2	Like meeting someone else that you'd never work with and stuff, like bonding the company, whatever.	SPK		0.009195	1.12	mic10	manual	0.0	200.0	8831.0			
+609.359	6.544	GROUP	(6.5)	SIL				shared	manual	0.0					
+615.903	8.766	P1	So, I guess it's either 2-1 or 3-1, if I would have to...	SPK		0.056772	3.14	mic9	manual	0.0	6544.0	6544.0		3696.0	
+622.649	1.28	P2	Do we only have to choose one?	SPK		0.016457	1.04	mic10	manual	-2020.0	-2020.0	-2020.0		2560.0	
+622.649	1.28	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1280.0				2560.0	
+623.929	0.344	GROUP	(0.3)	SIL				shared	manual	0.0				344.0	
+624.273	0.601	P3	I think so.	SPK		0.085077	1.71	mic11	manual	0.0	344.0	344.0		1122.0	
+624.273	0.396	P3	[OVL:smooth]	OVL	smooth			shared	uncertain	-601.0				792.0	
+624.709	3.251	P1	Yeah, we have to choose one, okay.	SPK		0.055506	1.04	mic9	manual	40.0	-165.0	-165.0		330.0	
+624.709	0.165	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-3251.0				330.0	
+627.96	0.935	GROUP	(0.9)	SIL				shared	manual	3086.0					
+628.895	4.581	P2	Because I feel like it could also be a seasonal thing, like the secret Santa would be fun to have.	SPK		0.007591	1.22	mic10	manual	0.0	935.0	935.0			
+633.476	4.771	GROUP	(4.8)	SIL				shared	manual	0.0				500.0	
+633.724	0.5	P1	yeah	BCK	collaborative			shared	manual	-4523.0				500.0	
+638.247	3.221	P3	But maybe if it's GN wide, you know what I mean?	SPK		0.034649	5.53	mic11	manual	4023.0	4771.0	4771.0			
+641.468	0.06	GROUP	(.)	SIL				shared	manual	0.0					
+641.528	4.222	P3	It's because Secret Santa is kind of nice when you know the person a little bit, so you know.	SPK		0.038263	2.74	mic11	manual	0.0	60.0	8052.0		7.0	
+645.743	4.861	P4	No, I thought the fun thing would be like, go into teams and hunt down and be like, oh, I got this random name.	SPK		0.070069	1.8	mic12	manual	-7.0	-7.0	-7.0		7.0	
+650.644	1.241	P4	Who is it?	SPK		0.100231	1.8	mic12	manual	40.0	40.0	4894.0			
+651.905	0.72	P4	Where do they work?	SPK		0.126341	1.71	mic12	manual	20.0	20.0	6155.0			
+652.625	0.5	GROUP	(0.5)	SIL				shared	manual	0.0					
+653.125	2.181	P4	How do I get secret with this?	SPK		0.127091	1.87	mic12	manual	0.0	500.0	7375.0			
+655.306	0.9	GROUP	(0.9)	SIL				shared	manual	0.0					
+656.206	1.581	P4	But true, there would have to be a guessing.	SPK		0.17667	1.85	mic12	manual	0.0	900.0	10456.0			
+657.807	2.06	P4	How would you guess it?	SPK		0.135351	1.75	mic12	manual	20.0	20.0	12057.0		900.0	
+658.895	0.38	P3	Okay,	BCK		0.104387	0.58	mic11	manual	-972.0			1088.0	380.0	
+659.295	0.52	P3	yeah,	BCK		0.115091	0.67	mic11	manual	20.0			1488.0	520.0	
+659.867	0.6	GROUP	(0.6)	SIL				shared	manual	52.0					
+660.467	1.161	P4	That one would be a bit difficult.	SPK		0.095743	2.14	mic12	manual	0.0	600.0	14717.0			
+661.628	0.288	GROUP	(0.3)	SIL				shared	manual	0.0					
+661.916	0.2	P3	Yeah, that could be fun yeah	SPK		0.058605	0.7	shared	manual	0.0	288.0	288.0		0.0	
+662.116	1.881	GROUP	(1.9)	SIL				shared	manual	0.0				0.0	
+663.997	0.4	P3	That's true.	SPK		0.007872	3.53	mic11	manual	0.0	1881.0	2369.0			
+664.397	1.44	GROUP	(1.4)	SIL				shared	manual	0.0				0.0	
+665.837	7.08	P3	But I might stick with one that I didn't choose, then it would be the one that is a day in the life.	SPK		0.025832	5.84	mic11	manual	0.0	1440.0	4209.0		7518.0	
+669.158	4.923	P1	Okay, I agree.	SPK		0.028888	2.27	mic9	manual	-3759.0	-3759.0	-3759.0		7518.0	
+669.158	3.759	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-4923.0				7518.0	
+674.081	0.28	GROUP	(0.3)	SIL				shared	manual	1164.0					
+674.361	3.869	P1	I think it's one of the most original ones up there.	SPK		0.047893	1.92	mic9	manual	0.0	280.0	1444.0		2516.0	
+676.512	0.88	P4	Okay.	BCK		0.03024	0.56	mic12	manual	-1718.0			2151.0	880.0	
+677.412	5.043	MODERATOR	So it seems that you have an agreement.	SPK		0.011955	2.06	mic12	manual	20.0	-818.0	-818.0		1776.0	
+677.412	0.818	MODERATOR	[OVL:competitive]	OVL	competitive			shared	uncertain	-5043.0				1636.0	
+681.485	0.14	P1	Yes	BCK		0.004421	0.69	mic9	manual	3255.0			4073.0	140.0	
+682.455	1.761	GROUP	(1.8)	SIL				shared	manual	830.0					
+684.216	6.784	MODERATOR	Please, one of you, select the idea that you chose, and it should be like just a number.	SPK		0.004449	1.57	shared	manual	0.0	1761.0	5986.0			
+691.0	0.48	GROUP	(0.5)	SIL				shared	manual	0.0					
+691.48	1.201	MODERATOR	P2-3 something.	SPK		0.00201	1.24	shared	manual	0.0	480.0	13250.0			
+692.681	1.486	GROUP	(1.5)	SIL				shared	manual	0.0					
+694.167	0.98	P2	Should I do it again?	SPK		0.010918	1.1	shared	manual	0.0	1486.0	1486.0			
+695.147	0.273	GROUP	(0.3)	SIL				shared	manual	0.0				0.0	
+695.42	0.872	P1	yeah why not	SPK		0.006638	3.35	mic10	manual	0.0	273.0	273.0		0.0	
+696.292	1.01	GROUP	(1.0)	SIL				shared	manual	0.0					
+697.302	2.0	P2	Ok so P....	SPK	collaborative			shared	manual	0.0	1010.0	1010.0		2380.0	
+698.112	2.0	P1	P2-1	SPK	collaborative			shared	manual	-1190.0	-1190.0	-1190.0		2564.0	
+698.112	1.19	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2000.0				2380.0	
+700.02	9.224	MODERATOR	How do I do that one?	SPK		0.00342	1.73	shared	confident	718.0	-92.0	-92.0		184.0	
+700.02	0.092	MODERATOR	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-9224.0				184.0	completion

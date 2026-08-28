@@ -1,0 +1,239 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms	context_label
+186.279	18.75	P4	Oh, I knew it.	SPK				shared	confident					29.0	
+205.0	29.531	P4	The highest game.	SPK				shared	confident	-29.0	-29.0			47560.0	
+209.0	5.0	P4	Yeah.	SPK				shared	confident	-25531.0	-25531.0			10000.0	
+209.0	5.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-5000.0				10000.0	collaborative
+214.0	12.0	P4	But I felt like when you were like	SPK				shared	confident	0.0	0.0			24000.0	
+214.0	12.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-12000.0				24000.0	competitive
+226.0	2.0	P4	You were very generous.	SPK				shared	confident	0.0	0.0			4000.0	
+226.0	2.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2000.0				4000.0	
+228.0	2.0	P3	Yeah, I thought about everyone here.	SPK				shared	confident	0.0	0.0	0.0		4000.0	
+228.0	2.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2000.0				4000.0	collaborative
+230.0	1.0	P4	Well, I guess it depends what we would use them for.	SPK				shared	confident	0.0	0.0	0.0		2000.0	
+230.0	1.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1000.0				2000.0	
+231.0	3.531	GROUP	(3.5)	SIL				shared	confident	0.0				3531.0	
+234.531	0.12	P1	So if we really trust each other, we could go over 10.	SPK				shared	confident	0.0	3531.0	3531.0			
+234.651	2.349	P1	Then we got the most of the benefit.	SPK				shared	confident	0.0	0.0	3651.0			
+237.0	1.0	GROUP	(1.0)	SIL				shared	confident	0.0					
+238.0	8.0	P1	So each person got 15 in the end.	SPK				shared	confident	0.0	1000.0	7000.0			
+246.0	2.269	GROUP	(2.3)	SIL				shared	confident	0.0					
+248.269	0.731	P1	And we don't know where that 0.5 comes from.	SPK				shared	confident	0.0	2269.0	17269.0			
+249.0	4.56	GROUP	(4.6)	SIL				shared	confident	0.0					
+253.56	0.5	P1	If everyone gives 10, then we got 15 in return.	SPK				shared	confident	0.0	4560.0	22560.0			
+254.06	3.433	GROUP	(3.4)	SIL				shared	confident	0.0					
+257.493	0.5	P1	And the extra money, we don't know where that comes from.	SPK				shared	confident	0.0	3433.0	26493.0			
+257.993	2.609	GROUP	(2.6)	SIL				shared	confident	0.0					
+260.602	0.859	P1	I think that also matters when you make such a decision.	SPK				shared	confident	0.0	2609.0	29602.0			
+261.461	2.083	GROUP	(2.1)	SIL				shared	confident	0.0				0.0	
+263.544	0.5	P3	Not true.	SPK				shared	confident	0.0	2083.0	2083.0		0.0	
+264.044	13.956	GROUP	(14.0)	SIL				shared	confident	0.0					
+278.0	12.909	P1	But I don't understand why you do 5 or 2.	SPK				shared	confident	0.0	13956.0	13956.0		33349.0	
+279.0	3.0	P1	To me, it sounds reasonable if you either do 10 or 0.	SPK				shared	confident	-11909.0	-11909.0	14956.0		6000.0	
+279.0	3.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-3000.0				6000.0	competitive
+282.0	5.0	P4	Well, because I didn't know what the GN fund is going to use it for, you know, so I'm not going to give them everything.	SPK				shared	confident	0.0	0.0	0.0		10000.0	
+282.0	5.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-5000.0				10000.0	competitive
+287.0	1.458	GROUP	(1.5)	SIL				shared	confident	0.0				1458.0	
+288.458	22.59	P1	Okay.	SPK				shared	confident	0.0	1458.0	1458.0		53121.0	
+288.458	2.451	P1	So it's a compromise	SPK	floor_fight			shared	confident	-22590.0	-22590.0	1458.0		15891.0	
+288.458	2.451	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2451.0				15891.0	
+288.458	2.451	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2451.0				15891.0	
+288.458	2.451	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2451.0				15891.0	
+290.0	1.0	P4	Yes.	SPK				shared	confident	-909.0	-909.0	-909.0		8363.0	
+290.0	0.909	P4	[OVL:competitive]	OVL	competitive			shared	confident	-1000.0				8181.0	
+290.0	1.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-909.0				8363.0	
+290.0	0.909	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-1000.0				8181.0	
+291.0	4.0	P2	I also think it's about compromising, like taking everything for oneself.	SPK				shared	confident	91.0	0.0	0.0		8000.0	
+291.0	4.0	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-4000.0				8000.0	collaborative
+295.0	8.0	P2	I think it's very selfish when you know that it's going into a fund.	SPK				shared	confident	0.0	0.0	4000.0		16000.0	
+295.0	8.0	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-8000.0				16000.0	collaborative
+303.0	3.0	P1	Yeah but in the end its going to be divided	SPK				shared	confident	0.0	0.0	0.0		6000.0	
+303.0	3.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-3000.0				6000.0	
+306.0	2.0	P2	Yeah but we don't have to take everything for ourselves	SPK				shared	confident	0.0	0.0	0.0		4000.0	
+306.0	2.0	P2	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-2000.0				4000.0	
+308.0	3.048	GROUP	(3.0)	SIL				shared	confident	0.0				3048.0	
+311.048	0.251	P2	For me, it's about also contributing to a community.	SPK				shared	confident	0.0	3048.0	5048.0			
+311.299	13.567	GROUP	(13.6)	SIL				shared	confident	0.0				2000.0	
+319.0	2.0	P1	yeah	BCK				shared	confident	-5866.0				2000.0	
+324.866	1.339	P1	Yeah, but I think the word chosen was fun, but it doesn't mean that this fun is for doing something good.	SPK				shared	confident	3866.0	13567.0	13567.0			
+326.205	4.795	GROUP	(4.8)	SIL				shared	confident	0.0				2000.0	
+329.0	2.0	P2	no	BCK				shared	confident	-2000.0				2000.0	
+331.0	0.1	P3	No,	BCK				shared	confident	0.0			0.0	100.0	
+331.0	1.0	P4	Yeah, that's why we compromise.	SPK				shared	confident	-100.0	4795.0	4795.0		100.0	
+332.0	1.309	P4	Yeah,	BCK				shared	confident	0.0			0.0	2618.0	
+332.0	23.0	P3	exactly.	BCK				shared	confident	-1309.0			0.0	24509.0	
+332.0	1.309	P1	In this case, the only purpose of this fun is to get some gain and divide it.	SPK	simultaneous			shared	confident	-23000.0	0.0	0.0		2618.0	
+333.309	5.712	GROUP	(5.7)	SIL				shared	confident	0.0				5712.0	
+339.021	0.5	P1	It's not for anything, but it's for getting some money for yourself.	SPK				shared	confident	0.0	5712.0	7021.0		500.0	
+339.521	3.479	GROUP	(3.5)	SIL				shared	confident	0.0				3479.0	
+343.0	0.1	P2	no	SPK				shared	confident	0.0	3479.0	3479.0		300.0	
+343.0	11.0	P2	I don't know I think that's an assumption I think my assumption was that we don't really know what we're exactly getting so that's why I compromise at five saying okay then I'll keep	SPK				shared	confident	-100.0	-100.0	3479.0		11200.0	
+343.0	0.1	P2	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-11000.0				300.0	
+354.0	1.0	GROUP	(1.0)	SIL				shared	confident	10900.0				1000.0	
+355.0	1.0	P1	So it could be some common investment it could be	SPK				shared	confident	0.0	1000.0	1000.0			
+356.0	1.0	P2	It could be, we don't know, it's an assumption	SPK				shared	confident	0.0	0.0	0.0			
+357.0	3.179	GROUP	(3.2)	SIL				shared	confident	0.0					
+360.179	0.5	P3	Well for me after I moved to Denmark I learned that you don't do everything for yourself it is more a community driven society here	SPK				shared	confident	0.0	3179.0	3179.0			
+360.679	5.638	GROUP	(5.6)	SIL				shared	confident	0.0					
+366.317	1.12	P2	You give and take, right?	SPK				shared	confident	0.0	5638.0	5638.0			
+367.437	2.524	GROUP	(2.5)	SIL				shared	confident	0.0					
+369.961	1.64	P3	You give and take and that's what I applied here.	SPK				shared	confident	0.0	2524.0	2524.0			
+371.601	0.399	GROUP	(0.4)	SIL				shared	confident	0.0					
+372.0	3.069	P4	You learned too well.	SPK				shared	confident	0.0	399.0	399.0			
+375.069	7.092	GROUP	(7.1)	SIL				shared	confident	0.0				1085.0	
+381.076	1.085	GROUP	(1.1)	SIL				shared	confident	-1085.0				1085.0	
+382.161	1.839	P2	So everything has like an order.	SPK				shared	confident	0.0	7092.0	7092.0		500.0	
+383.43	0.5	P3	mmh	BCK				shared	confident	-570.0			1269.0	500.0	
+384.0	6.211	P4	Well, I guess during the workshop, it also depends how we spin it, right?	SPK				shared	confident	70.0	0.0	0.0		803.0	
+389.752	0.92	P2	mm-hmm	BCK				shared	confident	-459.0			5752.0	1264.0	
+390.039	10.152	P4	So if we go with, let's say, the usage of AI, the first point should also be the explanation of why we're doing it.	SPK				shared	confident	-633.0	-172.0	6039.0		1873.0	
+390.039	0.172	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-10152.0				516.0	
+399.819	11.161	P4	And we could use the part how we manage stress and workload as the reason why in the introductory phase or stage of the workshop.	SPK				shared	confident	9608.0	-372.0	15819.0		3634.0	
+399.819	0.372	P4	[OVL:smooth]	OVL	smooth			shared	confident	-11161.0				896.0	
+400.039	1.2	P2	mm-hmm	BCK				shared	confident	-152.0			220.0	1504.0	
+406.539	0.5	P4	mmh	BCK				shared	confident	5300.0				574.0	
+406.965	1.19	P3	yes	BCK				shared	confident	-74.0			7146.0	1264.0	
+410.98	0.06	GROUP	(.)	SIL				shared	confident	2825.0					
+411.04	0.96	P2	Exactly. But we can also argument that we don't know where the stress of the workload actually comes from.	SPK				shared	confident	0.0	60.0	60.0			
+412.0	5.0	GROUP	(5.0)	SIL				shared	confident	0.0					
+417.0	2.771	P2	So is it something that is among their teams?	SPK				shared	confident	0.0	5000.0	6020.0		392.0	
+419.419	1.061	P3	mmh	BCK				shared	confident	-352.0			2419.0	1101.0	
+419.731	6.549	P2	Is it something that can make them work better, Because maybe there are already some frictions among the people that they work with.	SPK				shared	confident	-749.0	-40.0	8751.0		789.0	
+426.28	0.16	GROUP	(.)	SIL				shared	confident	0.0					
+426.44	9.611	P2	And how can we actually make that more clear that this is also something that can help them, because AI is also something that can help with that element	SPK				shared	confident	0.0	160.0	15460.0		2121.0	
+433.048	0.5	P3	mmh	BCK				shared	confident	-3003.0			6608.0	500.0	
+434.279	1.051	P4	yeah	BCK				shared	confident	731.0			7839.0	1051.0	
+435.453	0.57	P3	yeah	BCK				shared	confident	123.0			9013.0	570.0	
+436.051	0.949	GROUP	(0.9)	SIL				shared	confident	28.0					
+437.0	10.091	P2	So once again it is about the phasing, which order do we take them in and what is the end result that we want to end up with.	SPK				shared	confident	0.0	949.0	26020.0		949.0	
+442.229	0.949	P3	mm-hmm	BCK				shared	confident	-4862.0			5229.0	949.0	
+447.091	0.571	GROUP	(0.6)	SIL				shared	confident	3913.0				0.0	
+447.662	1.389	P3	Do you have any...?	SPK				shared	confident	0.0	571.0	571.0		102.0	
+449.0	1.2	P3	Fan, what do you think?	SPK				shared	confident	-51.0	-51.0	1909.0		1532.0	
+449.0	0.051	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-1200.0				102.0	
+449.485	24.891	P1	yeah still i don't have strong opinion on the topics i think they're all good um and i think it's uh it's it's not about uh which one to do we can do all of those it's just a matter of which one to do first or second is the sequence what to do so i think all of them are good um so regarding the format i think it's uh when we're talking about a workshop the most important thing is the um	SPK				shared	confident	434.0	-715.0	-715.0		14141.0	
+449.485	0.715	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-24891.0				1430.0	collaborative
+463.376	0.5	P3	that's true	SPK				shared	confident	13176.0	-11000.0	-11000.0		1000.0	
+463.376	0.5	P3	[OVL:competitive]	OVL	competitive			shared	confident	-500.0				1000.0	collaborative
+463.876	0.124	GROUP	(.)	SIL				shared	confident	0.0				124.0	
+464.0	1.211	P3	Yep.	SPK				shared	confident	0.0	124.0	-10376.0		2422.0	
+464.0	1.211	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1211.0				2422.0	collaborative
+465.211	9.84	GROUP	(9.8)	SIL				shared	confident	0.0				9165.0	
+475.051	5.419	P1	We need some interactive... we need to involve everyone in this workshop	SPK				shared	confident	0.0	9840.0	9840.0		940.0	
+480.0	5.571	P1	So it's not like just listen and relax.	SPK				shared	confident	-470.0	-470.0	14789.0		2082.0	
+480.0	0.47	P1	[OVL:smooth]	OVL	smooth			shared	confident	-5571.0				940.0	
+485.0	6.901	P1	So yeah, everyone should contribute and have some hands-on experience.	SPK				shared	confident	4530.0	-571.0	19789.0		10424.0	
+485.0	0.571	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-6901.0				1142.0	collaborative
+487.0	4.381	P4	I agree. It would be nice to...	SPK				shared	confident	1429.0	-4901.0	-4901.0		8762.0	
+487.0	4.381	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-4381.0				8762.0	collaborative
+491.381	0.619	GROUP	(0.6)	SIL				shared	confident	0.0				520.0	
+492.0	2.84	P1	And it's better to be across department work.	SPK				shared	confident	0.0	619.0	619.0		80.0	
+494.76	0.5	P3	mmh	BCK				shared	confident	-80.0			2760.0	500.0	
+494.84	1.432	GROUP	(1.4)	SIL				shared	confident	-420.0				420.0	
+496.272	9.488	P3	But then when we are in the first phase, as we discussed, when we have to mainly explain the team, why do they need AI and how could AI be helpful to them?	SPK				shared	confident	0.0	1432.0	1432.0			
+505.76	0.152	GROUP	(.)	SIL				shared	confident	0.0					
+505.912	4.091	P3	I guess the lecture and QA format would be a good start.	SPK				shared	confident	0.0	152.0	11072.0			
+510.003	0.161	GROUP	(.)	SIL				shared	confident	0.0					
+510.164	7.531	P3	And then we could phase out in a way where they then have some hands-on experience through the online training.	SPK				shared	confident	0.0	161.0	15324.0			
+517.723	4.269	P3	And then we take some interdepartmental stuff at a later point of time.	SPK				shared	confident	28.0	28.0	22883.0			
+521.992	0.979	GROUP	(1.0)	SIL				shared	confident	0.0				500.0	
+522.0	0.5	P2	mmh	BCK				shared	confident	-971.0				500.0	
+522.971	15.603	P4	yeah or we can use it as an opportunity to ask them where do you see where are your pain points and where do you see AI can help you because they probably have some ideas instead of us imposing on people	SPK				shared	confident	471.0	979.0	979.0		1520.0	
+528.791	0.72	P3	yes	BCK				shared	confident	-9783.0			5820.0	720.0	
+531.419	0.8	P3	yes	BCK				shared	confident	1908.0			8448.0	800.0	
+538.574	0.586	GROUP	(0.6)	SIL				shared	confident	6355.0					
+539.16	9.4	P3	exactly so maybe the lecture in the lecture and Q&A part they could come up with their own doubts and how could it benefit them	SPK				shared	confident	0.0	586.0	586.0		1120.0	
+548.0	8.0	P1	Just to remind, we have 25 seconds left	SPK				shared	confident	-560.0	-560.0	-560.0		11859.0	
+548.0	0.56	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-8000.0				1120.0	collaborative
+550.16	3.251	P2	yeah I was about to say the same we need to choose the topics and we need to...	BCK				shared	confident	1600.0			2160.0	5165.0	
+552.454	3.396	P1	it would be interesting that what if we don't come into agreement	SPK				shared	confident	-957.0	-3546.0	3894.0		8145.0	
+552.454	3.396	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-3396.0				8145.0	
+555.454	3.909	GROUP	[LAUGHTER]	LAU				shared	confident	-396.0				4851.0	
+555.85	5.15	GROUP	(5.2)	SIL				shared	confident	-3513.0				3663.0	
+561.0	4.368	P3	Okay so topic. The first or the fourth?	SPK				shared	confident	0.0	5150.0	5150.0		5222.0	
+564.0	1.015	P1	Should we vote?	SPK				shared	confident	-1368.0	-1368.0	-1368.0		4628.0	
+564.0	1.015	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1015.0				4628.0	
+564.149	1.139	P1	Should we vote?	SPK				shared	confident	-866.0	-866.0	-1219.0		4876.0	
+564.149	1.139	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1139.0				4876.0	
+564.149	0.866	P1	[OVL:competitive]	OVL	competitive			shared	confident	-1139.0				4330.0	
+565.32	2.48	P3	Yeah, let's do that quick.	SPK				shared	confident	305.0	32.0	32.0		966.0	
+567.341	1.349	P2	Let's do that, okay	SPK				shared	confident	-459.0	-459.0	-459.0		918.0	
+567.341	0.459	P2	[OVL:smooth]	OVL	smooth			shared	confident	-1349.0				918.0	collaborative
+568.69	4.754	GROUP	(4.8)	SIL				shared	confident	890.0				7804.0	
+568.701	1.36	GROUP	[LAUGHTER]	LAU				shared	confident	-4743.0				3076.0	
+568.884	3.379	P3	Lecture and Q&A, is that final?	BCK				shared	confident	-1177.0				6525.0	
+569.522	1.091	P4	Number four	BCK				shared	confident	-2741.0				2721.0	
+571.385	1.974	P1	Topic four!	BCK				shared	confident	772.0				2852.0	
+573.444	2.251	P3	Topic four and lecture... No, no!	SPK				shared	confident	85.0	4754.0	4754.0		2830.0	
+574.345	2.131	P1	[LAUGHTER]	LAU				shared	confident	-1350.0				3852.0	
+574.955	1.48	P2	I would say topic one.	SPK				shared	confident	-1521.0	-740.0	-740.0		3160.0	
+574.955	0.74	P2	[OVL:competitive]	OVL	competitive			shared	confident	-1480.0				2220.0	competitive
+576.235	1.891	P3	okay	BCK				shared	confident	540.0			1280.0	2132.0	
+576.435	1.048	GROUP	(1.0)	SIL				shared	confident	-1691.0				1089.0	
+577.483	1.219	P2	So we did not agree	SPK				shared	confident	0.0	1048.0	1788.0		888.0	
+578.457	1.51	P1	yeah	BCK				shared	confident	-245.0			974.0	1510.0	
+578.702	1.298	GROUP	(1.3)	SIL				shared	confident	-1265.0				1265.0	
+580.0	2.269	P3	We did not agree. Did we agree on the format?	SPK				shared	confident	0.0	1298.0	1298.0		3947.0	
+580.699	3.28	P1	UNINTELLIGIBLE	SPK				shared	confident	-1570.0	-1570.0	-1570.0		7367.0	
+580.699	1.57	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-3280.0				3947.0	collaborative
+582.0	4.0	P4	Well, it seemed like topic four had three people.	SPK				shared	confident	-269.0	-1979.0	-1979.0		5165.0	
+582.0	0.269	P4	[OVL:smooth]	OVL	smooth			shared	confident	-4000.0				1345.0	collaborative
+582.0	1.979	P4	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-269.0				4765.0	collaborative
+585.8	1.771	P2	Was it?	SPK				shared	confident	1821.0	-200.0	-200.0		1633.0	
+585.8	0.2	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-1771.0				400.0	
+587.0	4.0	P1	yeah, sort of	SPK				shared	confident	1000.0	-571.0	-571.0		4640.0	
+587.0	0.571	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-4000.0				1233.0	collaborative
+587.48	0.5	P1	yeah	BCK				shared	confident	-91.0			1680.0	682.0	
+589.501	2.128	P3	We could go with four maybe	SPK				shared	confident	1521.0	-1499.0	-1499.0		4256.0	
+589.501	1.499	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2128.0				2998.0	collaborative
+591.0	2.0	P4	If we go with democracy.	SPK				shared	confident	0.0	-629.0	-629.0		1258.0	
+591.0	0.629	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-2000.0				1258.0	
+593.0	3.0	P1	What about formats that we vote?	SPK				shared	confident	1371.0	0.0	0.0		2869.0	
+594.512	1.381	P3	Lecture and Q&A	SPK				shared	confident	-1488.0	-1488.0	-1488.0		2762.0	
+594.512	1.381	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1381.0				2762.0	
+595.893	0.107	GROUP	(.)	SIL				shared	confident	0.0				107.0	
+596.0	2.949	P1	I would say interactive informal workshop.	SPK				shared	confident	0.0	107.0	107.0		560.0	
+598.669	1.152	P4	Yeah, me too.	SPK				shared	confident	-280.0	-280.0	-280.0		560.0	
+598.669	0.28	P4	[OVL:smooth]	OVL	smooth			shared	confident	-1152.0				560.0	collaborative
+599.821	0.179	GROUP	(.)	SIL				shared	confident	872.0					
+600.0	4.141	P2	I would not. I would go with either online training or lecturing QA.	SPK				shared	confident	0.0	179.0	179.0		422.0	
+603.992	0.8	P1	Number three?	SPK				shared	confident	-149.0	-149.0	-149.0		1073.0	
+603.992	0.149	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-800.0				422.0	
+604.017	2.512	P2	UNINTELLIGIBLE	BCK				shared	confident	-124.0			25.0	4967.0	
+604.792	0.427	GROUP	(0.4)	SIL				shared	confident	-1737.0				427.0	
+605.219	1.979	P4	We don't have any agreement.	SPK				shared	confident	0.0	427.0	427.0		4186.0	
+605.249	0.927	P3	Then we are like split.	SPK				shared	confident	-1949.0	-1949.0	-1949.0		2781.0	
+605.249	0.927	P3	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-927.0				2781.0	
+606.176	1.403	GROUP	(1.4)	SIL				shared	confident	0.0				1375.0	
+607.579	2.261	P3	We don't have any agreement	SPK				shared	confident	0.0	1403.0	381.0		2202.0	
+607.638	2.84	P1	[LAUGHTER]	LAU				shared	confident	-2202.0				2840.0	
+609.84	0.16	GROUP	(.)	SIL				shared	confident	-638.0				160.0	
+610.0	2.0	P1	I guess we don't have to.	SPK				shared	confident	0.0	160.0	160.0		478.0	
+612.0	1.0	GROUP	(1.0)	SIL				shared	confident	0.0					
+613.0	2.149	P2	We have to agree, don't we?	SPK				shared	confident	0.0	1000.0	1000.0		298.0	
+615.0	1.0	P1	We have to, we have to.	SPK				shared	confident	-149.0	-149.0	-149.0		298.0	
+615.0	0.149	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-1000.0				298.0	
+616.0	0.1	P4	yeah.	BCK				shared	confident	851.0				100.0	
+616.0	2.829	GROUP	(2.8)	SIL				shared	confident	-100.0				100.0	
+618.829	3.08	P1	Okay, then it's the vote that speaks.	SPK				shared	confident	0.0	2829.0	3680.0			
+621.909	0.091	GROUP	(.)	SIL				shared	confident	0.0					
+622.0	10.6	P4	Im okay with lecture and q&a as long as there is space to get input from people	SPK				shared	confident	0.0	91.0	91.0		1421.0	
+631.28	0.821	P2	mm-hmm	BCK				shared	confident	-1320.0			9280.0	922.0	
+632.0	1.259	P3	definitely	BCK				shared	confident	-101.0			10000.0	1360.0	
+632.6	5.4	GROUP	(5.4)	SIL				shared	confident	-659.0				1892.0	
+634.931	1.169	P4	yeah	BCK				shared	confident	-3069.0				1169.0	
+636.36	0.064	P2	yeah	BCK				shared	confident	260.0				64.0	
+638.0	3.0	P3	So we now agree on the format right?	SPK				shared	confident	1576.0	5400.0	5400.0			
+641.0	3.259	P3	Patricia, you also support that format, right?	SPK				shared	confident	0.0	0.0	8400.0		1836.0	
+643.341	2.6	P2	Yes, the lecture and the Q&A.	SPK				shared	confident	-918.0	-918.0	-918.0		3718.0	
+643.341	0.918	P2	[OVL:competitive]	OVL	competitive			shared	uncertain	-2600.0				1836.0	
+645.0	2.0	P3	Okay, cool.	SPK				shared	confident	741.0	-941.0	-941.0		1882.0	
+645.0	0.941	P3	[OVL:competitive]	OVL	competitive			shared	uncertain	-2000.0				1882.0	
+647.0	2.88	P3	And the topics first and fourth.	SPK				shared	confident	1059.0	0.0	1059.0		480.0	
+649.64	5.059	P1	Yeah, I don't agree on the topics, but I can see if we're going for the voting one i don't...	SPK				shared	confident	-240.0	-240.0	-240.0		1078.0	
+649.64	0.24	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-5059.0				480.0	
+654.101	2.6	GROUP	[GROUP LAUGHTER]	LAU				shared	confident	4221.0				2600.0	
+654.699	3.01	GROUP	(3.0)	SIL				shared	confident	-2002.0				2002.0	
+657.709	6.291	MODERATOR	okay i think you you have a kind of a decision for both of them	SPK				shared	confident	0.0	3010.0	3010.0			
+664.0	3.0	P2	well we went for the voting one the democratic again	SPK				shared	confident	0.0	0.0	0.0			
+667.0	5.0	MODERATOR	Please one of you yeah enter the topic and the format is	SPK				shared	confident	0.0	0.0	0.0			
+672.0	2.0	P1	Okay, so topic number four and format is number two?	SPK				shared	confident	0.0	0.0	0.0			

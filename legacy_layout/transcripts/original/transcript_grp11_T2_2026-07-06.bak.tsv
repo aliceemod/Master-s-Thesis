@@ -1,0 +1,360 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+1.695	1.963	MODERATOR	You can take a little break, if you need.	SPK		0.005675	1.63	MOD	confident					0
+3.658	0.957	GROUP	(1.0)	SIL				shared	manual	0				0
+4.615	0.280	P2	Yeah.	SPK		0.025827	4.36	P2	confident	0	957	957		508
+4.641	2.666	P4	No, that's okay.	SPK		0.022369	1.72	P4	confident	-254	-254	-254		508
+4.641	0.254	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-2666				508
+7.307	2.290	GROUP	(2.3)	SIL				shared	manual	2412				0
+9.597	7.485	P4	That's just heavy.	SPK		0.010592	2.23	P4	confident	0	2290	4702		0
+17.082	0.140	GROUP	(.)	SIL				shared	manual	0				
+17.222	0.220	MODERATOR	Okay.	SPK		0.001854	1.64	MOD	confident	0	140	140		
+17.442	0.301	GROUP	(0.3)	SIL				shared	manual	0				
+17.743	2.721	MODERATOR	So we can start the second task.	SPK		0.003145	1.17	MOD	confident	0	301	661		
+20.484	2.202	MODERATOR	This is a negotiation task.	SPK		0.003936	1.33	MOD	confident	20	20	3402		
+22.686	0.280	GROUP	(0.3)	SIL				shared	manual	0				
+22.966	7.465	MODERATOR	And you have to imagine that your group has been assigned responsible for planning an internal workshop for GN employees.	SPK		0.003117	1.33	MOD	confident	0	280	5884		
+30.431	0.640	GROUP	(0.6)	SIL				shared	manual	0				
+31.071	4.884	MODERATOR	And you need to decide both on the topic of this workshop and on its format.	SPK		0.003534	1.35	MOD	confident	0	640	13989		
+35.955	0.740	GROUP	(0.7)	SIL				shared	manual	0				
+36.695	17.684	MODERATOR	You will all receive a private role card where you will have a priority either for the topic or for the format and you have to try to advocate more for what is your priority and also you will be listed with some preferences that will guide you through the conversation and the negotiation.	SPK		0.003950	1.43	MOD	confident	0	740	19613		0
+54.379	1.160	GROUP	(1.2)	SIL				shared	manual	0				0
+55.539	10.543	MODERATOR	Again you cannot show your role card to the others but of course you can play your role as it is shown in the card and at the end you have to agree on one topic and one format.	SPK		0.004715	1.46	MOD	confident	0	1160	38457		
+66.082	1.652	GROUP	(1.7)	SIL				shared	manual	0				
+67.734	1.060	MODERATOR	Do you have any questions?	SPK		0.003137	1.34	MOD	confident	0	1652	50652		
+68.794	3.341	GROUP	(3.3)	SIL				shared	manual	0				
+72.135	8.743	MODERATOR	If not, I will send the roll cards and with the roll cards I will also display the formats and the topics.	SPK		0.004904	1.73	MOD	confident	0	3341	55053		
+80.878	0.479	GROUP	(0.5)	SIL				shared	manual	0				
+81.357	7.207	MODERATOR	You can take some time to read them and without me saying it, you can start a conversation when you feel like it's the right time.	SPK		0.004464	1.17	MOD	confident	0	479	64275		
+88.564	92.128	GROUP	(92.1)	SIL				shared	manual	0				
+180.692	0.389	P2	Okay.	SPK				P2	manual	0	92128	92128		0
+181.081	10.226	GROUP	(10.2)	SIL				shared	manual	0				0
+191.307	1.152	P2	What are your thoughts?	SPK				P2	manual	0	10226	102743		
+192.459	1.409	GROUP	(1.4)	SIL				shared	manual	0				
+193.868	1.568	P2	For the workshop?	SPK				P2	manual	0	1409	105304		
+195.436	1.120	GROUP	(1.1)	SIL				shared	manual	0				
+196.556	0.050	P2	Do you have any ideas?	SPK				P2	manual	0	1120	107992		0
+196.606	1.151	GROUP	(1.2)	SIL				shared	manual	0				0
+197.757	2.181	P4	Well, should we maybe start with a topic?	SPK		0.020295	8.53	P4	confident	0	1151	1151		0
+199.938	0.120	GROUP	(.)	SIL				shared	manual	0				0
+200.058	5.124	P4	Because I think the topic influences the format somehow.	SPK		0.020937	3.16	P4	confident	0	120	3452		1098
+200.165	0.720	P1	Mhm, yeah.	BCK				P1	manual	-5017			107	1098
+200.446	0.378	P2	Mhm.	BCK				P2	manual	-439			388	756
+205.182	1.040	GROUP	(1.0)	SIL				shared	manual	4358				
+206.222	0.740	P2	Yeah, exactly.	SPK		0.040466	2.83	P2	confident	0	1040	1040		0
+206.962	3.388	GROUP	(3.4)	SIL				shared	manual	0				612
+207.032	0.452	P3	Mhm.	BCK				P3	manual	-3318				612
+207.283	0.160	P2	Yeah.	BCK		0.007219	2.94	P2	confident	-201				320
+210.350	14.207	P3	But I think it's clear that we should choose perhaps the first bullet point here, how to use AI for productivity in daily tasks, because that's really what our group needs now.	SPK		0.036392	5.64	P3	confident	2907	3388	3388		
+224.557	1.441	GROUP	(1.4)	SIL				shared	manual	0				
+225.998	1.381	P3	No doubt in my mind, I would say.	SPK		0.031313	4.59	P3	confident	0	1441	19036		
+227.379	0.902	GROUP	(0.9)	SIL				shared	manual	0				
+228.281	2.128	P1	It is useful... yeah.	SPK		0.017983	2.83	P1	confident	0	902	902		
+230.409	1.255	GROUP	(1.3)	SIL				shared	manual	0				251
+230.606	0.251	P3	Yeah.	BCK				P3	manual	-1058				251
+231.664	3.743	P1	But we are going to go through a big organizational change.	SPK		0.013893	2.85	P1	confident	807	1255	4285		
+235.407	0.821	GROUP	(0.8)	SIL				shared	manual	0				
+236.228	5.624	P1	And I think the last one, stress and workload at work could help a lot.	SPK		0.009529	2.79	P1	confident	0	821	8849		
+241.852	1.241	GROUP	(1.2)	SIL				shared	manual	0				0
+243.093	0.961	P1	A lot of people.	SPK		0.011238	2.96	P1	confident	0	1241	15714		0
+244.054	0.452	GROUP	(0.5)	SIL				shared	manual	0				
+244.506	0.300	P3	Really?	SPK		0.085519	7.15	P3	confident	0	452	452		
+244.806	0.569	GROUP	(0.6)	SIL				shared	manual	0				
+245.375	0.241	P1	Yeah.	SPK		0.014319	2.79	P1	confident	0	569	569		
+245.616	0.419	GROUP	(0.4)	SIL				shared	manual	0				0
+246.035	2.201	P4	Yeah, I agree with that stress and workload.	SPK		0.040907	3.51	P4	confident	0	419	419		0
+248.236	1.281	GROUP	(1.3)	SIL				shared	manual	0				843
+248.674	2.837	P3	[LAUGHTER]	LAU				P3	manual	-843				2837
+249.517	12.165	P4	And I think we should also kind of angle it so it also works with a third topic about environmental sustainability and commitments in the everyday work.	SPK		0.041074	7.37	P4	confident	-1994	1281	3901		2314
+259.817	0.320	P1	Mhm.	BCK				P1	manual	-1865			10300	320
+261.682	0.200	GROUP	(.)	SIL				shared	manual	1545				15
+261.867	0.186	P1	Yeah.	BCK				P1	manual	-15				186
+261.882	5.743	P4	And I think that could also be in that way supported, supporting the AI productivity topic.	SPK		0.044553	9.38	P4	confident	-171	200	16266		171
+267.625	0.720	GROUP	(0.7)	SIL				shared	manual	0				
+268.345	9.445	P4	But just with that angle so that we don't forget environmental sustainability and work environment stress and workload.	SPK		0.028287	5.88	P4	confident	0	720	22729		694
+270.226	0.448	P1	Yeah.	BCK				P1	manual	-7564			1881	448
+276.989	0.246	P1	Yeah.	BCK				P1	manual	6315			8644	246
+277.790	1.175	GROUP	(1.2)	SIL				shared	manual	555				631
+278.153	0.371	P3	Mhm.	BCK				P3	manual	-812				371
+278.705	0.411	P2	Yeah.	BCK				P2	manual	181				411
+278.965	7.282	P1	Because the last one is related to business and legislative requirements.	SPK		0.012210	2.36	P1	confident	-151	1175	1175		151
+286.247	0.741	GROUP	(0.7)	SIL				shared	manual	0				161
+286.827	0.483	P4	Mhm.	BCK				P4	manual	-161				483
+286.988	4.701	P1	So I'm pretty sure that, yeah, I really like the last one.	SPK		0.016651	2.29	P1	confident	-322	741	9198		322
+291.689	0.901	GROUP	(0.9)	SIL				shared	manual	0				0
+292.590	2.961	P1	Sustainability is something that interests a lot.	SPK		0.016481	2.75	P1	confident	0	901	14800		0
+295.551	0.620	GROUP	(0.6)	SIL				shared	manual	0				
+296.171	1.741	P1	Productivity, it's business.	SPK		0.009818	2.51	P1	confident	0	620	18381		
+297.912	0.640	GROUP	(0.6)	SIL				shared	manual	0				
+298.552	0.220	P1	Yeah.	SPK		0.008877	3.02	P1	confident	0	640	20762		0
+298.772	0.381	GROUP	(0.4)	SIL				shared	manual	0				0
+299.153	1.460	P1	And what about you?	SPK				P1	manual	0	381	21363		
+300.613	0.585	GROUP	(0.6)	SIL				shared	manual	0				
+301.198	19.949	P2	Yeah, I'm more about, I can see what you're saying because I can feel for myself that AI is very needed in my job and I have to use it, but I have to have some guidance and I have to have some training and I have to have some pushing for it because then I don't use it, I get lazy.	SPK		0.024931	3.03	P2	confident	0	585	585		406
+308.976	0.331	P1	Mmh.	BCK				P1	manual	-12171			7778	331
+321.072	0.282	P1	Mmh.	BCK				P1	manual	11765			19874	282
+321.147	2.802	GROUP	(2.8)	SIL				shared	manual	-207				207
+323.949	3.121	P2	So I'm very much for AI for productivity and daily task.	SPK		0.020375	3.00	P2	confident	0	2802	23336		
+327.070	1.488	GROUP	(1.5)	SIL				shared	manual	0				
+328.558	8.000	P2	or how to work better across teams could also but still that's something we've done throughout times...	SPK		0.017840	1.95	P2	confident	0	1488	27945		
+336.558	1.886	GROUP	(1.9)	SIL				shared	manual	0				
+338.444	5.806	P1	But how to manage the workload will influence the productivity too, in the last one.	SPK		0.014422	3.01	P1	confident	0	1886	1886		
+344.250	0.899	GROUP	(0.9)	SIL				shared	manual	0				
+345.149	2.051	P2	Yeah, but it's too fluffy I think	SPK				P2	manual	0	899	899		
+347.200	0.186	GROUP	(.)	SIL				shared	manual	0				
+347.386	2.202	P2	You can do that in many ways.	SPK				P2	manual	0	186	3136		291
+347.616	0.291	P3	Yeah.	BCK				P3	manual	-1972			230	291
+349.588	0.379	GROUP	(0.4)	SIL				shared	manual	1681				164
+349.803	0.661	P1	Yeah.	BCK				P1	manual	-164				661
+349.967	18.033	P2	So i think i for that one i use this um some lecture for myself and and i also speak with my colleague or my manager i i need much more um guidance for the AI and and much more support.	SPK		0.014983	1.64	P2	confident	-497	379	5717		846
+359.279	0.349	P1	Mhm.	BCK				P1	manual	-8721			9312	349
+368.000	0.050	GROUP	(.)	SIL				shared	manual	8372				
+368.050	6.104	P1	Yeah, but during a workshop, face-to-face workshop, I think we can get it.	SPK		0.016632	2.90	P1	confident	0	50	50		
+374.154	0.901	GROUP	(0.9)	SIL				shared	manual	0				
+375.055	2.802	P1	Some very good tools, some very good advice.	SPK		0.016032	2.70	P1	confident	0	901	7055		
+377.857	0.701	GROUP	(0.7)	SIL				shared	manual	0				0
+378.558	1.701	P1	It's, yeah, it's...	SPK		0.009431	3.27	P1	confident	0	701	10558		0
+380.259	1.126	GROUP	(1.1)	SIL				shared	manual	0				
+381.385	1.341	P4	I agree.	SPK		0.036396	5.64	P4	confident	0	1126	1126		
+382.726	0.881	GROUP	(0.9)	SIL				shared	manual	0				
+383.607	21.196	P4	It supports the AI, but I also think we should look at the environmental sustainability commitments so we can see how we can reach these goals because they've been set and understanding how we can do them every day and then also from an angle of managing stress and workloads.	SPK		0.028701	6.95	P4	confident	0	881	3348		608
+395.622	0.349	P1	Mhm.	BCK				P1	manual	-9181			12015	349
+399.751	0.259	P1	Yeah.	BCK				P1	manual	3780			16144	259
+404.803	0.061	GROUP	(.)	SIL				shared	manual	4793				0
+404.864	4.183	P4	I think that would be, that's what's needed right now.	SPK		0.028073	3.15	P4	confident	0	61	24605		
+409.047	0.741	GROUP	(0.7)	SIL				shared	manual	0				
+409.788	0.661	P3	Are you sure?	SPK		0.043693	5.85	P3	confident	0	741	741		
+410.469	3.842	P3	Because I think it sounds very abstract to me how that will help our group really.	SPK		0.031442	6.08	P3	confident	20	20	1422		
+414.311	4.924	GROUP	(4.9)	SIL				shared	manual	0				389
+414.910	0.389	P4	Yeah?	BCK				P4	manual	-4325				389
+419.235	3.882	P1	It's one of the objectives of the group, sustainability.	SPK		0.025695	1.57	P1	confident	3936	4924	4924		
+423.117	0.515	GROUP	(0.5)	SIL				shared	manual	0				
+423.632	3.364	P1	And about stress, workload, it's mental health.	SPK		0.018022	2.97	P1	confident	0	515	9321		
+426.996	0.520	GROUP	(0.5)	SIL				shared	manual	0				
+427.516	5.405	P1	We have more and more focus on it in the Danish legislation.	SPK		0.016003	2.95	P1	confident	0	520	13205		
+432.921	0.781	GROUP	(0.8)	SIL				shared	manual	0				
+433.702	0.881	P1	It's more and more.	SPK		0.014986	2.88	P1	confident	0	781	19391		
+434.603	3.784	P1	And we are going for an ISO certification in the group.	SPK		0.020061	2.90	P1	confident	20	20	20292		
+438.387	0.941	GROUP	(0.9)	SIL				shared	manual	0				
+439.328	2.162	P1	So it will be a very big topic, clearly.	SPK		0.017289	2.80	P1	confident	0	941	25017		
+441.490	1.425	GROUP	(1.4)	SIL				shared	manual	0				
+442.915	3.443	P1	And with the reorganization, even more.	SPK		0.019895	2.85	P1	confident	0	1425	28604		
+446.358	0.640	GROUP	(0.6)	SIL				shared	manual	0				
+446.998	1.041	P1	Yeah, for the last one.	SPK		0.014746	3.17	P1	confident	0	640	32687		
+448.039	2.142	GROUP	(2.1)	SIL				shared	manual	0				
+450.181	4.564	P1	It's really related to business needs, legislative requirements.	SPK		0.018592	2.55	P1	confident	0	2142	35870		
+454.745	1.181	GROUP	(1.2)	SIL				shared	manual	0				
+455.926	3.824	P1	And yeah, it's a topic.	SPK		0.011182	3.03	P1	confident	0	1181	41615		
+459.750	0.600	GROUP	(0.6)	SIL				shared	manual	0				
+460.350	1.842	P1	It's a hot topic these days.	SPK		0.008418	2.88	P1	confident	0	600	46039		
+462.192	1.355	GROUP	(1.4)	SIL				shared	manual	0				
+463.547	2.822	P4	We only have like one and a half minutes left, should we?	SPK		0.048667	3.54	P4	confident	0	1355	1355		1122
+463.932	0.600	P2	Yeah, but...	BCK				P2	manual	-2437			385	600
+466.108	0.320	P2	Yeah.	SPK		0.020105	1.15	P2	confident	1576	-261	-261		522
+466.108	0.261	P2	[OVL:smooth]	OVL	smooth			shared	manual	-320				522
+466.428	0.422	GROUP	(0.4)	SIL				shared	manual	59				329
+466.521	0.346	P3	Yeah.	BCK				P3	manual	-329				346
+466.850	2.722	P4	Maybe we have to agree on one topic, right?	SPK		0.037546	5.99	P4	confident	-17	422	422		17
+469.572	0.500	GROUP	(0.5)	SIL				shared	manual	0				198
+469.874	0.688	P2	Yeah, we have to.	BCK				P2	manual	-198				688
+470.072	4.163	P4	So is there one we can agree on?	SPK		0.040808	9.68	P4	confident	-490	500	3644		490
+474.235	0.080	GROUP	(.)	SIL				shared	manual	0				
+474.315	5.925	P4	It sounds like there are two that are very important to everyone, which is the first and the last one.	SPK		0.030455	9.64	P4	confident	0	80	7887		
+480.240	1.280	GROUP	(1.3)	SIL				shared	manual	0				371
+480.725	0.371	P2	Yeah.	BCK				P2	manual	-795				371
+481.520	7.363	P4	And I think, should we maybe have the focus on how to manage stress and workload?	SPK		0.039798	9.69	P4	confident	424	1280	15092		
+488.883	0.220	GROUP	(0.2)	SIL				shared	manual	0				
+489.103	3.602	P4	Because then we can incorporate the AI within it.	SPK		0.034293	8.09	P4	confident	0	220	22675		
+492.705	0.080	GROUP	(.)	SIL				shared	manual	0				
+492.785	4.522	P4	But then if that's the focus of our topic, then we know that AI is a tool.	SPK		0.030874	1.59	P4	confident	0	80	26357		1348
+496.633	4.360	P2	No, I would rather take AI and productivity because that will manage my stress	SPK		0.043398	0.65	P2	confident	-674	-674	-674		1348
+496.633	0.674	P2	[OVL:competitive]	OVL	competitive			shared	manual	-4360				1348
+500.993	1.105	GROUP	(1.1)	SIL				shared	manual	3686				368
+501.519	0.368	P4	Aha.	BCK				P4	manual	-579				368
+502.098	12.994	P2	If I can have more support and more knowledge about AI and productivity, then I could use my spare time left from AI for other things.	SPK		0.023773	3.11	P2	confident	211	1105	4791		
+515.092	0.520	GROUP	(0.5)	SIL				shared	manual	0				
+515.612	1.321	P3	Makes a lot of sense, I think.	SPK		0.028814	7.24	P3	confident	0	520	520		
+516.933	0.060	GROUP	(.)	SIL				shared	manual	0				
+516.993	0.581	P3	Yeah.	SPK		0.011980	1.62	P3	confident	0	60	1901		0
+517.574	0.487	GROUP	(0.5)	SIL				shared	manual	0				0
+518.061	4.662	P4	I mean, AI is not so mature just yet, and it will take a long time to really...	SPK		0.059818	4.03	P4	confident	0	487	487		0
+522.723	0.407	GROUP	(0.4)	SIL				shared	manual	0				0
+523.130	1.451	P2	But you have to engage people	SPK				P2	manual	0	407	407		
+524.581	0.722	GROUP	(0.7)	SIL				shared	manual	0				50
+524.704	0.050	P1	Yeah.	BCK				P1	manual	-599				50
+525.303	2.542	P2	To use it, I can feel it on myself.	SPK				P2	manual	549	722	2580		
+527.845	0.549	GROUP	(0.5)	SIL				shared	manual	0				
+528.394	0.160	P2	Yeah.	SPK		0.027970	3.95	P2	confident	0	549	5671		
+528.554	2.647	GROUP	(2.6)	SIL				shared	manual	0				
+531.201	2.181	P4	So we're not coming to a conclusion here.	SPK		0.033706	1.04	P4	confident	0	2647	2647		1128
+532.522	22.662	P2	[LAUGHTER]	LAU				P2	manual	-860				36363
+533.161	4.560	P1	[LAUGHTER]	LAU				P1	manual	-22023				15770
+533.335	2.731	P3	[LAUGHTER]	LAU				P3	manual	-4386				10457
+533.382	4.927	GROUP	(4.9)	SIL				shared	manual	-2684				16422
+533.802	4.472	P4	[LAUGHTER]	LAU				P4	manual	-4507				15127
+538.309	2.722	P3	But at least we advocated a lot.	SPK		0.032999	1.24	P3	confident	35	4927	4927		2722
+541.031	0.480	GROUP	(0.5)	SIL				shared	manual	0				480
+541.511	1.301	P3	How about the formats here?	SPK		0.075059	3.67	P3	confident	0	480	8129		1301
+542.812	1.841	GROUP	(1.8)	SIL				shared	manual	0				1841
+544.653	7.184	P3	I think actually the best thing is to let people do this by themselves and have some online training and quizzes.	SPK		0.039429	4.58	P3	confident	0	1841	11271		7184
+551.837	0.500	GROUP	(0.5)	SIL				shared	manual	0				770
+552.067	0.674	P1	Oh gosh	BCK		0.075367	1.82	P1	confident	-270				1348
+552.337	1.962	P3	Because it's the best way to learn.	SPK		0.101569	1.63	P3	confident	-404	500	18955		2366
+554.317	0.683	P1	Really?	SPK				P1	manual	18	18	18		1965
+554.359	5.223	P3	I mean, if you sit around and just talk forever, nothing happens.	SPK		0.083922	1.02	P3	confident	-641	-641	-641		4667
+554.359	0.641	P3	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-5223				1923
+555.317	2.560	P1	[LAUGHTER]	LAU				P1	manual	317				2560
+559.582	0.321	GROUP	(0.3)	SIL				shared	manual	1705				
+559.903	3.322	P3	I think give them the online training and the quiz.	SPK		0.070915	5.41	P3	confident	0	321	4903		
+563.245	1.621	P3	That's the way to go.	SPK		0.027259	4.58	P3	confident	20	20	8245		
+564.866	0.970	GROUP	(1.0)	SIL				shared	manual	0				
+565.836	1.759	P2	And you can do it whenever you want to.	SPK				P2	manual	0	970	970		1403
+567.024	0.711	P3	Yeah, yeah.	BCK				P3	manual	-571			1188	1543
+567.179	3.582	P4	Yeah, I think I feel the opposite.	SPK		0.034552	2.24	P4	confident	-556	-416	-416		5068
+567.179	0.416	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-3582				1248
+568.128	0.280	P2	Yeah.	BCK		0.018095	3.87	P2	confident	533			949	280
+569.061	1.989	P4	Yeah, I feel, I think exactly the opposite.	SPK				P4	manual	653	-1700	1466		3400
+569.061	1.700	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1989				3400
+571.061	1.340	P4	Now we don't have any more time.	SPK		0.042755	1.98	P4	confident	300	11	3466		479
+571.108	0.479	P1	Yeah.	BCK				P1	manual	-1293			47	479
+572.401	1.824	GROUP	(1.8)	SIL				shared	manual	814				1708
+572.517	2.408	P2	[LAUGHTER]	LAU				P2	manual	-1708				2408
+574.225	2.321	P1	Yeah, we need to be active, seriously.	SPK		0.044929	3.09	P1	confident	-700	1824	1824		700
+576.546	6.023	GROUP	(6.0)	SIL				shared	manual	0				14152
+576.882	8.088	P1	[LAUGHTER]	LAU				P1	manual	-5687				19754
+577.173	8.032	P3	[LAUGHTER]	LAU				P3	manual	-7797				19698
+579.500	3.869	P2	[LAUGHTER]	LAU				P2	manual	-5705				11607
+582.569	2.621	MODERATOR	And again, only one of you sends it.	SPK		0.007387	1.22	MOD	confident	-800	6023	6023		5822
+585.190	0.160	GROUP	(.)	SIL				shared	manual	0				15
+585.350	5.562	MODERATOR	So I agree on the final workshop public format and one of you sends it.	SPK		0.005677	1.09	MOD	confident	0	160	8804		
+590.912	1.937	GROUP	(1.9)	SIL				shared	manual	0				
+592.849	3.189	P1	Oh, there is no final decision.	SPK				P1	manual	0	1937	1937		802
+595.236	2.059	P2	[LAUGHTER]	LAU				P2	manual	-802				2059
+596.038	1.497	GROUP	(1.5)	SIL				shared	manual	-1257				1257
+597.535	0.300	P1	Oops.	SPK		0.028118	4.38	P1	confident	0	1497	6623		
+597.835	0.288	GROUP	(0.3)	SIL				shared	manual	0				
+598.123	2.341	P2	So, what will we ask?	SPK				P2	manual	0	288	288		4140
+598.394	2.251	P4	So, what is the final topic?	SPK				P4	manual	-2070	-2070	-2070		4140
+598.394	2.070	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2251				4140
+600.645	1.452	GROUP	(1.5)	SIL				shared	manual	181				
+602.097	1.161	P1	Is it the last one we said?	SPK		0.028409	3.27	P1	confident	0	1452	1452		
+603.258	0.834	GROUP	(0.8)	SIL				shared	manual	0				790
+603.302	3.102	P1	[LAUGHTER]	LAU				P1	manual	-790				3102
+604.092	0.901	P2	Is it the first one?	SPK		0.122816	1.11	P2	confident	-2312	834	834		901
+604.993	0.194	GROUP	(.)	SIL				shared	manual	0				194
+605.187	2.317	P3	I don't think there was an agreement, so...	SPK				P3	manual	0	194	194		2429
+606.893	0.281	P1	No	SPK		0.064742	1.56	P1	confident	-611	-611	-611		562
+606.893	0.281	P1	[OVL:smooth]	OVL	smooth			shared	manual	-281				562
+607.174	0.280	GROUP	(0.3)	SIL				shared	manual	0				500
+607.234	3.542	P3	[LAUGHTER]	LAU				P3	manual	-220				9111
+607.454	1.100	P1	No, there was no agreement.	SPK		0.074993	1.73	P1	confident	-3322	280	-50		3284
+607.454	0.050	P1	[OVL:smooth]	OVL	smooth			shared	manual	-1100				150
+607.512	1.370	P2	No, there wasn't.	SPK				P2	manual	8	-1042	-1042		3454
+607.512	1.042	P2	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1370				3126
+608.882	2.394	GROUP	(2.4)	SIL				shared	manual	328				5559
+608.912	2.912	P1	[LAUGHTER]	LAU				P1	manual	-2364				6077
+609.181	1.301	P2	[SOFT LAUGHTER]	LAU				P2	manual	-2643				3903
+611.276	0.580	P2	Not at all.	SPK		0.101324	3.30	P2	confident	794	2394	2722		548
+611.856	4.623	GROUP	(4.6)	SIL				shared	manual	0				
+616.479	0.260	P2	Yeah.	SPK		0.023387	6.41	P2	confident	0	4623	7925		
+616.739	0.298	GROUP	(0.3)	SIL				shared	manual	0				
+617.037	5.023	P4	But how about we do the last one and then we do your on the format.	SPK		0.055694	8.34	P4	confident	0	298	298		0
+622.060	2.927	GROUP	(2.9)	SIL				shared	manual	0				457
+624.530	0.771	P3	Yeah, yeah, fine.	BCK				P3	manual	-457				771
+624.987	0.801	P4	Should we do it that way?	SPK		0.078534	5.39	P4	confident	-314	2927	8248		314
+625.788	0.416	GROUP	(0.4)	SIL				shared	manual	0				0
+626.204	0.220	P2	No.	SPK		0.030285	1.60	P2	confident	0	416	416		0
+626.445	1.851	P1	You mean the online training?	SPK				P1	manual	21	21	21		2585
+626.996	2.621	P3	[LAUGHTER]	LAU				P3	manual	-1300				5693
+627.435	0.200	P3	No.	SPK		0.098695	2.72	P3	confident	-2182	-861	-861		600
+627.435	0.200	P3	[OVL:smooth]	OVL	smooth			shared	manual	-200				600
+627.635	0.437	GROUP	(0.4)	SIL				shared	manual	0				874
+628.072	6.989	P2	I would rather keep the topic, because that's the one we have the most benefit.	SPK		0.087244	1.44	P2	confident	0	437	437		9224
+628.072	0.224	P2	[OVL:smooth]	OVL	smooth			shared	manual	-6989				672
+628.411	0.581	P4	Yeah, yeah.	SPK		0.140885	2.80	P4	confident	115	-6650	-6650		1743
+628.411	0.581	P4	[OVL:competitive]	OVL	competitive			shared	manual	-581				1743
+628.992	6.073	GROUP	(6.1)	SIL				shared	manual	0				6694
+635.065	2.301	P2	And I think a lot of us would have the most benefit of.	SPK		0.020635	4.96	P2	confident	0	6073	6073		0
+637.366	0.380	GROUP	(0.4)	SIL				shared	manual	0				0
+637.746	1.242	P1	With the online training?	SPK		0.015265	4.40	P1	confident	0	380	380		
+638.988	1.079	GROUP	(1.1)	SIL				shared	manual	0				660
+639.327	0.660	P2	Yeah.	BCK		0.058626	4.80	P2	confident	-740				660
+640.067	2.202	P2	No, with the use of AI.	SPK		0.029636	3.48	P2	confident	80	1079	1079		118
+642.210	0.691	P1	Ah, ok.	SPK				P1	manual	-59	-59	-59		118
+642.210	0.059	P1	[OVL:smooth]	OVL	smooth			shared	manual	-691				118
+642.901	0.110	GROUP	(.)	SIL				shared	manual	632				0
+643.011	6.746	P4	Oh, but I'm thinking that the topic is the bottom topic, and then the format is the online.	SPK		0.070191	4.02	P4	confident	0	110	110		4501
+647.472	0.400	P2	No.	SPK		0.046483	0.75	P2	confident	-2285	-2285	-2285		800
+647.472	0.400	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-400				800
+647.872	0.069	GROUP	(.)	SIL				shared	manual	0				69
+647.941	1.880	P4	The format is...	SPK				P4	manual	0	69	69		3632
+647.941	1.816	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1880				3632
+649.821	0.071	GROUP	(.)	SIL				shared	manual	64				
+649.892	6.384	P2	Yeah, you are thinking, but I'm thinking the AI is the topic.	SPK		0.088604	1.04	P2	confident	0	71	71		8900
+651.660	3.670	P3	[LAUGHTER]	LAU				P3	manual	-4616				7238
+651.762	3.842	P4	[LAUGHTER]	LAU				P4	manual	-3568				7454
+655.582	1.000	P4	Ah, okay.	SPK		0.038299	7.90	P4	confident	-22	-694	-694		1410
+655.582	0.694	P4	[OVL:competitive]	OVL	competitive			shared	manual	-1000				1410
+656.582	8.214	GROUP	(8.2)	SIL				shared	manual	306				
+664.796	0.979	P2	So we stucked.	SPK				P2	manual	0	8214	8214		0
+665.775	0.301	GROUP	(0.3)	SIL				shared	manual	0				0
+666.076	6.861	P3	No, how about we let you decide this time and then maybe the next decision goes to someone else.	SPK		0.064966	4.87	P3	confident	0	301	301		
+672.937	1.682	GROUP	(1.7)	SIL				shared	manual	0				
+674.619	7.182	P3	If we disagree, I'm fine with that.	SPK		0.025848	1.74	P3	confident	0	1682	8844		
+681.801	0.500	GROUP	(0.5)	SIL				shared	manual	0				
+682.301	1.500	P4	So who gets to choose the topic?	SPK		0.045054	6.10	P4	confident	0	500	500		
+683.801	2.021	GROUP	(2.0)	SIL				shared	manual	0				
+685.822	4.581	P4	So P2 chooses the topic, and then P1 chooses the format?	SPK		0.039676	7.48	P4	confident	0	2021	4021		
+690.403	0.261	GROUP	(0.3)	SIL				shared	manual	0				
+690.664	0.780	P4	Should we do it that way?	SPK		0.036264	7.42	P4	confident	0	261	8863		
+691.444	1.448	GROUP	(1.4)	SIL				shared	manual	0				
+692.892	0.280	P2	We can.	SPK		0.020792	4.94	P2	confident	0	1448	1448		
+693.172	0.773	GROUP	(0.8)	SIL				shared	manual	0				
+693.945	1.460	P4	Or what would you like to do?	SPK		0.035606	4.49	P4	confident	0	773	773		0
+695.405	0.493	GROUP	(0.5)	SIL				shared	manual	0				0
+695.898	0.949	P3	Fine with me.	SPK				P3	manual	0	493	493		
+696.847	2.500	GROUP	(2.5)	SIL				shared	manual	0				240
+697.326	0.240	P1	Yeah.	BCK		0.011821	4.83	P1	confident	-2021				240
+699.347	0.301	P1	Okay.	SPK		0.005574	3.58	P1	confident	1781	2500	2500		
+699.648	1.460	GROUP	(1.5)	SIL				shared	manual	0				0
+701.108	0.461	P1	Thank you.	SPK		0.007562	3.43	P1	confident	0	1460	4261		0
+701.569	1.118	GROUP	(1.1)	SIL				shared	manual	0				
+702.687	1.782	P2	So, but should I do it?	SPK		0.059652	2.13	P2	confident	0	1118	1118		
+704.469	0.340	GROUP	(0.3)	SIL				shared	manual	0				0
+704.809	1.441	P2	And you choose it?	SPK		0.058199	1.72	P2	confident	0	340	3240		2241
+704.922	0.161	P4	Yeah...	SPK		0.063880	1.63	P4	confident	-1328	-1328	-1328		322
+704.922	0.161	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-161				322
+705.083	0.415	GROUP	(0.4)	SIL				shared	manual	0				415
+705.498	1.832	P1	Yeah, just one...	SPK				P1	manual	0	415	415		3144
+705.498	0.752	P1	[OVL:competitive]	OVL	competitive			shared	manual	-1832				1504
+706.510	2.882	P2	You just tell me what to select, right?	SPK		0.051105	2.64	P2	confident	260	-820	-820		2186
+706.510	0.820	P2	[OVL:competitive]	OVL	competitive			shared	manual	-2882				1640
+707.658	0.197	P1	Yeah.	BCK				P1	manual	328			1148	197
+708.069	0.349	P1	Yeah.	BCK				P1	manual	214			1559	349
+709.392	1.621	GROUP	(1.6)	SIL				shared	manual	974				
+711.013	1.341	P2	So, what do you want?	SPK		0.036785	1.00	P2	confident	0	1621	3683		
+712.354	1.239	GROUP	(1.2)	SIL				shared	manual	0				98
+713.495	1.281	P2	Yeah.	BCK		0.045135	2.75	P2	confident	-98				1281
+713.593	2.741	P1	So for the topic it's the first topic.	SPK				P1	manual	-1183	1239	1239		3139
+715.356	1.762	P2	And what do you want for the format?	SPK		0.034304	3.12	P2	confident	-978	-978	-978		1956
+715.356	0.978	P2	[OVL:competitive]	OVL	competitive			shared	manual	-1762				1956
+717.118	0.861	GROUP	(0.9)	SIL				shared	manual	784				
+717.979	2.061	P1	The interactive workshop.	SPK		0.011990	2.79	P1	confident	0	861	861		0
+720.040	0.871	GROUP	(0.9)	SIL				shared	manual	0				0
+720.911	1.723	P2	Interactive informal workshop.	SPK				P2	manual	0	871	871		3
+722.631	0.440	P1	Yes.	SPK		0.011604	2.94	P1	confident	-3	-3	-3		3
+723.071	0.170	GROUP	(.)	SIL				shared	manual	0				
+723.241	0.338	P2	Okay.	SPK				P2	manual	0	170	170		
+723.579	0.733	GROUP	(0.7)	SIL				shared	manual	0				
+724.312	1.481	P1	To engage people already.	SPK		0.008016	2.49	P1	confident	0	733	733		
+725.793	1.650	GROUP	(1.6)	SIL				shared	manual	0				
+727.443	0.861	P2	Response submitted.	SPK		0.015770	4.39	P2	confident	0	1650	1650		
+728.304	71.357	GROUP	(71.4)	SIL				shared	manual	0				
+799.661	1.201	P1	I like the trust one.	SPK		0.026394	2.83	P1	confident	0	71357	71357		
+800.862	1.781	GROUP	(1.8)	SIL				shared	manual	0				1073
+801.570	2.128	P2	[LAUGHTER]	LAU				P2	manual	-1073				2128
+802.643	4.101	P1	Specifically when one of us spoke about the online training.	SPK		0.044502	1.43	P1	confident	-1055	1781	74339		1055
+806.744	6.444	GROUP	(6.4)	SIL				shared	manual	0				2301
+807.182	2.301	P1	[LAUGHTER]	LAU				P1	manual	-6006				2301
+813.188	0.860	P1	Oh, no, it's not.	SPK		0.010093	3.53	P1	confident	3705	6444	84884		
+814.048	38.994	GROUP	(39.0)	SIL				shared	manual	0				
+853.042	3.575	P2_SUB-038	It's good that I'm not working about negotiation.	SPK		0.016548	3.84	mic10	confident	0	38994	38994		

@@ -1,0 +1,277 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+11.600	0.360	MODERATOR	Okay.	SPK		0.002741	0.72	MOD	uncertain					308
+11.806	2.422	MODERATOR	If you're all done with the questionnaire	SPK		0.003796	1.93	MOD	confident	-154	-154			308
+11.806	0.154	MODERATOR	[OVL:smooth]	OVL	smooth			shared	manual	-2422				308
+14.228	1.281	GROUP	(1.3)	SIL				shared	manual	2268				
+15.509	2.622	MODERATOR	We can continue to the second task.	SPK		0.002112	1.22	MOD	confident	0	1281			
+18.131	1.401	GROUP	(1.4)	SIL				shared	manual	0				
+19.532	10.988	MODERATOR	So this will be a negotiation task and it's based around deciding on an internal GN workshop, so for all GN employees.	SPK		0.004145	1.47	MOD	confident	0	1401			
+30.520	1.181	GROUP	(1.2)	SIL				shared	manual	0				
+31.701	4.243	MODERATOR	And you must decide the topic of the workshop and the format of the workshop.	SPK		0.003313	1.33	MOD	confident	0	1181			
+35.944	1.120	GROUP	(1.1)	SIL				shared	manual	0				
+37.064	10.868	MODERATOR	Each of you will receive a private rollcard and you will receive what is your priority, either the topic and the format, and you should try to negotiate for that.	SPK		0.003272	1.42	MOD	confident	0	1120			
+47.932	0.700	GROUP	(0.7)	SIL				shared	manual	0				0
+48.632	5.704	MODERATOR	And you will also receive some preferences and you should also advocate for those preferences.	SPK		0.003066	1.40	MOD	confident	0	700			0
+54.336	0.860	GROUP	(0.9)	SIL				shared	manual	0				
+55.196	6.825	MODERATOR	You may not show your rollcard to the other person, but of course you can freely discuss	SPK		0.003937	1.43	MOD	confident	0	860			
+62.021	1.129	GROUP	(1.1)	SIL				shared	manual	0				
+63.150	5.103	MODERATOR	At the end, you must agree on only one topic and one format for the workshop.	SPK		0.004253	1.57	MOD	confident	0	1129			
+68.253	2.617	GROUP	(2.6)	SIL				shared	manual	0				
+70.870	1.141	P2	I have one quick question.	SPK		0.006365	1.81	P2	confident	0	2617	2617		0
+72.011	0.460	GROUP	(0.5)	SIL				shared	manual	0				0
+72.471	7.743	P2	Do we act as what was provided on the roll card or we also act as our individual, like a person?	SPK		0.010527	3.14	P2	confident	0	460	4218		
+80.214	2.761	GROUP	(2.8)	SIL				shared	manual	0				100
+82.855	0.100	P2	Okay.	BCK		0.007083	1.11	P2	uncertain	-120				100
+82.975	1.921	MODERATOR	But first you can apply to what you think.	SPK		0.009890	2.13	MOD	confident	20	2761	2761		
+84.896	0.500	GROUP	(0.5)	SIL				shared	manual	0				460
+84.916	0.460	P2	Okay, yeah.	BCK		0.010626	3.74	P2	uncertain	-480				460
+85.396	1.261	P2	I just want to understand.	SPK		0.006777	2.48	P2	confident	20	500	500		
+86.677	0.100	MODERATOR	Yeah.	SPK		0.004600	2.32	MOD	confident	20	20	20		
+86.777	2.446	GROUP	(2.4)	SIL				shared	manual	0				
+89.223	18.830	MODERATOR	And you will now receive on the screen the different formats and the different topics and also the roll cards and you can take some time to read them but also you can start talking whenever you don't need to be prompted by me and you will also have seven minutes for this task.	SPK		0.003626	1.53	MOD	confident	0	2446	2566		
+108.053	29.919	GROUP	(29.9)	SIL				shared	manual	0				
+137.972	3.358	P3	In R&D, we usually decide these things, but it's a real call.	SPK		0.031607	1.86	P3	confident	0	29919	29919		197
+141.133	1.400	P2	[SOFT LAUGHTER]	LAU				P2	manual	-197				1400
+141.330	9.710	GROUP	(9.7)	SIL				shared	manual	-1203				1203
+151.040	1.623	P3	Oh, there's more stuff here.	SPK		0.004460	1.22	P3	confident	0	9710	42987		0
+152.663	14.446	GROUP	(14.4)	SIL				shared	manual	0				
+167.109	20.564	P4	Yeah, so i i would think like such workshops should topic wise not be too detailed or too like specific um so i think in general like uh work better across teams and manage stress i mean for me this goes together because if you have a clear like i don't know like uh	SPK		0.040613	8.69	P4	confident	0	14446	14446		824
+176.107	0.373	P2	Mhm.	BCK				P2	manual	-11566			8998	373
+185.130	0.451	P2	Mhm.	BCK				P2	manual	8650			18021	451
+187.673	1.916	GROUP	(1.9)	SIL				shared	manual	2092				
+189.589	20.981	P4	structure or pattern of communication in mind like how do you bring forward topics or like requests or like problems like then it's also much much easier to work so your cognitive or mental workload also decreases	SPK		0.023082	2.52	P4	confident	0	1916	36926		16326
+202.407	8.870	P3	Yes, and we say that the best way to do that is with having proper processes that would make our make our productivity up	SPK				P3	confident	-8163	-8163	-8163		16326
+202.407	8.163	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-8870				16326
+211.277	0.187	GROUP	(.)	SIL				shared	manual	707				0
+211.464	4.023	P1	I just think we need to keep in mind that this is to be for everybody across GN, right?	SPK		0.021210	2.95	P1	confident	0	187	187		893
+214.639	0.301	P4	Yes.	BCK				P4	manual	-848			3175	346
+214.895	0.779	P2	Exactly.	BCK				P2	manual	-45			3431	824
+215.487	0.300	GROUP	(0.3)	SIL				shared	manual	-187				187
+215.787	3.922	P1	So I think working across teams is not going to hit everybody, right?	SPK		0.021401	3.15	P1	confident	0	300	4510		
+219.749	3.242	P1	You have a lot of people who doesn't have the need to work across teams.	SPK		0.017838	5.21	P1	confident	40	40	8472		
+222.991	0.060	GROUP	(.)	SIL				shared	manual	0				0
+223.051	8.125	P1	So I will think it's more about workload and stress and the whole environment because there you can engage everybody across GN.	SPK		0.018552	5.59	P1	confident	0	60	11774		0
+231.176	14.138	GROUP	(14.1)	SIL				shared	manual	0				
+245.314	9.633	P3	The most efficient way of handling these kind of things is to not take away too much from people's time to do their work tasks.	SPK		0.012018	3.42	P3	confident	0	14138	14138		
+254.947	0.320	GROUP	(0.3)	SIL				shared	manual	0				
+255.267	4.606	P3	If they can just do it at their own pace whenever they want to do it.	SPK		0.010077	3.40	P3	confident	0	320	24091		
+259.873	1.344	GROUP	(1.3)	SIL				shared	manual	0				
+261.217	9.048	P3	And when they have good time for it, so I would say something like online trainings and quizes are quite good for that.	SPK				P3	manual	0	1344	30041		4726
+268.117	17.627	P4	Yes yeah i mean yes i mean especially across teams and like if you have a lot of people with different opinions and ways of thinking mindsets like i think online training because it's anonymous so there's no like way that you have to like expose yourself too much in terms of like uh	SPK		0.041564	7.68	P4	confident	-2148	-2148	-2148		4726
+268.117	2.148	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-17627				4726
+268.364	0.430	P2	Mhm.	BCK				P2	manual	-1901			247	1290
+285.757	1.381	P1	But it's a workshop, right?	SPK		0.015311	1.55	P1	confident	16963	13	13		
+287.178	4.081	P1	It's not a question of quizzes and being anonymous.	SPK		0.018541	5.42	P1	confident	40	40	1434		
+291.259	0.080	GROUP	(.)	SIL				shared	manual	0				
+291.339	3.862	P1	It's about working together and I think being engaged.	SPK		0.018358	5.80	P1	confident	0	80	5595		
+295.201	0.080	GROUP	(.)	SIL				shared	manual	0				
+295.281	3.501	P1	If we're doing it online, like you said, then people actually don't have to engage.	SPK		0.013581	5.14	P1	confident	0	80	9537		
+298.782	0.440	GROUP	(0.4)	SIL				shared	manual	0				
+299.222	1.341	P1	I think it's important we engage.	SPK		0.011685	5.36	P1	confident	0	440	13478		
+300.563	2.960	GROUP	(3.0)	SIL				shared	manual	0				
+303.523	18.766	P3	Yeah, but then also the uh i think there's a better chance of having a good turn uh turnover or turnout of the uh a turnout of uh attendance if it's uh if people can attend when they have time otherwise they might prioritize some other tasks instead of just another workshop yeah so just uh ignore the invite	SPK		0.010947	1.89	P3	confident	0	2960	2960		381
+320.220	0.381	P4	Yeah.	BCK		0.031683	7.13	P4	uncertain	-2069			16697	381
+322.289	0.489	GROUP	(0.5)	SIL				shared	manual	1688				0
+322.778	0.420	P2	I agree.	SPK		0.007294	3.31	P2	confident	0	489	489		
+323.238	10.589	P2	I think it should be like a workshop that the majority of participants can benefit from rather than just a random thing that they can just skip it or multitasking in the background.	SPK		0.005391	2.82	P2	confident	40	40	949		
+333.827	0.421	GROUP	(0.4)	SIL				shared	manual	0				
+334.248	10.589	P2	So maybe something more relevant to, let's say, enhance their workflow or make the productivity of their day-to-day work easier.	SPK		0.007616	3.35	P2	confident	0	421	11959		
+344.837	0.100	GROUP	(.)	SIL				shared	manual	0				
+344.937	3.683	P2	So trying to offer these kind of tools to enhance or	SPK		0.006489	3.27	P2	confident	0	100	22648		
+348.620	0.902	GROUP	(0.9)	SIL				shared	manual	0				
+349.522	5.554	P2	improve their working experience would be beneficial or necessary for them to attend.	SPK		0.004946	1.21	P2	confident	0	902	27233		908
+354.622	1.565	P1	What are you advocating for?	SPK		0.011408	4.35	P1	confident	-454	-454	-454		908
+354.622	0.454	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-1565				908
+356.187	2.180	GROUP	(2.2)	SIL				shared	manual	1111				
+358.367	11.903	P2	I think it would be relevant to have some things such as like the AI productivity in the tasks that people find it relevant would benefit from it instead of how to manage stress or workload at work.	SPK		0.007474	3.50	P2	confident	0	2180	2180		0
+370.270	0.082	GROUP	(.)	SIL				shared	manual	0				0
+370.352	11.165	P2	Like it's not necessary to hold such a cross flow or cross function workshop.	SPK		0.005503	1.07	P2	confident	0	82	14165		
+381.517	0.280	GROUP	(0.3)	SIL				shared	manual	0				
+381.797	1.581	P1	What was your opinion on the format?	SPK		0.015051	4.55	P1	confident	0	280	280		0
+383.378	0.362	GROUP	(0.4)	SIL				shared	manual	0				0
+383.740	11.469	P2	Format-wise I think, first of all should be engaging and people should have the option to attend either online or physically, so maybe online training would be more flexible for everyone	SPK				P2	confident	0	362	362		
+395.209	0.380	GROUP	(0.4)	SIL				shared	manual	0				
+395.589	0.621	P3	Definitely.	SPK		0.005907	1.58	P3	confident	0	380	380		
+396.210	1.195	GROUP	(1.2)	SIL				shared	manual	0				
+397.405	26.329	P4	I would maybe yeah yeah exactly that's not really a workshop but i mean i would like i don't know maybe i mean four or topic was four or two to get a little bit more generic or general feeling like okay how can and maybe then you can combine it with one right i mean how do you how do you increase your productivity and maybe also but this like decrease your your cognitive workload also at work	SPK		0.040198	7.47	P4	confident	0	1195	1195		27914
+397.527	1.707	P1	But that's not really a workshop	SPK				P1	manual	-26207	-26207	-26207		3414
+397.527	1.707	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1707				3414
+399.234	25.253	GROUP	(25.3)	SIL				shared	manual	0				24500
+424.487	11.685	P3	Yeah, I think productivity and cross-team efficiency is something that you can address better in a workshop than maybe stress.	SPK		0.017853	2.84	P3	confident	0	25253	25253		
+436.172	0.080	GROUP	(.)	SIL				shared	manual	0				
+436.252	2.201	P3	Everyone has their own ways of dealing with stress.	SPK		0.015814	3.24	P3	confident	0	80	37018		
+438.493	1.661	P3	It's hard to generalize for everyone.	SPK		0.008592	2.78	P3	confident	40	40	39259		
+440.154	0.280	GROUP	(0.3)	SIL				shared	manual	0				
+440.434	6.822	P3	I would personally even feel like I'm being talked down to if I got a workshop about how to manage my own stress.	SPK		0.011082	3.26	P3	confident	0	280	41200		0
+447.256	19.508	GROUP	(19.5)	SIL				shared	manual	0				309
+447.838	0.309	P2	Mhm.	BCK				P2	manual	-18926				309
+466.764	26.419	P4	Right, yeah i mean it depends on how many groups right and how many people you need to uh to to uh coordinate i mean that i think that's why i cannot really say anything about the format what would be best i i would keep it topic wise like very generic like okay AI maybe but workload in general like how do you optimize like streamline your work workflow for yourself and you of course everyone has like it's it's only individual like yeah	SPK		0.045546	9.26	P4	confident	18617	19508	19508		677
+471.600	0.360	P2	Mhm.	BCK				P2	manual	-21583			4836	360
+486.728	0.317	P2	Mhm.	BCK				P2	manual	14768			19964	317
+493.183	0.168	GROUP	(.)	SIL				shared	manual	6138				
+493.351	0.660	P2	Yeah, for sure.	SPK		0.015031	4.30	P2	uncertain	0	168	168		
+494.011	0.866	GROUP	(0.9)	SIL				shared	manual	0				
+494.877	2.724	P4	But maybe a lecture and a cue.	SPK		0.051088	8.96	P4	confident	0	866	866		
+497.621	0.581	P4	Yeah, I don't know.	SPK		0.060974	8.75	P4	confident	20	20	3610		
+498.202	3.164	GROUP	(3.2)	SIL				shared	manual	0				
+501.366	2.584	P4	I mean, I don't think you can do it like personally, right?	SPK		0.063293	9.94	P4	confident	0	3164	7355		
+503.950	0.401	GROUP	(0.4)	SIL				shared	manual	0				
+504.351	2.643	P4	I mean, it depends on how many people you need to engage, but...	SPK		0.027079	8.89	P4	confident	0	401	10340		
+506.994	0.567	GROUP	(0.6)	SIL				shared	manual	0				0
+507.561	3.123	P1	You don't have to do them all at once, right? You can do them in rounds	SPK		0.019466	1.40	P1	confident	0	567	567		1516
+509.926	2.241	P4	You can do it in turn and parts, yes.	SPK		0.030405	4.69	P4	confident	-758	-758	-758		4002
+509.926	0.758	P4	[OVL:competitive]	OVL	competitive			shared	manual	-2241				1516
+510.924	1.968	P2	Different locations, different sessions	SPK				P2	manual	240	-1243	-1243		2703
+510.924	1.243	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1968				2486
+512.675	0.422	P4	Yes.	BCK				P4	manual	508			1751	384
+512.930	2.222	P1	It's all depending on the impact we want to have, right?	SPK		0.019276	5.83	P1	confident	-167	38	38		167
+515.172	9.990	P1	Because there's no doubt that having an interactive or just like in-person actually doing and carving out time is the most impactful way of these ones, right?	SPK		0.019213	2.76	P1	confident	20	20	2280		581
+522.791	0.381	P2	Mhm.	BCK				P2	manual	-2371			7619	381
+524.768	0.200	P4	No.	BCK				P4	manual	1596			9596	200
+525.162	1.081	GROUP	(1.1)	SIL				shared	manual	194				220
+525.499	0.220	P2	Mhm.	BCK		0.011580	3.11	P2	confident	-744				220
+526.243	6.766	P1	We all know that online training, it's like it's fine, but you don't really retain a lot of it afterwards if you don't work with the material and the content.	SPK		0.015879	5.94	P1	confident	524	1081	13351		
+533.009	0.338	GROUP	(0.3)	SIL				shared	manual	0				
+533.347	8.541	P3	But the interactive workshop that will take a lot of resources if we had to roll out throughout GN...	SPK				P3	confident	0	338	338		1986
+533.393	0.402	P2	Mhm.	BCK				P2	manual	-8495			46	402
+541.096	3.303	P1	I know, but we were not told that we have limited resources, right?	SPK		0.017872	1.25	P1	confident	7301	-792	-792		1584
+541.096	0.792	P1	[OVL:competitive]	OVL	competitive			shared	manual	-3303				1584
+544.439	1.982	P1	I just said, what is the most impact?	SPK		0.023341	1.44	P1	confident	2551	40	2551		299
+544.861	0.261	P2	Yeah.	BCK		0.018184	0.74	shared	confident	-1560			422	261
+546.383	0.189	P2	Yeah.	BCK				P2	manual	1261			1944	189
+546.421	0.511	GROUP	(0.5)	SIL				shared	manual	-151				469
+546.614	2.552	P1	[SOFT LAUGHTER]	LAU				P1	manual	-318				2552
+546.932	0.742	P2	And also feel like...	SPK				P2	manual	-2234	511	511		742
+547.674	1.146	GROUP	(1.1)	SIL				shared	manual	0				1146
+548.820	23.522	P4	I mean the threshold also like the i mean for for people to engage in these interactive like formal oh yeah okay inform even informal but if i think it's higher than you having like something you start with something more passive like a lecture and then you have the possibility to engage like Q&A for example that's a personal opinion of course but...	SPK		0.037758	3.76	P4	confident	0	1146	1146		786
+566.721	0.440	P2	Mhm.	BCK				P2	manual	-5621			17901	440
+572.342	3.653	GROUP	(3.7)	SIL				shared	manual	5181				0
+575.995	11.885	P1	But like I said, research shows that the one where you're engaging and where you're actually having either two or three, that's the one that has the most impact long-term.	SPK		0.013910	5.19	P1	confident	0	3653	3653		
+587.880	1.685	GROUP	(1.7)	SIL				shared	manual	0				
+589.565	5.748	P1	You're retaining that as soon as you engage and you work with the content, you're just retaining it much better afterwards.	SPK		0.013560	4.88	P1	confident	0	1685	17223		0
+595.313	1.647	GROUP	(1.6)	SIL				shared	manual	0				0
+596.960	1.561	P3	If you engage with it at all, that is.	SPK		0.014916	1.31	P3	confident	0	1647	1647		140
+598.451	0.932	P4	Yeah, exactly.	SPK		0.070214	5.02	P4	uncertain	-70	-70	-70		140
+598.451	0.070	P4	[OVL:smooth]	OVL	smooth			shared	manual	-932				140
+599.383	2.306	GROUP	(2.3)	SIL				shared	manual	862				0
+601.689	8.956	MODERATOR	So, now the time for the discussion is over and i'm gonna send again forms to all the tablets but you need to choose one person to finalize your decision	SPK		0.030472	1.46	MOD	confident	0	2306	2306		0
+610.645	0.238	GROUP	(0.2)	SIL				shared	manual	0				
+610.883	4.022	MODERATOR	You can still of course talk to finalize your decision.	SPK		0.002190	1.26	MOD	confident	0	238	11500		0
+614.905	0.760	GROUP	(0.8)	SIL				shared	manual	0				0
+615.665	1.162	P2	Have we agreed on anything?	SPK				P2	manual	0	760	760		
+616.827	0.111	GROUP	(.)	SIL				shared	manual	0				
+616.938	0.299	P1	No.	SPK				P1	manual	0	111	111		97
+617.140	4.381	P2	[LAUGHTER]	LAU				P2	manual	-97				5880
+617.237	9.696	GROUP	(9.7)	SIL				shared	manual	-4284				5783
+617.351	0.349	P3	Nope.	BCK				P3	manual	-9582				871
+617.527	1.150	P4	[LAUGHTER]	LAU				P4	manual	-173				2473
+626.933	4.002	P4	Yeah, I mean, for my preference, like at least, I mean, one or four.	SPK		0.069696	8.06	P4	confident	8256	9696	9696		
+630.935	0.618	GROUP	(0.6)	SIL				shared	manual	0				
+631.553	1.400	P2	Mhm, topic-wise you mean?	SPK				P2	manual	0	618	618		4753
+631.934	0.947	P3	In topics-wise?	SPK				P3	manual	-1019	-1019	-1019		4609
+631.934	0.947	P3	[OVL:competitive]	OVL	competitive			shared	manual	-947				4609
+631.976	1.441	P4	Yeah, topic-wise, yes.	SPK		0.087295	4.16	P4	confident	-905	-905	-905		4669
+631.976	0.977	P4	[OVL:competitive]	OVL	competitive			shared	manual	-1441				4669
+631.976	0.905	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-977				4525
+633.437	4.463	P4	I mean, you can maybe also, one can easily combine them if you want to twist it like that.	SPK		0.039691	9.78	P4	confident	556	20	556		
+637.900	0.780	GROUP	(0.8)	SIL				shared	manual	0				402
+638.151	0.402	P2	Mhm.	BCK				P2	manual	-529				402
+638.680	1.281	P4	And formats, yeah.	SPK		0.047522	7.14	P4	confident	127	780	5799		
+639.961	1.261	GROUP	(1.3)	SIL				shared	manual	0				
+641.222	5.023	P4	I mean, two, lecture and Q&A, I think for me, that's also personal.	SPK		0.040955	10.25	P4	confident	0	1261	8341		
+646.245	0.554	GROUP	(0.6)	SIL				shared	manual	0				
+646.799	0.501	P2	Yeah, I see.	SPK		0.010108	3.88	P2	confident	0	554	554		
+647.320	1.481	P2	But it also depends on the purpose.	SPK		0.007100	3.27	P2	confident	20	20	1075		
+648.841	9.270	P2	Like, for instance, it wouldn't make sense to have like interactive informative workshop for, I don't know, how to manage stress and what do you expect from the outcome	SPK		0.006953	1.85	P2	confident	40	40	2596		440
+657.891	0.220	P2	Right?	SPK		0.004986	2.76	P2	confident	-220	-220	11646		440
+657.891	0.220	P2	[OVL:smooth]	OVL	smooth			shared	manual	-220				440
+658.131	5.386	P2	Like, do we do a stress test afterwards and then people rating high or low got the prize or the other way around?	SPK		0.012464	2.70	P2	confident	20	20	11886		
+663.517	0.733	GROUP	(0.7)	SIL				shared	manual	0				
+664.250	2.882	P1	No, but it's more about getting tools to manage it, right?	SPK		0.016942	6.48	P1	confident	0	733	733		
+667.152	11.968	P1	I mean, if we were to choose between two and four, we'd definitely go for the four, because again, it's not everybody who needs to work across teams, but everybody can benefit from learning how to deal with stress and workload, right?	SPK		0.019258	1.10	P1	confident	20	20	3635		7242
+671.425	0.180	P4	Yes.	BCK		0.017512	8.01	P4	confident	-7695			4273	180
+675.810	2.123	P4	Yes, small and the most generic.	SPK		0.039593	1.93	P4	confident	4205	-3310	-3310		4596
+675.810	2.123	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2123				4596
+676.421	0.350	P2	Yeah.	BCK				P2	manual	-1512			611	1050
+677.933	0.148	GROUP	(.)	SIL				shared	manual	1162				148
+678.081	1.109	P2	I do agree.	SPK				P2	manual	0	148	148		2418
+678.081	1.039	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1109				2318
+678.574	0.240	P4	Yes.	BCK		0.021568	1.50	P4	confident	-546			493	720
+679.140	0.821	P1	We all have that.	SPK		0.016740	6.74	P1	confident	326	-50	-50		100
+679.140	0.050	P1	[OVL:smooth]	OVL	smooth			shared	manual	-821				100
+679.961	3.340	GROUP	(3.3)	SIL				shared	manual	771				
+683.301	2.263	P4	Yeah, four is the most generic, I would think.	SPK		0.035782	5.64	P4	confident	0	3340	3340		309
+685.072	0.309	P1	Yeah.	BCK				P1	manual	-492			1771	309
+685.564	4.742	GROUP	(4.7)	SIL				shared	manual	183				0
+690.306	4.821	P1	But if you have to do something that applies to everybody and also brings value, right?	SPK		0.017339	4.27	P1	confident	0	4742	4742		57
+695.070	0.381	P2	Mhm.	BCK				P2	manual	-57			4764	381
+695.127	0.440	GROUP	(0.4)	SIL				shared	manual	-324				324
+695.567	3.921	P1	I think that's the one that you can use tomorrow, right?	SPK		0.020160	1.58	P1	confident	0	440	10003		5108
+696.809	2.429	P2	I think all the topics would bring value	SPK				P2	manual	-2679	-2679	-2679		4858
+696.809	2.429	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2429				4858
+699.238	0.570	GROUP	(0.6)	SIL				shared	manual	0				250
+699.808	5.743	P2	I think all the topics could bring value to the organization in general and also individuals.	SPK		0.006913	1.86	P2	confident	0	570	320		0
+705.551	0.674	GROUP	(0.7)	SIL				shared	manual	0				
+706.225	11.699	P3	Yes, i mean even if you don't daily work work between across teams it's uh always a benefit for uh for synergies but what can you apply tomorrow	SPK		0.010538	1.34	P3	confident	0	674	674		6266
+711.853	0.400	P2	Yeah.	BCK				P2	manual	-6071			5628	400
+714.991	3.461	P1	But all knowledge has benefit, but what can you apply tomorrow, right?	SPK		0.014917	2.92	P1	confident	2738	-2933	-2933		5866
+714.991	2.933	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-3461				5866
+718.452	1.465	GROUP	(1.5)	SIL				shared	manual	528				
+719.917	15.179	P2	Depends on if you want efficiency if you want to apply certain knowledge or tools tomorrow then i guess one might be more relevant because like the moment i learned the tools to manage stress can i apply tomorrow	SPK		0.007282	1.03	P2	confident	0	1465	1465		936
+734.628	6.681	P1	But there is also workload and it's just that i think the whole thing about how to manage your day-to-day tasks right	SPK				P1	manual	-468	-468	-468		1665
+734.628	0.468	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-6681				936
+739.608	0.491	P2	Mhm.	BCK				P2	manual	4512			4980	491
+741.190	0.761	P4	I agree.	SPK		0.027592	6.66	P4	confident	1091	-119	-119		376
+741.190	0.119	P4	[OVL:smooth]	OVL	smooth			shared	manual	-761				238
+741.882	6.704	P3	I guess we are extending the conversation time now or the discussion time a lot.	SPK		0.014319	2.90	P3	confident	573	-69	-69		138
+741.882	0.069	P3	[OVL:smooth]	OVL	smooth			shared	manual	-6704				138
+748.586	0.080	GROUP	(.)	SIL				shared	manual	6635				
+748.666	2.402	P3	We should probably try to align on something.	SPK		0.016828	1.71	P3	confident	0	80	6715		210
+750.858	0.277	P1	Yeah.	BCK				P1	manual	-210			2192	277
+751.068	0.740	GROUP	(0.7)	SIL				shared	manual	-67				457
+751.365	0.390	P2	Yeah.	BCK				P2	manual	-443				390
+751.808	1.101	P3	Was this intended to fall?	SPK		0.018679	3.31	P3	confident	53	740	9857		
+752.909	3.338	GROUP	(3.3)	SIL				shared	manual	0				
+756.247	1.282	P4	Everything is intended.	SPK		0.060350	3.22	P4	confident	0	3338	3338		
+757.529	3.303	GROUP	(3.3)	SIL				shared	manual	0				2360
+757.909	2.360	P2	[LAUGHTER]	LAU				P2	manual	-2923				2360
+760.832	3.663	P4	I don't know, but... That's a cable, right?	SPK		0.040608	2.49	P4	confident	563	3303	7923		
+764.495	4.766	GROUP	(4.8)	SIL				shared	manual	0				
+769.261	1.562	P1	We can also make some compromises, right?	SPK				P1	manual	0	4766	4766		
+770.844	2.782	P1	Because we're not going to agree on any of them.	SPK		0.016147	1.88	P1	confident	21	21	6349		920
+773.166	0.917	P2	Any of those...	SPK				P2	manual	-460	-460	-460		920
+773.166	0.460	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-917				920
+774.083	0.744	GROUP	(0.7)	SIL				shared	manual	457				0
+774.827	6.503	P1	So if you guys want to work across teams and then we can say we do it as interactive workshops.	SPK		0.017877	4.28	P1	confident	0	744	744		
+781.330	3.107	GROUP	(3.1)	SIL				shared	manual	0				
+784.437	2.482	P2	I think it has to make sense, right?	SPK		0.004193	1.34	P2	confident	0	3107	3107		
+786.919	0.372	GROUP	(0.4)	SIL				shared	manual	0				
+787.291	1.581	P1	Oh, but all of them make sense.	SPK		0.014391	4.87	P1	confident	0	372	372		0
+788.872	0.220	GROUP	(0.2)	SIL				shared	manual	0				0
+789.092	1.361	P1	There's none of them you can't do.	SPK		0.015567	4.08	P1	confident	0	220	2173		
+790.453	3.637	GROUP	(3.6)	SIL				shared	manual	0				
+794.090	6.739	P3	I think it's easier to engage people with letting them to it at their own pace and online training	SPK				P3	manual	0	3637	3637		788
+800.261	0.220	P2	Mhm.	SPK		0.008881	0.82	P2	uncertain	-568	-568	-568		440
+800.261	0.220	P2	[OVL:smooth]	OVL	smooth			shared	manual	-220				440
+800.481	0.959	GROUP	(1.0)	SIL				shared	manual	0				348
+801.440	0.881	P1	Okay.	SPK		0.009074	1.02	P1	uncertain	0	959	959		2052
+801.493	2.109	P2	Yeah, I would go with online training too	SPK				P2	manual	-828	-828	-828		4614
+801.493	0.828	P2	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-2109				2052
+802.189	3.942	P1	But then I want it to be the stress and the workload.	SPK		0.015356	1.10	P1	confident	-132	-1413	-1413		3222
+802.189	0.132	P1	[OVL:smooth]	OVL	smooth			shared	manual	-3942				660
+802.189	1.413	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-132				3222
+806.135	3.940	P1	[LAUGHTER]	LAU				P1	manual	2533				6453
+806.151	0.681	P4	Okay, that's fine.	SPK		0.117854	1.90	P4	confident	-3924	20	20		1318
+806.195	2.549	P2	[LAUGHTER]	LAU				P2	manual	-637				5078
+806.852	1.341	P4	Yeah, but that's fine with me.	SPK		0.151386	1.94	P4	confident	-1892	20	721		2682
+808.193	0.720	GROUP	(0.7)	SIL				shared	manual	0				1271
+808.913	4.984	P4	I mean, one or two informants I'm totally fine with and four, I think it's fine topic-wise.	SPK		0.064394	8.16	P4	confident	0	720	2782		1162
+813.897	0.888	GROUP	(0.9)	SIL				shared	manual	0				0
+814.785	0.623	P1	Okay, good.	SPK		0.007395	3.71	P1	confident	0	888	888		0
+815.408	0.963	GROUP	(1.0)	SIL				shared	manual	0				
+816.371	1.263	P1	You can plug it in, you did it before.	SPK		0.016517	5.25	P1	confident	0	963	2474		278
+817.356	0.440	P3	FIne.	BCK				P3	manual	-278			985	440
+817.634	1.007	GROUP	(1.0)	SIL				shared	manual	-162				162
+818.641	0.803	P4	Am I allowed to do that?	SPK		0.050309	9.08	P4	confident	0	1007	1007		
+819.444	3.392	GROUP	(3.4)	SIL				shared	manual	0				
+822.836	3.152	P4	So four how to manage stress and yes and two	SPK		0.073644	4.68	P4	confident	0	3392	5202		

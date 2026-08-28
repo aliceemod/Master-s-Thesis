@@ -1,0 +1,249 @@
+world:
+  coordinate_frame:
+    origin: fixed_7x5_board_center
+    axes:
+      x: right
+      y: back
+      z: up
+  aruco_dictionary: DICT_4X4_50
+  marker_map:
+    # 50mm desk-edge markers, world origin at fixed-board center.
+    # Corner order: top-left, top-right, bottom-right, bottom-left.
+    - id: 0
+      label: front_left_corner
+      corners_m:
+        - [-0.9250, -0.3750, 0.0000]
+        - [-0.8750, -0.3750, 0.0000]
+        - [-0.8750, -0.4250, 0.0000]
+        - [-0.9250, -0.4250, 0.0000]
+    - id: 1
+      label: front_right_corner
+      corners_m:
+        - [0.8750, -0.3750, 0.0000]
+        - [0.9250, -0.3750, 0.0000]
+        - [0.9250, -0.4250, 0.0000]
+        - [0.8750, -0.4250, 0.0000]
+    - id: 2
+      label: back_right_corner
+      corners_m:
+        - [0.8750, 0.4250, 0.0000]
+        - [0.9250, 0.4250, 0.0000]
+        - [0.9250, 0.3750, 0.0000]
+        - [0.8750, 0.3750, 0.0000]
+    - id: 3
+      label: back_left_corner
+      corners_m:
+        - [-0.9250, 0.4250, 0.0000]
+        - [-0.8750, 0.4250, 0.0000]
+        - [-0.8750, 0.3750, 0.0000]
+        - [-0.9250, 0.3750, 0.0000]
+    - id: 4
+      label: left_center
+      corners_m:
+        - [-0.9250, 0.0250, 0.0000]
+        - [-0.8750, 0.0250, 0.0000]
+        - [-0.8750, -0.0250, 0.0000]
+        - [-0.9250, -0.0250, 0.0000]
+    - id: 5
+      label: right_center
+      corners_m:
+        - [0.8750, 0.0250, 0.0000]
+        - [0.9250, 0.0250, 0.0000]
+        - [0.9250, -0.0250, 0.0000]
+        - [0.8750, -0.0250, 0.0000]
+
+video_fps: 30.0
+min_cameras_for_triangulation: 2
+max_reproj_error_px: 10.0
+
+desk:
+  width_m: 1.8000
+  depth_m: 0.8000
+  height_m: 0.7500
+
+table_marker_layout:
+  marker_size_m: 0.0500
+  placement: edge_centers
+  marker_ids:
+    front_left: 0
+    front_right: 1
+    back_right: 2
+    back_left: 3
+    left_center: 4
+    right_center: 5
+
+# Per-camera desk marker visibility constraints.
+# Cameras NOT listed here are assumed to see all 6 markers.
+# calibration_pipeline.py uses this to restrict PnP to visible markers only,
+# preventing false-positive detections from degrading the pose estimate.
+camera_marker_visibility:
+  cam5:
+    visible_marker_ids: [0, 1, 4]
+    notes: >
+      Low front-centre position (zâ‰ˆ1.1 m, yâ‰ˆ-1.1 m).
+      Only front-left (0), front-right (1), and left-centre (4) markers
+      reliably in field of view.  Back markers (2, 3) and right-centre (5)
+      are outside the FOV or too oblique.
+  cam7:   # P50
+    visible_marker_ids: [0, 1, 2, 3]
+    notes: >
+      P50 panoramic bar at front-centre (yâ‰ˆ-1.1 m, zâ‰ˆ0.15 m, very wide FOV).
+      Corner markers (0-3) are visible.  Centre-edge markers (4, 5) are at
+      the extreme left/right and not reliably detected.  The fixed ChArUco
+      board is also visible but at a close, skewed angle â€” use with caution.
+
+# Fixed ChArUco board visibility per camera
+fixed_board_visibility:
+  cam1:  {quality: good}
+  cam2:  {quality: good}
+  cam3:  {quality: good}
+  cam4:  {quality: good}
+  cam5:  {quality: good,   notes: "Elevated front-centre view; board visible from above"}
+  cam6:  {quality: good}
+  cam7:  {quality: skewed, notes: "P50 very close to board (yâ‰ˆ-1.1 m) and low (zâ‰ˆ0.15 m); highly oblique angle, calibration quality may be poor"}
+
+fixed_charuco_board:
+  board_type: 7x5
+  square_size_m: 0.069
+  dictionary: DICT_4X4_250
+  center_position_m: [0.0000, 0.0000, 0.0000]
+  orientation: flat
+  is_world_origin: true
+
+# Glasses ArUco marker size changed between collection groups:
+#   grp-1  â€“ grp-8  : 25 mm markers (marker_size_m: 0.025)
+#   grp-9  â€“ grp-16 : 38 mm markers (marker_size_m: 0.038)
+# Set marker_size_m per-session below, or use glasses_marker_size_by_group.
+glasses_marker_size_by_group:
+  grp_1_to_8:  0.025   # 25 mm â€” original printed size
+  grp_9_to_16: 0.038   # 38 mm â€” larger reprinted size
+
+glasses:
+  - id: tobii_p1
+    left_marker_id: 10
+    right_marker_id: 11
+    marker_size_m: 0.025        # override per session if grp >= 9 (use 0.038)
+    marker_center_distance_mm: 140.0
+    camera_from_front_edge_line_mm: 60.0
+    left_marker_offset_mm: [72.5, 0.0, 0.0]
+    right_marker_offset_mm: [-72.5, 0.0, 0.0]
+    gaze_ndjson: null
+    time_offset_s: 0.0
+  - id: tobii_p2
+    left_marker_id: 12
+    right_marker_id: 13
+    marker_size_m: 0.025        # override per session if grp >= 9 (use 0.038)
+    marker_center_distance_mm: 140.0
+    camera_from_front_edge_line_mm: 60.0
+    left_marker_offset_mm: [72.5, 0.0, 0.0]
+    right_marker_offset_mm: [-72.5, 0.0, 0.0]
+    gaze_ndjson: null
+    time_offset_s: 0.0
+  - id: tobii_p3
+    left_marker_id: 14
+    right_marker_id: 15
+    marker_size_m: 0.025        # override per session if grp >= 9 (use 0.038)
+    marker_center_distance_mm: 140.0
+    camera_from_front_edge_line_mm: 60.0
+    left_marker_offset_mm: [72.5, 0.0, 0.0]
+    right_marker_offset_mm: [-72.5, 0.0, 0.0]
+    gaze_ndjson: null
+    time_offset_s: 0.0
+  - id: tobii_p4
+    left_marker_id: 16
+    right_marker_id: 17
+    marker_size_m: 0.025        # override per session if grp >= 9 (use 0.038)
+    marker_center_distance_mm: 140.0
+    camera_from_front_edge_line_mm: 60.0
+    left_marker_offset_mm: [72.5, 0.0, 0.0]
+    right_marker_offset_mm: [-72.5, 0.0, 0.0]
+    gaze_ndjson: null
+    time_offset_s: 0.0
+
+cameras:
+  - id: cam1
+    model: panacast_20
+    label: left_front_middle
+    position_m: [-0.9000, -0.4500, 0.8800]
+    rotate_180: true   # ceiling-mounted upside-down
+    focus: [P1, P2]
+  - id: cam2
+    model: panacast_20
+    label: right_front_middle
+    position_m: [0.9000, -0.4500, 0.8800]
+    rotate_180: true
+    focus: [P3, P4]
+  - id: cam3
+    model: panacast_20
+    label: right_back_middle
+    position_m: [0.9000, 0.4500, 0.8800]
+    rotate_180: true
+    focus: [P3, P4]
+  - id: cam4
+    model: panacast_20
+    label: left_back_middle
+    position_m: [-0.9000, 0.4500, 0.8800]
+    rotate_180: true
+    focus: [P1, P2]
+  - id: cam5
+    model: panacast_20
+    label: front_center
+    position_m: [0.0000, -1.1000, 1.1000]
+    rotate_180: false
+    focus: [table_overview]
+  - id: cam6
+    model: panacast_20
+    label: back_center
+    position_m: [0.0000, 1.3000, 0.8800]
+    rotate_180: false
+    focus: [all]
+  - id: cam7
+    model: panacast_50
+    label: front_center_p50
+    position_m: [0.0000, -1.1000, 0.1500]
+    rotate_180: false
+    focus: [all]
+
+participants:
+  P1: back_right
+  P2: front_right
+  P3: front_left
+  P4: back_left
+
+# Tobii Glasses 3 scene cameras â€” one per participant, head-mounted (dynamic position).
+# These are NOT fixed in world space; position_m is the approximate seated head position
+# used only for initialisation / visualisation.  Actual pose is recovered from
+# the glasses ArUco markers above during 3-D reconstruction.
+tobii_scene_cameras:
+  - id: tobii_p1_scene
+    participant: P1
+    model: tobii_glasses3_scene
+    glasses_id: tobii_p1
+    approx_position_m: [0.4500, 0.3000, 1.1500]   # P1 back-right seated head height
+    dynamic: true
+    video_stream: tobii_p1
+    time_offset_s: 0.0
+  - id: tobii_p2_scene
+    participant: P2
+    model: tobii_glasses3_scene
+    glasses_id: tobii_p2
+    approx_position_m: [0.4500, -0.3000, 1.1500]  # P2 front-right seated head height
+    dynamic: true
+    video_stream: tobii_p2
+    time_offset_s: 0.0
+  - id: tobii_p3_scene
+    participant: P3
+    model: tobii_glasses3_scene
+    glasses_id: tobii_p3
+    approx_position_m: [-0.4500, -0.3000, 1.1500] # P3 front-left seated head height
+    dynamic: true
+    video_stream: tobii_p3
+    time_offset_s: 0.0
+  - id: tobii_p4_scene
+    participant: P4
+    model: tobii_glasses3_scene
+    glasses_id: tobii_p4
+    approx_position_m: [-0.4500, 0.3000, 1.1500]  # P4 back-left seated head height
+    dynamic: true
+    video_stream: tobii_p4
+    time_offset_s: 0.0

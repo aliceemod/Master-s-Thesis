@@ -1,0 +1,64 @@
+4.1 Conversational-floor features
+The conversational-floor features quantify how a participant oc-
+cupies the conversational floor—how much they speak, how often
+they seize or defend a turn, and how they overlap cooperatively
+with others—and are the behavioural channel most directly linked
+to perceived dominance in prior meeting corpora [2, 14].
+4.1.1 Provenance. These features are derived from manually cor-
+rected turn-level transcripts rather than from raw automatic output.
+Each participant’s close-talk (DPA) channel was first transcribed
+and diarised with WhisperX [3]—faster-whisper decoding followed
+by wav2vec2 forced alignment—and then hand-verified against the
+room audio to correct speaker attribution and segment boundaries.
+In the corrected transcript every segment carries a type label—
+speech (SPK), silence (SIL), overlap (OVL), backchannel (BCK), or
+laughter (LAU)—and every overlap additionally carries an inter-
+actional subtype (competitive, floor_fight, smooth, collaborative, or
+backchannel_ovl). All conversational-floor features in Table 3 are
+computed deterministically from these annotated {onset, duration,
+speaker, type, subtype} fields, so the feature values are grounded in
+the human-verified turn structure rather than in acoustic heuristics.
+4.1.2 Turn and bout construction. A turn (floor-holding run) is
+a maximal sequence of a speaker’s SPK segments merged across
+silences of at most 0.3 s. Competitive interruptions are aggregated
+into bouts: consecutive competitive bids whose onsets fall within
+1.5 s are merged into a single contest episode whose initiator is the
+first bidder. A bout is resolved by the first speaker to hold the floor
+continuously for at least 2.0 s, starting within 6.0 s of bout onset;
+Table 3: Conversational-floor features, grouped by family
+(thirteen features, three families). All quantities are com-
+puted per participant per task from the manually corrected
+turn-level transcripts (Section 4.1).
+Feature Gloss
+Floor occupancy
+Speaking time Own speech duration.
+Speaking time (+BCK) Plus backchannel duration.
+Turn count Number of floor-holding runs.
+Competitive interruptions
+Competitive attempts Competitive / floor-fight overlaps.
+Successful turn switch Initiated bouts won.
+Failed turn switch Initiated bouts lost to another.
+Unresolved floor fight Initiated bouts left unsettled.
+Interruptions recv./turn Others’ bids while holding, per turn.
+Interruption balance Attempts minus interruptions received.
+Bout duration Contested time initiated.
+Cooperative overlaps
+Backchannels Own backchannels.
+Smooth transitions Latched, non-competitive exchanges.
+Collaborative completions Co-constructions / completions.
+the outcome is a successful turn switch if that speaker is the initiator,
+a failed turn switch if it is someone else, and an unresolved floor
+fight if no speaker settles within the window. These three timing
+thresholds are the only free parameters of the conversational-floor
+feature set.
+4.1.3 Robustness to threshold choices. Because the thresholds are
+set by hand, we verified that the conversational-floor–dominance
+relationships do not hinge on their exact values. Re-deriving the
+competitive-interruption features over a grid of 36 settings (settling
+time ∈{1.0,1.5,2.0,3.0}s, merge gap ∈{1.0,1.5,2.5}s, resolution
+window ∈{4,6,8}s) leaves every feature’s sign unchanged and its
+correlation with the averaged peer rating within a narrow band
+across all cells (e.g., successful turn switch 𝜌 ∈[0.18,0.46], unre-
+solved floor fight 𝜌 ∈[0.34,0.53]; the count of competitive attempts
+is invariant by construction at 𝜌= 0.47). We fix the thresholds at
+settling= 2.0 s, merge gap= 1.5 s, and window= 6.0 s.

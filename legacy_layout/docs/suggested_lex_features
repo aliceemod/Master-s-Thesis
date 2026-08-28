@@ -1,0 +1,76 @@
+Updated todo list
+
+## Lexical/NLP Feature Options for Group Interaction Transcripts
+
+### 1. **Classical Text Features**
+| Feature | Description | Use Case |
+|---------|-------------|----------|
+| **TF-IDF** | Term importance weighted by rarity | Topic differentiation across tasks |
+| **POS distributions** | % nouns, verbs, adjectives, pronouns | Cognitive load, formality |
+| **Readability** | Flesch-Kincaid, SMOG grade | Complexity of explanations |
+| **Dependency depth** | Parse tree complexity | Syntactic sophistication |
+
+### 2. **Psycholinguistic Dictionaries**
+| Tool | What it measures |
+|------|------------------|
+| **LIWC** | 90+ categories (cognitive, social, affective) |
+| **NRC Emotion Lexicon** | 8 emotions + valence |
+| **Affective Norms (VAD)** | Valence, arousal, dominance per word |
+| **MRC Database** | Concreteness, imageability, familiarity |
+
+### 3. **Dialogue/Discourse Analysis**
+- **Dialogue act classification** (question, statement, backchannel, suggestion)
+- **Topic modeling** (LDA/BERTopic) — track topic shifts within tasks
+- **Discourse markers** ("so", "well", "I mean") — cognitive processing signals
+- **Argumentation mining** — claim/premise detection
+
+### 4. **Transformer-Based (Big Models)**
+| Approach | Model | Output |
+|----------|-------|--------|
+| **Sentence embeddings** | Sentence-BERT | 768-dim vectors per utterance |
+| **Emotion classification** | GoEmotions (27 emotions) | Fine-grained emotion per turn |
+| **Personality from text** | BERT fine-tuned on Big Five | Estimated personality traits |
+| **Dialogue act** | DialoGPT / ConvBERT | Intent classification |
+| **Semantic similarity** | all-MiniLM-L6-v2 | Between-speaker alignment |
+| **Summarization** | BART/T5 | Task-level summaries |
+| **Zero-shot classification** | BART-MNLI | Any label without training |
+
+### 5. **Group Dynamics Features** (Most Relevant)
+| Feature | Description |
+|---------|-------------|
+| **Lexical accommodation** | Do speakers mirror each other's words? |
+| **Semantic alignment** | Embedding similarity between consecutive turns |
+| **Information novelty** | New concepts introduced per speaker |
+| **Dominance markers** | "I think" vs "We should" |
+| **Inclusive language** | We/our vs I/my ratio |
+
+### 6. **Recommended Priority for Thesis**
+
+**Quick wins (existing tools):**
+```
+1. LIWC features (if license available)
+2. NRC emotion lexicon (free)
+3. Sentence-BERT embeddings → PCA for "conversation style" dimensions
+4. GoEmotions classification per turn
+```
+
+**High-impact for group dynamics:**
+```
+1. Lexical/semantic accommodation (alignment over time)
+2. Topic coherence across speakers
+3. Dialogue act classification
+4. Inclusive pronoun ratios (we/I)
+```
+
+**BERT-scale features:**
+```python
+# Example: Sentence-BERT for semantic alignment
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# Compute alignment between consecutive speakers
+embeddings = model.encode(utterances)
+alignment = cosine_similarity(embeddings[:-1], embeddings[1:])
+```
+
+Want me to implement any of these? I'd suggest starting with **sentence embeddings + accommodation** or **emotion classification (GoEmotions)** as they're most theoretically relevant to group affect.

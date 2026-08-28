@@ -1,0 +1,174 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+21.492	3.944	MODERATOR	Okay, then we can start with the first task.	SPK		0.004411	1.39	MOD	confident					
+25.476	1.823	MODERATOR	So it will be around 10 minutes.	SPK		0.003136	1.32	MOD	confident	40	40			
+27.299	0.660	GROUP	(0.7)	SIL				shared	manual	0				
+27.959	2.623	MODERATOR	First of all, I will explain what it is.	SPK		0.003739	1.37	MOD	confident	0	660			
+30.582	0.180	GROUP	(.)	SIL				shared	manual	0				
+30.762	2.843	MODERATOR	And this time you can ask me any questions.	SPK		0.004923	1.57	MOD	confident	0	180			0
+33.605	0.663	GROUP	(0.7)	SIL				shared	manual	0				0
+34.268	5.346	MODERATOR	But during the task, try to not direct your attention to me and not direct questions to me.	SPK		0.006017	1.22	MOD	confident	0	663			0
+39.614	1.480	GROUP	(1.5)	SIL				shared	manual	0				0
+41.094	9.067	MODERATOR	So in this first task you have to imagine that you are part of a hiring committee and you're evaluating three different candidates for an internal role at GN.	SPK		0.004390	1.43	MOD	confident	0	1480			
+50.161	1.161	GROUP	(1.2)	SIL				shared	manual	0				
+51.322	6.806	MODERATOR	So the position is related to supporting AI adoption initiatives across different departments and AI transformation.	SPK		0.004201	1.35	MOD	confident	0	1161			
+58.128	0.720	GROUP	(0.7)	SIL				shared	manual	0				
+58.848	5.385	MODERATOR	So the role would focus on helping teams to understand the potential of AI in different activities and where they can use some AI tools and support the role of those tools.	SPK		0.004078	1.29	MOD	confident	0	720			
+64.233	8.424	GROUP	(8.4)	SIL				shared	manual	0				0
+72.657	2.781	MODERATOR	Each of you will receive some information about these candidates.	SPK		0.005528	1.91	MOD	confident	0	8424			0
+75.438	0.181	GROUP	(.)	SIL				shared	manual	0				
+75.619	7.003	MODERATOR	It's A, B and C. A is the same for all of you and the same for the others.	SPK		0.004434	1.61	MOD	confident	0	181			
+82.622	1.361	GROUP	(1.4)	SIL				shared	manual	0				
+83.983	7.604	MODERATOR	You may not show your tablet screen to other participants, but you can of course share all the information that's in the tablets.	SPK		0.004901	1.59	MOD	confident	0	1361			
+91.587	1.394	GROUP	(1.4)	SIL				shared	manual	0				0
+92.981	8.902	MODERATOR	But try to read aloud exactly the words that you will get, try to retrace them and make it natural in the conversation.	SPK		0.004015	1.37	MOD	confident	0	1394			0
+101.883	0.841	GROUP	(0.8)	SIL				shared	manual	0				
+102.724	7.982	MODERATOR	And at the end of the task you should be able to come up with a decision about which candidate is better for the position.	SPK		0.004855	1.51	MOD	confident	0	841			
+110.706	2.400	GROUP	(2.4)	SIL				shared	manual	0				0
+113.106	0.861	MODERATOR	Do you have any questions?	SPK		0.003784	1.45	MOD	confident	0	2400			0
+113.967	1.867	GROUP	(1.9)	SIL				shared	manual	0				
+115.834	0.637	P2	Not right now.	SPK				P2	manual	0	1867	1867		1168
+115.887	2.781	P4	So we get the same information for all the three candidates?	SPK		0.050595	12.47	P4	confident	-584	-584	-584		1168
+115.887	0.584	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-2781				1168
+118.668	0.979	GROUP	(1.0)	SIL				shared	manual	2197				
+119.647	2.602	MODERATOR	You get some, each of you will get some information.	SPK		0.023872	6.29	MOD	confident	0	979	979		
+122.289	1.241	P4	Okay, part of them.	SPK		0.010256	1.74	P4	confident	40	40	40		398
+122.355	0.398	P2	Okay.	BCK				P2	manual	-1175			66	398
+123.530	1.762	GROUP	(1.8)	SIL				shared	manual	777				
+125.292	2.602	MODERATOR	Okay, so now we'll give you some times to read them.	SPK		0.005955	1.50	MOD	confident	0	1762	1762		
+127.894	0.200	GROUP	(.)	SIL				shared	manual	0				
+128.094	3.623	MODERATOR	You don't have to memorize anything, as you will always be able to go back to them.	SPK		0.005583	1.51	MOD	confident	0	200	4564		
+131.717	1.001	GROUP	(1.0)	SIL				shared	manual	0				0
+132.718	2.983	MODERATOR	But just to familiarize yourself with the information.	SPK		0.003456	1.30	MOD	confident	0	1001	9188		0
+135.701	0.580	GROUP	(0.6)	SIL				shared	manual	0				
+136.281	0.681	MODERATOR	Okay, you can start.	SPK		0.002056	1.24	MOD	confident	0	580	12751		0
+136.962	78.141	GROUP	(78.1)	SIL				shared	manual	0				0
+215.103	3.062	MODERATOR	Okay, so you can now start your discussion.	SPK		0.003348	1.05	MOD	confident	0	78141	91573		
+218.210	8.151	MODERATOR	You have seven minutes and then you will have one additional minute to finalize your decision of one, only one candidate.	SPK		0.002960	1.25	MOD	confident	45	45	94680		0
+226.361	0.590	GROUP	(0.6)	SIL				shared	manual	0				0
+226.951	2.602	MODERATOR	Okay, you can start discussing now.	SPK		0.002694	1.10	MOD	confident	0	590	103421		
+229.553	5.117	GROUP	(5.1)	SIL				shared	manual	0				
+234.670	2.821	P4	So for me, candidate B has domain knowledge, right?	SPK		0.072761	12.35	P4	confident	0	5117	5117		
+237.491	1.348	GROUP	(1.3)	SIL				shared	manual	0				0
+238.839	0.201	P3	Yes.	SPK		0.005331	3.44	P3	uncertain	0	1348	1348		0
+239.040	1.131	GROUP	(1.1)	SIL				shared	manual	0				
+240.171	1.900	P4	The question is like, it's a transformation.	SPK		0.044624	9.97	P4	confident	0	1131	1131		
+242.091	5.742	P4	So it's like a teaching task the candidate is supposed to do, right?	SPK		0.028222	10.04	P4	confident	20	20	3051		
+247.833	0.980	GROUP	(1.0)	SIL				shared	manual	0				
+248.813	2.520	P4	So in this way, maybe like domain knowledge is not the key.	SPK		0.073272	11.97	P4	confident	0	980	9773		
+251.333	1.450	GROUP	(1.4)	SIL				shared	manual	0				
+252.783	1.661	P3	That is the same feeling that I got.	SPK		0.011148	3.58	P3	confident	0	1450	1450		
+254.444	1.990	GROUP	(2.0)	SIL				shared	manual	0				
+256.434	7.672	P3	Great technical knowledge doesn't seem to be in the scope of the position.	SPK				P3	manual	0	1990	5101		0
+264.106	1.042	GROUP	(1.0)	SIL				shared	manual	0				160
+264.488	0.160	P4	Yeah.	BCK		0.021663	10.13	P4	confident	-660				160
+265.148	7.063	P4	And in terms of like, I don't say like, I don't think like, no domain knowledge is, I mean, it's totally unimportant.	SPK		0.069320	11.59	P4	confident	500	1042	1042		
+272.211	0.200	GROUP	(.)	SIL				shared	manual	0				
+272.411	6.602	P4	But I think maybe for me, candidate C, like would be the best compromise between those three candidates.	SPK		0.042175	12.01	P4	confident	0	200	8305		
+279.013	0.896	GROUP	(0.9)	SIL				shared	manual	0				
+279.909	1.678	P1	Yeah, I am thinking of C as well.	SPK		0.018812	5.76	P1	confident	0	896	896		1626
+280.774	1.240	P4	IT and sales.	SPK		0.077389	6.16	P4	confident	-813	-813	-813		1626
+280.774	0.813	P4	[OVL:competitive]	OVL	competitive			shared	manual	-1240				1626
+282.014	0.060	GROUP	(.)	SIL				shared	manual	427				
+282.074	10.764	P4	So there's some domain knowledge likely because you need to like, in a diplomatic way, explain things and formulate some requests and needs.	SPK		0.048436	11.03	P4	confident	0	60	487		403
+289.346	0.403	P2	Mhm.	BCK				P2	manual	-3492			7272	403
+292.838	0.591	GROUP	(0.6)	SIL				shared	manual	3089				0
+293.429	15.818	P2	Yeah, agree and also based on the information that i have for candidate C is that they also have some like a cross-functional experience and qualities to you know people working with people and try to translate one language to another which i think it would be a good fit.	SPK		0.005761	1.01	P2	confident	0	591	591		568
+300.966	0.568	P4	Yes,	BCK				P4	manual	-8281			7537	568
+309.247	6.377	GROUP	(6.4)	SIL				shared	manual	7713				
+315.624	17.231	P3	Also from the information here yeah also seems the candidate C also has a previous experience with adopting new tools or like helping people adopt new tools.	SPK		0.012022	3.10	P3	confident	0	6377	6377		421
+325.136	0.371	P2	Mhm.	BCK				P2	manual	-7719			9512	371
+331.797	0.050	P2	Mhm.	BCK				P2	manual	6290			16173	50
+332.855	1.124	GROUP	(1.1)	SIL				shared	manual	1008				0
+333.979	8.081	P4	And especially like there seems to be some domain knowledge, but also very high ability to explain things to like broad audiences.	SPK		0.058524	11.98	P4	confident	0	1124	1124		220
+340.019	0.220	P3	Yes.	BCK		0.007127	2.66	P3	confident	-2041			6040	220
+342.100	4.862	P4	I think that shows that you understand things and can basically like explain it.	SPK		0.038957	11.71	P4	confident	1861	40	9245		0
+346.962	0.600	GROUP	(0.6)	SIL				shared	manual	0				0
+347.562	1.260	P4	At least that's the case for me.	SPK		0.035878	12.57	P4	confident	0	600	14707		
+348.822	1.470	GROUP	(1.5)	SIL				shared	manual	0				0
+350.292	3.023	P1	The only thing I'm wondering is if C is too experienced.	SPK		0.016653	4.75	P1	confident	0	1470	1470		0
+353.315	0.160	GROUP	(.)	SIL				shared	manual	0				
+353.475	2.662	P1	It's difficult to figure out what level that role is.	SPK		0.014843	4.91	P1	confident	0	160	4653		
+356.137	2.157	GROUP	(2.2)	SIL				shared	manual	0				
+358.294	0.521	P4	Yeah, good question.	SPK		0.014700	10.94	P4	confident	0	2157	2157		
+358.815	1.145	GROUP	(1.1)	SIL				shared	manual	0				
+359.960	0.981	P3	That's a good question.	SPK		0.003923	2.43	P3	confident	0	1145	1145		
+360.941	3.286	GROUP	(3.3)	SIL				shared	manual	0				
+364.227	4.823	P4	So it's probably not a decision position, right?	SPK		0.041916	6.19	P4	confident	0	3286	3286		560
+367.583	0.560	P2	Mhm.	BCK				P2	manual	-1467			3356	560
+369.070	12.088	P4	So you have to explain and get everyone on the same boat or however you would, but not actively deciding, okay, we do like this and this and we use these tools.	SPK		0.035012	4.10	P4	confident	927	20	8129		3266
+374.051	0.622	P2	Yeah.	BCK				P2	manual	-7107			4981	622
+379.836	21.458	P1	I think it's purely communication, right? It's just a question of, there is no doubt  C has a lot of facilitation, a lot of this like being the bridge between different stakeholders. But I am just wondering if they used to exactly have more infuence than what this role is entitled to.	SPK				P4	confident	5163	-1322	-1322		23421
+379.836	1.322	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-21458				2644
+381.718	0.961	P4	Exactly, exactly.	SPK		0.038241	3.96	P4	confident	560	-19576	-19576		1922
+381.718	0.961	P4	[OVL:competitive]	OVL	competitive			shared	manual	-961				1922
+382.679	23.786	GROUP	(23.8)	SIL				shared	manual	0				19484
+391.364	0.240	P4	Yes.	BCK		0.014399	1.41	P4	uncertain	-15101			11528	480
+401.580	0.629	P3	Mhm.	BCK				P3	uncertain	9976				629
+406.465	9.565	P1	Because you can say A has experience with tools, rollouts, so that also shows some kind of experience with communication, right?	SPK		0.014678	4.99	P1	confident	4256	23786	23786		
+416.030	0.661	GROUP	(0.7)	SIL				shared	manual	0				
+416.691	0.420	P3	That's true.	SPK		0.010943	3.42	P3	uncertain	0	661	661		
+417.111	1.621	GROUP	(1.6)	SIL				shared	manual	0				
+418.732	4.762	P1	And they have limited formal training on AI, but the other two doesn't really have any AI training.	SPK		0.012807	4.51	P1	confident	0	1621	1621		
+423.494	2.962	GROUP	(3.0)	SIL				shared	manual	0				
+426.456	1.861	P1	At least not from my knowledge.	SPK		0.007426	1.17	P1	confident	0	2962	9345		
+428.317	2.636	GROUP	(2.6)	SIL				shared	manual	0				0
+430.953	7.986	P3	All the skills in Python and machine learning would help if we were candidate B, but I think we already overlooked that.	SPK		0.008644	1.84	P3	confident	0	2636	2636		2132
+437.873	1.322	P1	That's not AI, is it?	SPK				P1	manual	-1066	-1066	-1066		2132
+437.873	1.066	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1322				2132
+439.195	0.065	GROUP	(.)	SIL				shared	manual	256				
+439.260	4.503	P3	Well, depends how nitty-gritty you get into it.	SPK		0.015906	1.19	P3	confident	0	65	65		440
+439.978	0.440	P4	Yeah, yeah.	BCK				P4	manual	-3785			718	440
+443.763	0.832	GROUP	(0.8)	SIL				shared	manual	3345				189
+444.406	0.531	P2	Mhm.	BCK				P2	manual	-189				531
+444.595	13.945	P4	I mean analytical skills I think B and C both have but probably C is better in using it to get like to give an overview like picture of some things at least I think it's very important	SPK		0.044728	11.97	P4	confident	-342	832	832		342
+458.540	5.106	GROUP	(5.1)	SIL				shared	manual	0				
+463.646	27.735	P2	And also another thing regarding the candidate based on the information I have here, it seems like this person is more familiar with maintaining existing process, which is quite the opposite of the tasks here is that adopting the new trend plus transform and make sure different stakeholders align on the new trends, which I personally think the candidate A is lacking the experience or capability there.	SPK		0.006611	3.28	P2	confident	0	5106	5106		0
+491.381	2.582	GROUP	(2.6)	SIL				shared	manual	0				348
+493.230	0.348	P3	Yeah.	BCK				P3	manual	-733				348
+493.963	1.441	P1	What were you talking for?	SPK		0.012329	4.68	P1	confident	385	2582	2582		
+495.404	0.340	GROUP	(0.3)	SIL				shared	manual	0				
+495.744	14.931	P2	So the candidate A says that it tends to maintain existing processes rather than introduce new ones, which is kind of against the task line here that adopting AI and also make sure the transformation across different departments functions.	SPK		0.008738	3.59	P2	confident	0	340	340		
+510.675	0.440	GROUP	(0.4)	SIL				shared	manual	0				
+511.115	5.584	P2	So that's why I think they might be not qualified for this role specifically.	SPK		0.005793	2.95	P2	confident	0	440	15711		
+516.699	0.453	GROUP	(0.5)	SIL				shared	manual	0				
+517.152	3.201	P3	That's a good point.	SPK		0.006754	3.14	P3	confident	0	453	453		0
+520.353	10.193	GROUP	(10.2)	SIL				shared	manual	0				0
+530.546	3.410	P4	Do we vote or do we need to come to a conclusion?	SPK		0.040775	3.94	P4	confident	0	10193	10193		
+533.956	1.031	GROUP	(1.0)	SIL				shared	manual	0				
+534.987	0.601	P1	I think so.	SPK		0.009245	2.34	P1	confident	0	1031	1031		
+535.588	3.497	GROUP	(3.5)	SIL				shared	manual	0				
+539.085	1.980	P3	I would still vote for C in this case.	SPK		0.010608	3.89	P3	confident	0	3497	3497		
+541.065	0.200	GROUP	(.)	SIL				shared	manual	0				0
+541.265	10.923	P3	It seems like the most qualified and with both some technical background and also change facilitation.	SPK		0.010668	2.72	P3	confident	0	200	5677		12042
+541.746	1.062	P2	Same here.	SPK				P2	manual	-10442	-10442	-10442		2124
+541.746	1.062	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1062				2124
+542.808	10.272	GROUP	(10.3)	SIL				shared	manual	0				9918
+551.406	0.538	P2	Mhm.	BCK				P2	manual	-1674			10141	1076
+553.080	2.002	P1	What does the technical background C has?	SPK		0.015111	1.80	P1	confident	1136	10272	10272		
+555.102	1.721	P1	Because I don't have any information on that.	SPK		0.010080	4.58	P1	confident	20	20	12294		
+556.823	1.024	GROUP	(1.0)	SIL				shared	manual	0				
+557.847	9.185	P3	From my information, C seems to be familiar with common AI tools in business contexts, so that seems very relevant.	SPK		0.012441	3.23	P3	confident	0	1024	1024		520
+564.252	0.520	P1	Okay.	BCK				P1	manual	-2780			6405	520
+567.032	0.093	GROUP	(.)	SIL				shared	manual	2260				
+567.125	6.898	P4	Yeah, complex systems IT and sales and conveying information between the different departments	SPK		0.031302	5.94	P4	confident	0	93	93		
+574.023	2.619	GROUP	(2.6)	SIL				shared	manual	0				360
+574.383	0.360	P1	Okay.	BCK				P1	manual	-2259				360
+576.642	15.060	P2	What I have here is that there, for candidate C, he has taken some basic data analysis and machine learning courses, so has like the base knowledge and facilitated alignment between IT and sales in pilot projects, so also cross-functional	SPK		0.009865	3.87	P2	confident	1899	2619	2619		
+591.702	0.640	GROUP	(0.6)	SIL				shared	manual	0				
+592.342	15.949	P2	capability and also has helped adopt of new tools and practices in previous roles so that's also something in line with the transformation thing and good structure in plane and cross function so i think the qualities here are quite in line with what we are expecting	SPK		0.006614	3.37	P2	confident	0	640	18319		
+608.291	12.354	GROUP	(12.4)	SIL				shared	manual	0				0
+620.645	10.349	MODERATOR	Okay, so I will now send out forms to all of you to make the final decision, but you have to choose one person out of the four of you who sends the form.	SPK		0.005100	1.84	MOD	confident	0	12354	12354		0
+630.994	1.361	GROUP	(1.4)	SIL				shared	manual	0				
+632.355	2.162	MODERATOR	This one that you just got, only one person.	SPK		0.002497	1.37	MOD	confident	0	1361	24064		
+634.517	1.513	GROUP	(1.5)	SIL				shared	manual	0				0
+636.030	3.161	MODERATOR	With your final decision.	SPK		0.004358	1.88	MOD	confident	0	1513	27739		0
+639.191	1.436	GROUP	(1.4)	SIL				shared	manual	0				0
+640.627	1.101	P3	Just did it.	SPK				P3	manual	0	1436	1436		0
+641.728	0.676	GROUP	(0.7)	SIL				shared	manual	0				
+642.404	0.240	P4	Yes.	SPK		0.055173	12.00	P4	confident	0	676	676		
+642.644	0.781	GROUP	(0.8)	SIL				shared	manual	0				647
+642.778	2.821	P2	[LAUGHTER]	LAU				P2	manual	-647				2821
+643.425	1.441	P4	No, okay, I wasn't...	SPK		0.156716	2.32	P4	confident	-2174	781	1697		1441
+644.866	0.321	GROUP	(0.3)	SIL				shared	manual	0				321
+645.187	1.221	P3	So, decision made.	SPK		0.045017	4.30	P3	confident	0	321	321		412
+646.448	0.520	P4	Yeah, yeah.	BCK		0.259766	4.76	P4	confident	40				

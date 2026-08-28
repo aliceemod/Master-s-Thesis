@@ -1,0 +1,10 @@
+Target	n_rows	Best significant model	R²	ρ	MAE	p
+effectiveness_z	28	Lexical (theory)	0.284	0.639	0.308	0.01
+voice_inclusion	28	Turn-taking only	0.567	0.766	0.423	0.01
+mental_demand	28	Audio only	0.437	0.636	0.555	0.01
+coord+coop	28	Turn + Lex + DA	0.359	0.647	0.646	0.01
+cooperative	10	Expanded raw (19)	0.648	0.825	0.277	0.02
+team_coordination	18	Expanded raw (19)	0.356	0.592	0.388	0.02
+satisfaction	19	Semantic + completion	0.47	0.717	0.395	0.02
+decision_confidence	9	none				
+idea_quality	9	none				

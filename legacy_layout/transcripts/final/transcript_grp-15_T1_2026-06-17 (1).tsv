@@ -1,0 +1,272 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms	context_label
+189.892	1.872	MODERATOR	Now you have seven minutes.	SPK				shared	confident						
+191.764	17.842	GROUP	(17.8)	SIL				shared	manual	0.0				2792.0	
+203.806	0.925	P1	right	BCK				shared	manual	-5800.0				925.0	
+205.314	0.5	P1	[BRE]	BRE				shared	manual	583.0				500.0	
+206.541	0.5	P1	ehm	BCK				shared	manual	727.0				500.0	
+208.739	2.0	P1	[SOFT LAUGHTER]	LAU				shared	manual	1698.0				2000.0	
+209.606	5.154	P3	So, I mean, I have three profiles and I guess you have the same ones. That bit I didn’t get fully.	SPK				shared	confident	-1133.0	17842.0	17842.0		2464.0	
+213.429	2.0	GROUP	[LAUGHTER]	LAU				shared	manual	-1331.0				2639.0	
+214.76	0.78	GROUP	(0.8)	SIL				shared	manual	-669.0				1420.0	
+214.79	2.0	GROUP	[LAUGHTER]	LAU				shared	manual	-750.0				3139.0	
+215.539	0.5	P1	I guess	BCK				shared	manual	-1251.0				1000.0	
+215.54	1.983	P3	But I see one that is like a manager.	SPK				shared	confident	-499.0	780.0	23776.0		2795.0	
+217.0	6.824	P3	I see basically like someone who is like, ah, okay, deadlines and project manager and stuff like that.	SPK				shared	confident	-523.0	-523.0	25236.0		2694.0	
+217.0	0.523	P3	[OVL:competitive]	OVL	competitive			shared	confident	-6824.0				1046.0	competitive
+223.0	5.763	P3	Then one who is like a nerd who likes basically executing himself.	SPK				shared	confident	5477.0	-824.0	31236.0		3211.0	
+223.0	0.824	P3	[OVL:competitive]	OVL	competitive			shared	uncertain	-5763.0				1648.0	
+228.0	2.0	P3	And the other one is a good communicator.	SPK				shared	confident	4176.0	-763.0	36236.0		2026.0	
+228.0	0.763	P3	[OVL:competitive]	OVL	competitive			shared	uncertain	-2000.0				1563.0	
+228.726	0.5	P1	Ah	BCK				shared	manual	-37.0			726.0	574.0	
+230.0	1.0	P3	That's how I understood.	SPK				shared	confident	774.0	0.0	38236.0			
+231.0	1.332	P3	Do you understand the same?	SPK				shared	confident	0.0	0.0	39236.0			
+232.332	0.668	GROUP	(0.7)	SIL				shared	manual	0.0				367.0	
+232.633	0.928	P1	uhm	BCK				shared	manual	-367.0				928.0	
+233.0	2.829	P1	Yeah. I agree	SPK				shared	confident	-561.0	668.0	668.0		1561.0	
+234.511	0.5	P1	yeah	BCK				shared	manual	-1318.0				850.0	
+234.661	0.5	P1	yeah	BCK				shared	manual	-350.0				850.0	
+235.829	4.102	GROUP	(4.1)	SIL				shared	manual	668.0				2590.0	
+237.023	1.59	P1	[SOFT LAUGHTER]	LAU				shared	manual	-2908.0				1590.0	
+239.023	0.5	P1	yeah	BCK				shared	manual	410.0				958.0	
+239.065	0.5	P1	yeah	BCK				shared	manual	-458.0				958.0	
+239.931	2.341	P3	and agree on one final candidate as a group?	SPK				shared	confident	366.0	4102.0	4102.0		0.0	
+242.272	1.236	GROUP	(1.2)	SIL				shared	manual	0.0				0.0	
+243.508	0.92	P3	okay cool	SPK				shared	confident	0.0	1236.0	7679.0		856.0	
+244.0	1.104	P1	Maybe we should	SPK				shared	confident	-428.0	-428.0	-428.0		856.0	
+244.0	0.428	P1	[OVL:smooth]	OVL	smooth			shared	confident	-1104.0				856.0	
+245.104	0.696	GROUP	(0.7)	SIL				shared	manual	676.0				513.0	
+245.287	2.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-513.0				2574.0	collaborative
+245.8	1.502	P4	See where we’re all standing?	SPK				shared	confident	-1487.0	696.0	696.0		2091.0	
+247.0	3.0	P1	Yeah, define what would be a good candidate for this position, I guess.	SPK				shared	confident	-302.0	-302.0	-302.0		891.0	
+247.0	0.302	P1	[OVL:smooth]	OVL	smooth			shared	confident	-3000.0				891.0	collaborative
+250.0	1.0	P3	yeah	BCK				shared	confident	2698.0				1000.0	
+250.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1000.0	
+251.0	1.0	P4	Okay.	SPK				shared	confident	0.0	1000.0	1000.0			
+252.0	0.1	P1	I don't know.	SPK				shared	confident	0.0	0.0	0.0		200.0	
+252.0	11.0	P1	From my point of view, it's more like the project coordinating kind of type rather than the very technical one.	SPK				shared	confident	-100.0	-100.0	0.0		200.0	
+252.0	0.1	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-11000.0				200.0	
+263.0	1.149	P3	yeah, that one no	SPK				shared	confident	10900.0	0.0	0.0		2298.0	
+263.0	3.32	P1	Yeah, because it's not about developing the AI.	SPK				shared	confident	-1149.0	-1149.0	-1149.0		2938.0	
+263.0	1.149	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-3320.0				2298.0	
+266.0	2.0	P1	It's more about the adoption part of it.	SPK				shared	confident	1851.0	-320.0	1851.0		640.0	
+266.0	0.32	P1	[OVL:smooth]	OVL	smooth			shared	confident	-2000.0				640.0	collaborative
+268.0	1.0	P3	And from the other two, then?	SPK				shared	confident	1680.0	0.0	0.0			
+269.0	3.0	P3	Do you have a preference?	SPK				shared	confident	0.0	0.0	1000.0			
+272.0	0.278	GROUP	(0.3)	SIL				shared	manual	0.0					
+272.278	7.04	P2	I think it really depends on what is, uh, the focus of this position, right?	SPK				shared	confident	0.0	278.0	278.0		2636.0	
+278.0	7.0	P2	Because I understand it as more of the transformation across different departments. That’s the focus right?	SPK				shared	confident	-1318.0	-1318.0	6000.0		3067.0	
+278.0	1.318	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-7000.0				2636.0	
+284.776	0.5	P3	yes	BCK	collaborative			shared	manual	5458.0			6776.0	983.0	
+284.793	0.5	P3	yeah	BCK	collaborative			shared	manual	-483.0			6793.0	983.0	
+285.0	10.0	P2	So if you have some sort of introductory knowledge to programming, it might be good, but not necessary to know advanced machine learning and stuff like that.	SPK				shared	confident	-293.0	0.0	13000.0		1069.0	
+289.822	0.5	P3	yeah	BCK	collaborative			shared	manual	-5178.0			4822.0	500.0	
+295.0	1.0	P1	yeah	BCK				shared	confident	4678.0				1500.0	
+295.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1500.0	
+295.408	0.5	P1	m-mh	BCK	collaborative			shared	manual	-592.0				1000.0	
+296.0	2.0	P3	Yes.	SPK				shared	confident	92.0	1000.0	1000.0			
+298.0	1.0	P3	Yeah, I agree.	SPK				shared	confident	0.0	0.0	3000.0			
+299.0	3.0	P4	I agree.	SPK				shared	confident	0.0	0.0	0.0			
+302.0	2.0	P3	Like for me it was the C	SPK				shared	confident	0.0	0.0	0.0			
+304.0	1.0	P1	yeah	BCK				shared	confident	0.0				1000.0	
+304.0	0.811	GROUP	(0.8)	SIL				shared	manual	-1000.0				811.0	
+304.811	1.509	P4	yes, that was my	SPK				shared	manual	0.0	811.0	811.0		2029.0	
+305.0	1.0	P3	right?	BCK				shared	confident	-1320.0			189.0	1000.0	
+306.0	0.1	P3	Yeah, right?	SPK				shared	confident	0.0	-320.0	-320.0		400.0	
+306.0	0.1	P4	yeah,	BCK				shared	confident	-100.0			0.0	400.0	
+306.0	2.0	P4	yeah,	BCK				shared	confident	-100.0			0.0	2520.0	
+306.0	0.1	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-2000.0				400.0	
+306.1	0.22	GROUP	(0.2)	SIL				shared	manual	0.0				440.0	
+306.32	1.651	P1	I'm also about the C	SPK				shared	manual	0.0	220.0	220.0		1651.0	
+307.971	0.854	GROUP	(0.9)	SIL				shared	manual	0.0				529.0	
+308.069	0.5	P1	yeah	BCK				shared	manual	-756.0				500.0	
+308.825	2.0	P1	I agree on that one	SPK				shared	manual	256.0	854.0	2725.0		2092.0	
+309.605	0.5	P1	yeah	BCK				shared	manual	-1220.0				652.0	
+310.029	0.971	P4	He is a good communicator as well.	SPK				shared	confident	-76.0	-796.0	-796.0		1668.0	
+310.029	0.796	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-971.0				1668.0	collaborative
+311.0	1.0	GROUP	(1.0)	SIL				shared	manual	175.0				500.0	
+311.328	0.5	P3	exactly	BCK				shared	manual	-672.0				500.0	
+312.0	4.0	P1	Yeah, and lots of experience in rolling out these kind of things.	SPK				shared	confident	172.0	1000.0	1000.0		500.0	
+312.029	0.5	P1	yeah	BCK				shared	manual	-3971.0				500.0	
+316.0	0.1	P3	Yeah.	BCK				shared	confident	3471.0			0.0	100.0	
+316.0	7.0	P2	The only major difference is the years of experience, right?	SPK				shared	confident	-100.0	0.0	0.0		100.0	
+323.0	2.0	P1	Yeah.	SPK				shared	confident	0.0	0.0	0.0			
+325.0	9.88	P2	like there’s five years of experience with the first candidate and with the third candidate we don’t really know if it’s the same description we have	SPK				shared	confident	0.0	0.0	0.0			
+334.88	2.559	GROUP	(2.6)	SIL				shared	manual	0.0				388.0	
+337.051	2.0	P2	er	FP				shared	manual	-388.0				4139.0	
+337.439	1.549	P4	Yeah, it doesn't really say anything about...	SPK				shared	confident	-1612.0	2559.0	2559.0		3625.0	
+338.0	0.1	P2	no	SPK				shared	confident	-988.0	-988.0	-988.0		400.0	
+338.0	2.0	P2	yeah	BCK				shared	confident	-100.0			561.0	4139.0	
+338.0	0.1	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-2000.0				400.0	
+338.1	1.9	GROUP	(1.9)	SIL				shared	manual	0.0				3739.0	
+340.0	2.0	P2	we don’t really know much about that, yeah	SPK				shared	confident	0.0	1900.0	1012.0			
+342.0	4.592	P1	Well, I have information about experience.	SPK				shared	confident	0.0	0.0	0.0		6372.0	
+342.96	1.088	GROUP	[SOFT LAUGHTER]	LAU				shared	manual	-3632.0				1184.0	
+344.0	2.0	P2	Yeah you might know	SPK				shared	confident	-48.0	-2592.0	-2592.0		4048.0	
+344.0	2.0	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2000.0				4048.0	collaborative
+346.0	0.1	P3	yeah	BCK				shared	confident	0.0			4000.0	300.0	
+346.0	1.0	P3	okay	BCK				shared	confident	-100.0			4000.0	1692.0	
+346.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1692.0	
+347.0	4.0	P1	Candidate C has more experience than candidate A.	SPK				shared	confident	0.0	1000.0	1000.0			
+351.0	1.0	P3	okay, cool	BCK				shared	confident	0.0				1000.0	
+351.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1000.0	
+352.0	0.1	P1	Yeah, yeah.	SPK				shared	confident	0.0	1000.0	6000.0		200.0	
+352.0	2.0	P1	Okay,	SPK				shared	confident	-100.0	-100.0	6000.0		200.0	
+352.0	0.1	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-2000.0				200.0	
+354.0	2.0	P1	so we don’t have the same information	SPK				shared	confident	1900.0	0.0	8000.0		3789.0	
+354.432	0.869	P1	Okay okay	SPK				shared	manual	-1568.0	-1568.0	8432.0		2391.0	
+354.432	0.869	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-869.0				2391.0	
+354.648	1.992	GROUP	[LAUGHTER]	LAU				shared	manual	-653.0				4297.0	
+355.301	0.699	GROUP	(0.7)	SIL				shared	manual	-1339.0				1398.0	
+356.0	0.1	P1	Yeah.	SPK				shared	confident	0.0	699.0	10000.0		400.0	
+356.0	0.1	P3	okay cool	BCK				shared	confident	-100.0			0.0	400.0	
+356.0	4.0	P1	Yeah, Candidate C has two more years of experience than Candidate A.	SPK				shared	confident	-100.0	-100.0	10000.0		940.0	
+356.0	0.1	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-4000.0				400.0	
+360.0	1.0	P3	oh	BCK				shared	confident	3900.0				1000.0	
+360.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1000.0	
+361.0	0.1	P3	yeah that’s cool	BCK				shared	confident	0.0			0.0	100.0	
+361.0	1.0	P4	seems better than	SPK				shared	confident	-100.0	1000.0	1000.0		100.0	
+362.0	3.0	P1	So I think that's a strong pro.	SPK				shared	confident	0.0	0.0	0.0			
+365.0	4.0	P1	And Candidate C also has experience in consulting.	SPK				shared	confident	0.0	0.0	3000.0			
+369.0	2.269	P1	I don't know if you know that.	SPK				shared	confident	0.0	0.0	7000.0		538.0	
+371.0	10.0	P3	I mean, I was only missing the bit of the amount of experience, I would say, to say that that quote is almost exactly the same as what I have here for Candidate C. Like someone who basically...	SPK				shared	confident	-269.0	-269.0	-269.0		10914.0	
+371.0	0.269	P3	[OVL:smooth]	OVL	smooth			shared	confident	-10000.0				538.0	collaborative
+371.763	1.84	GROUP	[LAUGHTER]	LAU				shared	manual	494.0				1996.0	
+373.525	1.061	P1	I think it sounds good.	SPK				shared	confident	-78.0	-7475.0	-7475.0		2200.0	
+373.525	1.061	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1061.0				2200.0	collaborative
+374.586	8.414	GROUP	(8.4)	SIL				shared	manual	0.0				8414.0	
+381.0	2.0	P1	Okay.	BCK				shared	confident	-2000.0				2000.0	
+383.0	3.0	P3	is very good at communicating what AI is for.	SPK				shared	confident	0.0	8414.0	8414.0		500.0	
+385.419	0.5	P1	ah	BCK				shared	manual	-581.0			2419.0	500.0	
+386.0	5.0	P3	He has helped rolling out this AI in different contexts and stuff like that, right?	SPK				shared	confident	81.0	0.0	11414.0		5170.0	
+386.392	1.141	P1	ah	BCK				shared	manual	-4608.0			392.0	1703.0	
+386.971	5.206	P1	yeah	BCK				shared	manual	-562.0			971.0	5768.0	
+391.0	1.0	P3	So I was like, okay, fine.	SPK				shared	confident	-1177.0	0.0	16414.0		1000.0	
+392.0	9.0	P3	Seems like this is the guy, but if you say that he has that amount of experience, that's what I will suggest at least.	SPK				shared	confident	0.0	0.0	17414.0		1815.0	
+394.379	1.099	P1	yeah	BCK				shared	manual	-6621.0			2379.0	1099.0	
+398.36	0.539	P4	mmh	BCK				shared	manual	2882.0			6360.0	539.0	
+401.0	3.0	P4	Mine doesn't mention anything about like AI at all.	SPK				shared	confident	2101.0	0.0	0.0			
+404.0	2.0	P4	It's just like new tools and adoption of it.	SPK				shared	confident	0.0	0.0	3000.0			
+406.0	0.349	GROUP	(0.3)	SIL				shared	manual	0.0					
+406.349	2.0	P1	okay	SPK				shared	manual	0.0	349.0	349.0		698.0	
+408.0	2.0	P3	No, I do.	SPK				shared	confident	-349.0	-349.0	-349.0		3282.0	
+408.0	0.349	P3	[OVL:smooth]	OVL	smooth			shared	uncertain	-2000.0				698.0	
+408.728	0.141	P1	Yeah I don’t have AI specifically there but	SPK				shared	confident	379.0	-1272.0	-1272.0		423.0	
+408.728	1.171	P1	um	FP				shared	manual	-141.0				2483.0	
+408.728	0.141	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	confident	-1171.0				423.0	
+408.869	1.131	GROUP	(1.1)	SIL				shared	manual	0.0				2161.0	
+410.0	2.0	P3	I know about that.	SPK				shared	confident	0.0	1131.0	1131.0		1500.0	
+410.499	0.5	P1	okay	BCK				shared	manual	-1501.0			499.0	691.0	
+410.808	0.5	P1	okay	BCK				shared	manual	-191.0			808.0	691.0	
+411.373	0.5	P1	okay	BCK				shared	manual	65.0			1373.0	500.0	
+412.0	1.0	P4	Well, even better.	SPK				shared	confident	127.0	0.0	0.0		500.0	
+412.224	0.5	P1	okay	BCK				shared	manual	-776.0			224.0	500.0	
+413.0	0.1	P3	Yeah.	BCK				shared	confident	276.0				100.0	
+413.0	8.059	GROUP	(8.1)	SIL				shared	manual	-100.0				2500.0	
+413.32	1.2	GROUP	[SOFT LAUGHTER]	LAU				shared	manual	-7739.0				1200.0	
+418.891	1.2	P3	uh	FP				shared	manual	4371.0				1200.0	
+421.059	14.941	P3	Yeah, to be honest, I don't know, because I mean, the first one to me seems more like the one who is a bit detached to whatever it is that he has, at least for me, it doesn't say he has experience on this particular technology.	SPK				shared	confident	968.0	8059.0	8059.0			
+436.0	4.0	P3	It's more like has experience on managing projects.	SPK				shared	confident	0.0	0.0	23000.0		500.0	
+438.665	0.5	P4	yeah	BCK				shared	manual	-1335.0			2665.0	500.0	
+440.0	1.0	P3	And that's like, okay.	SPK				shared	confident	835.0	0.0	27000.0		622.0	
+440.139	0.5	P1	mmh	BCK				shared	manual	-861.0			139.0	500.0	
+440.878	0.5	P1	yeah	BCK				shared	manual	239.0			878.0	500.0	
+441.0	2.0	P4	Mine says direct limited knowledge.	SPK				shared	confident	-378.0	0.0	0.0		378.0	
+443.0	1.0	P3	okay then	BCK				shared	confident	0.0				1000.0	
+443.0	4.0	GROUP	(4.0)	SIL				shared	manual	-1000.0				4000.0	
+444.0	2.0	P3	yeah	BCK				shared	confident	-3000.0				2000.0	
+446.0	1.0	P2	Yeah.	BCK				shared	confident	0.0				1000.0	
+447.0	0.1	P3	yeah	BCK				shared	confident	0.0			0.0	112.0	
+447.0	11.851	P4	But it does, it do be a strength to be able to coordinate people, which I see the strength in, but I feel like the communicating between departments that the C has is more of a strength in this sense.	SPK				shared	confident	-100.0	4000.0	6000.0		6175.0	
+447.088	0.5	P2	mmh	BCK				shared	manual	-11763.0			88.0	512.0	
+453.0	5.0	P3	yeah	BCK				shared	confident	5412.0			6000.0	5096.0	
+457.904	0.575	P2	yeah	BCK				shared	manual	-96.0			10904.0	671.0	
+458.851	0.43	GROUP	(0.4)	SIL				shared	manual	372.0					
+459.281	11.848	P2	It sounds like C is more of a... Like a generalist in a positive way, where they know some bits and pieces about different things that might be nice, but they might have the...	SPK				shared	confident	0.0	430.0	430.0		9629.0	
+462.0	1.0	P3	exactly	BCK				shared	confident	-9129.0			2719.0	1000.0	
+463.0	9.0	P4	True.	BCK				shared	confident	0.0			3719.0	9500.0	
+467.292	0.5	P3	yeah	BCK				shared	manual	-4708.0			8011.0	1000.0	
+471.129	0.871	GROUP	(0.9)	SIL				shared	manual	3337.0				871.0	
+472.0	5.0	P2	They might be able to keep the overview of everything and the communication between departments.	SPK				shared	confident	0.0	871.0	13149.0		500.0	
+474.64	0.5	P3	yeah	BCK				shared	manual	-2360.0			2640.0	500.0	
+477.0	3.0	GROUP	(3.0)	SIL				shared	manual	1860.0				1509.0	
+478.491	1.509	P3	yes	BCK				shared	confident	-1509.0				1509.0	
+480.0	2.0	P2	Candidate B might lack that a bit.	SPK				shared	confident	0.0	3000.0	21149.0			
+482.0	0.1	P4	Yes.	SPK				shared	confident	0.0	0.0	0.0		200.0	
+482.0	8.0	P2	If we've completely ruled that person out, maybe.	SPK				shared	confident	-100.0	-100.0	-100.0		3200.0	
+482.0	0.1	P2	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-8000.0				200.0	
+482.152	0.5	P3	yeah	BCK				shared	manual	52.0			152.0	500.0	
+485.92	0.5	P3	yeah	BCK				shared	manual	3268.0			3920.0	500.0	
+486.8	2.0	GROUP	[SOFT LAUGHTER]	LAU				shared	manual	380.0				2000.0	
+490.0	3.0	P1	Yeah, I wouldn't hire a candidate B for this job.	SPK				shared	confident	1200.0	0.0	0.0			
+493.0	0.1	P3	no	BCK				shared	confident	0.0			0.0	100.0	
+493.0	1.0	P1	No.	SPK				shared	confident	-100.0	0.0	3000.0		100.0	
+494.0	0.1	P1	Yeah, yeah, yeah, for sure.	SPK				shared	confident	0.0	0.0	4000.0		200.0	
+494.0	0.1	P4	sure.	BCK				shared	confident	-100.0			0.0	200.0	
+494.0	1.0	P4	Yeah,	BCK				shared	confident	-100.0			0.0	1100.0	
+494.1	2.9	GROUP	(2.9)	SIL				shared	manual	-900.0				2900.0	
+495.0	2.0	P4	yeah,	BCK				shared	confident	-2000.0				2000.0	
+497.0	3.0	P4	But just knowing the stuff doesn't mean you can communicate it well.	SPK				shared	confident	0.0	2900.0	2900.0			
+500.0	2.0	P1	Yeah.	SPK				shared	confident	0.0	0.0	0.0			
+502.0	5.0	P2	Also, the prompt seems like they're not really looking for like a specialist.	SPK				shared	confident	0.0	0.0	0.0			
+507.0	1.0	P4	Yeah.	BCK				shared	confident	0.0				1000.0	
+507.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1000.0	
+508.0	7.0	P2	So the person might also not be very happy in the role.	SPK				shared	confident	0.0	1000.0	6000.0		500.0	
+510.309	0.5	P3	no	BCK				shared	manual	-4691.0			2309.0	500.0	
+515.0	0.1	P3	Yeah.	SPK				shared	confident	4191.0	0.0	0.0		200.0	
+515.0	3.0	P3	Because right now we can be ourselves, I believe, right?	SPK				shared	confident	-100.0	-100.0	0.0		200.0	
+515.0	0.1	P3	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-3000.0				200.0	
+518.0	16.0	P3	I mean, then I will always go for C because I have seen A so many times and I have complained so many times about people like A that I would be like, I mean, I prefer someone who really, you know, is a bit more into it than just knowing how a corporation works.	SPK				shared	confident	2900.0	0.0	3000.0		5314.0	
+521.339	0.5	P4	mmh	BCK				shared	manual	-12661.0			3339.0	500.0	
+522.8	1.272	GROUP	[SOFT LAUGHTER]	LAU				shared	manual	961.0				1272.0	
+526.225	1.051	P3	[LAUGHTER]	LAU				shared	manual	2153.0				1363.0	
+526.964	1.491	P1	[LAUGHTER]	LAU				shared	manual	-312.0				1803.0	
+530.531	0.5	P1	yeah	BCK				shared	manual	2076.0			12531.0	500.0	
+532.939	0.5	P4	mmh	BCK				shared	manual	1908.0			14939.0	500.0	
+534.0	1.0	P3	It's like, okay, fine.	SPK				shared	confident	561.0	0.0	19000.0			
+535.0	5.0	P3	But in the end, that doesn't bring, I think, that extra mile of value.	SPK				shared	confident	0.0	0.0	20000.0		1000.0	
+536.208	0.5	P4	yeah	BCK				shared	manual	-3792.0			1208.0	899.0	
+536.309	0.5	P1	yeah	BCK				shared	manual	-399.0			1309.0	899.0	
+540.0	1.0	P1	No, no, no, no.	SPK				shared	confident	3191.0	0.0	0.0			
+541.0	1.0	P3	That's my feeling at least.	SPK				shared	confident	0.0	0.0	0.0			
+542.0	11.0	P2	Yeah.	SPK				shared	confident	0.0	0.0	0.0		14628.0	
+545.686	11.248	P2	And also it seems like not like they're a risk taker but they might be willing to try to find new ways that work.	SPK				shared	confident	-7314.0	-7314.0	3686.0		15128.0	
+545.686	7.314	P2	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-11248.0				14628.0	
+553.995	0.5	P3	yeah	BCK				shared	manual	995.0			8309.0	500.0	
+556.934	0.066	GROUP	(.)	SIL				shared	manual	2439.0				0.0	
+557.0	2.0	P3	Yeah, yeah.	SPK				shared	confident	0.0	66.0	66.0			
+559.0	1.0	P3	Okay.	SPK				shared	confident	0.0	0.0	2066.0			
+560.0	3.0	P3	Nothing about the salary expectations we have.	SPK				shared	confident	0.0	0.0	3066.0			
+563.0	2.0	P3	I don't know.	SPK				shared	confident	0.0	0.0	6066.0		1497.0	
+563.503	2.6	GROUP	[LAUGHTER]	LAU				shared	manual	-1497.0				2600.0	
+565.0	4.0	P3	Maybe there's like a no-go for the C because it's asking for too much or something.	SPK				shared	confident	-1103.0	0.0	8066.0		1103.0	
+569.0	1.0	P1	I think it's good.	SPK				shared	confident	0.0	0.0	0.0			
+570.0	1.0	P3	Okay.	SPK				shared	confident	0.0	0.0	0.0			
+571.0	1.0	P1	Yeah, I'm good.	SPK				shared	confident	0.0	0.0	0.0			
+572.0	8.899	P1	I'm good with C. C also has some kind of workshop, setting up workshop experience.	SPK				shared	confident	0.0	0.0	1000.0		15798.0	
+573.0	7.0	P3	Yeah.	SPK				shared	confident	-7899.0	-7899.0	-7899.0		14000.0	
+573.0	7.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-7000.0				14000.0	collaborative
+580.0	1.0	P3	Okay	BCK				shared	confident	0.0			8000.0	1899.0	
+580.0	1.0	GROUP	(1.0)	SIL				shared	manual	-1000.0				1899.0	
+581.0	9.0	P1	You can use that for showcasing how AI can transform and drive real value, right?	SPK				shared	confident	0.0	1000.0	1000.0			
+590.0	0.1	P3	Yeah,	BCK				shared	confident	0.0			0.0	100.0	
+590.0	6.0	P1	Yeah, exactly.	SPK				shared	confident	-100.0	0.0	10000.0		5281.0	
+590.819	5.779	GROUP	[LAUGHTER]	LAU				shared	manual	-5181.0				5779.0	
+596.0	2.0	P1	So it sounds good to me.	SPK				shared	confident	-598.0	0.0	16000.0		598.0	
+598.0	1.0	P1	Some kind of McKinsey kind of dude.	SPK				shared	confident	0.0	0.0	18000.0			
+599.0	3.0	P1	Yeah.	SPK				shared	confident	0.0	0.0	19000.0		1299.0	
+600.701	1.67	GROUP	[LAUGHTER]	LAU				shared	manual	-1299.0				1870.0	
+602.0	0.1	P1	Probably good.	SPK				shared	confident	-371.0	0.0	22000.0		300.0	
+602.0	5.0	P3	Yeah.	SPK				shared	confident	-100.0	-100.0	-100.0		4529.0	
+602.0	0.1	P3	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-5000.0				300.0	
+605.021	2.44	P3	If he hasn't overpromised	SPK				shared	manual	2921.0	-1979.0	2921.0		4880.0	
+605.021	1.979	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2440.0				3958.0	collaborative
+607.0	4.0	P1	Okay.	SPK				shared	confident	0.0	-461.0	-461.0		2373.0	
+607.0	0.461	P1	[OVL:smooth]	OVL	smooth			shared	confident	-4000.0				922.0	collaborative
+607.893	1.451	GROUP	[LAUGHTER]	LAU				shared	manual	432.0				1451.0	
+611.0	6.0	P4	no	BCK				shared	confident	1656.0				11928.0	
+611.0	6.0	GROUP	(6.0)	SIL				shared	manual	-6000.0				11928.0	
+611.072	6.909	MODERATOR	[MOD_EVT]	MOD_EVT				shared	manual	-5928.0				12837.0	
+617.0	2.0	P3	OK.	SPK				shared	confident	-981.0	6000.0	6000.0		981.0	
+619.0	0.1	P2	I can do it.	SPK				shared	confident	0.0	0.0	0.0		200.0	
+619.0	2.0	P3	Yeah.	SPK				shared	confident	-100.0	-100.0	-100.0		200.0	
+619.0	0.1	P3	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-2000.0				200.0	

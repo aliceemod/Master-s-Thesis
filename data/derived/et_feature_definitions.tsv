@@ -1,0 +1,34 @@
+feature	definition
+et_available	Whether a Tobii eye-tracking file was found and read for this participant-task.
+sample_rate_hz	Estimated device sample rate in Hz from LSL timestamps.
+duration_s	Task/window duration covered by the eye-tracking samples.
+gaze_valid_frac	Fraction of samples with gaze_valid == 1.0.
+gaze_out_of_bounds_frac	Fraction of valid samples where gaze_x or gaze_y falls outside [0, 1].
+gaze_x_mean	Mean horizontal gaze position (normalised scene camera, 0=left, 1=right).
+gaze_y_mean	Mean vertical gaze position (normalised scene camera, 0=top, 1=bottom).
+gaze_x_std	Standard deviation of horizontal gaze position on valid samples.
+gaze_y_std	Standard deviation of vertical gaze position on valid samples.
+gaze_dispersion	Mean Euclidean distance of each valid gaze sample from the per-window centroid.
+gaze_velocity_mean	Mean frame-to-frame gaze displacement per second (normalised units/s) on valid samples.
+gaze_velocity_p95	95th-percentile frame-to-frame gaze velocity; proxy for peak saccade rate.
+pupil_mean	Mean binocular pupil diameter (mm); pairwise mean of available left/right values.
+pupil_std	Standard deviation of binocular pupil diameter (mm).
+pupil_slope_per_s	Linear trend of binocular pupil diameter per second (mm/s).
+pupil_missing_frac	Fraction of samples where binocular pupil diameter is NaN.
+pupil_range	Within-window range of binocular pupil diameter (max − min, mm).
+pupil_velocity_mean	Mean absolute first-difference of pupil diameter per second (mm/s); proxy for dilation rate.
+pupil_left_mean	Mean left-eye pupil diameter (mm).
+pupil_right_mean	Mean right-eye pupil diameter (mm).
+pupil_left_std	Standard deviation of left-eye pupil diameter (mm).
+pupil_right_std	Standard deviation of right-eye pupil diameter (mm).
+pupil_left_missing_frac	Fraction of samples where left-eye pupil diameter is NaN.
+pupil_right_missing_frac	Fraction of samples where right-eye pupil diameter is NaN.
+pupil_lr_diff_mean	Mean absolute left–right pupil difference (mm); proxy for anisocoria or asymmetric tracking failure.
+blink_count_est	Estimated blink count: runs of consecutive invalid samples lasting 0.05–0.40 s.
+blink_rate_per_min	Estimated blink rate in blinks per minute.
+blink_duration_mean_s	Mean duration of detected blink-like invalidity gaps (s).
+pupil_mean_delta_t0	Within-participant change in mean pupil diameter relative to T0 baseline (mm).
+pupil_mean_z_t0	Z-score of pupil mean relative to T0 baseline, normalised by T0 standard deviation.
+blink_detectable	Whether blink detection was possible. True when gaze_valid_frac >= 0.70 (uses gaze transitions) or >= 0.99 (uses pupil-NaN fallback). False when gaze_valid_frac < 0.70.
+qc_flag	Semicolon-separated machine-readable QC flags; 'ok' means no flag fired.
+qc_notes	Human-readable plain-language description of each QC flag.

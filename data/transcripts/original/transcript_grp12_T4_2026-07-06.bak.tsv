@@ -1,0 +1,89 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+1.651	3.222	P3	I was hoping that we're going to do something with this, but I guess it's just for the computer.	SPK		0.009416	3.20	P3	confident					
+4.873	4.297	GROUP	(4.3)	SIL				shared	manual	0				
+9.170	4.203	MODERATOR	It's not a game, unfortunately.	SPK		0.015008	3.21	MOD	confident	0	4297	4297		2710
+11.631	0.968	P3	Dissapointment	SPK				P3	manual	-1742	-1742	-1742		1936
+11.631	0.968	P3	[OVL:competitive]	OVL	competitive			shared	manual	-968				1936
+12.599	1.802	GROUP	(1.8)	SIL				shared	manual	0				774
+14.401	5.725	MODERATOR	Okay, so we have the last task, which is also very short	SPK		0.002241	0.57	MOD	confident	0	1802	1802		
+20.126	1.470	GROUP	(1.5)	SIL				shared	manual	0				
+21.596	28.732	MODERATOR	so in this task you have to imagine that you receive these 10 tokens you can think of them as money and you can decide either to keep them in your private portfolio or to share them in a community fund with your colleagues if they get shared in this fund every token gets multiplied by 1.5 and then the endowment for every participant will be whatever you kept of your private tokens plus your share of the	SPK		0.004647	1.22	MOD	confident	0	1470	8997		26564
+37.046	19.229	MODERATOR	If they get shared in this fund, every token gets multiplied by 1.5 and then the endowment for every participant will be whatever you kept of your private tokens plus your share of the shared community fund, which is of course equal.	SPK		0.003422	1.32	MOD	confident	-13282	-13282	24447		26564
+37.046	13.282	MODERATOR	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-19229				26564
+56.275	0.080	GROUP	(.)	SIL				shared	manual	5947				
+56.355	10.185	MODERATOR	You can also see an example, but you can ask Kev any questions and try to think about real money.	SPK		0.002451	1.31	MOD	confident	0	80	43756		
+66.540	10.803	GROUP	(10.8)	SIL				shared	manual	0				
+77.343	7.234	MODERATOR	If it's okay for everyone, I can send the contribution form.	SPK		0.002978	1.76	MOD	confident	0	10803	64744		7662
+80.746	4.649	MODERATOR	So decide a number between 0 and 10 to contribute to the community fund.	SPK		0.003564	1.58	MOD	confident	-3831	-3831	68147		7662
+80.746	3.831	MODERATOR	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-4649				7662
+85.395	55.663	GROUP	(55.7)	SIL				shared	manual	818				
+141.058	3.884	MODERATOR	Okay, now I will reveal the outcome.	SPK		0.003160	1.52	MOD	confident	0	55663	128459		
+144.942	2.183	GROUP	(2.2)	SIL				shared	manual	0				
+147.125	3.384	MODERATOR	You can also start now a discussion or your own reaction.	SPK		0.002743	1.16	MOD	confident	0	2183	134526		
+150.509	59.797	GROUP	(59.8)	SIL				shared	manual	0				
+210.306	7.725	MODERATOR	Okay, so I will now also reveal everyone's contribution and you can discuss about the result for three minutes.	SPK		0.004613	1.45	shared	confident	0	59797	197707		
+218.031	29.785	GROUP	(29.8)	SIL				shared	manual	0				
+247.816	0.768	P3	Interesting	SPK				P3	manual	0	29785	29785		
+248.584	3.330	GROUP	(3.3)	SIL				shared	manual	0				0
+251.914	1.440	P1	There's all over the place	SPK				P1	manual	0	3330	3330		0
+253.354	0.183	GROUP	(.)	SIL				shared	manual	0				
+253.537	4.606	P3	Yeah, that's no, it was a very interesting task.	SPK		0.028613	3.92	P3	confident	0	183	183		0
+258.143	1.813	GROUP	(1.8)	SIL				shared	manual	0				0
+259.956	15.141	P3	I think if you do a very quick rationale, if you contribute nothing, then you're most likely to get the most back, assuming everyone else does. But if everyone contributes nothing then nothing changes	SPK		0.017185	3.63	P3	confident	0	1813	6602		1710
+274.192	0.640	P4	Yeah, exactly.	SPK		0.074149	5.38	P4	confident	-905	-905	-905		1280
+274.192	0.640	P4	[OVL:competitive]	OVL	competitive			shared	manual	-640				1280
+274.832	0.100	GROUP	(.)	SIL				shared	manual	0				100
+274.932	4.183	P4	It's like a gauge for trust or something like this, right?	SPK		0.053073	9.11	P4	confident	0	100	-165		330
+274.932	0.165	P4	[OVL:smooth]	OVL	smooth			shared	manual	-4183				330
+279.115	1.073	GROUP	(1.1)	SIL				shared	manual	4018				639
+279.221	0.379	P2	Mhm.	BCK				P2	manual	-967				573
+279.406	0.260	P3	Yeah.	BCK		0.027034	4.22	P3	confident	-194				454
+280.188	3.423	P1	But if everybody contributes everything, everybody gets more back.	SPK		0.018431	3.83	P1	confident	522	1073	1073		
+283.611	1.138	GROUP	(1.1)	SIL				shared	manual	0				
+284.749	0.521	P3	That is true.	SPK		0.014809	4.31	P3	confident	0	1138	1138		0
+285.270	1.342	GROUP	(1.3)	SIL				shared	manual	0				0
+286.612	5.469	P3	So that's exactly how it often works in society.	SPK		0.013167	3.43	P3	confident	0	1342	3001		
+292.081	1.483	GROUP	(1.5)	SIL				shared	manual	0				
+293.564	2.404	P3	The balancing between trust in others and...	SPK		0.015528	2.13	P3	confident	0	1483	9953		
+295.968	25.282	GROUP	(25.3)	SIL				shared	manual	0				752
+296.311	0.141	P1	Yeah.	BCK		0.014318	1.29	P1	confident	-24939				170
+296.423	0.611	P2	Mhm.	BCK				P2	manual	-29				640
+321.250	2.022	P4	But are the numbers...	SPK		0.040768	8.94	P4	confident	24216	25282	25282		
+323.272	1.220	GROUP	(1.2)	SIL				shared	manual	0				
+324.492	1.081	P4	It's not an integer, right?	SPK		0.045409	9.43	P4	confident	0	1220	28524		0
+325.573	0.220	GROUP	(0.2)	SIL				shared	manual	0				0
+325.793	0.621	P4	Why is that?	SPK		0.029721	10.51	P4	confident	0	220	29825		
+326.414	0.589	GROUP	(0.6)	SIL				shared	manual	0				
+327.003	0.941	P1	It's not what, sorry?	SPK		0.010114	4.74	P1	confident	0	589	589		
+327.975	2.301	P4	It's not an integer, so it's not 7 or 8.	SPK		0.024839	5.07	P4	confident	31	31	31		
+330.276	1.113	GROUP	(1.1)	SIL				shared	manual	0				
+331.389	2.560	P3	Because you have times 1.5 divided by four	SPK				P3	manual	0	1113	1113		1206
+333.346	4.123	P4	Oh yeah, okay, you get this.	SPK		0.055222	4.02	P4	confident	-603	-603	-603		7146
+333.346	0.603	P4	[OVL:competitive]	OVL	competitive			shared	manual	-4123				1206
+334.499	3.002	P4	I was just wondering why that's true.	SPK		0.020107	1.47	P4	confident	550	-2970	550		5940
+334.499	2.970	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-3002				5940
+337.501	12.041	GROUP	(12.0)	SIL				shared	manual	32				0
+349.542	0.800	P3	Are you too Danish?	SPK		0.017172	3.04	P3	confident	0	12041	12041		
+350.342	2.721	GROUP	(2.7)	SIL				shared	manual	0				
+353.063	0.360	P3	I'm not.	SPK		0.012183	3.50	P3	confident	0	2721	15562		
+353.423	2.438	GROUP	(2.4)	SIL				shared	manual	0				
+355.861	3.402	P4	It's a cultural cultural analysis now or what?	SPK		0.038111	2.29	P4	confident	0	2438	2438		4732
+356.868	1.819	P2	Oh, it's a cultural thing	SPK				P2	manual	-2395	-2395	-2395		3638
+356.868	1.819	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1819				3638
+358.687	0.058	GROUP	(.)	SIL				shared	manual	0				58
+358.745	2.341	P3	I'm assuming you're also not from Denmark.	SPK		0.026041	1.38	P3	confident	0	58	58		2224
+358.745	0.518	P3	[OVL:competitive]	OVL	competitive			shared	manual	-2341				1036
+360.492	0.760	P2	No, no, no.	SPK		0.025790	1.16	P2	confident	1229	-594	-594		1188
+360.492	0.594	P2	[OVL:competitive]	OVL	competitive			shared	manual	-760				1188
+361.252	1.915	GROUP	(1.9)	SIL				shared	manual	166				0
+363.167	3.381	P3	There's a little bit of a cultural split, actually.	SPK		0.015848	3.38	P3	confident	0	1915	1915		0
+366.548	1.952	GROUP	(2.0)	SIL				shared	manual	0				
+368.500	1.141	P2	Could be, could be.	SPK		0.008526	3.78	P2	confident	0	1952	1952		
+369.641	7.263	GROUP	(7.3)	SIL				shared	manual	0				
+376.904	3.022	P3	I mean, we two are closer to a smaller contribution.	SPK		0.033107	1.97	P3	confident	0	7263	7263		4187
+377.182	1.443	P1	Yeah, what would be the conclusion?	SPK				P1	manual	-2744	-2744	-2744		2886
+377.182	1.443	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1443				2886
+378.625	3.772	GROUP	(3.8)	SIL				shared	manual	0				1301
+382.397	2.322	P3	You two gave a bigger contribution.	SPK		0.015918	4.13	P3	confident	0	3772	3772		
+384.719	1.298	GROUP	(1.3)	SIL				shared	manual	0				
+386.017	1.041	P4_SUB-043	Yeah, yeah, okay.	SPK		0.016298	6.39	mic12	confident	0	1298	1298		

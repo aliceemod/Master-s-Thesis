@@ -1,0 +1,331 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms	context_label
+4.63	4.324	P4	Maybe, I mean, in those types of situations we would have more information.	SPK		0.041004	9.59	P4	confident					520.0	
+8.694	0.922	P2	Yeah, exactly, yeah.	SPK				P2	manual	-260.0	-260.0	-260.0		950.0	
+8.694	0.26	P2	[OVL:smooth]	OVL	smooth			shared	manual	-922.0				520.0	collaborative
+9.08	0.43	P1	Yes.	BCK				P1	manual	126.0			386.0	430.0	
+9.616	0.199	GROUP	(.)	SIL				shared	manual	106.0				0.0	
+9.815	0.561	P4	I'm thinking.	SPK		0.021687	9.71	P4	confident	0.0	199.0	199.0			
+10.376	0.671	GROUP	(0.7)	SIL				shared	manual	0.0					
+11.047	0.902	P1	Time to prepare.	SPK		0.021997	3.88	P1	confident	0.0	671.0	671.0			
+11.949	0.19	GROUP	(.)	SIL				shared	manual	0.0					
+12.139	0.261	P3	Yes.	SPK		0.073718	3.35	P3	confident	0.0	190.0	190.0		405.0	
+12.163	0.64	P4	Yeah!	BCK				P4	manual	-237.0			24.0	1920.0	
+12.232	3.009	P1	[LAUGHTER]	LAU				P1	manual	-571.0				7975.0	
+12.4	4.133	GROUP	(4.1)	SIL				shared	manual	-2841.0				7639.0	
+12.402	2.205	P3	[LAUGHTER]	LAU				P3	manual	-4131.0				6923.0	
+12.495	2.19	P2	[LAUGHTER]	LAU				P2	manual	-2112.0				6800.0	
+16.533	18.778	MODERATOR	So now it's time for T3, maybe a bit more of a fun one, because imagine that you've been tasked to decide an idea for a GN social event, so of course it has to be feasible for as many employees as possible, but also try to be creative and original.	SPK		0.003472	1.28	MOD	confident	1848.0	4133.0	4133.0			
+35.311	1.941	GROUP	(1.9)	SIL				shared	manual	0.0					
+37.252	12.104	MODERATOR	And you will first have time to generate some ideas and then you can discuss everyone's ideas and then you have to decide only one final best.	SPK		0.003126	1.25	MOD	confident	0.0	1941.0	24852.0			
+49.381	2.661	MODERATOR	You cannot mix ideas even if they're great.	SPK		0.005443	1.24	MOD	confident	25.0	25.0	36981.0			
+52.042	1.04	GROUP	(1.0)	SIL				shared	manual	0.0				392.0	
+52.69	2.731	P1	[LAUGHTER]	LAU				P1	manual	-392.0				2731.0	
+53.082	1.521	P2	Okay, no discussion?	SPK		0.043512	2.06	P2	confident	-2339.0	1040.0	1040.0		1521.0	
+54.603	2.975	GROUP	(3.0)	SIL				shared	manual	0.0				818.0	
+57.578	3.761	MODERATOR	Okay, so first I'm gonna give time to decide your ideas.	SPK		0.004236	1.32	MOD	confident	0.0	2975.0	2975.0		0.0	
+61.339	1.18	GROUP	(1.2)	SIL				shared	manual	0.0				0.0	
+62.519	2.221	MODERATOR	You have to submit the form at the end.	SPK		0.00324	1.3	MOD	confident	0.0	1180.0	7916.0			
+64.74	20.746	GROUP	(20.7)	SIL				shared	manual	0.0				341.0	
+67.432	0.341	P2	Okay.	BCK		0.020779	3.82	P2	confident	-18054.0				341.0	
+85.486	1.703	P1	Sorry, what is the example?	SPK		0.007048	2.4	P1	confident	17713.0	20746.0	20746.0		0.0	
+87.189	0.12	GROUP	(.)	SIL				shared	manual	0.0				0.0	
+87.309	1.583	P1	Team cutting?	SPK		0.008253	2.31	P1	confident	0.0	120.0	22569.0			
+88.892	0.52	GROUP	(0.5)	SIL				shared	manual	0.0					
+89.412	0.181	P1	No.	SPK		0.008909	3.22	P1	confident	0.0	520.0	24672.0			
+89.593	0.328	GROUP	(0.3)	SIL				shared	manual	0.0					
+89.921	0.44	P2	Outing?	SPK		0.019341	2.9	P2	confident	0.0	328.0	328.0			
+90.361	0.334	GROUP	(0.3)	SIL				shared	manual	0.0				0.0	
+90.695	0.42	P1	Outing?	SPK		0.008162	2.46	P1	confident	0.0	334.0	334.0		0.0	
+91.115	1.663	GROUP	(1.7)	SIL				shared	manual	0.0					
+92.778	0.621	P1	To go out?	SPK		0.020686	2.53	P1	confident	0.0	1663.0	2417.0			
+93.399	0.277	GROUP	(0.3)	SIL				shared	manual	0.0					
+93.676	0.661	P4	Yeah.	SPK		0.004085	0.61	P4	confident	0.0	277.0	277.0		697.0	
+93.92	0.28	P1	Yeah.	SPK		0.01078	2.8	P1	confident	-417.0	-417.0	-417.0		560.0	
+93.92	0.28	P1	[OVL:smooth]	OVL	smooth			shared	manual	-280.0				560.0	collaborative
+94.2	0.893	GROUP	(0.9)	SIL				shared	manual	0.0				137.0	
+95.093	0.86	P1	It's... okay.	SPK		0.008549	0.65	P1	confident	0.0	893.0	756.0		934.0	
+95.486	2.882	P2	Team's party or group execution.	SPK		0.009583	2.24	P2	confident	-467.0	-467.0	-467.0		934.0	
+95.486	0.467	P2	[OVL:smooth]	OVL	smooth			shared	manual	-2882.0				934.0	
+98.368	0.08	GROUP	(.)	SIL				shared	manual	2415.0				0.0	
+98.448	0.441	P2	Okay.	SPK		0.005892	2.11	P2	confident	0.0	80.0	2495.0			
+98.889	14.326	GROUP	(14.3)	SIL				shared	manual	0.0					
+113.215	1.001	P2	Yeah, thanks.	SPK		0.048091	3.54	P2	confident	0.0	14326.0	17262.0		0.0	
+114.216	24.512	GROUP	(24.5)	SIL				shared	manual	0.0				2876.0	
+114.87	2.536	P2	[LAUGHTER]	LAU				P2	manual	-23858.0				2536.0	
+122.202	0.34	P3	Mmh.	BCK		0.018272	7.22	P3	confident	4796.0				340.0	
+138.728	2.522	P4	Oops, I made a mistake.	SPK		0.017374	9.29	P4	confident	16186.0	24512.0	24512.0			
+141.25	2.682	GROUP	(2.7)	SIL				shared	manual	0.0					
+143.932	0.38	P4	Anyway.	SPK		0.024711	5.84	P4	confident	0.0	2682.0	29716.0			
+144.312	16.827	GROUP	(16.8)	SIL				shared	manual	0.0					
+161.139	1.241	P1	I hope I remember them.	SPK		0.014842	5.52	P1	confident	0.0	16827.0	16827.0		0.0	
+162.38	1.066	GROUP	(1.1)	SIL				shared	manual	0.0				606.0	
+162.84	1.48	P1	[SOFT LAUGHTER]	LAU				P1	manual	-606.0				1480.0	
+163.446	0.941	MODERATOR	They will be short.	SPK		0.007573	1.38	MOD	confident	-874.0	1066.0	1066.0		874.0	
+164.387	0.594	GROUP	(0.6)	SIL				shared	manual	0.0					
+164.981	0.501	P1	Oh, okay.	SPK		0.01415	3.98	P1	confident	0.0	594.0	594.0			
+165.482	17.008	GROUP	(17.0)	SIL				shared	manual	0.0				471.0	
+173.018	0.471	P3	Mmh.	BCK				P3	manual	-9472.0				471.0	
+182.49	3.922	P1	I could use Edge Yacht.	SPK		0.065952	1.2	P1	confident	9001.0	17008.0	18103.0		4526.0	
+184.699	1.771	P1	[LAUGHTER]	LAU				P1	manual	-1713.0				4700.0	
+184.984	3.39	P3	[LAUGHTER]	LAU				P3	manual	-1486.0				8223.0	
+185.027	5.531	P2	[LAUGHTER]	LAU				P2	manual	-3347.0				13527.0	
+186.412	0.06	GROUP	(.)	SIL				shared	manual	-4146.0				178.0	
+186.472	1.221	P1	Great inspiration.	SPK		0.064586	2.11	P1	confident	0.0	60.0	22085.0		2442.0	
+187.693	0.711	GROUP	(0.7)	SIL				shared	manual	0.0				1392.0	
+188.404	1.896	P1	Sorry, we cannot speak.	SPK				P1	manual	0.0	711.0	24017.0		5102.0	
+188.535	1.441	P3	Go idea, good idea.	SPK				P3	manual	-1765.0	-1765.0	-1765.0		4323.0	
+188.535	1.441	P3	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1441.0				4323.0	
+189.976	5.721	GROUP	(5.7)	SIL				shared	manual	0.0				8681.0	
+191.214	4.423	P1	Oops.	BCK		0.030459	1.26	P1	confident	-4483.0				7775.0	
+191.847	3.352	P1	[LAUGHTER]	LAU				P1	manual	-3790.0				6704.0	
+195.697	2.181	P1	It's a totally new experience.	SPK		0.039131	1.37	P1	confident	498.0	5721.0	5721.0		0.0	
+197.878	1.428	GROUP	(1.4)	SIL				shared	manual	0.0				2031.0	
+198.265	3.248	P4	[LAUGHTER]	LAU				P4	manual	-1041.0				6445.0	
+198.316	3.574	P1	[LAUGHTER]	LAU				P1	manual	-3197.0				6771.0	
+199.306	1.301	P4	Yeah, that would be new.	SPK		0.061699	6.88	P4	confident	-2584.0	1428.0	1428.0		2602.0	
+200.607	1.306	GROUP	(1.3)	SIL				shared	manual	0.0				2189.0	
+201.913	0.581	P1	I mean, for me.	SPK		0.022677	2.03	P1	confident	0.0	1306.0	1306.0			
+202.494	0.114	GROUP	(.)	SIL				shared	manual	0.0					
+202.608	0.72	P4	For me too.	SPK		0.201948	8.0	P4	confident	0.0	114.0	114.0			
+203.328	0.172	GROUP	(.)	SIL				shared	manual	0.0					
+203.5	2.0	P1	You too?	SPK				P1	manual	0.0	172.0	172.0		10739.0	
+203.609	3.782	P4	Yeah, yeah, yeah.	SPK		0.071722	1.2	P4	confident	-1891.0	-1891.0	-1891.0		15625.0	
+203.609	1.891	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-3782.0				10739.0	
+204.397	1.3	P1	Ready? Oh...	SPK				P1	manual	-1103.0	-2994.0	-2994.0		10148.0	
+204.397	1.103	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-1300.0				9163.0	
+204.397	1.3	P1	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-1103.0				10148.0	
+204.588	1.152	P2	No no no	SPK				P2	manual	-1109.0	-1109.0	-1109.0		9322.0	
+204.588	0.912	P2	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-1152.0				8208.0	
+204.588	1.152	P2	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-912.0				9322.0	
+204.588	1.109	P2	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1152.0				9193.0	
+205.697	1.979	P1	[SOFT LAUGHTER]	LAU				P1	manual	0.0				4636.0	
+205.74	1.181	GROUP	(1.2)	SIL				shared	manual	-1936.0				2362.0	
+206.921	1.168	P2	No experience at all.	SPK				P2	manual	0.0	1181.0	1224.0		2971.0	
+206.921	0.47	P2	[OVL:smooth]	OVL	smooth			shared	manual	-1168.0				1410.0	completion
+207.451	4.382	P4	Never, I think I've seen one moose in my life.	SPK		0.048275	2.56	P4	confident	60.0	-638.0	-638.0		1856.0	
+207.451	0.638	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-4382.0				1501.0	competitive
+211.478	1.998	P1	[LAUGHTER]	LAU				P1	manual	3389.0				1998.0	
+211.833	0.335	GROUP	(0.3)	SIL				shared	manual	-1643.0				335.0	
+212.168	0.64	P2	I did once.	SPK		0.072655	3.58	P2	confident	0.0	335.0	335.0		640.0	
+212.808	0.201	GROUP	(0.2)	SIL				shared	manual	0.0				201.0	
+213.009	0.76	P2	We were in Sweden.	SPK		0.032639	5.28	P2	confident	0.0	201.0	1176.0		467.0	
+213.769	0.286	GROUP	(0.3)	SIL				shared	manual	0.0					
+214.055	0.38	P4	Oh, really?	SPK		0.054752	3.28	P4	confident	0.0	286.0	286.0			
+214.435	0.135	GROUP	(.)	SIL				shared	manual	0.0					
+214.57	2.681	P2	And we did for a walk with our two children.	SPK		0.032669	4.19	P2	confident	0.0	135.0	135.0			
+217.251	1.481	GROUP	(1.5)	SIL				shared	manual	0.0					
+218.732	4.023	P2	And then just out of a sudden they came out and went in front of us.	SPK		0.048686	3.92	P2	confident	0.0	1481.0	4297.0		403.0	
+221.654	0.403	P1	Oh.	BCK				P1	manual	-1101.0			2922.0	403.0	
+222.755	0.06	GROUP	(.)	SIL				shared	manual	698.0					
+222.815	2.461	P2	It was just, they were really, really high.	SPK		0.035312	2.14	P2	confident	0.0	60.0	8380.0		1342.0	
+224.552	0.618	P1	Huge.	SPK				P1	manual	-724.0	-724.0	-724.0		1236.0	
+224.552	0.618	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-618.0				1236.0	
+225.17	2.588	GROUP	(2.6)	SIL				shared	manual	0.0				1866.0	
+225.4	1.76	P1	[LAUGHTER]	LAU				P1	manual	-2358.0				1760.0	
+227.758	1.352	P1	I guess it's impressive, yeah.	SPK				P1	manual	598.0	2588.0	2482.0			
+229.11	0.254	GROUP	(0.3)	SIL				shared	manual	0.0					
+229.364	1.721	P4	Yeah, impressive.	SPK		0.034978	2.15	P4	confident	0.0	254.0	254.0		166.0	
+230.919	0.293	P3	Mmh.	BCK				P3	manual	-166.0			1555.0	293.0	
+231.085	4.352	GROUP	(4.4)	SIL				shared	manual	-127.0				127.0	
+235.437	4.406	MODERATOR	So I will now display your ideas.	SPK		0.00922	1.44	MOD	confident	0.0	4352.0	4352.0		3426.0	
+237.655	1.238	P1	Some ideas? Oh...	SPK				P1	manual	-2188.0	-2188.0	-2188.0		2476.0	
+237.655	1.238	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1238.0				2476.0	
+238.893	7.984	GROUP	(8.0)	SIL				shared	manual	0.0				950.0	
+246.877	0.269	P2	Okay.	SPK				P2	manual	0.0	7984.0	7984.0		0.0	
+247.146	11.679	GROUP	(11.7)	SIL				shared	manual	0.0				448.0	
+247.434	0.448	P1	Mmh.	BCK				P1	manual	-11391.0				448.0	
+258.825	5.286	P4	Well, I think to me, I mean, the beach party with the games and the summer party are kind of the same thing.	SPK		0.04505	6.82	P4	confident	10943.0	11679.0	11679.0		170.0	
+262.959	0.17	P2	Mmh.	BCK				P2	manual	-1152.0			4134.0	170.0	
+264.111	0.36	GROUP	(0.4)	SIL				shared	manual	982.0					
+264.471	5.686	P4	So, and then the Pétanque party is maybe also a summer party.	SPK		0.040395	11.52	P4	confident	0.0	360.0	17325.0			
+270.157	0.16	GROUP	(.)	SIL				shared	manual	0.0					
+270.317	1.441	P4	So, should we do summer party?	SPK		0.04781	11.63	P4	confident	0.0	160.0	23171.0			
+271.758	2.943	GROUP	(2.9)	SIL				shared	manual	0.0					
+274.701	0.321	P4	Yeah,	SPK		0.013061	1.16	mic12	backchannel	0.0	2943.0	2943.0		640.0	
+274.702	1.396	P2	Yeah, it's also a nice...	SPK		0.01171	1.05	P2	confident	-320.0	-320.0	-320.0		1031.0	
+274.702	0.32	P2	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1396.0				640.0	
+275.551	0.391	P3	Yeah.	BCK				P3	manual	529.0			849.0	391.0	
+276.098	0.345	GROUP	(0.3)	SIL				shared	manual	156.0				0.0	
+276.443	1.902	P4	Yeah, I mean, it's a lot of those things.	SPK		0.043435	7.18	P4	confident	0.0	345.0	345.0		0.0	
+278.345	0.299	GROUP	(0.3)	SIL				shared	manual	0.0					
+278.644	1.611	P2	Yeah, the weather and something, yeah...	SPK		0.016248	3.21	P2	confident	0.0	299.0	299.0		698.0	
+279.421	0.311	P3	Yeah.	BCK				P3	manual	-834.0			777.0	311.0	
+280.125	0.58	P2	Yeah.	SPK		0.007939	0.6	P2	confident	393.0	-130.0	1780.0		1153.0	
+280.125	0.13	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-580.0				387.0	
+280.128	0.58	P1	Yeah.	BCK		0.009219	0.68	P1	confident	-127.0			3.0	1153.0	
+280.389	0.681	P4	Yeah yeah yeah.	BCK				P4	manual	-319.0			264.0	1000.0	
+280.705	6.888	GROUP	(6.9)	SIL				shared	manual	-365.0				368.0	
+287.593	0.62	P4	Are we done?	SPK		0.03753	10.94	P4	confident	0.0	6888.0	6888.0			
+288.213	0.121	GROUP	(.)	SIL				shared	manual	0.0					
+288.334	1.42	P4	Or did you want to discuss?	SPK		0.01912	3.35	P4	confident	0.0	121.0	7629.0		46.0	
+289.708	3.385	P2	No, I think we should, we have to choose one of them, right?	SPK		0.02566	2.61	P2	confident	-46.0	-46.0	-46.0		46.0	
+293.093	0.461	GROUP	(0.5)	SIL				shared	manual	0.0				0.0	
+293.554	0.861	P2	Exactly, okay.	SPK		0.017105	2.24	P2	confident	0.0	461.0	3800.0		0.0	
+294.437	1.501	P4	Should we just do the summer party?	SPK		0.030634	8.65	P4	confident	22.0	22.0	22.0			
+295.938	1.859	GROUP	(1.9)	SIL				shared	manual	0.0					
+297.797	0.9	P2	Where's the summer party?	SPK		0.01713	1.55	P2	confident	0.0	1859.0	1859.0		416.0	
+298.489	2.95	P1	Is it, is it specific enough?	SPK				P1	manual	-208.0	-208.0	-208.0		4339.0	
+298.489	0.208	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-2950.0				416.0	
+298.957	1.141	P2	Ah, summer party, okay.	SPK		0.058125	2.65	P2	confident	260.0	-2482.0	-2482.0		2282.0	
+298.957	1.141	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1141.0				2282.0	
+300.098	0.12	GROUP	(.)	SIL				shared	manual	0.0				120.0	
+300.218	0.3	P2	There.	SPK		0.049363	2.4	P2	confident	0.0	120.0	-1221.0		600.0	
+300.218	0.3	P2	[OVL:smooth]	OVL	smooth			shared	manual	-300.0				600.0	
+300.518	0.92	GROUP	(0.9)	SIL				shared	manual	0.0				920.0	
+301.438	2.34	P2	But I thought you only meant summer.	SPK		0.041508	3.3	P2	confident	0.0	920.0	-1.0		1.0	
+303.778	1.923	GROUP	(1.9)	SIL				shared	manual	0.0				432.0	
+304.634	0.432	P4	Ah.	BCK				P4	manual	-1067.0				432.0	
+305.701	1.661	P1	Because for me it's not specific.	SPK		0.023143	1.26	P1	confident	635.0	1923.0	1923.0		320.0	
+306.082	0.32	P2	Yeah.	BCK				P2	manual	-1280.0			381.0	320.0	
+307.362	0.2	GROUP	(.)	SIL				shared	manual	960.0					
+307.562	5.443	P1	We need to decide on an activity and summer party can be a huge concert in Roskilde.	SPK		0.032381	1.36	P1	confident	0.0	200.0	3784.0		1547.0	
+308.807	0.195	P3	Yeah.	BCK				P3	manual	-4198.0			1245.0	195.0	
+309.738	0.364	P3	Yeah.	BCK				P3	manual	736.0			2176.0	364.0	
+311.915	0.721	P2	Yeah yeah yeah.	BCK				P2	manual	1813.0			4353.0	988.0	
+312.267	0.267	P3	Yeah.	BCK				P3	manual	-369.0			4705.0	534.0	
+313.005	0.136	GROUP	(.)	SIL				shared	manual	471.0					
+313.141	0.56	P2	Yeah yeah.	SPK		0.031908	1.08	P2	confident	0.0	136.0	136.0		394.0	
+313.307	0.494	P3	Yeah.	BCK				P3	manual	-394.0			166.0	494.0	
+313.701	0.809	GROUP	(0.8)	SIL				shared	manual	-100.0				100.0	
+314.51	2.282	P4	Oh, well then we'll choose one of the other ones, that's fine.	SPK		0.084163	3.11	P4	confident	0.0	809.0	809.0		4384.0	
+314.763	0.781	P1	You know what I mean?	SPK				P1	manual	-2029.0	-2029.0	-2029.0		3039.0	
+314.763	0.781	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-781.0				3039.0	
+315.12	0.328	P3	Yeah.	BCK				P3	manual	-424.0			357.0	1845.0	
+315.161	0.48	P2	Yeah yeah.	SPK		0.04386	0.82	P2	confident	-287.0	-383.0	-383.0		2396.0	
+315.161	0.48	P2	[OVL:smooth]	OVL	smooth			shared	manual	-480.0				2396.0	
+315.161	0.383	P2	[OVL:smooth]	OVL	smooth			shared	manual	-480.0				2202.0	
+315.641	1.171	GROUP	(1.2)	SIL				shared	manual	97.0				1151.0	
+316.812	0.34	P1	Yeah, it's...	SPK		0.019089	1.46	P1	confident	0.0	1171.0	1171.0			
+317.152	0.671	GROUP	(0.7)	SIL				shared	manual	0.0					
+317.823	10.092	P1	I think we need to be specific about the type of event we want to open something accessible to everyone?	SPK		0.028502	1.41	P1	confident	0.0	671.0	2182.0		3862.0	
+324.374	0.321	P3	Yeah.	SPK		0.012469	2.4	P3	confident	-3541.0	-3541.0	-3541.0		642.0	
+324.374	0.321	P3	[OVL:smooth]	OVL	smooth			shared	manual	-321.0				642.0	collaborative
+324.695	4.188	GROUP	(4.2)	SIL				shared	manual	0.0				3220.0	
+328.883	9.879	P4	Well, I think the beach party sounds really fun, but I just wonder if... people will feel a little bit...	SPK				P4	manual	0.0	4188.0	4188.0		6591.0	
+334.37	2.199	P2	Yeah, if they would go...	SPK				P2	manual	-4392.0	-4392.0	-4392.0		4398.0	
+334.37	2.199	P2	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-2199.0				4398.0	
+336.569	5.376	GROUP	(5.4)	SIL				shared	manual	0.0				2193.0	
+341.945	10.767	P3	Yeah, but I imagine sort of we hire, let's say, 15, 20 buses, and then we all go to Fanø or something like that on the West Coast.	SPK		0.041838	3.22	P3	confident	0.0	5376.0	5376.0			
+352.712	0.149	GROUP	(.)	SIL				shared	manual	0.0					
+352.861	0.811	P4	Well, it's...	SPK				P4	manual	0.0	149.0	149.0		1320.0	
+353.012	11.292	P3	And there is no, there is also, you can, we have also rented place to stay there, and food, and games, so... there is no getting away.	SPK		0.0449	2.48	P3	confident	-660.0	-660.0	-660.0		1320.0	
+353.012	0.66	P3	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-11292.0				1320.0	
+364.304	1.136	GROUP	(1.1)	SIL				shared	manual	10632.0				607.0	
+364.833	0.608	P4	Okay.	BCK				P4	manual	-607.0				608.0	
+365.44	2.241	P3	And the weather will be nice.	SPK		0.07994	1.12	P3	confident	-1.0	1136.0	11768.0		2336.0	
+366.82	1.051	P4	The weather will be nice.	SPK				P4	manual	-861.0	-861.0	-861.0		3059.0	
+366.82	0.861	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-1051.0				2335.0	
+367.068	4.051	P2	[LAUGHTER]	LAU				P2	manual	-613.0				12319.0	
+367.687	3.4	P3	[LAUGHTER]	LAU				P3	manual	-3432.0				10410.0	
+367.702	4.342	P4	And we'll all look great, we'll all look great in our swimsuits.	SPK		0.184189	1.73	P4	confident	-3385.0	-169.0	21.0		11369.0	
+367.702	0.169	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-4342.0				688.0	
+367.865	0.05	P1	Yeah, I was going to jump on this aspect.	SPK				P1	manual	-6.0	-4179.0	-4179.0		212.0	
+367.865	0.05	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-50.0				212.0	
+367.915	4.229	GROUP	(4.2)	SIL				shared	manual	0.0				10505.0	
+372.144	3.501	P4	Okay, well then, it sounds nice.	SPK		0.0477	1.7	P4	confident	0.0	4229.0	4229.0			
+375.645	0.261	GROUP	(0.3)	SIL				shared	manual	0.0					
+375.906	0.66	P4	Yeah, I like it.	SPK		0.033193	8.93	P4	confident	0.0	261.0	7991.0		0.0	
+376.566	2.041	GROUP	(2.0)	SIL				shared	manual	0.0				0.0	
+378.607	2.781	P1	This promise on the weather...	SPK		0.029411	1.29	P1	confident	0.0	2041.0	2041.0		0.0	
+381.388	0.08	GROUP	(.)	SIL				shared	manual	0.0				0.0	
+381.468	5.363	P1	It's kind of tricky, but if we have...	SPK		0.077291	2.16	P1	confident	0.0	80.0	4902.0		7926.0	
+382.054	0.32	P2	Yeah.	BCK				P2	manual	-4777.0			586.0	320.0	
+382.376	3.046	P2	[LAUGHTER]	LAU				P2	manual	2.0				4788.0	
+384.551	3.619	P4	No, I you do it at the right time during the year, I agree, it's...	SPK				P4	manual	-871.0	-2280.0	-2280.0		7892.0	
+384.551	2.28	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-3619.0				5431.0	
+386.948	1.52	P2	Yeah, yeah yeah.	BCK				P2	manual	117.0			2397.0	2759.0	
+387.291	0.36	P1	Yeah.	SPK		0.048386	1.02	P1	confident	-1177.0	-879.0	-879.0		1080.0	
+387.291	0.36	P1	[OVL:smooth]	OVL	smooth			shared	manual	-360.0				1080.0	
+387.651	1.161	GROUP	(1.2)	SIL				shared	manual	0.0				1336.0	
+388.812	1.946	P3	It will not be windy at all.	SPK		0.044668	1.3	P3	confident	0.0	1161.0	1161.0		0.0	
+390.758	0.91	GROUP	(0.9)	SIL				shared	manual	0.0				673.0	
+390.995	0.88	P3	[LAUGHTER]	LAU				P3	manual	-673.0				880.0	
+391.668	1.947	P1	Yeah, in the west... hm	SPK				P1	manual	-207.0	910.0	910.0		625.0	
+393.406	0.92	P2	It would be different.	SPK		0.039904	3.68	P2	confident	-209.0	-209.0	-209.0		418.0	
+393.406	0.209	P2	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-920.0				418.0	
+394.326	1.161	GROUP	(1.2)	SIL				shared	manual	711.0					
+395.487	1.328	P1	Yeah, hmm...	SPK				P1	manual	0.0	1161.0	1161.0			
+396.815	1.827	GROUP	(1.8)	SIL				shared	manual	0.0					
+398.642	2.816	P3	Of course, the budget will also be...	SPK		0.04255	1.23	P3	confident	0.0	1827.0	1827.0			
+401.504	2.6	P1	Wohoo, you will be generous	SPK				P1	manual	46.0	46.0	46.0		1132.0	
+403.538	1.821	P4	It will be wort it.	SPK				P4	manual	-566.0	-566.0	-566.0		1804.0	
+403.538	0.566	P4	[OVL:competitive]	OVL	competitive			shared	uncertain	-1821.0				1132.0	
+404.687	1.69	P2	[LAUGHTER]	LAU				P2	manual	583.0				1690.0	
+405.359	0.897	GROUP	(0.9)	SIL				shared	manual	-1018.0				897.0	
+406.256	3.097	P3	Yes. Yeah. Amplifon will pay, yeah.	SPK				P3	manual	0.0	897.0	897.0		4447.0	
+406.71	1.683	P1	I mean, if it's open about...	SPK				P1	manual	-2643.0	-2643.0	-2643.0		3366.0	
+406.71	1.683	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-1683.0				3366.0	collaborative
+408.393	5.37	GROUP	(5.4)	SIL				shared	manual	0.0				3439.0	
+410.083	2.479	P4	[LAUGHTER]	LAU				P4	manual	-3680.0				2479.0	
+413.763	2.702	P4	I think it sounds, I think it's...	SPK		0.069882	3.01	P4	confident	1201.0	5370.0	5370.0		5774.0	
+413.811	2.608	P1	If it's unlimited budget, it's fine.	SPK				P1	manual	-2654.0	-2654.0	-2654.0		5682.0	
+413.811	2.608	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-2608.0				5682.0	
+415.953	1.0	P3	Yeah.	BCK				P3	manual	-466.0			2142.0	1978.0	
+416.419	0.548	GROUP	(0.5)	SIL				shared	manual	-534.0				580.0	
+416.967	1.261	P1	All good for me yeah yeah.	SPK		0.017648	2.42	P1	confident	0.0	548.0	502.0			
+418.228	1.18	GROUP	(1.2)	SIL				shared	manual	0.0					
+419.408	1.961	P4	Should we then do a beach party?	SPK		0.049557	9.05	P4	confident	0.0	1180.0	1180.0			
+421.369	1.61	GROUP	(1.6)	SIL				shared	manual	0.0				0.0	
+422.979	0.22	P2	Yeah.	SPK		0.018272	5.31	P2	confident	0.0	1610.0	1610.0		0.0	
+423.199	0.693	GROUP	(0.7)	SIL				shared	manual	0.0					
+423.892	0.62	P2	Sounds good.	SPK		0.027934	4.53	P2	confident	0.0	693.0	2523.0			
+424.512	0.06	GROUP	(.)	SIL				shared	manual	0.0					
+424.572	0.24	P4	Okay.	SPK		0.027995	9.1	P4	confident	0.0	60.0	60.0			
+424.812	0.401	GROUP	(0.4)	SIL				shared	manual	0.0					
+425.213	0.78	P4	Let's do beach party.	SPK		0.016128	8.92	P4	confident	0.0	401.0	701.0			
+425.993	0.155	GROUP	(.)	SIL				shared	manual	0.0					
+426.148	0.861	P2	That's different.	SPK				P2	manual	0.0	155.0	155.0		953.0	
+426.671	0.281	MODERATOR	Yeah.	SPK		0.010656	1.11	shared	confident	-338.0	-338.0	-338.0		843.0	
+426.671	0.281	P1	Yeah.	BCK		0.009214	1.28	P1	confident	-281.0			0.0	843.0	
+426.671	0.281	MODERATOR	[OVL:smooth]	OVL	smooth			shared	manual	-281.0				843.0	collaborative
+426.954	0.44	P4	Yeah.	SPK		0.029995	10.21	P4	confident	2.0	2.0	2.0		110.0	
+426.954	0.055	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-440.0				110.0	
+427.394	3.643	GROUP	(3.6)	SIL				shared	manual	385.0					
+431.037	12.59	MODERATOR	So I will just wait for her to complete the VAD and then again I will send a form and decide one person who writes the final idea that was chosen.	SPK		0.002496	1.21	MOD	confident	0.0	3643.0	3643.0			
+443.627	1.815	GROUP	(1.8)	SIL				shared	manual	0.0					
+445.442	4.641	MODERATOR	Okay, so do any of you have VADs right now?	SPK		0.002446	1.19	MOD	confident	0.0	1815.0	18048.0			
+450.123	0.74	MODERATOR	Props on the screen?	SPK		0.00267	1.39	MOD	confident	40.0	40.0	22729.0			
+450.863	0.235	GROUP	(0.2)	SIL				shared	manual	0.0					
+451.098	3.321	P2	Yeah, I did one and then it came back with one more.	SPK		0.031849	4.02	P2	confident	0.0	235.0	235.0		0.0	
+454.419	0.225	GROUP	(0.2)	SIL				shared	manual	0.0				0.0	
+454.644	2.921	MODERATOR	Okay, then I can sign the form.	SPK		0.002452	1.3	MOD	confident	0.0	225.0	225.0			
+457.565	0.454	GROUP	(0.5)	SIL				shared	manual	0.0					
+458.019	0.22	P2	Okay.	SPK		0.016755	3.82	P2	confident	0.0	454.0	454.0		0.0	
+458.239	0.847	GROUP	(0.8)	SIL				shared	manual	0.0				0.0	
+459.086	4.281	MODERATOR	Okay, so decide one of you to put in the final idea.	SPK		0.002817	1.27	MOD	confident	0.0	847.0	847.0			
+463.367	1.64	GROUP	(1.6)	SIL				shared	manual	0.0					
+465.007	3.301	P2	It was your idea, you could put it in.	SPK		0.022588	2.93	P2	confident	0.0	1640.0	1640.0		3439.0	
+466.648	1.26	MODERATOR	Yeah, because you do it.	SPK		0.033999	1.66	shared	confident	-1660.0	-1660.0	-1660.0		2950.0	
+466.648	0.38	P4	Yeah.	BCK		0.013307	0.61	P4	confident	-1260.0			0.0	1140.0	
+466.648	1.26	MODERATOR	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-380.0				2950.0	collaborative
+467.034	0.05	P3	Yeah yeah.	BCK				P3	manual	-874.0			386.0	150.0	
+467.908	0.311	GROUP	(0.3)	SIL				shared	manual	824.0				311.0	
+468.219	1.301	P3	We can take turns here.	SPK		0.01525	6.09	P3	confident	0.0	311.0	311.0		178.0	
+468.219	0.089	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-1301.0				178.0	
+469.52	0.349	GROUP	(0.3)	SIL				shared	manual	1212.0					
+469.869	0.26	P4	Yeah.	SPK		0.033813	1.82	P4	confident	0.0	349.0	349.0			
+470.129	3.421	GROUP	(3.4)	SIL				shared	manual	0.0					
+473.55	1.14	P4	P3-1.	SPK		0.029171	12.2	P4	confident	0.0	3421.0	4030.0			
+474.69	6.304	GROUP	(6.3)	SIL				shared	manual	0.0					
+480.994	1.88	P3	So do I have to write it again?	SPK				P3	manual	0.0	6304.0	6304.0			
+482.874	0.378	GROUP	(0.4)	SIL				shared	manual	0.0					
+483.252	2.87	P2	No no, it says, it has... it's up there.	SPK				P2	manual	0.0	378.0	378.0		6129.0	
+484.031	1.741	MODERATOR	It's up there.	SPK		0.040098	1.21	shared	confident	-2091.0	-2091.0	-2091.0		5779.0	
+484.031	1.741	MODERATOR	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1741.0				5779.0	competitive
+484.997	0.761	P3	Yeah.	SPK		0.034194	1.23	P3	confident	-775.0	-775.0	-775.0		3805.0	
+484.997	0.761	P3	[OVL:competitive]	OVL	competitive			shared	confident	-761.0				3805.0	competitive
+484.997	0.761	P3	[OVL:competitive]	OVL	competitive			shared	confident	-761.0				3805.0	competitive
+485.758	0.374	GROUP	(0.4)	SIL				shared	manual	0.0				392.0	
+486.132	1.552	P3	Yeah yeah, it was just on my...	SPK				P3	manual	0.0	374.0	360.0			
+487.684	0.788	GROUP	(0.8)	SIL				shared	manual	0.0				0.0	
+488.472	1.721	P4	It hasn't disappeared from me either.	SPK		0.021567	8.17	P4	confident	0.0	788.0	788.0		0.0	
+490.193	1.25	GROUP	(1.3)	SIL				shared	manual	0.0					
+491.443	0.2	P3	Yeah.	SPK		0.010232	2.09	P3	confident	0.0	1250.0	1250.0			
+491.643	0.2	GROUP	(0.2)	SIL				shared	manual	0.0					
+491.843	0.321	P3	Okay.	SPK		0.010126	1.38	P3	confident	0.0	200.0	1650.0		0.0	
+492.164	0.07	GROUP	(.)	SIL				shared	manual	0.0				0.0	
+492.234	0.3	MODERATOR	Okay.	SPK		0.002548	1.3	MOD	confident	0.0	70.0	70.0			
+492.534	8.519	GROUP	(8.5)	SIL				shared	manual	0.0					
+501.053	0.3	P2	Okay.	SPK		0.014786	3.53	P2	confident	0.0	8519.0	8519.0			
+501.353	1.704	GROUP	(1.7)	SIL				shared	manual	0.0					
+503.057	1.86	MODERATOR	So that we can finish kind of in time.	SPK		0.001934	1.12	MOD	confident	0.0	1704.0	1704.0			

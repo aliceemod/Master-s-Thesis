@@ -1,0 +1,254 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+0.371	28.279	MODERATOR	The first task and before doing the task I would like you to for three to five second look at the printed name in front of you again in the circle the target perfect thank you so the task one is a task that you play	SPK		0.007942	1.28	MOD	confident					17045
+16.717	1.462	P3	At this one?	SPK		0.013189	5.82	P3	confident	-11933	-11933	-11933		5564
+16.717	1.462	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1462				5564
+17.299	1.160	P4	The circle? The target?	SPK		0.013170	0.55	P4	confident	-880	-880	-880		4960
+17.299	1.160	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1160				4960
+17.299	0.880	P4	[OVL:competitive]	OVL	competitive			shared	manual	-1160				4400
+18.459	0.272	GROUP	(0.3)	SIL				shared	manual	280				272
+18.731	0.730	MODERATOR	Yeah, the target, yeah.	SPK				MOD	manual	0	272	272		1460
+18.731	0.730	MODERATOR	[OVL:competitive]	OVL	competitive			shared	manual	-730				1460
+19.461	10.715	GROUP	(10.7)	SIL				shared	manual	0				9189
+30.176	26.081	MODERATOR	role of hiring committee you will be evaluating three applicants for an internal role at GN and the position is about supporting AI adoption and transformation across different departments so we'll get some information about the role on the screen and some individual information on your tablets about applicants	SPK		0.004139	1.43	MOD	confident	0	10715	11717		
+56.257	3.296	GROUP	(3.3)	SIL				shared	manual	0				
+59.553	5.263	MODERATOR	You will have around one minute to silently read your information on your tablet.	SPK		0.008722	1.80	MOD	confident	0	3296	41094		
+64.816	0.320	GROUP	(0.3)	SIL				shared	manual	0				
+65.136	1.941	MODERATOR	Please don't look at the other people's tablet.	SPK		0.002709	1.33	MOD	confident	0	320	46677		
+67.077	1.521	GROUP	(1.5)	SIL				shared	manual	0				
+68.598	13.426	MODERATOR	And then after that, you will have seven minutes to discuss about the different applicants and finalize one as a final applicant for the role.	SPK		0.003850	1.42	MOD	confident	0	1521	50139		
+82.024	1.641	GROUP	(1.6)	SIL				shared	manual	0				
+83.665	4.702	MODERATOR	If you don't have any questions, I will send you the evidence cards.	SPK		0.003796	1.59	MOD	confident	0	1641	65206		
+88.367	3.585	GROUP	(3.6)	SIL				shared	manual	0				
+91.952	0.260	MODERATOR	Okay?	SPK		0.005545	1.59	MOD	confident	0	3585	73493		
+92.212	0.312	GROUP	(0.3)	SIL				shared	manual	0				
+92.524	0.364	P3	Yes.	SPK		0.015492	0.87	P3	confident	0	312	312		630
+92.573	0.480	P1	Mhm.	SPK		0.010636	0.50	P1	confident	-315	-315	-315		630
+92.573	0.315	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-480				630
+93.053	1.061	GROUP	(1.1)	SIL				shared	manual	165				426
+93.317	0.426	P2	Yeah.	BCK				P2	manual	-797				426
+94.114	0.220	MODERATOR	Yes?	SPK		0.005622	1.72	MOD	confident	371	1061	1061		
+94.334	0.360	GROUP	(0.4)	SIL				shared	manual	0				
+94.694	1.341	MODERATOR	So please read your information.	SPK		0.007172	1.75	MOD	confident	0	360	1641		
+96.035	78.186	GROUP	(78.2)	SIL				shared	manual	0				
+174.221	22.795	MODERATOR	Now you have seven minutes to discuss your opinion about the candidates but you should remember you cannot read directly from your information on your tablet it means that you cannot say the exact word but you can rephrase it paraphrase it whatever you can share the information in any other format	SPK		0.006372	2.09	MOD	confident	0	78186	81168		0
+197.016	2.590	GROUP	(2.6)	SIL				shared	manual	0				0
+199.606	0.571	MODERATOR	Stage is yours.	SPK				MOD	manual	0	2590	106553		
+200.177	2.076	GROUP	(2.1)	SIL				shared	manual	0				
+202.253	27.945	P4	So i think if this is particularly for hiring some person for adopt for AI adoption then i would say that candidate A is kind of i feel like he is willing to learn but he is not that technical or has not worked in similar similar roles before so but if we go to the candidate B	SPK		0.037581	8.45	P4	confident	0	2076	2076		
+230.198	1.421	GROUP	(1.4)	SIL				shared	manual	0				
+231.619	21.898	P4	He is much more technical he has much more background but this is not the task which we want him to achieve but he has to work towards more adoption so that he can bring more heads into thinking about what exactly how it will benefit the team and the company in general	SPK		0.042933	8.21	P4	confident	0	1421	31442		
+253.517	0.840	GROUP	(0.8)	SIL				shared	manual	0				
+254.357	3.003	P4	So I think candidate C can be a right choice.	SPK		0.052961	8.60	P4	confident	0	840	54180		
+257.360	1.821	GROUP	(1.8)	SIL				shared	manual	0				0
+259.181	3.583	P4	Yeah, this is the fact that he may not have that much AI background.	SPK		0.047174	8.49	P4	confident	0	1821	59004		0
+262.764	0.661	GROUP	(0.7)	SIL				shared	manual	0				
+263.425	10.529	P4	But again, he needs to be a person who actually encourages people or bring people other people to a stage that they can start adopting.	SPK		0.046040	8.89	P4	confident	0	661	63248		
+273.954	0.320	GROUP	(0.3)	SIL				shared	manual	0				
+274.274	8.187	P4	So because he has worked in similar roles, and we don't need him to have a very deep technical AI knowledge as per my understanding.	SPK		0.048281	8.70	P4	confident	0	320	74097		
+282.461	0.520	GROUP	(0.5)	SIL				shared	manual	0				
+282.981	15.084	P4	So if we can at least guide him about what we want to achieve with the particular why we need it, then he can be a right person to communicate it for the AI adoption within the company.	SPK		0.032605	6.92	P4	confident	0	520	82804		4553
+293.790	0.278	P1	Mmh.	SPK				P1	manual	-4275	-4275	-4275		556
+293.790	0.278	P1	[OVL:smooth]	OVL	smooth			shared	manual	-278				556
+294.068	5.722	GROUP	(5.7)	SIL				shared	manual	0				3997
+299.790	24.215	P1	I echo your observation and I agree with the C candidate could be a strong one for this position sort of as an enabler for the transformation that they will go through because as you said the AI background is not that deep but maybe that's not needed for the transformation that is to be taking place in this situation here right it's more enabling people across teams to	SPK		0.036819	5.43	P1	confident	0	5722	1725		1155
+302.190	0.408	P4	Yeah.	BCK				P4	manual	-21815			2400	617
+302.389	0.467	P2	[SOFT LAUGHTER]	LAU				P2	manual	-209				676
+321.507	0.280	P4	Mhm.	BCK				P4	manual	18651			21717	280
+324.005	1.400	GROUP	(1.4)	SIL				shared	manual	2218				
+325.405	2.641	P1	to roll out the transformation of AI adoption.	SPK		0.020631	4.14	P1	confident	0	1400	27340		282
+327.614	0.282	P4	Yeah.	BCK				P4	manual	-432			2209	282
+328.066	9.604	P1	So I think that's a strong candidate and also a good solid experience background with that part from candidate C. Yeah, I agree.	SPK		0.025957	4.67	P1	confident	170	20	30001		320
+328.523	0.320	P2	Mmh.	BCK				P2	manual	-9147			457	320
+337.670	1.907	GROUP	(1.9)	SIL				shared	manual	8827				
+339.577	0.280	P3	Hm.	SPK		0.025077	7.19	P3	confident	0	1907	1907		
+339.857	0.220	GROUP	(0.2)	SIL				shared	manual	0				0
+340.077	14.503	P3	Do we need any managerial skills for that role or that doesn't... Because it says a specialist, yeah.	SPK		0.032707	8.34	P3	confident	0	220	2407		0
+354.580	3.930	GROUP	(3.9)	SIL				shared	manual	0				
+358.510	0.760	P2	I think not, no.	SPK		0.010798	2.39	P2	confident	0	3930	3930		
+359.270	1.033	GROUP	(1.0)	SIL				shared	manual	0				
+360.303	0.920	P3	So that's not...	SPK		0.023592	9.50	P3	confident	0	1033	1033		
+361.223	0.968	GROUP	(1.0)	SIL				shared	manual	0				0
+362.191	0.220	P2	No.	SPK		0.004593	2.87	P2	confident	0	968	968		0
+362.411	4.921	GROUP	(4.9)	SIL				shared	manual	0				
+367.332	0.921	P2	No, yeah.	SPK		0.036379	1.92	P2	confident	0	4921	6109		1356
+367.575	0.681	P2	Ah...	SPK		0.020374	0.54	P2	confident	-678	-678	6352		1356
+367.575	0.678	P2	[OVL:competitive]	OVL	competitive			shared	manual	-681				1356
+368.256	1.657	GROUP	(1.7)	SIL				shared	manual	3				
+369.913	2.121	P2	I agree.	SPK		0.009656	4.29	P2	confident	0	1657	8690		
+372.034	0.320	GROUP	(0.3)	SIL				shared	manual	0				
+372.354	9.262	P2	I think I was eternally, well, before just reading through myself, like, oh, AI, you know, easy was to select the one who had done something and could create.	SPK		0.023121	4.91	P2	confident	0	320	11131		
+381.636	1.601	P2	I mean, I agree.	SPK		0.020454	4.71	P2	confident	20	20	20413		
+383.237	0.240	GROUP	(0.2)	SIL				shared	manual	0				0
+383.477	2.481	P2	There is maybe if...	SPK		0.010631	4.16	P2	confident	0	240	22254		0
+385.958	1.420	GROUP	(1.4)	SIL				shared	manual	0				0
+387.378	21.870	P2	Well it's a if the rise the need for creating something custom internal wise there might be some strengthening candidate B being able to do something but clearly he yeah he hasn't any experiences with rollout and getting other teams on board right he's more creative ai working in in different forms before and has strong background in that but	SPK		0.015916	4.46	P2	confident	0	1420	26155		0
+409.248	2.517	GROUP	(2.5)	SIL				shared	manual	0				
+411.765	1.241	P2	Could he do the other thing?	SPK		0.021857	4.92	P2	confident	0	2517	50542		
+413.026	1.061	P2	I don't know.	SPK		0.005507	3.15	P2	confident	20	20	51803		
+414.087	0.400	GROUP	(0.4)	SIL				shared	manual	0				
+414.487	3.562	P2	That depends on whether there will arise a need for doing something custom.	SPK		0.013558	4.73	P2	confident	0	400	53264		0
+418.049	2.121	GROUP	(2.1)	SIL				shared	manual	0				0
+420.170	1.000	P2	Or if it's even in the...	SPK		0.017554	4.60	P2	confident	0	2121	58947		
+421.190	3.642	P2	I don't know, it's not really what team it is, but yeah.	SPK		0.010918	3.53	P2	confident	20	20	59967		364
+424.650	0.440	P2	Yeah.	SPK		0.008686	0.53	P2	confident	-182	-182	63427		364
+424.650	0.182	P2	[OVL:smooth]	OVL	smooth			shared	manual	-440				364
+425.090	7.793	GROUP	(7.8)	SIL				shared	manual	258				
+432.883	2.171	P1	But you went out of the managerial skills.	SPK				P1	manual	0	7793	7793		728
+434.690	6.647	P3	Yes, if it was needed because A may have more managerial skills.	SPK		0.045945	8.52	P3	confident	-364	-364	-364		728
+434.690	0.364	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-6647				728
+441.337	0.380	GROUP	(0.4)	SIL				shared	manual	6283				
+441.717	4.745	P3	I don't know if that's important for this specific role or...	SPK		0.030678	7.49	P3	confident	0	380	6663		
+446.462	0.258	GROUP	(0.3)	SIL				shared	manual	0				
+446.720	3.022	P1	But I think the role will sort of lead the team, right?	SPK		0.032184	1.82	P1	confident	0	258	258		
+449.742	0.100	GROUP	(.)	SIL				shared	manual	0				0
+449.842	2.581	P1	Isn't that the... Or maybe not.	SPK		0.024156	4.54	P1	confident	0	100	3380		0
+452.423	0.400	GROUP	(0.4)	SIL				shared	manual	0				
+452.823	1.461	P1	I am a transformation specialist.	SPK		0.014022	2.34	P1	confident	0	400	6361		
+454.284	0.359	GROUP	(0.4)	SIL				shared	manual	0				
+454.643	9.446	P2	I mean, if we're mapping the special title to the levels in GN, it would be pretty, at least technical wise, it's pretty high level.	SPK		0.016212	4.91	P2	confident	0	359	359		
+464.109	5.803	P2	So B's expected some drive of things and leading others below.	SPK		0.020650	2.02	P2	confident	20	20	9825		6497
+464.385	0.970	P1	Yeah, it's a senior one	SPK		0.036747	1.07	P1	confident	-5527	-5527	-5527		1940
+464.385	0.970	P1	[OVL:competitive]	OVL	competitive			shared	manual	-970				1940
+465.355	6.198	GROUP	(6.2)	SIL				shared	manual	0				4557
+471.553	3.402	P2	Just plain old engineers and seniors and whatnot.	SPK		0.010815	2.09	P2	confident	0	6198	6198		448
+474.225	0.448	P1	Mmh.	BCK				P1	manual	-730			2672	448
+474.955	0.080	GROUP	(.)	SIL				shared	manual	282				
+475.035	0.200	P2	Yeah.	SPK		0.021283	5.19	P2	confident	0	80	9680		
+475.235	0.628	GROUP	(0.6)	SIL				shared	manual	0				
+475.863	0.413	P1	I agree.	SPK				P1	manual	0	628	628		762
+475.895	1.541	P2	So maybe that could be expected.	SPK		0.017768	2.00	P2	confident	-381	-381	-381		762
+475.895	0.381	P2	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1541				762
+477.456	4.723	P2	So maybe, again, that's probably candidate A, right, who has some experience there.	SPK		0.015089	5.10	P2	confident	1180	20	1180		0
+482.179	5.093	GROUP	(5.1)	SIL				shared	manual	0				0
+487.272	6.981	P2	More there's no one with like real manager managerial experience probably A comes closest	SPK		0.013088	2.48	P2	confident	0	5093	10996		
+494.253	0.483	GROUP	(0.5)	SIL				shared	manual	0				
+494.736	0.281	P3	Yes.	SPK		0.020517	7.61	P3	confident	0	483	483		
+495.017	10.412	GROUP	(10.4)	SIL				shared	manual	0				
+505.429	5.971	P2	Um, that is from from the prompt giving given the this candidate C seems best fit	SPK				P2	manual	0	10412	10412		14
+511.386	0.781	P3	The best, yeah.	SPK		0.023337	1.22	P3	confident	-14	-14	-14		1311
+511.616	0.480	P4	Yeah.	SPK		0.011566	0.51	P4	confident	-551	-551	-551		1226
+511.616	0.480	P4	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-480				1226
+511.754	0.266	P1	Mhm.	BCK				P1	manual	-342			138	798
+512.096	0.321	GROUP	(0.3)	SIL				shared	manual	76				71
+512.417	1.041	P1	So C it is?	SPK		0.039642	7.62	P1	confident	0	321	321		0
+513.458	0.919	GROUP	(0.9)	SIL				shared	manual	0				0
+514.377	0.220	P4	Yes.	SPK		0.009424	2.90	P4	confident	0	919	919		
+514.597	1.386	GROUP	(1.4)	SIL				shared	manual	0				
+515.983	0.411	P4	I think so.	SPK				P4	manual	0	1386	2525		
+516.394	0.254	GROUP	(0.3)	SIL				shared	manual	0				
+516.648	0.949	P1	We got a candidate.	SPK		0.020653	1.67	P1	confident	0	254	254		
+517.597	0.283	GROUP	(0.3)	SIL				shared	manual	0				
+517.880	0.301	P3	Yes.	SPK		0.010930	4.31	P3	confident	0	283	283		
+518.181	1.058	GROUP	(1.1)	SIL				shared	manual	0				536
+518.703	1.131	P2	[SOFT LAUGHTER]	LAU				P2	manual	-536				1131
+519.239	0.760	P4	Let's call him in too.	SPK		0.020612	7.84	P4	confident	-595	1058	1058		595
+519.999	0.264	GROUP	(0.3)	SIL				shared	manual	0				
+520.263	0.261	MODERATOR	Yes.	SPK		0.025128	0.64	MOD	confident	0	264	264		256
+520.268	2.272	P1	[LAUGHTER]	LAU				P1	manual	-256				2272
+520.524	1.556	GROUP	(1.6)	SIL				shared	manual	-2016				1556
+522.080	1.621	MODERATOR	Then we call the candidate.	SPK		0.007780	1.80	MOD	confident	0	1556	2081		460
+523.741	6.762	MODERATOR	Please, one of you select the candidate that you just put into the candidate.	SPK		0.004530	1.47	MOD	confident	40	40	3742		
+530.503	0.324	GROUP	(0.3)	SIL				shared	manual	0				
+530.827	0.660	P2	Just one?	SPK				P2	manual	0	324	324		446
+531.264	0.600	MODERATOR	Just one of you.	SPK		0.002118	1.14	MOD	confident	-223	-223	-223		446
+531.264	0.223	MODERATOR	[OVL:smooth]	OVL	smooth			shared	manual	-600				446
+531.864	11.874	GROUP	(11.9)	SIL				shared	manual	377				
+543.738	5.103	MODERATOR	Now we are done with this task and we go for the questionnaire for the task.	SPK		0.008197	1.08	MOD	confident	0	11874	12251		
+548.841	9.882	GROUP	(9.9)	SIL				shared	manual	0				
+558.723	0.660	P4	What is P1?	SPK		0.020334	8.07	P4	confident	0	9882	9882		
+559.383	1.499	GROUP	(1.5)	SIL				shared	manual	0				0
+560.882	3.202	P3	P1, P2, P3, P4.	SPK		0.040963	1.88	P3	confident	0	1499	1499		2640
+562.004	0.560	P4	Yeah, yeah, ok.	SPK		0.035177	0.94	P4	confident	-2080	-2080	-2080		1120
+562.004	0.560	P4	[OVL:competitive]	OVL	competitive			shared	manual	-560				1120
+562.564	12.110	GROUP	(12.1)	SIL				shared	manual	0				1520
+574.674	1.361	P4	Do I have to write about myself?	SPK		0.035316	8.11	P4	confident	0	12110	10590		
+576.035	0.257	GROUP	(0.3)	SIL				shared	manual	0				
+576.292	0.363	P2	Yes.	SPK				P2	manual	0	257	257		0
+576.655	0.222	GROUP	(0.2)	SIL				shared	manual	0				0
+576.877	0.561	P1	Yeah, what about...	SPK		0.030734	0.80	P1	confident	0	222	222		1167
+576.936	1.001	MODERATOR	You know that part.	SPK		0.028270	1.18	shared	confident	-502	-502	-502		1666
+576.936	0.502	MODERATOR	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1001				1167
+577.275	2.590	P4	[LAUGHTER]	LAU				P4	manual	-163				4690
+577.937	0.100	GROUP	(.)	SIL				shared	manual	-1928				100
+578.037	1.602	P1	Okay.	SPK		0.043579	1.80	P1	confident	0	100	100		3244
+578.818	0.980	P2	Just put seven or...	SPK		0.035385	2.26	P2	confident	-821	-821	-821		2754
+578.818	0.821	P2	[OVL:competitive]	OVL	competitive			shared	manual	-980				2463
+579.732	0.801	P3	Seven.	SPK		0.073632	1.57	P3	confident	93	-66	-66		773
+579.732	0.066	P3	[OVL:smooth]	OVL	smooth			shared	manual	-801				198
+580.279	0.261	P4	Yeah.	SPK		0.070019	7.94	P4	confident	481	-254	-254		508
+580.279	0.254	P4	[OVL:smooth]	OVL	smooth			shared	manual	-261				508
+580.540	1.601	GROUP	(1.6)	SIL				shared	manual	7				
+582.141	1.882	MODERATOR	But that's a good question actually.	SPK		0.004035	1.57	MOD	confident	0	1601	1601		
+584.023	115.395	GROUP	(115.4)	SIL				shared	manual	0				
+699.418	6.210	MODERATOR	So we can have a short break and you can also remove the glasses if you feel it's...	SPK		0.013112	1.41	MOD	confident	0	115395	118878		
+705.628	2.492	GROUP	(2.5)	SIL				shared	manual	0				
+708.120	4.699	P2	It's not pleasant... rest of the nose.	SPK				P2	manual	0	2492	2492		
+712.819	1.992	GROUP	(2.0)	SIL				shared	manual	0				
+714.811	0.962	P3	Yeah, that's true.	SPK		0.008125	2.78	P3	confident	0	1992	1992		
+715.773	3.243	GROUP	(3.2)	SIL				shared	manual	0				0
+719.016	0.761	P3	Oh, it's really warm?	SPK		0.029008	2.45	P3	confident	0	3243	6197		0
+719.777	0.626	GROUP	(0.6)	SIL				shared	manual	0				
+720.403	1.926	P4	Stuck something here.	SPK		0.016171	1.30	P4	confident	0	626	626		0
+722.329	0.231	GROUP	(0.2)	SIL				shared	manual	0				0
+722.560	0.420	P3	Ah, there.	SPK		0.022336	1.14	P3	confident	0	231	231		
+722.980	1.034	GROUP	(1.0)	SIL				shared	manual	0				
+724.014	0.642	P4	Yep, it's done now.	SPK		0.010216	2.44	P4	confident	0	1034	1034		0
+724.656	20.051	GROUP	(20.1)	SIL				shared	manual	0				0
+744.707	12.889	MODERATOR	I think I'm... Maybe this one was kind of annoying for you, I guess.	SPK		0.002598	1.04	shared	confident	0	20051	20051		
+757.596	0.260	GROUP	(0.3)	SIL				shared	manual	0				
+757.856	0.401	P2_SUB-023	No,	SPK		0.002853	0.63	mic10	backchannel	0	260	260		3304
+757.864	0.880	MODERATOR	No, that's fine.	SPK		0.004664	1.02	shared	confident	-393	-393	-393		3791
+757.864	0.380	P3_SUB-021	No,	SPK		0.004164	1.27	mic11	backchannel	-880	-880	-880		3265
+757.864	0.393	MODERATOR	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-380				3304
+757.864	0.380	P3_SUB-021	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-393				3265
+757.864	0.380	P3_SUB-021	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-380				3265
+757.899	0.340	P1_SUB-024	No,	SPK		0.003064	0.93	mic9	backchannel	-345	-345	-345		3060
+757.899	0.340	P1_SUB-024	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-340				3060
+757.899	0.340	P1_SUB-024	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-340				3060
+757.899	0.340	P1_SUB-024	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-340				3060
+758.239	4.801	GROUP	(4.8)	SIL				shared	manual	0				556
+763.040	1.960	MODERATOR	It's a bit hand-stuck here.	SPK		0.003745	1.52	shared	confident	0	4801	4801		0
+765.000	1.923	GROUP	(1.9)	SIL				shared	manual	0				
+766.923	1.641	P2_SUB-023	It's a nose bridge.	SPK		0.025494	4.73	mic10	confident	0	1923	1923		
+768.564	0.260	GROUP	(0.3)	SIL				shared	manual	0				
+768.824	1.581	P2_SUB-023	That is annoying, but that's fine.	SPK		0.007134	4.28	mic10	confident	0	260	3824		
+770.405	3.685	GROUP	(3.7)	SIL				shared	manual	0				
+774.090	8.264	P2_SUB-023	I also have crooked ears, so I'm looking slightly... a bit on the top of one side of the glass and the bottom of the other one.	SPK		0.020824	1.94	mic10	confident	0	3685	9090		
+782.354	0.676	GROUP	(0.7)	SIL				shared	manual	0				0
+783.030	8.402	P3_SUB-021	Can we put it back on?	SPK		0.007421	2.12	mic11	confident	0	676	676		1710
+790.563	0.841	MODERATOR	Should we put it back on?	SPK		0.009408	1.62	shared	confident	-869	-869	-869		1682
+790.563	0.841	MODERATOR	[OVL:competitive]	OVL	competitive			shared	manual	-841				1682
+791.404	0.614	GROUP	(0.6)	SIL				shared	manual	0				28
+792.018	0.260	P4_SUB-022	Yes.	SPK		0.004580	0.60	mic12	backchannel	0	614	614		
+792.278	7.917	GROUP	(7.9)	SIL				shared	manual	0				
+800.195	0.900	P3_SUB-021	Oh, something fell.	SPK		0.031767	10.35	mic11	confident	0	7917	7917		
+801.095	0.168	GROUP	(.)	SIL				shared	manual	0				
+801.263	0.500	P2_SUB-023	Something...	SPK		0.010992	3.89	mic10	confident	0	168	168		
+801.763	5.580	GROUP	(5.6)	SIL				shared	manual	0				0
+807.343	0.080	P2_SUB-023	Oh,	SPK		0.020305	6.16	mic10	backchannel	0	5580	6248		0
+807.423	2.016	GROUP	(2.0)	SIL				shared	manual	0				
+809.439	10.885	P3_SUB-021	Oh, I don't know if I put it correctly.	SPK		0.013821	1.03	mic11	confident	0	2016	2016		
+820.324	1.099	GROUP	(1.1)	SIL				shared	manual	0				
+821.423	0.180	P1_SUB-024	Yeah,	SPK		0.006706	0.84	mic9	backchannel	0	1099	1099		1424
+821.442	0.160	P4_SUB-022	Yeah,	SPK		0.008251	1.12	mic12	backchannel	-161	-161	-161		1419
+821.442	0.160	P4_SUB-022	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-160				1419
+821.445	2.301	MODERATOR	Yeah, this one is tracking the glass.	SPK		0.023008	1.11	shared	confident	-157	-157	-157		3563
+821.445	0.160	P3_SUB-021	Yeah,	SPK		0.007381	0.89	mic11	backchannel	-2301	-2301	-2301		1422
+821.445	0.158	MODERATOR	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-160				1418
+821.445	0.158	P3_SUB-021	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-158				1418
+821.445	0.157	MODERATOR	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-158				1413
+821.445	0.157	P3_SUB-021	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-157				1413
+821.445	0.160	P3_SUB-021	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-157				1422
+821.605	3.519	GROUP	(3.5)	SIL				shared	manual	0				2141
+825.124	2.981	P4_SUB-022	Okay, so the tracking will be... No, it's not there.	SPK		0.035959	1.47	mic12	confident	0	3519	3519		
+828.105	0.101	GROUP	(.)	SIL				shared	manual	0				
+828.206	4.281	P1_SUB-024	Your head will be upside down.	SPK		0.031819	1.23	mic9	confident	0	101	101		1900
+831.027	0.100	P4_SUB-022	Oh,	SPK		0.035998	0.51	mic12	backchannel	-1460	-1460	-1460		200
+831.027	0.100	P4_SUB-022	[OVL:smooth]	OVL	smooth			shared	manual	-100				200
+831.127	1.020	GROUP	(1.0)	SIL				shared	manual	0				1020
+832.147	0.360	P4_SUB-022	okay.	SPK		0.031703	8.37	mic12	backchannel	0	1020	-340		680
+832.147	0.340	P4_SUB-022	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-360				680
+832.527	4.022	P4_SUB-022	But we have also these balls on the Viking balls.	SPK		0.013147	1.65	mic12	confident	40	20	40		0
+836.549	1.141	GROUP	(1.1)	SIL				shared	manual	0				0
+837.690	2.921	MODERATOR	That is more accurate tracking.	SPK		0.003117	1.30	shared	confident	0	1141	1141		
+840.631	0.841	P4_SUB-022	Okay, got it.	SPK		0.007392	3.90	mic12	confident	20	20	20		

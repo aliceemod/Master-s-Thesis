@@ -1,0 +1,155 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+9.773	19.588	MODERATOR	Okay so we're all done and we have five more minutes to spare we can do our final task it's gonna be short so uh this is um like a community fund task where you will you have to imagine that you all receive	SPK		0.013977	1.99	MOD	confident					1950
+18.417	1.950	P3	[SOFT LAUGHTER]	LAU				P3	manual	-10944				1950
+29.361	6.944	GROUP	(6.9)	SIL				shared	manual	8994				
+36.305	14.592	MODERATOR	private portfolio or you can decide to share them with your colleagues and if they get shared they get multiplied as you can see in the example and then whatever in the pool then will be shared equally among you	SPK		0.003052	1.11	MOD	confident	0	6944			
+50.897	1.561	GROUP	(1.6)	SIL				shared	manual	0				
+52.458	9.491	MODERATOR	So you need to choose between 0 and 10 tokens that you want to contribute to the shared pot.	SPK		0.002455	1.09	MOD	confident	0	1561			
+61.949	1.424	GROUP	(1.4)	SIL				shared	manual	0				
+63.373	3.645	MODERATOR	So let me know if you have any questions about this.	SPK		0.002696	1.02	MOD	confident	0	1424			
+67.018	4.460	GROUP	(4.5)	SIL				shared	manual	0				
+71.478	2.442	P2	Can we discuss with each other or is it completely independent?	SPK		0.021202	3.13	P2	confident	0	4460	4460		514
+73.663	3.302	MODERATOR	Right now, not in the contribution part.	SPK		0.006356	1.40	MOD	confident	-257	-257	-257		514
+73.663	0.257	MODERATOR	[OVL:smooth]	OVL	smooth			shared	manual	-3302				514
+76.965	0.100	GROUP	(.)	SIL				shared	manual	3045				
+77.065	4.623	MODERATOR	Then I will show the totals, and then you will be able to discuss.	SPK		0.004469	1.61	MOD	confident	0	100	3145		
+81.688	0.140	GROUP	(.)	SIL				shared	manual	0				
+81.828	2.962	MODERATOR	But you cannot discuss while you make the private contribution.	SPK		0.002934	1.32	MOD	confident	0	140	7908		
+84.790	4.223	GROUP	(4.2)	SIL				shared	manual	0				
+89.013	6.383	MODERATOR	If you're all ok, I can send in the form.	SPK		0.006256	2.77	MOD	confident	0	4223	15093		
+95.396	0.210	GROUP	(0.2)	SIL				shared	manual	0				
+95.606	2.221	P1	Is the goal to have the most?	SPK		0.013412	4.19	P1	confident	0	210	210		
+97.827	1.865	GROUP	(1.9)	SIL				shared	manual	0				
+99.692	2.783	MODERATOR	I mean, if you think about us, money, yes.	SPK		0.004508	1.39	MOD	confident	0	1865	1865		
+102.475	4.225	GROUP	(4.2)	SIL				shared	manual	0				591
+102.781	0.351	P1	Okay.	BCK				P1	manual	-3919				351
+106.144	0.240	P1	Okay.	BCK		0.016011	5.16	P1	confident	3012				240
+106.700	1.982	MODERATOR	And whatever you think is best.	SPK		0.002087	1.46	MOD	confident	316	4225	8873		
+108.682	3.464	GROUP	(3.5)	SIL				shared	manual	0				
+112.146	0.200	MODERATOR	Okay.	SPK		0.002128	1.45	MOD	confident	0	3464	14319		
+112.346	0.100	GROUP	(.)	SIL				shared	manual	0				
+112.446	0.861	MODERATOR	Is that okay for everyone?	SPK		0.003600	1.38	MOD	confident	0	100	14619		
+113.307	0.701	GROUP	(0.7)	SIL				shared	manual	0				501
+113.447	0.501	P4	Mm-hmm.	BCK		0.028360	2.63	P4	confident	-561				501
+114.008	0.180	MODERATOR	Okay.	SPK		0.001348	1.12	MOD	confident	60	701	16181		
+114.188	1.117	GROUP	(1.1)	SIL				shared	manual	0				
+115.305	2.420	P2	So each get a fourth of what's in fund shared pot?	SPK				P2	manual	0	1117	1117		0
+117.725	50.840	GROUP	(50.8)	SIL				shared	manual	0				0
+168.565	4.682	MODERATOR	So this is the result.	SPK		0.002588	1.34	MOD	confident	0	50840	50840		
+173.247	5.582	GROUP	(5.6)	SIL				shared	manual	0				
+178.829	9.863	MODERATOR	Now you are free to discuss or say anything.	SPK		0.001744	1.07	MOD	confident	0	5582	61104		
+188.692	1.359	GROUP	(1.4)	SIL				shared	manual	0				950
+189.426	4.160	P3	[LAUGHTER]	LAU				P3	manual	-625				4680
+189.726	0.520	P2	Oh!	BCK				P2	manual	-3860				1040
+190.051	0.821	P4	Good job, guys.	SPK		0.125048	2.12	P4	confident	-195	1359	1359		1016
+190.872	3.717	GROUP	(3.7)	SIL				shared	manual	0				2730
+194.573	0.581	P4	Yeah.	BCK		0.020060	0.77	P4	confident	-16				581
+194.589	0.760	P2	I see, ok	SPK				P2	manual	-565	3717	3717		565
+195.349	4.232	GROUP	(4.2)	SIL				shared	manual	0				
+199.581	3.791	P2	Yeah, I mean uh very community-oriented, not bad	SPK		0.026943	1.32	P2	confident	0	4232	8709		
+203.372	4.398	GROUP	(4.4)	SIL				shared	manual	0				300
+203.620	0.300	P4	Yeah.	BCK		0.019677	2.48	P4	confident	-4150				300
+207.770	4.584	P2	Yeah, so I didn't realize if you could contribute nothing, you still get some stuff, okay	SPK		0.019850	4.09	P2	confident	3850	4398	16898		
+212.354	5.051	GROUP	(5.1)	SIL				shared	manual	0				8651
+213.726	2.760	P2	[LAUGHTER]	LAU				P2	manual	-3679				7669
+213.943	9.300	P3	[LAUGHTER]	LAU				P3	manual	-2543				14272
+214.120	2.429	P4	[LAUGHTER]	LAU				P4	manual	-9123				7224
+217.405	2.980	P2	I didn't do that, I didn't do that	SPK				P2	manual	856	5051	26533		2980
+220.385	14.817	GROUP	(14.8)	SIL				shared	manual	0				7619
+228.615	1.690	P4	Ah!	BCK				P4	manual	-6587				3231
+228.764	3.071	P3	[LAUGHTER]	LAU				P3	manual	-1541				4612
+235.202	1.171	P4	Dirty tricks	SPK				P4	manual	3367	14817	14817		
+236.373	9.058	GROUP	(9.1)	SIL				shared	manual	0				
+245.431	4.583	P1	Okay, so... Oh, so we put in 10, 9, 8, and 7.	SPK		0.032865	1.51	P1	confident	0	9058	9058		
+250.014	3.462	GROUP	(3.5)	SIL				shared	manual	0				832
+250.659	0.280	P3	Yeah.	BCK		0.030263	6.74	P3	confident	-2817				280
+251.415	0.240	P1	Okay.	BCK		0.007754	4.98	P1	confident	476				240
+252.535	0.312	P2	Yeah.	BCK				P2	manual	880				312
+253.476	0.461	P1	I put in 8.	SPK		0.022441	5.73	P1	confident	629	3462	17103		
+253.937	1.680	GROUP	(1.7)	SIL				shared	manual	0				0
+255.617	3.000	P2	That's on the lower end, so... sorry man	SPK		0.019685	4.22	P2	confident	0	1680	1680		2413
+257.444	2.740	P3	Yeah, I put the seven one	SPK		0.014290	0.73	P3	confident	-1173	-1173	-1173		5722
+257.444	1.173	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2740				2413
+258.578	3.840	P2	[LAUGHTER]	LAU				P2	manual	-39				5688
+258.589	0.440	P1	Yeah.	BCK		0.050471	1.57	P1	confident	-3829			1145	936
+259.519	1.371	P1	Talk to the money	SPK				P1	manual	490	-665	-665		2701
+259.519	0.665	P1	[OVL:competitive]	OVL	competitive			shared	manual	-1371				1995
+260.890	0.715	GROUP	(0.7)	SIL				shared	manual	706				715
+261.605	4.041	P3	I was like, in case the other ones put zero, then at least I have three.	SPK		0.051096	3.90	P3	confident	0	715	715		860
+265.599	1.000	P2	But it's interesting.	SPK		0.035181	1.78	P2	confident	-47	-47	-47		47
+266.639	10.802	P2	You kept two more than me, for example, but at the end, you only had one more dollar, right?	SPK		0.014842	2.95	P2	confident	40	40	993		
+277.461	0.900	P2	Oh, no, no, no.	SPK		0.023306	4.45	P2	confident	20	20	11815		
+278.361	0.720	GROUP	(0.7)	SIL				shared	manual	0				
+279.081	0.641	P2	Yeah, never mind.	SPK		0.009208	3.76	P2	confident	0	720	13435		0
+279.722	0.480	GROUP	(0.5)	SIL				shared	manual	0				0
+280.202	0.760	P2	I was reading the wrong one.	SPK		0.005387	3.03	P2	confident	0	480	14556		
+280.962	0.700	GROUP	(0.7)	SIL				shared	manual	0				
+281.662	0.280	P2	Okay.	SPK		0.006692	2.92	P2	confident	0	700	16016		
+281.942	0.087	GROUP	(.)	SIL				shared	manual	0				
+282.029	3.684	P1	It's those numbers one through four that got into you today.	SPK		0.021968	6.05	P1	confident	0	87	87		
+285.713	5.154	GROUP	(5.2)	SIL				shared	manual	0				4538
+286.329	6.379	P1	[LAUGHTER]	LAU				P1	manual	-4538				6379
+290.867	0.380	P2	All right.	SPK		0.042074	1.24	P2	confident	-1841	5154	5154		380
+291.247	1.081	GROUP	(1.1)	SIL				shared	manual	0				1081
+292.328	1.022	P2	What are we supposed to discuss?	SPK		0.017697	3.91	P2	confident	0	1081	6615		380
+293.350	0.060	GROUP	(.)	SIL				shared	manual	0				
+293.410	1.421	P2	Just like how we're satisfied.	SPK		0.009622	3.69	P2	confident	0	60	7697		
+294.871	2.403	P2	So who was the stingiest?	SPK		0.010452	3.82	P2	confident	40	40	9158		
+297.274	1.442	GROUP	(1.4)	SIL				shared	manual	0				
+298.716	0.520	P2	So it was you.	SPK		0.012666	3.46	P2	confident	0	1442	13003		
+299.275	0.260	P4	Be free.	SPK		0.031931	9.22	P4	confident	39	39	39		
+299.555	4.284	P2	How do you feel about walking away with more than your colleagues?	SPK		0.060894	1.11	P2	confident	20	20	20		4682
+300.837	3.080	P3	[LAUGHTER]	LAU				P3	manual	-3002				4760
+300.849	1.680	P4	[LAUGHTER]	LAU				P4	manual	-3068				3360
+303.839	1.691	GROUP	(1.7)	SIL				shared	manual	1310				78
+305.530	10.948	P3	I'm uh happy to share the extra one as well no i was uh i was like i'll just uh i'll just keep true for myself to be on the safe side because i don't know you so that's why	SPK		0.062902	4.42	P3	confident	0	1691	1691		
+316.478	2.478	GROUP	(2.5)	SIL				shared	manual	0				
+318.956	0.360	P4	Good point.	SPK		0.039533	6.27	P4	confident	0	2478	2478		0
+319.316	2.578	GROUP	(2.6)	SIL				shared	manual	0				0
+321.894	2.504	P1	I was feeling 80% positive, so I put an eight.	SPK		0.011565	5.70	P1	confident	0	2578	2578		
+324.398	0.391	GROUP	(0.4)	SIL				shared	manual	0				0
+324.789	0.359	P1	I don't know	SPK				P1	manual	0	391	5473		0
+325.148	9.338	GROUP	(9.3)	SIL				shared	manual	0				2062
+325.158	2.062	P3	[LAUGHTER]	LAU				P3	manual	-9328				2062
+334.486	9.562	P1	I've played a prisoner's dilemma type of situation like this before where I convinced other people to go in and then I took it and I like, my conscience hasn't recovered from that.	SPK		0.020944	3.18	P1	confident	7266	9338	15170		0
+344.048	0.123	GROUP	(.)	SIL				shared	manual	0				
+344.171	2.000	P1	That was like seven years ago.	SPK		0.044008	1.17	P1	confident	0	123	24855		
+346.171	3.151	GROUP	(3.2)	SIL				shared	manual	0				
+349.322	0.700	P4	Self-exploration.	SPK		0.025705	1.38	P4	confident	0	3151	3151		1290
+349.452	4.944	P2	There could have been an opportunity for that if we could discuss during the contribution part.	SPK		0.025606	1.24	P2	confident	-570	-570	-570		6674
+349.452	0.570	P2	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-4944				1290
+349.972	1.060	P1	I still think about that	SPK				P1	manual	-50	-4424	-4424		2270
+349.972	0.050	P1	[OVL:smooth]	OVL	smooth			shared	manual	-1060				250
+349.972	1.060	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-50				2270
+351.032	3.621	GROUP	(3.6)	SIL				shared	manual	0				3364
+354.653	4.761	P3	So you could influence everybody else's decision.	SPK		0.045272	1.76	P3	confident	0	3621	3621		12635
+354.768	0.720	P1	Yeah, no	SPK				P1	manual	-4646	-4646	-4646		1440
+354.768	0.720	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-720				1440
+355.488	0.970	GROUP	(1.0)	SIL				shared	manual	0				970
+356.458	3.142	P2	It's like, guys, if we all put it together, we make the most.	SPK		0.031315	1.24	P2	confident	0	970	970		10411
+356.458	2.956	P2	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-3142				10225
+356.639	0.769	P1	Not for me	SPK				P1	manual	-2775	-2961	-2961		3845
+356.639	0.769	P1	[OVL:competitive]	OVL	competitive			shared	manual	-769				3845
+356.639	0.769	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-769				3845
+357.408	2.546	GROUP	(2.5)	SIL				shared	manual	0				6204
+359.954	2.001	P3	I would be so terrible at lying.	SPK		0.065945	2.68	P3	confident	0	2546	2546		1773
+360.182	3.100	P2	[LAUGHTER]	LAU				P2	manual	-1773				3100
+361.955	6.794	GROUP	(6.8)	SIL				shared	manual	-1327				1327
+368.749	2.980	P2	But no, pretty selfless I would say of us	SPK		0.012847	4.95	P2	confident	0	6794	6794		2352
+370.553	1.701	P4	Yeah, overall, yeah.	SPK		0.030020	3.45	P4	confident	-1176	-1176	-1176		2352
+370.553	1.176	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1701				2352
+372.254	1.657	GROUP	(1.7)	SIL				shared	manual	525				
+373.911	6.602	P2	I wonder if the fact that this is not tangible, money has a lot to do with it.	SPK		0.014749	4.44	P2	confident	0	1657	1657		
+380.513	0.720	GROUP	(0.7)	SIL				shared	manual	0				
+381.233	4.141	P2	Me personally, I would not probably give all of my whatever.	SPK		0.011875	4.34	P2	confident	0	720	8979		26
+385.348	2.061	P1	So you're giving like a share of the cake tomorrow?	SPK		0.024759	6.30	P1	confident	-26	-26	-26		26
+387.409	2.100	GROUP	(2.1)	SIL				shared	manual	0				961
+387.518	0.721	P2	Yeah.	BCK		0.029539	3.10	P2	confident	-1991				721
+388.789	0.240	P1	Yeah.	BCK		0.006765	4.11	P1	confident	550				240
+389.509	0.760	P1	That's something real.	SPK		0.014809	5.80	P1	confident	480	2100	4135		
+390.269	5.198	GROUP	(5.2)	SIL				shared	manual	0				
+395.467	0.220	P4	Yeah.	SPK		0.013717	2.94	P4	confident	0	5198	5198		
+395.687	1.905	GROUP	(1.9)	SIL				shared	manual	0				
+397.592	1.794	P4	Yeah, I think so too, actually.	SPK		0.018909	10.56	P4	confident	0	1905	7323		
+399.386	0.162	GROUP	(.)	SIL				shared	manual	0				
+399.548	0.766	P4	I don't think I would have...	SPK		0.054047	11.99	P4	confident	0	162	9279		

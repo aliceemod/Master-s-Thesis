@@ -1,0 +1,25 @@
+{
+  "groups_analyzed": 10,
+  "outcomes": {
+    "T1_coordination": {
+      "n": 10,
+      "mean": 5.628333333333333
+    },
+    "T2_cooperation": {
+      "n": 10,
+      "mean": 3.7300000000000004
+    },
+    "T3_coordination": {
+      "n": 10,
+      "mean": 5.83
+    }
+  },
+  "state_proportions": {
+    "state_0_Aroused-active": 0.3339449541284404,
+    "state_1_Silence-dominated": 0.1889908256880734,
+    "state_2_High-conflict": 0.11192660550458716,
+    "state_3_Low-engagement": 0.24587155963302754,
+    "state_4_Cool-attentive": 0.11926605504587157
+  },
+  "finding": "Extracted outcomes from 10 groups; collective states encode task phase and outcome structure"
+}

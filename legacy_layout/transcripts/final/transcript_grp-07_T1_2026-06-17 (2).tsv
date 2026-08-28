@@ -1,0 +1,98 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms	context_label
+173.905	0.92	P3	umh	BCK				shared	manual						
+175.568	1.721	P3	I'm not sure how much I'm giving away now.	SPK		0.056627	10.95	mic11	manual	743.0				41.0	
+177.248	15.752	P2	yeah	SPK				shared	manual	-41.0	-41.0	-41.0		31729.0	
+178.191	5.499	P3	when I talk, but do you have a favourite candidate?	SPK				shared	manual	-14809.0	-14809.0	-14809.0		13068.0	
+178.191	5.499	P3	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-5499.0				13068.0	
+183.0	1.0	P3	If yes, why?	SPK				shared	manual	-690.0	-690.0	-10000.0		4070.0	
+183.0	1.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1000.0				4070.0	
+183.0	0.69	P3	[OVL:competitive]	OVL	competitive			shared	confident	-1000.0				3450.0	
+184.0	20.0	P3	Which candidate would you hire for this AI adoption and transformation specialist role?	SPK				shared	manual	310.0	0.0	-9000.0		18000.0	
+184.0	9.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-20000.0				18000.0	collaborative
+204.0	0.815	GROUP	(0.8)	SIL				shared	manual	11000.0					
+204.815	14.109	P1	I can go.	SPK		0.03214	5.05	mic9	manual	0.0	815.0	815.0		26230.0	
+205.809	13.699	P1	I think candidate C would be a right choice for this because this requires some experience with understanding the business, translating that into technical information as well.	SPK				shared	manual	-13115.0	-13115.0	1809.0		26958.0	
+205.809	13.115	P1	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-13699.0				26230.0	
+219.144	4.344	P1	And since this is a high-level position, not a technical position per se,	SPK		0.022028	6.71	mic9	manual	220.0	-364.0	15144.0		728.0	
+219.144	0.364	P1	[OVL:smooth]	OVL	smooth			shared	confident	-4344.0				728.0	
+223.488	0.512	GROUP	(0.5)	SIL				shared	manual	3980.0					
+224.0	9.0	P1	I think candidate C would be better because they have experience both with sales and the technical domain.	SPK				shared	manual	0.0	512.0	20000.0			
+233.0	0.59	GROUP	(0.6)	SIL				shared	manual	0.0				500.0	
+233.033	0.5	P1	[BRE]	BRE				shared	manual	-557.0				500.0	
+233.59	10.863	P1	They also had some experience in implementing the projects before and, most importantly, having change management and cross-functional collaboration.	SPK		0.023488	6.92	mic9	manual	57.0	590.0	29590.0			
+244.453	1.547	GROUP	(1.5)	SIL				shared	manual	0.0					
+246.0	9.491	P1	would be like an ideal must-have or like nice-to-have features for this particular position.	SPK				shared	manual	0.0	1547.0	42000.0			
+255.491	0.661	GROUP	(0.7)	SIL				shared	manual	0.0					
+256.152	21.277	P4	I mean, I would agree to that.	SPK		0.017718	2.5	mic12	manual	0.0	661.0	661.0		70858.0	
+257.0	16.0	P4	But actually, I was thinking of two candidates, A and C.	SPK				shared	manual	-20429.0	-20429.0	1509.0		62000.0	
+257.0	16.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-16000.0				62000.0	
+263.0	1.0	P3	mmh	SPK				shared	manual	-10000.0	-10000.0	-10000.0		5000.0	
+263.0	1.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1000.0				5000.0	
+263.0	1.0	P3	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-1000.0				5000.0	
+264.0	4.0	P4	I think A also has facilitated the rollout of trainings.	SPK				shared	manual	0.0	0.0	0.0		20000.0	
+264.0	4.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-4000.0				20000.0	
+264.0	4.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-4000.0				20000.0	
+268.0	20.811	P4	So, meaning that he's not completely new to the way of working, which I think this experience could be useful. I definitely agree that candidate B is too technical, because if you bring technical people talking to people who don't know anything about AI, they will just get lost.	SPK				shared	manual	0.0	0.0	4000.0		34765.0	
+268.0	9.429	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-20811.0				33858.0	
+268.0	5.0	P4	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-9429.0				25000.0	
+284.0	0.907	P3	mmh	BCK				shared	manual	11000.0			16000.0	907.0	
+288.811	2.189	GROUP	(2.2)	SIL				shared	manual	3904.0					
+291.0	4.0	P3	It also seems that candidate C can have some empowerment influencing others.	SPK				shared	manual	0.0	2189.0	2189.0			
+295.0	0.816	GROUP	(0.8)	SIL				shared	manual	0.0					
+295.816	13.464	P3	And because, yeah, in terms of change management as well, when we're talking new tools, he or she could also be very helpful with that.	SPK		0.031102	10.68	mic11	manual	0.0	816.0	7005.0			
+309.28	0.28	GROUP	(0.3)	SIL				shared	manual	0.0					
+309.56	1.241	P3	So I also agree candidate C really spoke to me, not only because of one bullet point, but I think it's a good package.	SPK		0.026771	11.69	mic11	manual	0.0	280.0	20749.0			
+310.801	8.218	GROUP	(8.2)	SIL				shared	manual	0.0					
+319.019	0.781	P2	Yes.	SPK				shared	manual	0.0	8218.0	8218.0			
+319.8	1.541	GROUP	(1.5)	SIL				shared	manual	0.0					
+321.341	5.23	P2	He hears a little bit from the others and he is open to take action right away.	SPK				shared	manual	0.0	1541.0	10540.0		220.0	
+325.15	0.22	P3	mmh	BCK		0.001763	0.8	shared	manual	-1421.0			3809.0	220.0	
+326.571	0.429	GROUP	(0.4)	SIL				shared	manual	1201.0					
+327.0	15.52	P2	And he's open to new and to try new things. And for me also the candidate C was the same.	SPK				shared	manual	0.0	429.0	16199.0		11578.0	
+330.811	2.13	P2	(2.1)	SIL				shared	manual	-11709.0				2130.0	
+333.701	2.562	P2	(2.6)	SIL				shared	manual	760.0				2760.0	
+336.164	0.53	P1	Yes.	SPK		0.002247	1.47	shared	manual	-99.0	-6356.0	-6356.0		1159.0	
+336.164	0.53	P1	[OVL:competitive]	OVL	competitive			shared	uncertain	-530.0				1159.0	collaborative
+336.694	6.557	GROUP	(6.6)	SIL				shared	manual	0.0				6203.0	
+342.874	0.5	P1	yeah	BCK				shared	manual	-377.0				500.0	
+343.251	12.71	P1	I also want to point out that with candidate A, there is also a risk of things going out of scope because of the limited knowledge.	SPK		0.027422	5.94	mic9	manual	-123.0	6557.0	731.0		123.0	
+355.961	0.58	GROUP	(0.6)	SIL				shared	manual	0.0					
+356.541	7.606	P1	There could also be some risk involved where if we don't know what we are entering into the model or to develop it,	SPK		0.025521	5.85	mic9	manual	0.0	580.0	14021.0			
+364.147	0.52	GROUP	(0.5)	SIL				shared	manual	0.0					
+364.667	7.045	P1	we might have a hard time debugging it if there would be any errors coming up in the future.	SPK		0.02143	5.9	mic9	manual	0.0	520.0	22147.0			
+371.712	0.08	GROUP	(.)	SIL				shared	manual	0.0					
+371.792	4.484	P1	So it should be more future-proof and fail-safe.	SPK		0.019454	3.12	mic9	manual	0.0	80.0	29272.0			
+376.276	0.5	GROUP	(0.5)	SIL				shared	manual	0.0				120.0	
+376.656	0.5	P3	mmh	BCK				shared	manual	-120.0				500.0	
+376.776	6.065	P1	So that's why I think I would incline more towards C. But I think A also has the potential.	SPK		0.022833	6.23	mic9	manual	-380.0	500.0	34256.0		380.0	
+382.841	0.529	GROUP	(0.5)	SIL				shared	manual	0.0					
+383.37	5.375	P1	But in this case, we have to choose one.	SPK		0.012732	4.69	mic9	manual	0.0	529.0	40850.0		6745.0	
+385.0	3.0	P1	I think C would be, in my opinion, a better choice.	SPK				shared	manual	-3745.0	-3745.0	42480.0		6000.0	
+385.0	3.0	P1	[OVL:floor_fight]	OVL	floor_fight			shared	confident	-3000.0				6000.0	competitive
+388.0	1.002	GROUP	(1.0)	SIL				shared	manual	0.0				745.0	
+389.002	0.781	P4	Yeah, I agree.	SPK		0.026348	6.03	mic12	manual	0.0	1002.0	1002.0			
+389.803	8.685	P4	I think the fact that he has IT experience, right, or IT at least on his CV, that definitely helps, yeah.	SPK		0.01849	2.26	mic12	manual	20.0	20.0	1803.0		1476.0	
+390.829	0.5	P3	mmh	BCK				shared	manual	-7659.0			1026.0	500.0	
+398.0	5.0	P4	So I would be inclined to see as well.	SPK				shared	manual	6671.0	-488.0	10000.0		8470.0	
+398.0	0.488	P4	[OVL:smooth]	OVL	smooth			shared	confident	-5000.0				976.0	collaborative
+398.788	3.282	P3	mmh	SPK		0.01037	1.23	shared	manual	300.0	-4212.0	-4212.0		6564.0	
+398.788	3.282	P3	[OVL:floor_fight]	OVL	floor_fight			shared	uncertain	-3282.0				6564.0	collaborative
+402.07	1.769	GROUP	(1.8)	SIL				shared	manual	0.0				930.0	
+403.839	1.42	P3	Yeah, we all agree.	SPK		0.024054	10.85	mic11	manual	0.0	1769.0	839.0			
+405.259	3.875	GROUP	(3.9)	SIL				shared	manual	0.0					
+409.134	4.142	MODERATOR	So if you all agree, we can move on to the candidate selection phase.	SPK		0.00297	1.17	shared	confident	0.0	3875.0	3875.0			
+413.276	0.36	GROUP	(0.4)	SIL				shared	manual	0.0					
+413.636	1.801	P4	We need to answer the questions, right?	SPK		0.028926	1.71	shared	confident	0.0	360.0	360.0			
+415.437	0.801	GROUP	(0.8)	SIL				shared	manual	0.0					
+416.238	0.52	MODERATOR	The VADs?	SPK		0.005809	1.34	shared	confident	0.0	801.0	801.0			
+416.758	0.42	GROUP	(0.4)	SIL				shared	manual	0.0					
+417.178	0.2	P4	Yeah.	SPK		0.037281	6.42	shared	confident	0.0	420.0	420.0			
+417.378	0.238	GROUP	(0.2)	SIL				shared	manual	0.0					
+417.616	0.2	P4	yes	SPK		0.00264	0.95	shared	confident	0.0	238.0	858.0		985.0	
+417.619	0.74	MODERATOR	Yes, yes, please.	SPK		0.002366	1.08	shared	confident	-197.0	-197.0	-197.0		1571.0	
+417.619	0.24	P4	Yes,	SPK		0.002651	1.06	shared	confident	-740.0	-740.0	-740.0		1071.0	
+417.619	0.197	MODERATOR	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-240.0				985.0	
+417.619	0.197	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-197.0				985.0	
+417.619	0.24	P4	[OVL:simultaneous]	OVL	simultaneous			shared	confident	-197.0				1071.0	
+417.859	8.846	GROUP	(8.8)	SIL				shared	manual	0.0				500.0	
+426.705	6.629	MODERATOR	So please, one of you select the candidate that you chose and send it.	SPK		0.00928	2.96	shared	confident	0.0	8846.0	8846.0			

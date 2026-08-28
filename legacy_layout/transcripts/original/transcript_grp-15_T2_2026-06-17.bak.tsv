@@ -1,0 +1,220 @@
+onset	duration	speaker	text	type	subtype	energy	energy_ratio	mic	confidence	gap_prev_ms	trp_silence_ms	interruption_gap_ms	bclatency_ms	overlap_ms
+92.000	21.000	MODERATOR	Please don't share your priorities with each other and your time has started.	SPK				shared	manual					
+113.000	56.000	MODERATOR	And these are available topics on the screen and available formats.	SPK				shared	manual	0	0			
+169.000	2.000	P1	Should we start with the topic maybe?	SPK				shared	manual	0	0	0		
+171.000	1.000	P3	Yeah, yeah, go ahead.	SPK				shared	manual	0	0	0		
+172.000	3.000	P1	No, I don't know.	SPK				shared	manual	0	0	0		1272
+173.728	2.520	GROUP	[LAUGHTER]	LAU				shared	manual	-1272				2520
+175.000	2.000	P1	Maybe just that starting point.	SPK				shared	manual	-1248	0	3000		1248
+177.000	10.000	P1	I don't know, what do you guys think about the...	SPK				shared	manual	0	0	5000		3109
+183.189	3.109	P3	mmh	BCK				shared	manual	-3811			6189	3109
+187.000	2.000	P1	They're all really good topics.	SPK				shared	manual	702	0	15000		
+189.000	3.000	P3	Yeah.	SPK				shared	manual	0	0	0		901
+191.099	2.000	GROUP	[LAUGHTER]	LAU				shared	manual	-901				2000
+192.000	3.000	P3	All right, there's a strong need.	SPK				shared	manual	-1099	0	3000		1099
+195.000	2.000	P3	No, I wouldn't say need.	SPK				shared	manual	0	0	6000		
+197.000	5.000	P3	There's a strong drive from management right now about AI for productivity in daily tasks.	SPK				shared	manual	0	0	8000		
+202.000	5.000	P3	Like you could hear Igor talking about, we have to use AI.	SPK				shared	manual	0	0	13000		
+207.000	0.100	P1	That is true	BCK				shared	manual	0			0	100
+207.000	4.000	P3	So maybe it doesn't hurt to have one on that topic.	SPK				shared	manual	-100	0	18000		100
+211.000	4.000	P2	Also that we just had to hire someone from the previous task, right?	SPK				shared	manual	0	0	0		
+215.000	2.000	P2	Within AI.	SPK				shared	manual	0	0	4000		
+217.000	2.000	P3	Yes.	SPK				shared	manual	0	0	0		1818
+218.091	2.091	P2	Maybe that's something that the company wants to push, right?	SPK				shared	manual	-909	-909	-909		4182
+218.091	0.909	P2	[OVL:competitive]	OVL	competitive			shared	manual	-2091				1818
+219.000	2.000	P3	That could be, yeah, yeah.	SPK				shared	manual	0	-1182	-1182		2364
+219.000	1.182	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2000				2364
+221.000	8.000	P4	I feel like we should maybe prioritize some of the other topics.	SPK				shared	manual	818	0	0		5086
+224.008	1.840	GROUP	[LAUGHTER]	LAU				shared	manual	-4992				1840
+226.608	0.500	P3	yeah	BCK				shared	manual	760			5608	500
+227.627	2.000	P3	like?	SPK				shared	manual	519	-1373	-1373		4000
+227.627	1.373	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2000				2746
+229.000	3.000	P4	Like right now, we just rolled out the new day commitments.	SPK				shared	manual	0	-627	-627		1254
+229.000	0.627	P4	[OVL:competitive]	OVL	competitive			shared	manual	-3000				1254
+232.000	4.000	P4	So maybe go down to some of the lower ones.	SPK				shared	manual	2373	0	2373		
+236.000	6.000	P4	Also with all the change happening, like how to manage stress and workload at work.	SPK				shared	manual	0	0	6373		
+242.000	7.000	P4	Like maybe focus a bit more on that instead of all of this AI focus we have right now than actually prioritize the people we have here.	SPK				shared	manual	0	0	12373		
+249.000	5.000	P4	And like our work culture.	SPK				shared	manual	0	0	19373		500
+252.901	0.500	P2	mmh	BCK				shared	manual	-1099			3901	500
+254.000	9.611	P1	Yeah, I think it's an important one with managing the stress that can come out of this transformation that GN will go through.	SPK				shared	manual	599	0	0		2440
+254.000	0.931	P4	Yeah,	BCK				shared	manual	-9611			0	1130
+254.732	1.509	P3	mmh	BCK				shared	manual	-199			732	1708
+263.611	1.389	GROUP	(1.4)	SIL				shared	manual	7370				
+265.000	10.000	P1	And I know there's a lot of talk about AI, but in effect, what can also enhance productivity is people feeling well at work.	SPK				shared	manual	0	1389	11000		
+275.000	2.000	P1	Every study suggests that.	SPK				shared	manual	0	0	21000		
+277.000	12.000	P1	I'm also leaning towards if I would have to choose one of these topics, it would probably be stress and workload management.	SPK				shared	manual	0	0	23000		1000
+277.091	0.500	P3	yeah	BCK				shared	manual	-11909			91	731
+277.360	0.500	P2	mh	BCK				shared	manual	-231			360	731
+289.000	5.000	P2	I think there might be a way to include that in the way we work across teams as well.	SPK				shared	manual	11140	0	0		500
+291.912	0.500	P1	yeah	BCK				shared	manual	-2088			2912	500
+294.000	11.000	P2	Because I think, especially for my job, you need to talk to a lot of different departments and explain what you are doing and everything.	SPK				shared	manual	1588	0	5000		
+305.000	3.000	P2	And sometimes it's hard to get an answer.	SPK				shared	manual	0	0	16000		
+308.000	6.000	P2	which can also, yeah, create some stress and workload that no one really catches, right?	SPK				shared	manual	0	0	19000		
+314.000	10.000	P2	So being able to work better across teams might also be able to alleviate some of the stress that people can experience with the workload as well.	SPK				shared	manual	0	0	25000		
+324.000	1.000	P4	Absolutely.	SPK				shared	manual	0	0	0		
+325.000	1.000	P1	yeah	BCK				shared	manual	0				1000
+325.000	1.000	GROUP	(1.0)	SIL				shared	manual	-1000				1000
+326.000	15.000	P4	I just feel like right now with the changes happening, especially it might be better to focus on personal stuff and how much we have ourselves within Teams before cross-sectional, also knowing not who will move and who won't.	SPK				shared	manual	0	1000	2000		
+341.000	5.000	P4	So I lean to more the stress and workload.	SPK				shared	manual	0	0	17000		829
+345.171	1.720	P3	mmh	BCK				shared	manual	-829			4171	1720
+346.000	3.000	P1	I can see both for me, yeah.	SPK				shared	manual	-891	0	0		891
+349.000	15.000	P3	It's a good point, but I could say that we have spent so much time on changing about basically everyday work in GN and how we change in GN and all that, that we are just basically behind on the first two topics.	SPK				shared	manual	0	0	0		
+364.000	10.000	P3	Like, I mean, we've been two years doing the oneGN, and I think right now it's about time to just, okay, catch up a little bit also on what we are missing.	SPK				shared	manual	0	0	15000		
+374.000	8.000	P3	Because right now, we are basically consumers of AI, but we are not really delivering AI as a product.	SPK				shared	manual	0	0	25000		
+382.000	7.000	P3	And the only way people understand that we can make a product would be that we become way and way more connected to this technology.	SPK				shared	manual	0	0	33000		
+389.000	9.000	P3	And I agree that you can use that technology to release some of the workload that we have right now and the frictions that we have between teams, for example, if it's well integrated.	SPK				shared	manual	0	0	40000		
+398.000	3.971	P3	So yeah, uhh yeah, that's how I would see it, of course.	SPK				shared	manual	0	0	49000		
+401.971	3.029	GROUP	(3.0)	SIL				shared	manual	0				510
+402.126	0.510	P1	er	FP				shared	manual	-2874				510
+405.000	11.000	P2	do you see the stress coming from within the team or is it mostly when you have to explain your work or get the data from someone else? Or external?	SPK				shared	manual	2364	3029	3029		1331
+406.531	0.300	P2	(0.3)	SIL				shared	manual	-9469				300
+408.647	0.300	P2	(0.3)	SIL				shared	manual	1816				300
+414.568	0.731	P2	(0.7)	SIL				shared	manual	5621				731
+416.000	13.000	P4	I mean, in my team specifically, we need to manage all of the workload we have personally within our teams before we start talking cross-sectional.	SPK				shared	manual	701	0	0		
+429.000	3.000	P4	I don't know how much you guys know about indirect procurement, but we're still a bit immature.	SPK				shared	manual	0	0	13000		
+432.000	1.000	P4	So...	SPK				shared	manual	0	0	16000		
+433.000	10.000	P4	I feel like managing stress and workload at work would be relevant across everyone despite...	SPK				shared	manual	0	0	17000		3500
+433.000	2.000	P2	[OVL:collaborative]	OVL	collaborative			shared	manual	-10000				2500
+433.560	0.500	P3	mmh	BCK				shared	manual	-1440			560	1000
+441.440	0.500	P2	mmh	BCK				shared	manual	7380			8440	500
+442.219	0.500	P2	Maturity level?	BCK	collaborative			shared	manual	279			9219	500
+443.000	4.000	P4	So that might be a focus right now where we already have a lot of AI focus.	SPK				shared	manual	281	0	27000		500
+443.539	0.500	P2	yeah	BCK	collaborative			shared	manual	-3461			539	500
+447.000	8.000	P4	At least that's what I've noticed since I started that I've signed up for a few of the of the workshops that's been there and it's already happening a lot.	SPK				shared	manual	2961	0	31000		500
+448.760	0.500	P2	mmh	BCK	collaborative			shared	manual	-6240			1760	500
+455.000	3.000	P4	But the whole like managing stress and workload.	SPK				shared	manual	5740	0	39000		40
+457.960	0.500	P2	mmh	BCK	collaborative			shared	manual	-40			2960	500
+458.000	3.000	P2	i'm just thinking with the second one	SPK				shared	manual	-460	0	0		460
+461.000	1.000	P4	the second one?	SPK				shared	manual	0	0	0		
+462.000	14.000	P2	like it might be if you have like a team where you have to work or gather a lot of data or work with it i don't know how it's structured but having someone else rather	SPK				shared	manual	0	0	0		
+476.000	24.952	P2	yeah yeah but other teams work or like understand your workload might also help with the stress like especially with timelines and like okay we have all these tasks maybe we can yeah divide them or at least the teams you work with might get a better understanding of when to push you and when to not and stuff like that if that makes sense	SPK				shared	manual	0	0	14000		23452
+476.000	9.000	P2	yeah	BCK				shared	manual	-24952				9500
+480.789	0.500	P4	mmh	BCK	collaborative			shared	manual	-4211			4789	1000
+488.000	14.000	P2	yeah	BCK				shared	manual	6711				15000
+496.474	0.500	P3	yeah	BCK	collaborative			shared	manual	-5526			20474	1000
+499.114	0.500	P1	yeah	BCK	collaborative			shared	manual	2140			23114	1000
+500.952	1.048	GROUP	(1.0)	SIL				shared	manual	1338				1048
+502.000	5.248	P3	That was not really related to the AI, but it as related to the working across teams.	SPK				shared	manual	0	1048	1048		6796
+504.000	2.000	P3	No, but it's good.	SPK				shared	manual	-3248	-3248	3048		4000
+504.000	2.000	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2000				4000
+506.000	0.100	P3	Number two.	SPK				shared	manual	0	0	5048		500
+506.000	3.000	P1	Okay, so I think we have to maybe move on a bit.	SPK				shared	manual	-100	-100	-100		2796
+506.000	0.100	P3	[OVL:smooth]	OVL	smooth			shared	manual	-3000				500
+506.000	1.248	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-100				2796
+506.000	0.100	P1	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1248				500
+509.000	1.000	P3	Yeah,	BCK				shared	manual	2900				1000
+509.000	1.000	GROUP	(1.0)	SIL				shared	manual	-1000				1000
+510.000	0.100	P4	Yeah, yeah, we have one minute left.	SPK				shared	manual	0	1000	1000		
+510.100	2.900	GROUP	(2.9)	SIL				shared	manual	0				3019
+510.440	2.869	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-2560				3637
+512.541	2.309	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-768				5257
+513.000	5.000	P3	And...	SPK				shared	manual	-1850	2900	2900		8668
+513.760	2.269	P1	All right, so we're leaning towards number two.	SPK				shared	manual	-4240	-4240	-4240		5628
+513.760	2.269	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2269				5628
+516.029	1.971	GROUP	(2.0)	SIL				shared	manual	0				1971
+518.000	2.629	P3	I mean, I'm fine with number two.	SPK				shared	manual	0	1971	1971		
+520.629	0.138	GROUP	(.)	SIL				shared	manual	0				
+520.767	3.469	P2	Maybe we should if we only have 15 seconds got to the next one	SPK	collaborative			shared	manual	0	138	138		0
+524.236	0.055	GROUP	(.)	SIL				shared	manual	0				0
+524.291	1.098	P4	Let's discuss formats first.	SPK				shared	manual	0	55	55		
+525.389	3.152	GROUP	(3.2)	SIL				shared	manual	0				1709
+526.341	1.709	P1	er	FP	collaborative			shared	manual	-2200				1709
+528.541	2.000	P1	I'm not a fan of the old-school one-way communication things	SPK	collaborative			shared	manual	491	3152	3152		
+530.541	1.459	GROUP	(1.5)	SIL				shared	manual	0				
+532.000	11.000	P3	You mean the first two?	SPK				shared	manual	0	1459	1459		18236
+534.979	2.000	P1	yeah	SPK	collaborative			shared	manual	-8021	-8021	-8021		6194
+534.979	2.000	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2000				6194
+535.098	0.500	P3	yeah	BCK	collaborative			shared	manual	-1881			119	1641
+535.457	0.500	P1	yeah	BCK	collaborative			shared	manual	-141			3457	1641
+536.581	7.379	P1	I definitely think the interactive ones are more engaging and I think people will also get more out of it.	SPK				shared	manual	624	-398	-6419		15952
+536.581	6.419	P1	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-7379				14032
+536.581	0.398	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-6419				1990
+543.000	3.000	P1	All science suggests that as well.	SPK				shared	manual	6021	-960	0		1920
+543.000	0.960	P1	[OVL:competitive]	OVL	competitive			shared	manual	-3000				1920
+546.000	2.000	P4	I agree.	SPK				shared	manual	2040	0	0		
+548.000	22.000	P3	Uhh I won’t say that you spend a lot of resources on something that some people understand and some not. Like I also have the feeling that many people say I spent these two hours right now going into SAFe and now there’s a new framework, so you’re burned out after the fist day. So I think it’s good to give them the chance to learn on their own, I think	SPK				shared	manual	0	0	0		500
+566.208	0.500	P1	mmh	BCK	collaborative			shared	manual	-3792			18208	500
+570.000	3.000	P4	I feel the opposite with all of those things you have to go through on workday.	SPK				shared	manual	3292	0	0		
+573.000	2.000	P4	It's like, I don't know how much I actually take away from it.	SPK				shared	manual	0	0	3000		
+575.000	2.000	P1	No, exactly	SPK				shared	manual	0	0	0		
+577.000	6.429	P3	But at least you have the chance to take away when you have the time and the capacity and the focus, right?	SPK				shared	manual	0	0	0		3858
+580.000	3.000	P1	yeah	BCK				shared	manual	-3429			3000	3000
+583.000	1.000	P3	It's up to you.	SPK				shared	manual	0	-429	6000		858
+583.000	0.429	P3	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-1000				858
+584.000	3.000	P3	I mean, when they tell me, okay, this day I have to do this and it's like, okay.	SPK				shared	manual	571	0	7000		
+587.000	6.000	P3	And then all of a sudden it happened that I had a tough week and it doesn't help.	SPK				shared	manual	0	0	10000		
+593.000	8.000	P3	And then people are like, okay, now I have the time, I know Friday or whatever, when you're like, okay, today is the day that I do my time sheet and I do my workday stuff and that's it.	SPK				shared	manual	0	0	16000		
+601.000	2.000	P3	So you can organize yourself.	SPK				shared	manual	0	0	24000		
+603.000	5.000	P3	And I agree that maybe in the future we can say, okay, now you have some background and then you can come together.	SPK				shared	manual	0	0	26000		
+608.000	5.971	P3	But just facing something new altogether, you will still have to spend the time yourself.	SPK				shared	manual	0	0	31000		
+614.000	6.000	P4	I just feel like knowing that something is up ahead in the calendar, you focus on that for those one, two hours.	SPK				shared	manual	29	29	29		
+620.000	5.000	P4	It doesn't even have to be that long, but it's engaging and you're like fully in the moment, like in person more than...	SPK				shared	manual	0	0	6029		500
+620.461	0.500	P3	yeah	BCK	collaborative			shared	manual	-4539			461	500
+625.000	1.000	P3	okay	BCK				shared	manual	4039				1000
+625.000	3.589	GROUP	(3.6)	SIL				shared	manual	-1000				1500
+628.059	0.500	P1	yes	BCK	collaborative			shared	manual	-530				500
+628.589	14.411	P2	Maybe a compromise could be like having, if it's like a lecture or something scheduled in the calendar. And then you could also if it’s recorded or something then you can look at it in your own time if the meetings are...	SPK				shared	manual	30	3589	3589		
+643.000	17.318	P1	It's just, I don't know, I just feel like if we have to talk about how to work better across teams, I guess you solve that topic by talking in workshops with the teams rather than having one giving a lecture about how to work in your team.	SPK				shared	manual	0	0	0		8698
+655.531	1.451	P4	[SOFT LAUGHTER]	LAU	collaborative			shared	manual	-4787				3415
+656.000	2.611	P4	True.	SPK				shared	manual	-982	-4318	-4318		6204
+656.000	2.611	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2611				6204
+658.611	1.389	GROUP	(1.4)	SIL				shared	manual	0				1389
+660.000	5.000	P1	I think that would be way more engaging because there's no size fits all in this.	SPK				shared	manual	0	1389	1389		636
+660.000	0.318	P1	[OVL:backchannel_ovl]	OVL	backchannel_ovl			shared	manual	-5000				636
+665.000	2.000	P1	It really depends on the team, right?	SPK				shared	manual	4682	0	6389		
+667.000	1.000	P4	That's true.	SPK				shared	manual	0	0	0		
+668.000	8.000	P1	So, if you had a workshop with your team, you could really manage those points of friction better, I guess.	SPK				shared	manual	0	0	0		
+676.000	1.000	P3	It's fine.	SPK				shared	manual	0	0	0		
+677.000	10.000	P3	You just see the company going the same way it has been in the last five years.	SPK				shared	manual	0	0	1000		3248
+680.821	1.248	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-6179				1248
+682.333	2.000	GROUP	[GROUP LAUGHTER]	LAU	collaborative			shared	manual	264				2000
+687.000	2.000	P2	I think it sounds good with what we chose for the topic right	SPK				shared	manual	2667	0	0		
+689.000	0.100	P3	Yeah,	BCK				shared	manual	0				200
+689.000	1.000	P2	right?	BCK				shared	manual	-100				1100
+689.000	1.000	GROUP	(1.0)	SIL				shared	manual	-1000				1100
+690.000	0.100	P3	It's fine.	SPK				shared	manual	0	1000	1000		
+690.100	0.769	GROUP	(0.8)	SIL				shared	manual	0				
+690.869	2.749	P3	It's fine.	SPK				shared	manual	0	769	1869		3818
+691.099	1.299	P3	It's fineee	SPK	collaborative			shared	manual	-2519	-2519	2099		2598
+691.099	1.299	P3	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-1299				2598
+692.398	3.602	GROUP	(3.6)	SIL				shared	manual	0				1220
+696.000	1.000	P3	Okay.	SPK				shared	manual	0	3602	7000		
+697.000	0.100	P1	Okay.	BCK				shared	manual	0			0	100
+697.000	0.100	MODERATOR	Okay, so you have an agreement?	SPK				shared	manual	-100	0	0		100
+697.100	4.900	GROUP	(4.9)	SIL				shared	manual	0				
+702.000	6.000	P3	We have a... We chose.	SPK				shared	manual	0	4900	4900		3391
+704.221	0.500	P4	We have a	BCK	collaborative			shared	manual	-3779			2221	813
+704.408	2.891	GROUP	[SOFT LAUGHTER]	LAU	collaborative			shared	manual	-313				3204
+708.000	3.000	P3	I don’t think it’s an agreement	SPK				shared	manual	701	0	10900		1232
+709.768	4.629	P1	[LAUGHTER]	LAU	collaborative			shared	manual	-1232				4629
+711.000	6.000	P1	Then please, why don't you fill in the...	SPK				shared	manual	-3397	0	0		3397
+717.000	1.000	P4	Would you do it again?	SPK				shared	manual	0	0	0		
+718.000	2.000	P2	Should I do it? Yeah	SPK				shared	manual	0	0	0		
+720.000	4.000	P1	Okay, so how to work better across teams.	SPK				shared	manual	0	0	0		4000
+722.000	2.000	P4	I guess so.	SPK				shared	manual	-2000	-2000	-2000		4000
+722.000	2.000	P4	[OVL:floor_fight]	OVL	floor_fight			shared	manual	-2000				4000
+724.000	0.100	P4	Yeah.	SPK				shared	manual	0	0	0		200
+724.000	1.000	P4	Yeah.	SPK				shared	manual	-100	-100	0		352
+724.000	0.100	P4	[OVL:simultaneous]	OVL	simultaneous			shared	manual	-1000				200
+724.848	0.500	P3	mm-hmm	BCK	collaborative			shared	manual	748			848	500
+725.000	2.000	P2	And then...	SPK				shared	manual	-348	0	0		348
+727.000	3.000	P2	Oh, was it lecture or cross-department workgroup?	SPK				shared	manual	0	0	2000		
+730.000	4.000	P1	I think it was interactive workshop, right?	SPK				shared	manual	0	0	0		
+734.000	1.000	P1	Was it not?	SPK				shared	manual	0	0	4000		
+735.000	1.000	P3	yeah	BCK				shared	manual	0				1000
+735.000	1.000	GROUP	(1.0)	SIL				shared	manual	-1000				1000
+736.000	1.000	P2	Oh no, I thought	SPK				shared	manual	0	1000	1000		
+737.000	1.000	P3	It was one of the last two	SPK				shared	manual	0	0	0		
+738.000	1.000	P4	Yeah, one of the	SPK				shared	manual	0	0	0		
+739.000	5.000	P1	all right okay okay if you have a cross department is fine yeah we can do that	SPK				shared	manual	0	0	0		
+744.000	4.000	P2	Cross department or interactive?	SPK				shared	manual	0	0	0		
+748.000	2.000	P2	For me, they sound kind of similar.	SPK				shared	manual	0	0	4000		
+750.000	4.000	P4	Across team, so maybe cross… I don’t know	SPK				shared	manual	0	0	0		512
+753.488	1.501	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-512				1501
+754.000	1.000	P3	It has to be.	SPK				shared	manual	-989	0	0		989
+755.000	3.000	P2	Cross teams, cross departments	SPK				shared	manual	0	0	0		2219
+755.781	2.469	GROUP	[LAUGHTER]	LAU	collaborative			shared	manual	-2219				2469
+758.000	1.000	P1	Cross, cross	SPK				shared	manual	-250	0	0		250
+759.000	3.000	P4	Let's cross, cross.	SPK				shared	manual	0	0	0		379
+761.621	0.888	GROUP	[SOFT LAUGHTER]	LAU	collaborative			shared	manual	-379				888
+762.000	2.000	P2	Cool.	SPK				shared	manual	-509	0	0		509

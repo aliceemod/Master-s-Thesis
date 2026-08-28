@@ -1,0 +1,55 @@
+%% Table: dataset_stats.tex
+%% \input{tables/dataset_stats} from main.tex
+%%
+%% This table integrates the current no-video release and generated summaries.
+
+\begin{table}[t]
+  \centering
+  \caption{Dataset statistics for the no-video release. Participant and
+    self-report counts use 10 final four-person groups (200 expected
+    participant-task rows). Signal-quality rows are computed from the
+    release-aligned QC tables in \texttt{features/}.}
+  \label{tab:stats}
+  \small
+  \begin{tabular}{lr}
+    \toprule
+    \textbf{Metric} & \textbf{Value} \\
+    \midrule
+    Final groups with task responses                    & 10 \\
+    Unique participants in paper-facing cohort          & 40 \\
+    Participants with complete demographics/BFI-44      & 40~(100\%) \\
+    Age, mean (SD), range                               & 35.4~(9.2), 23--58 \\
+    Sex among complete records                          & 21 female / 19 male \\
+    Scheduled recording time                            & $\sim$11.7~h \\
+    \midrule
+    \multicolumn{2}{l}{\textit{Signal QC pass: 10 sessions, 200 expected participant-task rows}} \\
+    \midrule
+    EmotiBit rows observed                              & 182/200~(91.0\%) \\
+    PPG usable                                          & 152/200~(76.0\%) \\
+    EDA usable                                          & 151/200~(75.5\%) \\
+    Skin temperature usable                             & 152/200~(76.0\%) \\
+    IMU usable                                          & 181/200~(90.5\%) \\
+    Tobii egocentric eye-tracking rows observed         & 196/200~(98.0\%) \\
+    Gaze usable                                         & 171/196~(87.2\%) \\
+    Pupil usable                                        & 187/196~(95.4\%) \\
+    \midrule
+    \multicolumn{2}{l}{\textit{In-task VAD probes (T1/T2/T3/T4)}} \\
+    \midrule
+    Valence/arousal/dominance responses                 & 39/40 group-task pairs~(97.5\%) \\
+    \quad Reason for missing                            & grp-09 T1 recording gap \\
+    \midrule
+    \multicolumn{2}{l}{\textit{Post-task questionnaire item completeness}} \\
+    \midrule
+    Core items per task (T1/T2/T3/T4)                   & 18 / 15 / 16 / 13 \\
+    Items completed (T1/T2/T3/T4)                       & 712/720 / 597/600 / 634/640 / 516/520 \\
+    Overall post-task item coverage                     & 2459/2480~(99.2\%) \\
+    \midrule
+    \multicolumn{2}{l}{\textit{Task outcomes}} \\
+    \midrule
+    T1 group decision records                           & 10/10 groups \\
+    T2 negotiation decision records                     & 10/10 groups \\
+    T3 group-idea records                               & 10/10 groups \\
+    T4 micro-game outcomes                              & 10/10 groups \\
+    \bottomrule
+  \end{tabular}
+\end{table}
