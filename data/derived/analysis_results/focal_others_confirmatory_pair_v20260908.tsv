@@ -1,0 +1,5 @@
+hypothesis	target	n	n_groups	coef	LR_p	n_per_param	converged	underpowered	q
+others_mean_eda_phasic_rate_hz	voice_inclusion	109	10	-0.215	0.9329	27.25	True	False	0.9329
+others_mean_tr_backchannel_count	voice_inclusion	111	10	0.014	0.6752	27.75	True	False	0.9003
+others_mean_lex_agreement_rate	voice_inclusion	111	10	3.1	0.6372	27.75	True	False	0.9003
+others_mean_tr_overlap_time_s	voice_inclusion	111	10	0.011	0.4797	27.75	True	False	0.9003

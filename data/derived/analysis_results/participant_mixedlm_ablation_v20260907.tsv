@@ -1,0 +1,73 @@
+feature_set	target	n_feats	n_participant	n_groups	ICC	LR_stat	dof	LR_p	q
+Physio only	team_coordination	3	72	10	0.048	12.99	3	0.0047	0.0926
+Physio only	voice_inclusion	3	111	10	0.0	2.32	3	0.5096	0.9256
+Physio only	mental_demand	3	110	10	0.0	2.16	3	0.5398	0.9256
+Physio only	satisfaction	3	74	10	0.0	1.64	3	0.6514	0.9706
+Eye-tracking only	team_coordination	4	76	10	0.038	1.43	4	0.8388	0.9706
+Eye-tracking only	voice_inclusion	4	115	10	0.0	2.09	4	0.7191	0.9706
+Eye-tracking only	mental_demand	4	114	10	0.0	3.4	4	0.4925	0.9256
+Eye-tracking only	satisfaction	4	74	10	0.0	1.95	4	0.7451	0.9706
+Physio + ET	team_coordination	7	72	10	0.048	14.19	7	0.0479	0.2299
+Physio + ET	voice_inclusion	7	111	10	0.0	4.25	7	0.7508	0.9706
+Physio + ET	mental_demand	7	110	10	0.0	4.99	7	0.6611	0.9706
+Physio + ET	satisfaction	7	74	10	0.0	3.44	7	0.8419	0.9706
+Audio only	team_coordination	4	68	10	0.053	12.89	4	0.0118	0.1062
+Audio only	voice_inclusion	4	107	10	0.0	3.71	4	0.4468	0.9256
+Audio only	mental_demand	4	106	10	0.0	9.95	4	0.0413	0.2206
+Audio only	satisfaction	4	71	10	0.0	3.27	4	0.5133	0.9256
+Turn-taking only	team_coordination	13	72	10	0.016	30.6	13	0.0039	0.0926
+Turn-taking only	voice_inclusion	13	111	10	0.0	7.63	13	0.8668	0.9706
+Turn-taking only	mental_demand	13	110	10	0.0	19.28	13	0.1148	0.4664
+Turn-taking only	satisfaction	13	75	10	0.0	8.3	13	0.8237	0.9706
+Lexical (theory)	team_coordination	10	72	10	0.016	24.12	10	0.0073	0.0926
+Lexical (theory)	voice_inclusion	10	111	10	0.0	8.95	10	0.537	0.9256
+Lexical (theory)	mental_demand	10	110	10	0.0	9.64	10	0.4727	0.9256
+Lexical (theory)	satisfaction	10	75	10	0.0	7.36	10	0.6913	0.9706
+DA keywords	team_coordination	5	72	10	0.016	12.32	5	0.0307	0.1842
+DA keywords	voice_inclusion	5	111	10	0.0	2.78	5	0.7335	0.9706
+DA keywords	mental_demand	5	110	10	0.0	5.31	5	0.3797	0.9256
+DA keywords	satisfaction	5	75	10	0.0	2.04	5	0.8432	0.9706
+Semantic + completion	team_coordination	4	52	9	0.0	1.08	4	0.8969	0.9706
+Semantic + completion	voice_inclusion	4	84	10	0.0	3.27	4	0.5144	0.9256
+Semantic + completion	mental_demand	4	84	10	0.0	2.91	4	0.5731	0.9378
+Semantic + completion	satisfaction	4	56	9	0.0	4.89	4	0.2986	0.9256
+HMM states new K5 (v20260905)	team_coordination	5	72	10	0.016	13.66	5	0.0179	0.1289
+HMM states new K5 (v20260905)	voice_inclusion	5	111	10	0.0	4.36	5	0.4982	0.9256
+HMM states new K5 (v20260905)	mental_demand	5	110	10	0.0	4.16	5	0.5263	0.9256
+HMM states new K5 (v20260905)	satisfaction	5	75	10	0.0	1.71	5	0.8874	0.9706
+K-Means clusters (v20260905)	team_coordination	5	72	10	0.016	11.47	5	0.0429	0.2206
+K-Means clusters (v20260905)	voice_inclusion	5	111	10	0.0	4.6	5	0.4667	0.9256
+K-Means clusters (v20260905)	mental_demand	5	110	10	0.0	5.92	5	0.3141	0.9256
+K-Means clusters (v20260905)	satisfaction	5	75	10	0.0	1.06	5	0.9572	0.9845
+Continuous PCA (v20260905)	team_coordination	12	72	10	0.016	27.47	12	0.0066	0.0926
+Continuous PCA (v20260905)	voice_inclusion	12	111	10	0.0	14.5	12	0.27	0.9256
+Continuous PCA (v20260905)	mental_demand	12	110	10	0.0	10.72	12	0.5528	0.9256
+Continuous PCA (v20260905)	satisfaction	12	75	10	0.0	5.99	12	0.9167	0.9706
+Expanded raw	team_coordination	24	68	10	0.053	32.43	24	0.1166	0.4664
+Expanded raw	voice_inclusion	24	107	10	0.0	20.86	24	0.6471	0.9706
+Expanded raw	mental_demand	24	106	10	0.0	25.78	24	0.3643	0.9256
+Expanded raw	satisfaction	24	71	10	0.0	10.34	24	0.993	0.998
+States + Turn-taking	team_coordination	18	72	10	0.016	33.41	18	0.0149	0.1192
+States + Turn-taking	voice_inclusion	18	111	10	0.0	10.78	18	0.9036	0.9706
+States + Turn-taking	mental_demand	18	110	10	0.0	22.58	18	0.2074	0.7859
+States + Turn-taking	satisfaction	18	75	10	0.0	11.23	18	0.8843	0.9706
+States + Lexical	team_coordination	15	72	10	0.016	33.08	15	0.0046	0.0926
+States + Lexical	voice_inclusion	15	111	10	0.0	12.43	15	0.6462	0.9706
+States + Lexical	mental_demand	15	110	10	0.0	14.1	15	0.5179	0.9256
+States + Lexical	satisfaction	15	75	10	0.0	10.28	15	0.8015	0.9706
+States + DA	team_coordination	10	72	10	0.016	23.51	10	0.009	0.0926
+States + DA	voice_inclusion	10	111	10	0.0	6.42	10	0.7789	0.9706
+States + DA	mental_demand	10	110	10	0.0	10.28	10	0.4162	0.9256
+States + DA	satisfaction	10	75	10	0.0	5.85	10	0.8278	0.9706
+States + Lex + DA	team_coordination	20	72	10	0.016	33.41	20	0.0304	0.1842
+States + Lex + DA	voice_inclusion	20	111	10	0.0	19.72	20	0.4758	0.9256
+States + Lex + DA	mental_demand	20	110	10	0.0	21.06	20	0.3939	0.9256
+States + Lex + DA	satisfaction	20	75	10	0.0	11.23	20	0.94	0.9809
+Turn + Lex + DA	team_coordination	28	72	10	0.016	33.41	28	0.2211	0.796
+Turn + Lex + DA	voice_inclusion	28	111	10	0.0	21.13	28	0.8197	0.9706
+Turn + Lex + DA	mental_demand	28	110	10	0.0	27.3	28	0.5021	0.9256
+Turn + Lex + DA	satisfaction	28	75	10	0.0	11.23	28	0.998	0.998
+Overlap+Backchannel (rescue)	team_coordination	2	72	10	0.016	9.66	2	0.008	0.0926
+Overlap+Backchannel (rescue)	voice_inclusion	2	111	10	0.0	5.17	2	0.0753	0.3389
+Overlap+Backchannel (rescue)	mental_demand	2	110	10	0.0	1.21	2	0.5453	0.9256
+Overlap+Backchannel (rescue)	satisfaction	2	75	10	0.0	0.29	2	0.8654	0.9706

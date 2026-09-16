@@ -1,0 +1,21 @@
+R2	n	p	feature_set	target	q
+-0.159	63	0.846	Focal only	team_coordination	0.94
+0.042	97	0.025	Focal only	voice_inclusion	0.083
+-0.068	96	0.507	Focal only	mental_demand	0.634
+0.081	64	0.005	Focal only	satisfaction	0.025
+-0.058	67	0.458	Others mean only	team_coordination	0.624
+0.075	105	0.005	Others mean only	voice_inclusion	0.025
+0.089	104	0.01	Others mean only	mental_demand	0.04
+0.041	70	0.03	Others mean only	satisfaction	0.086
+-0.1	67	0.468	Others mean+std	team_coordination	0.624
+0.015	105	0.07	Others mean+std	voice_inclusion	0.156
+0.018	104	0.05	Others mean+std	mental_demand	0.125
+-0.08	70	0.239	Others mean+std	satisfaction	0.398
+-0.214	62	0.826	Focal + Others mean	team_coordination	0.94
+0.111	95	0.005	Focal + Others mean	voice_inclusion	0.025
+-0.021	94	0.144	Focal + Others mean	mental_demand	0.288
+0.093	63	0.005	Focal + Others mean	satisfaction	0.025
+-0.322	62	0.925	Focal + Others mean+std	team_coordination	0.974
+-0.64	95	0.995	Focal + Others mean+std	voice_inclusion	0.995
+-0.105	94	0.388	Focal + Others mean+std	mental_demand	0.597
+-0.095	63	0.229	Focal + Others mean+std	satisfaction	0.398

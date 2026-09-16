@@ -1,0 +1,141 @@
+2026-08-23 23:07:39,437  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-23 23:07:39,587  Loaded 7994 transcript rows
+2026-08-23 23:07:39,596  Utterances to classify: 3248
+2026-08-23 23:07:39,597  Loading model facebook/bart-large-mnli (downloading if first run) ...
+2026-08-23 23:07:40,452  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-23 23:07:40,471  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/config.json "HTTP/1.1 200 OK"
+2026-08-23 23:07:40,660  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-08-23 23:07:59,695  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-23 23:07:59,696  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-23 23:07:59,711  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-23 23:07:59,732  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-23 23:07:59,911  HTTP Request: GET https://huggingface.co/api/models/facebook/bart-large-mnli/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:00,041  HTTP Request: GET https://huggingface.co/api/models/facebook/bart-large-mnli/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,171  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/vocab.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-23 23:08:00,192  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/vocab.json "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,212  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/vocab.json "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,362  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/merges.txt "HTTP/1.1 307 Temporary Redirect"
+2026-08-23 23:08:00,381  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/merges.txt "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,397  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/merges.txt "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,531  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-23 23:08:00,581  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/tokenizer.json "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,599  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/tokenizer.json "HTTP/1.1 200 OK"
+2026-08-23 23:08:00,751  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:00,881  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/special_tokens_map.json "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:01,011  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:01,961  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:02,568  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:02,691  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-23 23:08:02,696  Model ready.
+2026-08-24 09:32:14,924  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 09:32:15,213  Loaded 7994 transcript rows
+2026-08-24 09:32:15,229  Utterances to classify: 3248
+2026-08-24 09:32:15,230  Loading model facebook/bart-large-mnli (downloading if first run) ...
+2026-08-24 09:32:16,209  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:32:16,211  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-24 09:32:16,232  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/config.json "HTTP/1.1 200 OK"
+2026-08-24 09:32:16,932  HTTP Request: GET https://huggingface.co/api/models/facebook/bart-large-mnli/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-24 09:32:17,052  HTTP Request: GET https://huggingface.co/api/models/facebook/bart-large-mnli/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-24 09:32:17,543  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:32:17,662  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:32:17,810  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:32:17,814  Model ready.
+2026-08-24 09:42:11,461  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 09:42:12,483  Loaded 7994 transcript rows
+2026-08-24 09:42:12,496  Utterances to classify: 3248
+2026-08-24 09:42:12,497  Loading model facebook/bart-large-mnli (downloading if first run) ...
+2026-08-24 09:42:13,477  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:42:13,479  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-24 09:42:13,500  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/bart-large-mnli/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce/config.json "HTTP/1.1 200 OK"
+2026-08-24 09:42:14,211  HTTP Request: GET https://huggingface.co/api/models/facebook/bart-large-mnli/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-24 09:42:14,333  HTTP Request: GET https://huggingface.co/api/models/facebook/bart-large-mnli/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-24 09:42:14,920  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:42:15,038  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:42:15,158  HTTP Request: HEAD https://huggingface.co/facebook/bart-large-mnli/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:42:15,162  Model ready.
+2026-08-24 09:43:55,891  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 09:43:56,078  Loaded 7994 transcript rows
+2026-08-24 09:43:56,092  Utterances to classify: 3248
+2026-08-24 09:43:56,093  Loading model typeform/distilbart-mnli-12-1 (downloading if first run) ...
+2026-08-24 09:43:56,901  HTTP Request: HEAD https://huggingface.co/typeform/distilbart-mnli-12-1/resolve/main/config.json "HTTP/1.1 401 Unauthorized"
+2026-08-24 09:50:41,984  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 09:50:42,904  Loaded 7994 transcript rows
+2026-08-24 09:50:42,913  Utterances to classify: 3248
+2026-08-24 09:50:42,914  Loading model MoritzLaurer/deberta-v3-base-zeroshot-v1 (downloading if first run) ...
+2026-08-24 09:50:43,721  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:50:43,723  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-24 09:50:43,744  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/config.json "HTTP/1.1 200 OK"
+2026-08-24 09:50:43,776  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/config.json "HTTP/1.1 200 OK"
+2026-08-24 09:50:44,050  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-08-24 09:51:49,533  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:51:49,560  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:49,584  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:49,735  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-24 09:51:49,857  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-24 09:51:49,993  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/spm.model "HTTP/1.1 302 Found"
+2026-08-24 09:51:51,492  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:51:51,618  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/tokenizer.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:51,645  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/tokenizer.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:52,048  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/added_tokens.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:51:52,073  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/added_tokens.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:52,098  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/added_tokens.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:52,219  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:51:52,240  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:52,265  HTTP Request: GET https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-08-24 09:51:52,403  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-08-24 09:51:53,615  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1 "HTTP/1.1 200 OK"
+2026-08-24 09:51:53,747  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:51:53,868  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:51:53,990  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:51:53,994  Model ready.
+2026-08-24 09:56:11,752  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 09:56:11,952  Loaded 7994 transcript rows
+2026-08-24 09:56:11,965  Utterances to classify: 3248
+2026-08-24 09:56:11,966  Loading model MoritzLaurer/deberta-v3-base-zeroshot-v1 (downloading if first run) ...
+2026-08-24 09:56:12,903  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 09:56:12,904  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-24 09:56:12,923  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/config.json "HTTP/1.1 200 OK"
+2026-08-24 09:56:13,385  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-24 09:56:13,504  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-24 09:56:15,076  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1 "HTTP/1.1 200 OK"
+2026-08-24 09:56:15,243  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:56:15,363  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:56:15,493  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 09:56:15,498  Model ready.
+2026-08-24 10:02:18,056  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 10:02:18,260  Loaded 7994 transcript rows
+2026-08-24 10:02:18,278  Utterances to classify: 3248
+2026-08-24 10:02:18,279  Loading model MoritzLaurer/deberta-v3-base-zeroshot-v1 (downloading if first run) ...
+2026-08-24 10:02:19,185  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 10:02:19,217  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/config.json "HTTP/1.1 200 OK"
+2026-08-24 10:02:19,634  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-24 10:02:19,763  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-24 10:02:21,245  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1 "HTTP/1.1 200 OK"
+2026-08-24 10:02:21,379  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 10:02:21,510  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 10:02:21,511  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-24 10:02:21,632  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 10:02:21,635  Model ready.
+2026-08-24 10:06:03,161  Loading transcripts from C:\Users\amodica\OneDrive - GN Store Nord\Documents\Codes\affectai-data-processing\transcripts\final
+2026-08-24 10:06:03,348  Loaded 7994 transcript rows
+2026-08-24 10:06:03,368  Utterances to classify: 3248
+2026-08-24 10:06:03,369  Loading model MoritzLaurer/deberta-v3-base-zeroshot-v1 (downloading if first run) ...
+2026-08-24 10:06:04,279  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-08-24 10:06:04,280  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-24 10:06:04,301  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/c2040e8a2599abd2925fdc716cf40e8052d56ec4/config.json "HTTP/1.1 200 OK"
+2026-08-24 10:06:04,872  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-08-24 10:06:04,990  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-08-24 10:06:06,345  HTTP Request: GET https://huggingface.co/api/models/MoritzLaurer/deberta-v3-base-zeroshot-v1 "HTTP/1.1 200 OK"
+2026-08-24 10:06:06,509  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 10:06:06,632  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 10:06:06,788  HTTP Request: HEAD https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-08-24 10:06:06,791  Model ready.
+2026-08-24 10:38:28,021    batch 5 / 102  (160 utterances done)
+2026-08-24 11:06:18,278    batch 10 / 102  (320 utterances done)
+2026-08-24 11:37:05,349    batch 15 / 102  (480 utterances done)
+2026-08-24 12:40:50,147    batch 20 / 102  (640 utterances done)
+2026-08-24 16:43:35,115    batch 25 / 102  (800 utterances done)
+2026-08-24 17:11:37,887    batch 30 / 102  (960 utterances done)
+2026-08-24 17:41:11,917    batch 35 / 102  (1120 utterances done)
+2026-08-24 18:12:26,118    batch 40 / 102  (1280 utterances done)
+2026-08-24 18:44:45,912    batch 45 / 102  (1440 utterances done)

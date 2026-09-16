@@ -1,0 +1,11 @@
+session_id	group_id	n_tasks	n_discussion_markers	has_free_talk_baseline	n_flagged_tasks
+ses-20260312_grp-07_run01	grp-07	5	5	True	0
+ses-20260313_grp-08_run01	grp-08	5	5	False	5
+ses-20260317_grp-09_run01	grp-09	5	3	False	2
+ses-20260317_grp-10_run01	grp-10	5	5	True	1
+ses-20260318_grp-11_run01	grp-11	5	0	False	5
+ses-20260318_grp-12_run01	grp-12	5	5	True	0
+ses-20260318_grp-13_run01	grp-13	5	5	True	0
+ses-20260319_grp-14_run01	grp-14	5	5	True	0
+ses-20260319_grp-15_run01	grp-15	5	5	True	0
+ses-20260320_grp-16_run01	grp-16	5	5	True	0

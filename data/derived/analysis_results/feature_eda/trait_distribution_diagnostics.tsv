@@ -1,0 +1,7 @@
+family	granularity	feature	n_rows	n_observed	coverage_pct	zero_pct	mean	median	sd	min	max	iqr	skew	n_unique	low_coverage	near_constant	sparse_count	strongly_skewed	recommended_handling
+participant_traits	participant	age	40	40	100.0	0.0	35.35	34.0	9.20855232365196	23.0	58.0	15.0	0.7147310800525701	23	False	False	False	False	eligible for theory review
+participant_traits	participant	bfi44_a	40	40	100.0	0.0	3.9055249999999995	3.889	0.44123399150157305	3.0	4.667	0.6105000000000009	-0.18439869084195204	14	False	False	False	False	eligible for theory review
+participant_traits	participant	bfi44_c	40	40	100.0	0.0	3.76385	3.8335	0.4989034411484287	2.667	4.889	0.6669999999999998	-0.08702461862738879	17	False	False	False	False	eligible for theory review
+participant_traits	participant	bfi44_e	40	40	100.0	0.0	3.284375	3.25	0.583553644294362	1.875	4.375	0.875	-0.14512272460948356	16	False	False	False	False	eligible for theory review
+participant_traits	participant	bfi44_n	40	40	100.0	0.0	2.490625	2.5	0.6369923192186777	1.375	4.0	1.0	0.2991831687645385	19	False	False	False	False	eligible for theory review
+participant_traits	participant	bfi44_o	40	40	100.0	0.0	3.595	3.6	0.5118844020144012	2.4	4.6	0.6499999999999999	-0.03233992441889903	17	False	False	False	False	eligible for theory review

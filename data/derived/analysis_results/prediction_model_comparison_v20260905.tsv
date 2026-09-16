@@ -1,0 +1,191 @@
+R2	n	p	Model	Target	CV	q
+-0.13	20	0.327	Baseline (task-mean only)	team_coordination	LOGO	0.398
+0.357	30	0.01	Baseline (task-mean only)	voice_inclusion	LOGO	0.041
+0.41	30	0.01	Baseline (task-mean only)	mental_demand	LOGO	0.041
+0.0	30	0.02	Baseline (task-mean only)	coord+coop	LOGO	0.051
+0.368	20	0.01	Baseline (task-mean only)	satisfaction	LOGO	0.041
+-0.077	18	0.089	Physio only	team_coordination	LOGO	0.136
+0.318	28	0.02	Physio only	voice_inclusion	LOGO	0.051
+0.288	28	0.01	Physio only	mental_demand	LOGO	0.041
+0.003	28	0.198	Physio only	coord+coop	LOGO	0.277
+0.343	19	0.02	Physio only	satisfaction	LOGO	0.051
+-0.439	19	0.881	Eye-tracking only	team_coordination	LOGO	0.92
+0.187	29	0.03	Eye-tracking only	voice_inclusion	LOGO	0.068
+0.134	29	0.01	Eye-tracking only	mental_demand	LOGO	0.041
+-0.033	29	0.584	Eye-tracking only	coord+coop	LOGO	0.685
+0.125	19	0.05	Eye-tracking only	satisfaction	LOGO	0.093
+-0.315	18	0.634	Physio + ET	team_coordination	LOGO	0.726
+0.167	28	0.02	Physio + ET	voice_inclusion	LOGO	0.051
+0.168	28	0.02	Physio + ET	mental_demand	LOGO	0.051
+-0.033	28	0.535	Physio + ET	coord+coop	LOGO	0.635
+0.141	19	0.05	Physio + ET	satisfaction	LOGO	0.093
+-0.222	17	0.475	Audio only	team_coordination	LOGO	0.571
+0.275	27	0.01	Audio only	voice_inclusion	LOGO	0.041
+0.387	27	0.01	Audio only	mental_demand	LOGO	0.041
+0.052	27	0.03	Audio only	coord+coop	LOGO	0.068
+0.084	18	0.03	Audio only	satisfaction	LOGO	0.068
+0.296	18	0.01	Turn-taking only	team_coordination	LOGO	0.041
+0.299	28	0.02	Turn-taking only	voice_inclusion	LOGO	0.051
+0.152	28	0.01	Turn-taking only	mental_demand	LOGO	0.041
+0.073	28	0.059	Turn-taking only	coord+coop	LOGO	0.097
+0.148	19	0.02	Turn-taking only	satisfaction	LOGO	0.051
+-0.058	18	0.05	Lexical (theory)	team_coordination	LOGO	0.093
+0.2	28	0.01	Lexical (theory)	voice_inclusion	LOGO	0.041
+0.134	28	0.01	Lexical (theory)	mental_demand	LOGO	0.041
+-0.132	28	0.832	Lexical (theory)	coord+coop	LOGO	0.888
+0.108	19	0.05	Lexical (theory)	satisfaction	LOGO	0.093
+-0.15	18	0.198	DA keywords	team_coordination	LOGO	0.277
+0.281	28	0.02	DA keywords	voice_inclusion	LOGO	0.051
+0.117	28	0.04	DA keywords	mental_demand	LOGO	0.086
+-0.037	28	0.604	DA keywords	coord+coop	LOGO	0.7
+-0.287	19	0.723	DA keywords	satisfaction	LOGO	0.808
+-0.182	13	0.149	Semantic + completion	team_coordination	LOGO	0.218
+-0.0	21	0.069	Semantic + completion	voice_inclusion	LOGO	0.111
+0.098	21	0.059	Semantic + completion	mental_demand	LOGO	0.097
+-0.014	21	0.317	Semantic + completion	coord+coop	LOGO	0.391
+0.454	14	0.02	Semantic + completion	satisfaction	LOGO	0.051
+-0.174	18	0.238	HMM states new K5 (v20260905)	team_coordination	LOGO	0.323
+0.101	28	0.02	HMM states new K5 (v20260905)	voice_inclusion	LOGO	0.051
+0.186	28	0.01	HMM states new K5 (v20260905)	mental_demand	LOGO	0.041
+0.01	28	0.208	HMM states new K5 (v20260905)	coord+coop	LOGO	0.286
+-0.19	19	0.297	HMM states new K5 (v20260905)	satisfaction	LOGO	0.371
+-0.313	18	0.752	K-Means clusters (no temporal, v20260905)	team_coordination	LOGO	0.821
+0.191	28	0.01	K-Means clusters (no temporal, v20260905)	voice_inclusion	LOGO	0.041
+0.169	28	0.02	K-Means clusters (no temporal, v20260905)	mental_demand	LOGO	0.051
+-0.097	28	0.95	K-Means clusters (no temporal, v20260905)	coord+coop	LOGO	0.96
+0.026	19	0.05	K-Means clusters (no temporal, v20260905)	satisfaction	LOGO	0.093
+-0.241	18	0.248	Continuous PCA (no discretization, v20260905)	team_coordination	LOGO	0.327
+0.532	28	0.02	Continuous PCA (no discretization, v20260905)	voice_inclusion	LOGO	0.051
+0.186	28	0.01	Continuous PCA (no discretization, v20260905)	mental_demand	LOGO	0.041
+0.04	28	0.079	Continuous PCA (no discretization, v20260905)	coord+coop	LOGO	0.123
+-0.111	19	0.129	Continuous PCA (no discretization, v20260905)	satisfaction	LOGO	0.191
+-0.01	17	0.059	Expanded raw	team_coordination	LOGO	0.097
+0.402	27	0.01	Expanded raw	voice_inclusion	LOGO	0.041
+-0.017	27	0.059	Expanded raw	mental_demand	LOGO	0.097
+-2.023	27	0.98	Expanded raw	coord+coop	LOGO	0.98
+0.079	18	0.05	Expanded raw	satisfaction	LOGO	0.093
+-0.269	18	0.267	States + Turn-taking	team_coordination	LOGO	0.343
+0.228	28	0.01	States + Turn-taking	voice_inclusion	LOGO	0.041
+-0.237	28	0.644	States + Turn-taking	mental_demand	LOGO	0.728
+0.051	28	0.099	States + Turn-taking	coord+coop	LOGO	0.149
+0.039	19	0.02	States + Turn-taking	satisfaction	LOGO	0.051
+-0.115	18	0.059	States + Lexical	team_coordination	LOGO	0.097
+0.135	28	0.02	States + Lexical	voice_inclusion	LOGO	0.051
+0.047	28	0.04	States + Lexical	mental_demand	LOGO	0.086
+-0.36	28	0.931	States + Lexical	coord+coop	LOGO	0.96
+-0.162	19	0.158	States + Lexical	satisfaction	LOGO	0.227
+-0.207	18	0.257	States + DA	team_coordination	LOGO	0.334
+0.054	28	0.05	States + DA	voice_inclusion	LOGO	0.093
+0.008	28	0.059	States + DA	mental_demand	LOGO	0.097
+0.034	28	0.079	States + DA	coord+coop	LOGO	0.123
+-0.544	19	0.851	States + DA	satisfaction	LOGO	0.898
+0.653	18	0.01	States + Lex + DA	team_coordination	LOGO	0.041
+-0.648	28	0.743	States + Lex + DA	voice_inclusion	LOGO	0.821
+-1.439	28	0.95	States + Lex + DA	mental_demand	LOGO	0.96
+0.533	28	0.01	States + Lex + DA	coord+coop	LOGO	0.041
+-0.218	19	0.277	States + Lex + DA	satisfaction	LOGO	0.351
+0.484	18	0.01	Turn + Lex + DA	team_coordination	LOGO	0.041
+0.257	28	0.01	Turn + Lex + DA	voice_inclusion	LOGO	0.041
+-0.58	28	0.792	Turn + Lex + DA	mental_demand	LOGO	0.855
+0.261	28	0.01	Turn + Lex + DA	coord+coop	LOGO	0.041
+-0.182	19	0.248	Turn + Lex + DA	satisfaction	LOGO	0.327
+-0.028	18	0.059	Overlap+Backchannel (rescue)	team_coordination	LOGO	0.097
+0.459	28	0.01	Overlap+Backchannel (rescue)	voice_inclusion	LOGO	0.041
+0.321	28	0.01	Overlap+Backchannel (rescue)	mental_demand	LOGO	0.041
+0.178	28	0.03	Overlap+Backchannel (rescue)	coord+coop	LOGO	0.068
+0.179	19	0.03	Overlap+Backchannel (rescue)	satisfaction	LOGO	0.068
+-0.177	20	0.644	Baseline (task-mean only)	team_coordination	L2GO	0.737
+0.362	30	0.01	Baseline (task-mean only)	voice_inclusion	L2GO	0.045
+0.422	30	0.01	Baseline (task-mean only)	mental_demand	L2GO	0.045
+0.0	30	1.0	Baseline (task-mean only)	coord+coop	L2GO	1.0
+0.356	20	0.01	Baseline (task-mean only)	satisfaction	L2GO	0.045
+-0.171	18	0.327	Physio only	team_coordination	L2GO	0.464
+0.3	28	0.01	Physio only	voice_inclusion	L2GO	0.045
+0.25	28	0.02	Physio only	mental_demand	L2GO	0.058
+0.0	28	0.277	Physio only	coord+coop	L2GO	0.399
+0.325	19	0.02	Physio only	satisfaction	L2GO	0.058
+-0.429	19	0.812	Eye-tracking only	team_coordination	L2GO	0.857
+0.076	29	0.03	Eye-tracking only	voice_inclusion	L2GO	0.071
+0.02	29	0.05	Eye-tracking only	mental_demand	L2GO	0.099
+-0.04	29	0.683	Eye-tracking only	coord+coop	L2GO	0.763
+0.22	19	0.02	Eye-tracking only	satisfaction	L2GO	0.058
+-0.427	18	0.693	Physio + ET	team_coordination	L2GO	0.766
+0.131	28	0.01	Physio + ET	voice_inclusion	L2GO	0.045
+0.07	28	0.03	Physio + ET	mental_demand	L2GO	0.071
+-0.04	28	0.594	Physio + ET	coord+coop	L2GO	0.697
+0.261	19	0.02	Physio + ET	satisfaction	L2GO	0.058
+-0.241	17	0.465	Audio only	team_coordination	L2GO	0.598
+0.493	27	0.01	Audio only	voice_inclusion	L2GO	0.045
+0.206	27	0.01	Audio only	mental_demand	L2GO	0.045
+0.079	27	0.03	Audio only	coord+coop	L2GO	0.071
+0.059	18	0.02	Audio only	satisfaction	L2GO	0.058
+0.144	18	0.03	Turn-taking only	team_coordination	L2GO	0.071
+0.28	28	0.01	Turn-taking only	voice_inclusion	L2GO	0.045
+-0.069	28	0.149	Turn-taking only	mental_demand	L2GO	0.236
+0.147	28	0.01	Turn-taking only	coord+coop	L2GO	0.045
+-0.146	19	0.208	Turn-taking only	satisfaction	L2GO	0.314
+-0.077	18	0.089	Lexical (theory)	team_coordination	L2GO	0.157
+0.256	28	0.01	Lexical (theory)	voice_inclusion	L2GO	0.045
+0.063	28	0.01	Lexical (theory)	mental_demand	L2GO	0.045
+-0.03	28	0.347	Lexical (theory)	coord+coop	L2GO	0.485
+0.043	19	0.04	Lexical (theory)	satisfaction	L2GO	0.083
+-0.811	18	0.891	DA keywords	team_coordination	L2GO	0.92
+0.325	28	0.02	DA keywords	voice_inclusion	L2GO	0.058
+0.059	28	0.03	DA keywords	mental_demand	L2GO	0.071
+-0.029	28	0.545	DA keywords	coord+coop	L2GO	0.647
+-0.11	19	0.277	DA keywords	satisfaction	L2GO	0.399
+-0.184	13	0.149	Semantic + completion	team_coordination	L2GO	0.236
+-0.053	21	0.149	Semantic + completion	voice_inclusion	L2GO	0.236
+0.269	21	0.04	Semantic + completion	mental_demand	L2GO	0.083
+-0.01	21	0.416	Semantic + completion	coord+coop	L2GO	0.549
+0.518	14	0.01	Semantic + completion	satisfaction	L2GO	0.045
+-0.262	18	0.475	HMM states new K5 (v20260905)	team_coordination	L2GO	0.598
+-0.067	28	0.178	HMM states new K5 (v20260905)	voice_inclusion	L2GO	0.273
+0.112	28	0.02	HMM states new K5 (v20260905)	mental_demand	L2GO	0.058
+-0.096	28	0.931	HMM states new K5 (v20260905)	coord+coop	L2GO	0.951
+0.043	19	0.05	HMM states new K5 (v20260905)	satisfaction	L2GO	0.099
+-0.311	18	0.614	K-Means clusters (no temporal, v20260905)	team_coordination	L2GO	0.711
+0.147	28	0.01	K-Means clusters (no temporal, v20260905)	voice_inclusion	L2GO	0.045
+0.091	28	0.04	K-Means clusters (no temporal, v20260905)	mental_demand	L2GO	0.083
+-0.048	28	0.752	K-Means clusters (no temporal, v20260905)	coord+coop	L2GO	0.821
+-0.249	19	0.525	K-Means clusters (no temporal, v20260905)	satisfaction	L2GO	0.639
+-0.411	18	0.396	Continuous PCA (no discretization, v20260905)	team_coordination	L2GO	0.537
+0.332	28	0.02	Continuous PCA (no discretization, v20260905)	voice_inclusion	L2GO	0.058
+0.157	28	0.01	Continuous PCA (no discretization, v20260905)	mental_demand	L2GO	0.045
+0.034	28	0.089	Continuous PCA (no discretization, v20260905)	coord+coop	L2GO	0.157
+0.034	19	0.04	Continuous PCA (no discretization, v20260905)	satisfaction	L2GO	0.083
+0.176	17	0.01	Expanded raw	team_coordination	L2GO	0.045
+-0.73	27	0.792	Expanded raw	voice_inclusion	L2GO	0.845
+-0.058	27	0.168	Expanded raw	mental_demand	L2GO	0.262
+-0.061	27	0.396	Expanded raw	coord+coop	L2GO	0.537
+0.128	18	0.02	Expanded raw	satisfaction	L2GO	0.058
+-0.056	18	0.089	States + Turn-taking	team_coordination	L2GO	0.157
+0.13	28	0.01	States + Turn-taking	voice_inclusion	L2GO	0.045
+-2.885	28	0.97	States + Turn-taking	mental_demand	L2GO	0.98
+0.11	28	0.04	States + Turn-taking	coord+coop	L2GO	0.083
+0.06	19	0.04	States + Turn-taking	satisfaction	L2GO	0.083
+-0.426	18	0.485	States + Lexical	team_coordination	L2GO	0.598
+-0.051	28	0.119	States + Lexical	voice_inclusion	L2GO	0.202
+-0.003	28	0.069	States + Lexical	mental_demand	L2GO	0.131
+-0.097	28	0.653	States + Lexical	coord+coop	L2GO	0.739
+-0.194	19	0.218	States + Lexical	satisfaction	L2GO	0.324
+-0.392	18	0.545	States + DA	team_coordination	L2GO	0.647
+-0.057	28	0.109	States + DA	voice_inclusion	L2GO	0.188
+0.018	28	0.089	States + DA	mental_demand	L2GO	0.157
+0.052	28	0.069	States + DA	coord+coop	L2GO	0.131
+-0.295	19	0.485	States + DA	satisfaction	L2GO	0.598
+0.354	18	0.01	States + Lex + DA	team_coordination	L2GO	0.045
+-0.874	28	0.762	States + Lex + DA	voice_inclusion	L2GO	0.823
+-0.26	28	0.485	States + Lex + DA	mental_demand	L2GO	0.598
+0.447	28	0.01	States + Lex + DA	coord+coop	L2GO	0.045
+-0.289	19	0.406	States + Lex + DA	satisfaction	L2GO	0.543
+0.237	18	0.01	Turn + Lex + DA	team_coordination	L2GO	0.045
+0.154	28	0.02	Turn + Lex + DA	voice_inclusion	L2GO	0.058
+-0.722	28	0.851	Turn + Lex + DA	mental_demand	L2GO	0.888
+0.288	28	0.02	Turn + Lex + DA	coord+coop	L2GO	0.058
+-0.071	19	0.149	Turn + Lex + DA	satisfaction	L2GO	0.236
+0.044	18	0.03	Overlap+Backchannel (rescue)	team_coordination	L2GO	0.071
+0.483	28	0.01	Overlap+Backchannel (rescue)	voice_inclusion	L2GO	0.045
+0.163	28	0.01	Overlap+Backchannel (rescue)	mental_demand	L2GO	0.045
+0.227	28	0.03	Overlap+Backchannel (rescue)	coord+coop	L2GO	0.071
+0.203	19	0.02	Overlap+Backchannel (rescue)	satisfaction	L2GO	0.058

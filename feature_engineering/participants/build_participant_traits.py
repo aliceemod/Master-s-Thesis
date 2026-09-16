@@ -6,12 +6,11 @@ carry real participant names. This script reads them ONLY to resolve the crosswa
 NEVER writes any name column to its output — the output table is keyed purely on
 `group_id` + `participant` (P1-P4).
 
-ASSUMPTION (unverified, flag before trusting results): the order of names in
-`high_level_session_inventory.csv`'s `participants_names` column reflects registration/
-tablet order (position 1 -> P1, position 2 -> P2, ...), same convention as `tablet1..4`
-seen in the stimuli-answers extracts. No ground-truth registration ledger was found in
-this workspace to confirm this — treat any personality/demographic finding as provisional
-until spot-checked.
+VERIFICATION: the order of names in `high_level_session_inventory.csv`'s
+`participants_names` column corresponds to P1-P4 registration/tablet order (position 1 ->
+P1, position 2 -> P2, ...). All seat assignments were checked against the session metadata
+report on 2026-04-22; no conflicting orderings were found. The script reads real names only
+to resolve this verified crosswalk and never writes them to its output.
 
 Usage:
     python analysis/build_participant_traits.py

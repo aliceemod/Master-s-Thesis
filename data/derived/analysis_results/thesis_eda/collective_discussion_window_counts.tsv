@@ -1,0 +1,7 @@
+task_id	analysis_segment	n_windows
+T1	discussion	389
+T1	pre_discussion	52
+T2	discussion	576
+T2	pre_discussion	25
+T3	discussion	454
+T3	pre_discussion	84

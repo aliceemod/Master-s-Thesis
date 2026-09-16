@@ -1,0 +1,25 @@
+family	granularity	feature	n_rows	n_observed	coverage_pct	zero_pct	mean	median	sd	min	max	iqr	skew	n_unique	low_coverage	near_constant	sparse_count	strongly_skewed	recommended_handling
+self_report_targets	group_task	cooperative_mean	30	10	33.333333333333336	0.0	3.7	3.75	0.6213783960769083	2.5	4.5	0.8125	-0.7467732703745061	7	True	False	False	False	review: low coverage
+self_report_targets	group_task	engagement_mean	30	30	100.0	0.0	5.4028	5.375	0.7162123264449755	3.667	6.667	0.9375	-0.5437593983942274	12	False	False	False	False	eligible for theory review
+self_report_targets	group_task	equality_of_contribution_mean	30	10	33.333333333333336	0.0	5.05	5.5	0.83166499665831	3.75	6.0	1.375	-0.5351074318025774	7	True	False	False	False	review: low coverage
+self_report_targets	group_task	fairness_mean	30	10	33.333333333333336	0.0	6.2	6.25	0.3872983346207417	5.75	6.75	0.625	0.18827002377397	5	True	False	False	False	review: low coverage
+self_report_targets	group_task	info_sharing_mean	30	10	33.333333333333336	0.0	5.4	5.375	0.6687467549246293	4.5	6.5	0.9375	0.10100472765440659	7	True	False	False	False	review: low coverage
+self_report_targets	group_task	mental_demand_mean	30	30	100.0	0.0	3.8222333333333336	3.875	0.9566078605419123	2.25	5.75	1.5	0.07134714849622516	14	False	False	False	False	eligible for theory review
+self_report_targets	group_task	perceived_control_mean	30	20	66.66666666666667	0.0	4.8957999999999995	5.0	0.7049496137276315	3.25	6.333	0.5625	-0.45396740695719245	11	True	False	False	False	review: low coverage
+self_report_targets	group_task	perceived_dominance_P1	30	30	100.0	0.0	4.3501666666666665	4.3335	1.181290150445787	2.333	6.667	1.5827500000000008	0.1878439694993426	12	False	False	False	False	eligible for theory review
+self_report_targets	group_task	perceived_dominance_P2	30	30	100.0	0.0	4.6667000000000005	4.667	0.6892830933358374	3.0	5.667	0.6669999999999998	-0.40070385240236966	8	False	False	False	False	eligible for theory review
+self_report_targets	group_task	perceived_dominance_P3	30	30	100.0	0.0	4.8444666666666665	4.667	0.9498105340407174	2.333	6.333	1.2504999999999997	-0.3635714819183141	11	False	False	False	False	eligible for theory review
+self_report_targets	group_task	perceived_dominance_P4	30	30	100.0	0.0	4.655566666666667	4.667	1.1158364632165767	1.667	6.667	1.3330000000000002	-0.6423587006278694	13	False	False	False	False	eligible for theory review
+self_report_targets	group_task	psych_safety_mean	30	10	33.333333333333336	0.0	6.35	6.375	0.31622776601683794	5.75	6.75	0.25	-0.5435164728414361	5	True	False	False	False	review: low coverage
+self_report_targets	group_task	satisfaction_mean	30	20	66.66666666666667	0.0	5.58335	5.5	0.746851093098991	4.0	7.0	0.8125	-0.11981656025268103	12	True	False	False	False	review: low coverage
+self_report_targets	group_task	team_coordination_mean	30	20	66.66666666666667	0.0	5.75	5.75	0.6488856845230502	4.5	6.75	1.0625	-0.08026580733032519	10	True	False	False	False	review: low coverage
+self_report_targets	group_task	trust_angle_mean	30	10	33.333333333333336	0.0	4.525	4.625	0.6395527951449964	3.5	5.5	0.9375	-0.038824348672332795	7	True	False	False	False	review: low coverage
+self_report_targets	group_task	trust_front_mean	30	10	33.333333333333336	0.0	5.8	6.0	0.5627314338711378	4.5	6.25	0.5625	-1.625062381746982	5	True	False	False	True	review: low coverage
+self_report_targets	group_task	trust_next_mean	30	10	33.333333333333336	0.0	4.625	4.5	0.6373774391990981	3.5	5.75	0.75	0.10057237699394055	6	True	False	False	False	review: low coverage
+self_report_targets	group_task	vad_arousal_mean	30	30	100.0	0.0	6.4244666666666665	6.5835	0.9209183098045848	4.375	8.083	1.1560000000000006	-0.4806224189860805	25	False	False	False	False	eligible for theory review
+self_report_targets	group_task	vad_arousal_std	30	30	100.0	0.0	1.4865666666666664	1.3025	0.6820347692286527	0.5	3.215	0.849	0.9213031824967146	29	False	False	False	False	eligible for theory review
+self_report_targets	group_task	vad_dominance_mean	30	30	100.0	0.0	5.819433333333333	5.7915	0.8445466314204789	4.083	7.375	0.7562500000000005	-0.1926937518675822	26	False	False	False	False	eligible for theory review
+self_report_targets	group_task	vad_dominance_std	30	30	100.0	0.0	1.4760999999999997	1.498	0.5809066842979765	0.509	3.0	0.7887500000000001	0.41220572440571795	29	False	False	False	False	eligible for theory review
+self_report_targets	group_task	vad_valence_mean	30	30	100.0	0.0	6.6716999999999995	6.75	0.9519648700414861	4.583	8.25	0.9792500000000004	-0.6384751509586811	24	False	False	False	False	eligible for theory review
+self_report_targets	group_task	vad_valence_std	30	30	100.0	0.0	1.1366000000000003	1.08	0.5726342998627574	0.096	2.303	0.6055	0.452291431727878	25	False	False	False	False	eligible for theory review
+self_report_targets	group_task	voice_inclusion_mean	30	30	100.0	0.0	5.5	5.5	0.7823483658302364	4.0	6.75	0.75	-0.3978310281227167	11	False	False	False	False	eligible for theory review

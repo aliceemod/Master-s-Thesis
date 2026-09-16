@@ -1,0 +1,13 @@
+family	granularity	n_features	median_coverage_pct	n_low_coverage	n_near_constant	n_sparse	n_strongly_skewed
+audio_prosody	participant_task	4	100.0	0	0	0	1
+bert_semantics	window	11	100.0	0	0	0	1
+dialogue_acts_keyword	window	11	100.0	0	0	5	10
+dialogue_acts_nli	window	12	100.0	0	0	0	10
+eye_tracking	window	23	99.22405431619786	0	0	0	17
+lexical	window	38	75.2199413489736	20	0	2	24
+participant_traits	participant	6	100.0	0	0	0	0
+physiology	window	111	92.16348393106661	9	0	2	82
+self_report_targets	group_task	24	100.0	11	0	0	1
+semantic_biomarkers	window	121	47.01235447849846	118	0	2	86
+semantic_continuity	window	2	74.31906614785993	2	0	0	2
+turn_taking	group_task	18	100.0	7	9	6	7

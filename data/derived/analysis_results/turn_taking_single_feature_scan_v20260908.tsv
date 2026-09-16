@@ -1,0 +1,53 @@
+Target	Feature	CV	R2	n	p	q
+coord+coop (centered)	tr_ovl_count	L2GO	0.025	28	0.05	0.325
+coord+coop (centered)	tr_ovl_time_s	L2GO	0.023	28	0.032	0.325
+coord+coop (centered)	tr_ovl_competitive_timing	L2GO	-0.056	28	0.176	0.7626666666666666
+coord+coop (centered)	tr_silence_duration_s	L2GO	-0.166	28	0.725	0.8360000000000001
+coord+coop (centered)	tr_backchannel_count	L2GO	-0.14	28	0.619	0.8360000000000001
+coord+coop (centered)	tr_laughter_count	L2GO	-0.188	28	0.798	0.8360000000000001
+coord+coop (centered)	tr_n_active_speakers	L2GO	-0.183	28	0.78	0.8360000000000001
+coord+coop (centered)	tr_speaking_entropy	L2GO	-0.186	28	0.824	0.8360000000000001
+coord+coop (centered)	tr_spk_count	L2GO	-0.216	28	0.836	0.8360000000000001
+coord+coop (centered)	tr_ovl_simultaneous	L2GO	-0.131	28	0.601	0.8360000000000001
+coord+coop (centered)	tr_ovl_smooth	L2GO	-0.165	28	0.731	0.8360000000000001
+coord+coop (centered)	tr_ovl_floor_fight	L2GO	-0.123	28	0.517	0.8360000000000001
+coord+coop (centered)	tr_conflict_overlap_ratio	L2GO	-0.198	28	0.832	0.8360000000000001
+coord+coop (centered)	tr_ovl_count	LOGO	-0.063	28	0.092	0.598
+coord+coop (centered)	tr_ovl_competitive_timing	LOGO	-0.021	28	0.068	0.598
+coord+coop (centered)	tr_silence_duration_s	LOGO	-0.135	28	0.651	0.832
+coord+coop (centered)	tr_backchannel_count	LOGO	-0.151	28	0.758	0.832
+coord+coop (centered)	tr_n_active_speakers	LOGO	-0.133	28	0.659	0.832
+coord+coop (centered)	tr_ovl_time_s	LOGO	-0.086	28	0.267	0.832
+coord+coop (centered)	tr_speaking_entropy	LOGO	-0.132	28	0.673	0.832
+coord+coop (centered)	tr_spk_count	LOGO	-0.084	28	0.202	0.832
+coord+coop (centered)	tr_ovl_simultaneous	LOGO	-0.143	28	0.745	0.832
+coord+coop (centered)	tr_ovl_smooth	LOGO	-0.128	28	0.631	0.832
+coord+coop (centered)	tr_ovl_floor_fight	LOGO	-0.162	28	0.768	0.832
+coord+coop (centered)	tr_conflict_overlap_ratio	LOGO	-0.15	28	0.768	0.832
+coord+coop (centered)	tr_laughter_count	LOGO	-0.257	28	0.95	0.95
+team_coord	tr_ovl_time_s	L2GO	0.156	18	0.008	0.065
+team_coord	tr_ovl_competitive_timing	L2GO	0.272	18	0.01	0.065
+team_coord	tr_ovl_count	L2GO	0.016	18	0.038	0.16466666666666666
+team_coord	tr_ovl_floor_fight	L2GO	-0.131	18	0.289	0.9392499999999999
+team_coord	tr_silence_duration_s	L2GO	-0.58	18	0.978	0.978
+team_coord	tr_backchannel_count	L2GO	-0.226	18	0.613	0.978
+team_coord	tr_laughter_count	L2GO	-0.282	18	0.743	0.978
+team_coord	tr_n_active_speakers	L2GO	-0.273	18	0.729	0.978
+team_coord	tr_speaking_entropy	L2GO	-0.493	18	0.964	0.978
+team_coord	tr_spk_count	L2GO	-0.288	18	0.749	0.978
+team_coord	tr_ovl_simultaneous	L2GO	-0.204	18	0.547	0.978
+team_coord	tr_ovl_smooth	L2GO	-0.29	18	0.77	0.978
+team_coord	tr_conflict_overlap_ratio	L2GO	-0.398	18	0.904	0.978
+team_coord	tr_ovl_competitive_timing	LOGO	0.224	18	0.01	0.13
+team_coord	tr_ovl_count	LOGO	-0.02	18	0.068	0.2946666666666667
+team_coord	tr_ovl_time_s	LOGO	-0.056	18	0.052	0.2946666666666667
+team_coord	tr_spk_count	LOGO	-0.102	18	0.106	0.3445
+team_coord	tr_n_active_speakers	LOGO	-0.151	18	0.331	0.7171666666666666
+team_coord	tr_ovl_floor_fight	LOGO	-0.152	18	0.315	0.7171666666666666
+team_coord	tr_backchannel_count	LOGO	-0.216	18	0.695	0.9061
+team_coord	tr_speaking_entropy	LOGO	-0.195	18	0.603	0.9061
+team_coord	tr_ovl_simultaneous	LOGO	-0.209	18	0.697	0.9061
+team_coord	tr_ovl_smooth	LOGO	-0.183	18	0.543	0.9061
+team_coord	tr_laughter_count	LOGO	-0.27	18	0.822	0.9714545454545455
+team_coord	tr_silence_duration_s	LOGO	-0.497	18	0.984	0.984
+team_coord	tr_conflict_overlap_ratio	LOGO	-0.342	18	0.95	0.984

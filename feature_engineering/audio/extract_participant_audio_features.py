@@ -30,12 +30,34 @@ GEMAP_MAP = {
 }
 
 
+TIMING_PATH = REPO_ROOT / "analysis" / "results" / "session_timing" / "task_timing.tsv"
+
+# Discussion-start phase per task (windows before this are pre-discussion silence)
+DISCUSSION_START_PHASE = {"T1": "discussion_selection", "T2": "role_card", "T3": "show_ideas_discussion"}
+
+
 def main() -> None:
     if not SRC_PATH.exists():
         raise FileNotFoundError(f"Missing source file: {SRC_PATH}")
 
     windows = pd.read_csv(SRC_PATH, sep="\t")
     logger.info("Loaded %d participant-window rows from %s", len(windows), SRC_PATH.name)
+
+    # Filter to discussion-only windows using phase timing
+    if TIMING_PATH.exists():
+        timing = pd.read_csv(TIMING_PATH, sep="\t")
+        disc_onsets = timing[timing["discussion_onset_s"].notna()][
+            ["group_id", "task", "discussion_onset_s"]
+        ].rename(columns={"task": "task_id"})
+        n_before = len(windows)
+        windows = windows.merge(disc_onsets, on=["group_id", "task_id"], how="left")
+        # Keep windows that start at or after discussion onset (or have no timing data)
+        mask = windows["discussion_onset_s"].isna() | (windows["window_start_s"] >= windows["discussion_onset_s"])
+        windows = windows[mask].drop(columns=["discussion_onset_s"]).reset_index(drop=True)
+        logger.info("Discussion-only filter: %d -> %d windows (%d pre-discussion dropped)",
+                     n_before, len(windows), n_before - len(windows))
+    else:
+        logger.warning("No timing data at %s — using all windows (no discussion filter)", TIMING_PATH)
 
     windows = windows.rename(columns=GEMAP_MAP)
     result = (

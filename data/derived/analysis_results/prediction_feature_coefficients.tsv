@@ -1,0 +1,526 @@
+Model	Target	Feature	Coefficient	Abs_coef
+Physio only	voice_inclusion	group_hr_mean_bpm_mean	0.0132	0.0132
+Physio only	voice_inclusion	group_eda_phasic_rate_hz_mean	-0.0037	0.0037
+Physio only	voice_inclusion	group_temp_mean_mean	-0.1637	0.1637
+Physio only	voice_inclusion	group_hrv_rmssd_ms_mean	0.0959	0.0959
+Physio only	voice_inclusion	group_eda_tonic_mean_mean	-0.0898	0.0898
+Physio only	mental_demand	group_hr_mean_bpm_mean	0.1087	0.1087
+Physio only	mental_demand	group_eda_phasic_rate_hz_mean	0.0663	0.0663
+Physio only	mental_demand	group_temp_mean_mean	0.0287	0.0287
+Physio only	mental_demand	group_hrv_rmssd_ms_mean	-0.0901	0.0901
+Physio only	mental_demand	group_eda_tonic_mean_mean	-0.0077	0.0077
+Eye-tracking only	voice_inclusion	group_et_pupil_mean_mean	0.0269	0.0269
+Eye-tracking only	mental_demand	group_et_pupil_mean_mean	0.0921	0.0921
+Eye-tracking only	satisfaction	group_et_pupil_mean_mean	-0.1551	0.1551
+Physio + ET	voice_inclusion	group_hr_mean_bpm_mean	0.0273	0.0273
+Physio + ET	voice_inclusion	group_eda_phasic_rate_hz_mean	0.0094	0.0094
+Physio + ET	voice_inclusion	group_temp_mean_mean	-0.1756	0.1756
+Physio + ET	voice_inclusion	group_hrv_rmssd_ms_mean	0.1015	0.1015
+Physio + ET	voice_inclusion	group_eda_tonic_mean_mean	-0.0902	0.0902
+Physio + ET	voice_inclusion	group_et_pupil_mean_mean	-0.0773	0.0773
+Physio + ET	mental_demand	group_hr_mean_bpm_mean	0.087	0.087
+Physio + ET	mental_demand	group_eda_phasic_rate_hz_mean	0.0462	0.0462
+Physio + ET	mental_demand	group_temp_mean_mean	0.0469	0.0469
+Physio + ET	mental_demand	group_hrv_rmssd_ms_mean	-0.0987	0.0987
+Physio + ET	mental_demand	group_eda_tonic_mean_mean	-0.0072	0.0072
+Physio + ET	mental_demand	group_et_pupil_mean_mean	0.1181	0.1181
+Audio only	voice_inclusion	audio_energy_mean	0.1761	0.1761
+Audio only	voice_inclusion	audio_pitch_mean	1.1731	1.1731
+Audio only	voice_inclusion	audio_pitch_sd	-0.1785	0.1785
+Audio only	voice_inclusion	audio_hnr_mean	-1.4345	1.4345
+Audio only	mental_demand	audio_energy_mean	-0.3221	0.3221
+Audio only	mental_demand	audio_pitch_mean	-0.2264	0.2264
+Audio only	mental_demand	audio_pitch_sd	0.2911	0.2911
+Audio only	mental_demand	audio_hnr_mean	0.1798	0.1798
+Audio only	satisfaction	audio_energy_mean	0.0481	0.0481
+Audio only	satisfaction	audio_pitch_mean	-0.034	0.034
+Audio only	satisfaction	audio_pitch_sd	0.0134	0.0134
+Audio only	satisfaction	audio_hnr_mean	-0.0572	0.0572
+Turn-taking only	voice_inclusion	tr_silence_duration_s	-0.2295	0.2295
+Turn-taking only	voice_inclusion	tr_backchannel_count	0.2774	0.2774
+Turn-taking only	voice_inclusion	tr_n_active_speakers	-0.1483	0.1483
+Turn-taking only	voice_inclusion	tr_speaking_entropy	-0.0515	0.0515
+Turn-taking only	voice_inclusion	tr_overlap_count	0.1703	0.1703
+Turn-taking only	voice_inclusion	tr_competitive_overlap	0.5357	0.5357
+Turn-taking only	voice_inclusion	tr_cooperative_overlap	0.033	0.033
+Turn-taking only	voice_inclusion	tr_collaborative_overlap	0.0083	0.0083
+Turn-taking only	voice_inclusion	tr_filled_pause_count	0.3454	0.3454
+Turn-taking only	voice_inclusion	tr_conflict_overlap_ratio	0.0317	0.0317
+Turn-taking only	voice_inclusion	tr_ovl_smooth	0.1156	0.1156
+Turn-taking only	voice_inclusion	tr_ovl_floor_fight	-0.3973	0.3973
+Turn-taking only	voice_inclusion	tr_ovl_completion_index	-0.006	0.006
+Turn-taking only	coord+coop	tr_silence_duration_s	0.1041	0.1041
+Turn-taking only	coord+coop	tr_backchannel_count	0.1836	0.1836
+Turn-taking only	coord+coop	tr_n_active_speakers	0.0588	0.0588
+Turn-taking only	coord+coop	tr_speaking_entropy	0.0406	0.0406
+Turn-taking only	coord+coop	tr_overlap_count	0.1024	0.1024
+Turn-taking only	coord+coop	tr_competitive_overlap	0.2093	0.2093
+Turn-taking only	coord+coop	tr_cooperative_overlap	0.011	0.011
+Turn-taking only	coord+coop	tr_collaborative_overlap	0.0676	0.0676
+Turn-taking only	coord+coop	tr_filled_pause_count	0.1791	0.1791
+Turn-taking only	coord+coop	tr_conflict_overlap_ratio	-0.2073	0.2073
+Turn-taking only	coord+coop	tr_ovl_smooth	-0.0035	0.0035
+Turn-taking only	coord+coop	tr_ovl_floor_fight	0.0268	0.0268
+Turn-taking only	coord+coop	tr_ovl_completion_index	-0.1224	0.1224
+Turn-taking only	satisfaction	tr_silence_duration_s	-0.054	0.054
+Turn-taking only	satisfaction	tr_backchannel_count	0.0353	0.0353
+Turn-taking only	satisfaction	tr_n_active_speakers	0.0481	0.0481
+Turn-taking only	satisfaction	tr_speaking_entropy	-0.2469	0.2469
+Turn-taking only	satisfaction	tr_overlap_count	-0.0264	0.0264
+Turn-taking only	satisfaction	tr_competitive_overlap	0.0431	0.0431
+Turn-taking only	satisfaction	tr_cooperative_overlap	-0.0209	0.0209
+Turn-taking only	satisfaction	tr_collaborative_overlap	0.1216	0.1216
+Turn-taking only	satisfaction	tr_filled_pause_count	-0.1376	0.1376
+Turn-taking only	satisfaction	tr_conflict_overlap_ratio	-0.4045	0.4045
+Turn-taking only	satisfaction	tr_ovl_smooth	0.2165	0.2165
+Turn-taking only	satisfaction	tr_ovl_floor_fight	-0.2777	0.2777
+Turn-taking only	satisfaction	tr_ovl_completion_index	-0.2187	0.2187
+Lexical (theory)	effectiveness_z	lex_we_i_ratio	-0.0057	0.0057
+Lexical (theory)	effectiveness_z	lex_turn_cohesion	0.1497	0.1497
+Lexical (theory)	effectiveness_z	lex_word_gini	0.1323	0.1323
+Lexical (theory)	effectiveness_z	lex_hedging_count	0.0192	0.0192
+Lexical (theory)	effectiveness_z	lex_agreement_count	0.0576	0.0576
+Lexical (theory)	effectiveness_z	lex_question_count	0.0337	0.0337
+Lexical (theory)	effectiveness_z	lex_suggestion_count	-0.0447	0.0447
+Lexical (theory)	effectiveness_z	lex_social_composite	0.1044	0.1044
+Lexical (theory)	effectiveness_z	lex_sentiment_ratio	0.1251	0.1251
+Lexical (theory)	voice_inclusion	lex_we_i_ratio	-0.0797	0.0797
+Lexical (theory)	voice_inclusion	lex_turn_cohesion	0.1541	0.1541
+Lexical (theory)	voice_inclusion	lex_word_gini	0.0221	0.0221
+Lexical (theory)	voice_inclusion	lex_hedging_count	-0.0103	0.0103
+Lexical (theory)	voice_inclusion	lex_agreement_count	0.0983	0.0983
+Lexical (theory)	voice_inclusion	lex_question_count	-0.0334	0.0334
+Lexical (theory)	voice_inclusion	lex_suggestion_count	-0.14	0.14
+Lexical (theory)	voice_inclusion	lex_social_composite	0.0672	0.0672
+Lexical (theory)	voice_inclusion	lex_sentiment_ratio	0.1544	0.1544
+Lexical (theory)	mental_demand	lex_we_i_ratio	0.196	0.196
+Lexical (theory)	mental_demand	lex_turn_cohesion	0.0371	0.0371
+Lexical (theory)	mental_demand	lex_word_gini	0.0904	0.0904
+Lexical (theory)	mental_demand	lex_hedging_count	0.048	0.048
+Lexical (theory)	mental_demand	lex_agreement_count	0.0842	0.0842
+Lexical (theory)	mental_demand	lex_question_count	-0.0303	0.0303
+Lexical (theory)	mental_demand	lex_suggestion_count	0.0095	0.0095
+Lexical (theory)	mental_demand	lex_social_composite	-0.0255	0.0255
+Lexical (theory)	mental_demand	lex_sentiment_ratio	-0.1398	0.1398
+Lexical (theory)	cooperative	lex_we_i_ratio	0.0972	0.0972
+Lexical (theory)	cooperative	lex_turn_cohesion	-0.2289	0.2289
+Lexical (theory)	cooperative	lex_word_gini	-0.026	0.026
+Lexical (theory)	cooperative	lex_hedging_count	-0.0755	0.0755
+Lexical (theory)	cooperative	lex_agreement_count	-0.1294	0.1294
+Lexical (theory)	cooperative	lex_question_count	0.3165	0.3165
+Lexical (theory)	cooperative	lex_suggestion_count	-0.1647	0.1647
+Lexical (theory)	cooperative	lex_social_composite	0.3248	0.3248
+Lexical (theory)	cooperative	lex_sentiment_ratio	0.1839	0.1839
+DA keywords	voice_inclusion	da_agreement	0.0725	0.0725
+DA keywords	voice_inclusion	da_disagreement	0.0471	0.0471
+DA keywords	voice_inclusion	da_compromise	-0.0764	0.0764
+DA keywords	voice_inclusion	da_proposal	-0.1865	0.1865
+DA keywords	voice_inclusion	da_question	0.0555	0.0555
+DA keywords	voice_inclusion	da_hedge	-0.0312	0.0312
+DA keywords	voice_inclusion	da_backchannel	0.0199	0.0199
+DA keywords	mental_demand	da_agreement	0.282	0.282
+DA keywords	mental_demand	da_disagreement	-0.2226	0.2226
+DA keywords	mental_demand	da_compromise	0.0275	0.0275
+DA keywords	mental_demand	da_proposal	0.2166	0.2166
+DA keywords	mental_demand	da_question	-0.1764	0.1764
+DA keywords	mental_demand	da_hedge	-0.0982	0.0982
+DA keywords	mental_demand	da_backchannel	0.3591	0.3591
+Semantic + completion	voice_inclusion	tr_semantic_continuity	0.1326	0.1326
+Semantic + completion	voice_inclusion	tr_cross_speaker_similarity	0.0254	0.0254
+Semantic + completion	voice_inclusion	tr_completion_count	0.0636	0.0636
+Semantic + completion	voice_inclusion	tr_repetition_count	-0.1169	0.1169
+Semantic + completion	satisfaction	tr_semantic_continuity	0.1503	0.1503
+Semantic + completion	satisfaction	tr_cross_speaker_similarity	0.1775	0.1775
+Semantic + completion	satisfaction	tr_completion_count	0.2366	0.2366
+Semantic + completion	satisfaction	tr_repetition_count	0.1443	0.1443
+HMM states (K=4)	voice_inclusion	new_S0_pct	-0.0925	0.0925
+HMM states (K=4)	voice_inclusion	new_S1_pct	0.0886	0.0886
+HMM states (K=4)	voice_inclusion	new_S2_pct	0.0893	0.0893
+HMM states (K=4)	voice_inclusion	new_S3_pct	-0.1954	0.1954
+HMM states (K=4)	mental_demand	new_S0_pct	0.025	0.025
+HMM states (K=4)	mental_demand	new_S1_pct	-0.0932	0.0932
+HMM states (K=4)	mental_demand	new_S2_pct	0.141	0.141
+HMM states (K=4)	mental_demand	new_S3_pct	-0.0867	0.0867
+HMM states (K=4)	satisfaction	new_S0_pct	0.0302	0.0302
+HMM states (K=4)	satisfaction	new_S1_pct	0.0182	0.0182
+HMM states (K=4)	satisfaction	new_S2_pct	-0.0411	0.0411
+HMM states (K=4)	satisfaction	new_S3_pct	-0.0622	0.0622
+HMM states (K=5)	voice_inclusion	old_S0_pct	-0.0879	0.0879
+HMM states (K=5)	voice_inclusion	old_S1_pct	0.1086	0.1086
+HMM states (K=5)	voice_inclusion	old_S2_pct	0.1222	0.1222
+HMM states (K=5)	voice_inclusion	old_S3_pct	-0.1545	0.1545
+HMM states (K=5)	voice_inclusion	old_S4_pct	-0.0045	0.0045
+HMM states (K=5)	mental_demand	old_S0_pct	0.4097	0.4097
+HMM states (K=5)	mental_demand	old_S1_pct	-0.0015	0.0015
+HMM states (K=5)	mental_demand	old_S2_pct	0.0545	0.0545
+HMM states (K=5)	mental_demand	old_S3_pct	-0.1994	0.1994
+HMM states (K=5)	mental_demand	old_S4_pct	-0.2034	0.2034
+Expanded raw (19)	voice_inclusion	group_hr_mean_bpm_mean	0.0502	0.0502
+Expanded raw (19)	voice_inclusion	group_eda_phasic_rate_hz_mean	-0.0486	0.0486
+Expanded raw (19)	voice_inclusion	group_hrv_rmssd_ms_mean	0.1377	0.1377
+Expanded raw (19)	voice_inclusion	group_eda_tonic_mean_mean	-0.1123	0.1123
+Expanded raw (19)	voice_inclusion	group_temp_mean_mean	-0.1026	0.1026
+Expanded raw (19)	voice_inclusion	group_et_pupil_mean_mean	-0.0578	0.0578
+Expanded raw (19)	voice_inclusion	tr_silence_duration_s	-0.0272	0.0272
+Expanded raw (19)	voice_inclusion	tr_backchannel_count	0.1795	0.1795
+Expanded raw (19)	voice_inclusion	tr_overlap_count	0.0788	0.0788
+Expanded raw (19)	voice_inclusion	tr_competitive_overlap	0.0961	0.0961
+Expanded raw (19)	voice_inclusion	tr_laughter_count	0.0844	0.0844
+Expanded raw (19)	voice_inclusion	tr_n_active_speakers	0.0384	0.0384
+Expanded raw (19)	voice_inclusion	tr_speaking_entropy	0.0028	0.0028
+Expanded raw (19)	voice_inclusion	tr_cooperative_overlap	0.0656	0.0656
+Expanded raw (19)	voice_inclusion	tr_collaborative_overlap	0.0215	0.0215
+Expanded raw (19)	voice_inclusion	lex_word_gini	0.0859	0.0859
+Expanded raw (19)	voice_inclusion	lex_we_i_ratio	-0.1901	0.1901
+Expanded raw (19)	voice_inclusion	lex_turn_cohesion	0.0585	0.0585
+Expanded raw (19)	voice_inclusion	lex_hedging_count	-0.0436	0.0436
+Expanded raw (19)	coord+coop	group_hr_mean_bpm_mean	0.1709	0.1709
+Expanded raw (19)	coord+coop	group_eda_phasic_rate_hz_mean	-0.052	0.052
+Expanded raw (19)	coord+coop	group_hrv_rmssd_ms_mean	0.1159	0.1159
+Expanded raw (19)	coord+coop	group_eda_tonic_mean_mean	0.1408	0.1408
+Expanded raw (19)	coord+coop	group_temp_mean_mean	0.1093	0.1093
+Expanded raw (19)	coord+coop	group_et_pupil_mean_mean	-0.0735	0.0735
+Expanded raw (19)	coord+coop	tr_silence_duration_s	-0.0478	0.0478
+Expanded raw (19)	coord+coop	tr_backchannel_count	0.2242	0.2242
+Expanded raw (19)	coord+coop	tr_overlap_count	0.1267	0.1267
+Expanded raw (19)	coord+coop	tr_competitive_overlap	0.0594	0.0594
+Expanded raw (19)	coord+coop	tr_laughter_count	0.2135	0.2135
+Expanded raw (19)	coord+coop	tr_n_active_speakers	0.1262	0.1262
+Expanded raw (19)	coord+coop	tr_speaking_entropy	-0.0246	0.0246
+Expanded raw (19)	coord+coop	tr_cooperative_overlap	0.0894	0.0894
+Expanded raw (19)	coord+coop	tr_collaborative_overlap	0.1134	0.1134
+Expanded raw (19)	coord+coop	lex_word_gini	0.2318	0.2318
+Expanded raw (19)	coord+coop	lex_we_i_ratio	-0.1283	0.1283
+Expanded raw (19)	coord+coop	lex_turn_cohesion	0.1559	0.1559
+Expanded raw (19)	coord+coop	lex_hedging_count	-0.0614	0.0614
+Expanded raw (19)	cooperative	group_hr_mean_bpm_mean	0.2424	0.2424
+Expanded raw (19)	cooperative	group_eda_phasic_rate_hz_mean	0.1076	0.1076
+Expanded raw (19)	cooperative	group_hrv_rmssd_ms_mean	0.1255	0.1255
+Expanded raw (19)	cooperative	group_eda_tonic_mean_mean	-0.0071	0.0071
+Expanded raw (19)	cooperative	group_temp_mean_mean	0.0764	0.0764
+Expanded raw (19)	cooperative	group_et_pupil_mean_mean	0.0019	0.0019
+Expanded raw (19)	cooperative	tr_silence_duration_s	0.1101	0.1101
+Expanded raw (19)	cooperative	tr_backchannel_count	0.1525	0.1525
+Expanded raw (19)	cooperative	tr_overlap_count	0.1155	0.1155
+Expanded raw (19)	cooperative	tr_competitive_overlap	0.0718	0.0718
+Expanded raw (19)	cooperative	tr_laughter_count	-0.0215	0.0215
+Expanded raw (19)	cooperative	tr_n_active_speakers	0.0771	0.0771
+Expanded raw (19)	cooperative	tr_speaking_entropy	0.0082	0.0082
+Expanded raw (19)	cooperative	tr_cooperative_overlap	0.1207	0.1207
+Expanded raw (19)	cooperative	tr_collaborative_overlap	0.0007	0.0007
+Expanded raw (19)	cooperative	lex_word_gini	-0.0262	0.0262
+Expanded raw (19)	cooperative	lex_we_i_ratio	-0.0847	0.0847
+Expanded raw (19)	cooperative	lex_turn_cohesion	-0.0469	0.0469
+Expanded raw (19)	cooperative	lex_hedging_count	-0.0728	0.0728
+Expanded raw (19)	team_coordination	group_hr_mean_bpm_mean	-0.0544	0.0544
+Expanded raw (19)	team_coordination	group_eda_phasic_rate_hz_mean	-0.012	0.012
+Expanded raw (19)	team_coordination	group_hrv_rmssd_ms_mean	-0.0446	0.0446
+Expanded raw (19)	team_coordination	group_eda_tonic_mean_mean	0.0797	0.0797
+Expanded raw (19)	team_coordination	group_temp_mean_mean	-0.027	0.027
+Expanded raw (19)	team_coordination	group_et_pupil_mean_mean	-0.1065	0.1065
+Expanded raw (19)	team_coordination	tr_silence_duration_s	-0.0857	0.0857
+Expanded raw (19)	team_coordination	tr_backchannel_count	0.0744	0.0744
+Expanded raw (19)	team_coordination	tr_overlap_count	0.0674	0.0674
+Expanded raw (19)	team_coordination	tr_competitive_overlap	0.0254	0.0254
+Expanded raw (19)	team_coordination	tr_laughter_count	0.1621	0.1621
+Expanded raw (19)	team_coordination	tr_n_active_speakers	0.0356	0.0356
+Expanded raw (19)	team_coordination	tr_speaking_entropy	0.0031	0.0031
+Expanded raw (19)	team_coordination	tr_cooperative_overlap	0.0552	0.0552
+Expanded raw (19)	team_coordination	tr_collaborative_overlap	0.0945	0.0945
+Expanded raw (19)	team_coordination	lex_word_gini	0.1516	0.1516
+Expanded raw (19)	team_coordination	lex_we_i_ratio	-0.0448	0.0448
+Expanded raw (19)	team_coordination	lex_turn_cohesion	0.1013	0.1013
+Expanded raw (19)	team_coordination	lex_hedging_count	-0.0011	0.0011
+States + Turn-taking	voice_inclusion	new_S0_pct	-0.0394	0.0394
+States + Turn-taking	voice_inclusion	new_S1_pct	0.0552	0.0552
+States + Turn-taking	voice_inclusion	new_S2_pct	-0.011	0.011
+States + Turn-taking	voice_inclusion	new_S3_pct	-0.0302	0.0302
+States + Turn-taking	voice_inclusion	tr_silence_duration_s	-0.0632	0.0632
+States + Turn-taking	voice_inclusion	tr_backchannel_count	0.1539	0.1539
+States + Turn-taking	voice_inclusion	tr_n_active_speakers	-0.0305	0.0305
+States + Turn-taking	voice_inclusion	tr_speaking_entropy	-0.01	0.01
+States + Turn-taking	voice_inclusion	tr_overlap_count	0.0886	0.0886
+States + Turn-taking	voice_inclusion	tr_competitive_overlap	0.1771	0.1771
+States + Turn-taking	voice_inclusion	tr_cooperative_overlap	0.0539	0.0539
+States + Turn-taking	voice_inclusion	tr_collaborative_overlap	0.0323	0.0323
+States + Turn-taking	voice_inclusion	tr_filled_pause_count	0.1354	0.1354
+States + Turn-taking	voice_inclusion	tr_conflict_overlap_ratio	-0.0395	0.0395
+States + Turn-taking	voice_inclusion	tr_ovl_smooth	0.0097	0.0097
+States + Turn-taking	voice_inclusion	tr_ovl_floor_fight	-0.0987	0.0987
+States + Turn-taking	voice_inclusion	tr_ovl_completion_index	-0.0956	0.0956
+States + Turn-taking	coord+coop	new_S0_pct	-0.0126	0.0126
+States + Turn-taking	coord+coop	new_S1_pct	0.0029	0.0029
+States + Turn-taking	coord+coop	new_S2_pct	0.0318	0.0318
+States + Turn-taking	coord+coop	new_S3_pct	-0.0396	0.0396
+States + Turn-taking	coord+coop	tr_silence_duration_s	0.0214	0.0214
+States + Turn-taking	coord+coop	tr_backchannel_count	0.0564	0.0564
+States + Turn-taking	coord+coop	tr_n_active_speakers	0.0445	0.0445
+States + Turn-taking	coord+coop	tr_speaking_entropy	0.029	0.029
+States + Turn-taking	coord+coop	tr_overlap_count	0.0476	0.0476
+States + Turn-taking	coord+coop	tr_competitive_overlap	0.0448	0.0448
+States + Turn-taking	coord+coop	tr_cooperative_overlap	0.0382	0.0382
+States + Turn-taking	coord+coop	tr_collaborative_overlap	0.0399	0.0399
+States + Turn-taking	coord+coop	tr_filled_pause_count	0.0569	0.0569
+States + Turn-taking	coord+coop	tr_conflict_overlap_ratio	-0.0612	0.0612
+States + Turn-taking	coord+coop	tr_ovl_smooth	0.0199	0.0199
+States + Turn-taking	coord+coop	tr_ovl_floor_fight	0.0282	0.0282
+States + Turn-taking	coord+coop	tr_ovl_completion_index	-0.0336	0.0336
+States + Turn-taking	team_coordination	new_S0_pct	-0.0184	0.0184
+States + Turn-taking	team_coordination	new_S1_pct	0.0178	0.0178
+States + Turn-taking	team_coordination	new_S2_pct	0.0153	0.0153
+States + Turn-taking	team_coordination	new_S3_pct	-0.0266	0.0266
+States + Turn-taking	team_coordination	tr_silence_duration_s	-0.0038	0.0038
+States + Turn-taking	team_coordination	tr_backchannel_count	0.0257	0.0257
+States + Turn-taking	team_coordination	tr_n_active_speakers	0.0221	0.0221
+States + Turn-taking	team_coordination	tr_speaking_entropy	0.0166	0.0166
+States + Turn-taking	team_coordination	tr_overlap_count	0.0285	0.0285
+States + Turn-taking	team_coordination	tr_competitive_overlap	0.0222	0.0222
+States + Turn-taking	team_coordination	tr_cooperative_overlap	0.0243	0.0243
+States + Turn-taking	team_coordination	tr_collaborative_overlap	0.0309	0.0309
+States + Turn-taking	team_coordination	tr_filled_pause_count	0.0275	0.0275
+States + Turn-taking	team_coordination	tr_conflict_overlap_ratio	-0.0351	0.0351
+States + Turn-taking	team_coordination	tr_ovl_smooth	0.013	0.013
+States + Turn-taking	team_coordination	tr_ovl_floor_fight	0.0215	0.0215
+States + Turn-taking	team_coordination	tr_ovl_completion_index	-0.0033	0.0033
+States + Turn-taking	satisfaction	new_S0_pct	0.098	0.098
+States + Turn-taking	satisfaction	new_S1_pct	0.1058	0.1058
+States + Turn-taking	satisfaction	new_S2_pct	-0.3401	0.3401
+States + Turn-taking	satisfaction	new_S3_pct	0.2055	0.2055
+States + Turn-taking	satisfaction	tr_silence_duration_s	0.0691	0.0691
+States + Turn-taking	satisfaction	tr_backchannel_count	0.1099	0.1099
+States + Turn-taking	satisfaction	tr_n_active_speakers	-0.0377	0.0377
+States + Turn-taking	satisfaction	tr_speaking_entropy	-0.2509	0.2509
+States + Turn-taking	satisfaction	tr_overlap_count	0.1263	0.1263
+States + Turn-taking	satisfaction	tr_competitive_overlap	-0.0377	0.0377
+States + Turn-taking	satisfaction	tr_cooperative_overlap	0.1685	0.1685
+States + Turn-taking	satisfaction	tr_collaborative_overlap	0.2499	0.2499
+States + Turn-taking	satisfaction	tr_filled_pause_count	-0.1712	0.1712
+States + Turn-taking	satisfaction	tr_conflict_overlap_ratio	-0.4287	0.4287
+States + Turn-taking	satisfaction	tr_ovl_smooth	0.2171	0.2171
+States + Turn-taking	satisfaction	tr_ovl_floor_fight	-0.3101	0.3101
+States + Turn-taking	satisfaction	tr_ovl_completion_index	-0.0806	0.0806
+States + Lexical	effectiveness_z	new_S0_pct	-0.0047	0.0047
+States + Lexical	effectiveness_z	new_S1_pct	0.0248	0.0248
+States + Lexical	effectiveness_z	new_S2_pct	0.0076	0.0076
+States + Lexical	effectiveness_z	new_S3_pct	-0.0924	0.0924
+States + Lexical	effectiveness_z	lex_we_i_ratio	-0.0185	0.0185
+States + Lexical	effectiveness_z	lex_turn_cohesion	0.1519	0.1519
+States + Lexical	effectiveness_z	lex_word_gini	0.1117	0.1117
+States + Lexical	effectiveness_z	lex_hedging_count	0.0203	0.0203
+States + Lexical	effectiveness_z	lex_agreement_count	0.0271	0.0271
+States + Lexical	effectiveness_z	lex_question_count	0.0458	0.0458
+States + Lexical	effectiveness_z	lex_suggestion_count	-0.0574	0.0574
+States + Lexical	effectiveness_z	lex_social_composite	0.111	0.111
+States + Lexical	effectiveness_z	lex_sentiment_ratio	0.0856	0.0856
+States + Lexical	voice_inclusion	new_S0_pct	-0.1224	0.1224
+States + Lexical	voice_inclusion	new_S1_pct	0.1033	0.1033
+States + Lexical	voice_inclusion	new_S2_pct	0.0743	0.0743
+States + Lexical	voice_inclusion	new_S3_pct	-0.1015	0.1015
+States + Lexical	voice_inclusion	lex_we_i_ratio	-0.1211	0.1211
+States + Lexical	voice_inclusion	lex_turn_cohesion	0.1335	0.1335
+States + Lexical	voice_inclusion	lex_word_gini	0.0223	0.0223
+States + Lexical	voice_inclusion	lex_hedging_count	0.0001	0.0001
+States + Lexical	voice_inclusion	lex_agreement_count	0.0253	0.0253
+States + Lexical	voice_inclusion	lex_question_count	-0.0014	0.0014
+States + Lexical	voice_inclusion	lex_suggestion_count	-0.2013	0.2013
+States + Lexical	voice_inclusion	lex_social_composite	0.0161	0.0161
+States + Lexical	voice_inclusion	lex_sentiment_ratio	0.0906	0.0906
+States + Lexical	mental_demand	new_S0_pct	0.0287	0.0287
+States + Lexical	mental_demand	new_S1_pct	-0.0494	0.0494
+States + Lexical	mental_demand	new_S2_pct	0.0479	0.0479
+States + Lexical	mental_demand	new_S3_pct	-0.0395	0.0395
+States + Lexical	mental_demand	lex_we_i_ratio	0.0625	0.0625
+States + Lexical	mental_demand	lex_turn_cohesion	0.0219	0.0219
+States + Lexical	mental_demand	lex_word_gini	0.007	0.007
+States + Lexical	mental_demand	lex_hedging_count	0.0234	0.0234
+States + Lexical	mental_demand	lex_agreement_count	0.012	0.012
+States + Lexical	mental_demand	lex_question_count	0.0171	0.0171
+States + Lexical	mental_demand	lex_suggestion_count	0.0364	0.0364
+States + Lexical	mental_demand	lex_social_composite	-0.0133	0.0133
+States + Lexical	mental_demand	lex_sentiment_ratio	-0.0406	0.0406
+States + Lexical	coord+coop	new_S0_pct	-0.08	0.08
+States + Lexical	coord+coop	new_S1_pct	0.0575	0.0575
+States + Lexical	coord+coop	new_S2_pct	0.1093	0.1093
+States + Lexical	coord+coop	new_S3_pct	-0.1749	0.1749
+States + Lexical	coord+coop	lex_we_i_ratio	-0.0303	0.0303
+States + Lexical	coord+coop	lex_turn_cohesion	0.2268	0.2268
+States + Lexical	coord+coop	lex_word_gini	0.105	0.105
+States + Lexical	coord+coop	lex_hedging_count	-0.0556	0.0556
+States + Lexical	coord+coop	lex_agreement_count	0.0481	0.0481
+States + Lexical	coord+coop	lex_question_count	0.3079	0.3079
+States + Lexical	coord+coop	lex_suggestion_count	-0.2436	0.2436
+States + Lexical	coord+coop	lex_social_composite	0.0458	0.0458
+States + Lexical	coord+coop	lex_sentiment_ratio	0.2595	0.2595
+States + Lexical	satisfaction	new_S0_pct	0.0302	0.0302
+States + Lexical	satisfaction	new_S1_pct	0.0293	0.0293
+States + Lexical	satisfaction	new_S2_pct	-0.0667	0.0667
+States + Lexical	satisfaction	new_S3_pct	-0.0302	0.0302
+States + Lexical	satisfaction	lex_we_i_ratio	-0.0178	0.0178
+States + Lexical	satisfaction	lex_turn_cohesion	0.1383	0.1383
+States + Lexical	satisfaction	lex_word_gini	0.0607	0.0607
+States + Lexical	satisfaction	lex_hedging_count	-0.0602	0.0602
+States + Lexical	satisfaction	lex_agreement_count	0.0341	0.0341
+States + Lexical	satisfaction	lex_question_count	-0.0937	0.0937
+States + Lexical	satisfaction	lex_suggestion_count	-0.0766	0.0766
+States + Lexical	satisfaction	lex_social_composite	0.1303	0.1303
+States + Lexical	satisfaction	lex_sentiment_ratio	0.1087	0.1087
+States + DA	voice_inclusion	new_S0_pct	-0.0521	0.0521
+States + DA	voice_inclusion	new_S1_pct	0.0795	0.0795
+States + DA	voice_inclusion	new_S2_pct	0.0238	0.0238
+States + DA	voice_inclusion	new_S3_pct	-0.1562	0.1562
+States + DA	voice_inclusion	da_agreement	0.0365	0.0365
+States + DA	voice_inclusion	da_disagreement	0.0432	0.0432
+States + DA	voice_inclusion	da_compromise	-0.0668	0.0668
+States + DA	voice_inclusion	da_proposal	-0.1871	0.1871
+States + DA	voice_inclusion	da_question	0.0697	0.0697
+States + DA	voice_inclusion	da_hedge	-0.0474	0.0474
+States + DA	voice_inclusion	da_backchannel	0.0187	0.0187
+States + DA	coord+coop	new_S0_pct	-0.0183	0.0183
+States + DA	coord+coop	new_S1_pct	0.0418	0.0418
+States + DA	coord+coop	new_S2_pct	0.1009	0.1009
+States + DA	coord+coop	new_S3_pct	-0.3282	0.3282
+States + DA	coord+coop	da_agreement	-0.1601	0.1601
+States + DA	coord+coop	da_disagreement	0.0211	0.0211
+States + DA	coord+coop	da_compromise	-0.2929	0.2929
+States + DA	coord+coop	da_proposal	-0.098	0.098
+States + DA	coord+coop	da_question	0.1365	0.1365
+States + DA	coord+coop	da_hedge	-0.2234	0.2234
+States + DA	coord+coop	da_backchannel	-0.0384	0.0384
+States + Lex + DA	effectiveness_z	new_S0_pct	-0.0013	0.0013
+States + Lex + DA	effectiveness_z	new_S1_pct	0.0165	0.0165
+States + Lex + DA	effectiveness_z	new_S2_pct	0.0204	0.0204
+States + Lex + DA	effectiveness_z	new_S3_pct	-0.1054	0.1054
+States + Lex + DA	effectiveness_z	lex_we_i_ratio	-0.0213	0.0213
+States + Lex + DA	effectiveness_z	lex_turn_cohesion	0.1444	0.1444
+States + Lex + DA	effectiveness_z	lex_word_gini	0.0809	0.0809
+States + Lex + DA	effectiveness_z	lex_hedging_count	0.0047	0.0047
+States + Lex + DA	effectiveness_z	lex_agreement_count	0.0426	0.0426
+States + Lex + DA	effectiveness_z	lex_question_count	0.034	0.034
+States + Lex + DA	effectiveness_z	lex_suggestion_count	-0.0626	0.0626
+States + Lex + DA	effectiveness_z	lex_social_composite	0.0942	0.0942
+States + Lex + DA	effectiveness_z	lex_sentiment_ratio	0.0988	0.0988
+States + Lex + DA	effectiveness_z	da_agreement	-0.0695	0.0695
+States + Lex + DA	effectiveness_z	da_disagreement	0.0775	0.0775
+States + Lex + DA	effectiveness_z	da_compromise	0.0075	0.0075
+States + Lex + DA	effectiveness_z	da_proposal	-0.0003	0.0003
+States + Lex + DA	effectiveness_z	da_question	-0.0336	0.0336
+States + Lex + DA	effectiveness_z	da_hedge	-0.0374	0.0374
+States + Lex + DA	effectiveness_z	da_backchannel	-0.0379	0.0379
+States + Lex + DA	voice_inclusion	new_S0_pct	-0.0989	0.0989
+States + Lex + DA	voice_inclusion	new_S1_pct	0.0929	0.0929
+States + Lex + DA	voice_inclusion	new_S2_pct	0.0575	0.0575
+States + Lex + DA	voice_inclusion	new_S3_pct	-0.111	0.111
+States + Lex + DA	voice_inclusion	lex_we_i_ratio	-0.1221	0.1221
+States + Lex + DA	voice_inclusion	lex_turn_cohesion	0.131	0.131
+States + Lex + DA	voice_inclusion	lex_word_gini	0.0547	0.0547
+States + Lex + DA	voice_inclusion	lex_hedging_count	0.0197	0.0197
+States + Lex + DA	voice_inclusion	lex_agreement_count	0.0045	0.0045
+States + Lex + DA	voice_inclusion	lex_question_count	-0.0627	0.0627
+States + Lex + DA	voice_inclusion	lex_suggestion_count	-0.1313	0.1313
+States + Lex + DA	voice_inclusion	lex_social_composite	0.0189	0.0189
+States + Lex + DA	voice_inclusion	lex_sentiment_ratio	0.0929	0.0929
+States + Lex + DA	voice_inclusion	da_agreement	0.0636	0.0636
+States + Lex + DA	voice_inclusion	da_disagreement	0.0101	0.0101
+States + Lex + DA	voice_inclusion	da_compromise	-0.0321	0.0321
+States + Lex + DA	voice_inclusion	da_proposal	-0.1289	0.1289
+States + Lex + DA	voice_inclusion	da_question	0.1043	0.1043
+States + Lex + DA	voice_inclusion	da_hedge	-0.1037	0.1037
+States + Lex + DA	voice_inclusion	da_backchannel	0.0059	0.0059
+States + Lex + DA	coord+coop	new_S0_pct	-0.0379	0.0379
+States + Lex + DA	coord+coop	new_S1_pct	0.039	0.039
+States + Lex + DA	coord+coop	new_S2_pct	0.0933	0.0933
+States + Lex + DA	coord+coop	new_S3_pct	-0.2257	0.2257
+States + Lex + DA	coord+coop	lex_we_i_ratio	-0.0817	0.0817
+States + Lex + DA	coord+coop	lex_turn_cohesion	0.2342	0.2342
+States + Lex + DA	coord+coop	lex_word_gini	0.0635	0.0635
+States + Lex + DA	coord+coop	lex_hedging_count	0.0109	0.0109
+States + Lex + DA	coord+coop	lex_agreement_count	0.069	0.069
+States + Lex + DA	coord+coop	lex_question_count	0.1972	0.1972
+States + Lex + DA	coord+coop	lex_suggestion_count	-0.1805	0.1805
+States + Lex + DA	coord+coop	lex_social_composite	-0.0007	0.0007
+States + Lex + DA	coord+coop	lex_sentiment_ratio	0.2711	0.2711
+States + Lex + DA	coord+coop	da_agreement	-0.1237	0.1237
+States + Lex + DA	coord+coop	da_disagreement	-0.0356	0.0356
+States + Lex + DA	coord+coop	da_compromise	-0.207	0.207
+States + Lex + DA	coord+coop	da_proposal	-0.0441	0.0441
+States + Lex + DA	coord+coop	da_question	0.0434	0.0434
+States + Lex + DA	coord+coop	da_hedge	-0.2869	0.2869
+States + Lex + DA	coord+coop	da_backchannel	-0.0673	0.0673
+States + Lex + DA	satisfaction	new_S0_pct	0.0325	0.0325
+States + Lex + DA	satisfaction	new_S1_pct	0.0308	0.0308
+States + Lex + DA	satisfaction	new_S2_pct	-0.0668	0.0668
+States + Lex + DA	satisfaction	new_S3_pct	-0.0434	0.0434
+States + Lex + DA	satisfaction	lex_we_i_ratio	-0.0191	0.0191
+States + Lex + DA	satisfaction	lex_turn_cohesion	0.1334	0.1334
+States + Lex + DA	satisfaction	lex_word_gini	0.0676	0.0676
+States + Lex + DA	satisfaction	lex_hedging_count	-0.0498	0.0498
+States + Lex + DA	satisfaction	lex_agreement_count	0.0403	0.0403
+States + Lex + DA	satisfaction	lex_question_count	-0.0667	0.0667
+States + Lex + DA	satisfaction	lex_suggestion_count	-0.047	0.047
+States + Lex + DA	satisfaction	lex_social_composite	0.1289	0.1289
+States + Lex + DA	satisfaction	lex_sentiment_ratio	0.0924	0.0924
+States + Lex + DA	satisfaction	da_agreement	-0.0586	0.0586
+States + Lex + DA	satisfaction	da_disagreement	0.0268	0.0268
+States + Lex + DA	satisfaction	da_compromise	-0.1191	0.1191
+States + Lex + DA	satisfaction	da_proposal	-0.0009	0.0009
+States + Lex + DA	satisfaction	da_question	-0.0696	0.0696
+States + Lex + DA	satisfaction	da_hedge	0.0803	0.0803
+States + Lex + DA	satisfaction	da_backchannel	-0.0144	0.0144
+Turn + Lex + DA	voice_inclusion	tr_silence_duration_s	-0.0262	0.0262
+Turn + Lex + DA	voice_inclusion	tr_backchannel_count	0.1249	0.1249
+Turn + Lex + DA	voice_inclusion	tr_n_active_speakers	0.0399	0.0399
+Turn + Lex + DA	voice_inclusion	tr_speaking_entropy	0.0311	0.0311
+Turn + Lex + DA	voice_inclusion	tr_overlap_count	0.0772	0.0772
+Turn + Lex + DA	voice_inclusion	tr_competitive_overlap	0.1472	0.1472
+Turn + Lex + DA	voice_inclusion	tr_cooperative_overlap	0.0462	0.0462
+Turn + Lex + DA	voice_inclusion	tr_collaborative_overlap	0.0291	0.0291
+Turn + Lex + DA	voice_inclusion	tr_filled_pause_count	0.0813	0.0813
+Turn + Lex + DA	voice_inclusion	tr_conflict_overlap_ratio	-0.0543	0.0543
+Turn + Lex + DA	voice_inclusion	tr_ovl_smooth	0.0392	0.0392
+Turn + Lex + DA	voice_inclusion	tr_ovl_floor_fight	-0.0739	0.0739
+Turn + Lex + DA	voice_inclusion	tr_ovl_completion_index	-0.0314	0.0314
+Turn + Lex + DA	voice_inclusion	lex_we_i_ratio	-0.1152	0.1152
+Turn + Lex + DA	voice_inclusion	lex_turn_cohesion	0.0439	0.0439
+Turn + Lex + DA	voice_inclusion	lex_word_gini	0.0776	0.0776
+Turn + Lex + DA	voice_inclusion	lex_hedging_count	0.0009	0.0009
+Turn + Lex + DA	voice_inclusion	lex_agreement_count	-0.0277	0.0277
+Turn + Lex + DA	voice_inclusion	lex_question_count	-0.0674	0.0674
+Turn + Lex + DA	voice_inclusion	lex_suggestion_count	-0.0821	0.0821
+Turn + Lex + DA	voice_inclusion	lex_social_composite	0.0246	0.0246
+Turn + Lex + DA	voice_inclusion	lex_sentiment_ratio	0.0337	0.0337
+Turn + Lex + DA	voice_inclusion	da_agreement	0.0316	0.0316
+Turn + Lex + DA	voice_inclusion	da_disagreement	0.0807	0.0807
+Turn + Lex + DA	voice_inclusion	da_compromise	-0.0142	0.0142
+Turn + Lex + DA	voice_inclusion	da_proposal	-0.1411	0.1411
+Turn + Lex + DA	voice_inclusion	da_question	0.0928	0.0928
+Turn + Lex + DA	voice_inclusion	da_hedge	-0.0651	0.0651
+Turn + Lex + DA	voice_inclusion	da_backchannel	-0.0395	0.0395
+Turn + Lex + DA	coord+coop	tr_silence_duration_s	0.03	0.03
+Turn + Lex + DA	coord+coop	tr_backchannel_count	0.1519	0.1519
+Turn + Lex + DA	coord+coop	tr_n_active_speakers	0.0275	0.0275
+Turn + Lex + DA	coord+coop	tr_speaking_entropy	0.0081	0.0081
+Turn + Lex + DA	coord+coop	tr_overlap_count	0.0639	0.0639
+Turn + Lex + DA	coord+coop	tr_competitive_overlap	0.1178	0.1178
+Turn + Lex + DA	coord+coop	tr_cooperative_overlap	0.0221	0.0221
+Turn + Lex + DA	coord+coop	tr_collaborative_overlap	0.0578	0.0578
+Turn + Lex + DA	coord+coop	tr_filled_pause_count	0.1349	0.1349
+Turn + Lex + DA	coord+coop	tr_conflict_overlap_ratio	-0.1659	0.1659
+Turn + Lex + DA	coord+coop	tr_ovl_smooth	0.0354	0.0354
+Turn + Lex + DA	coord+coop	tr_ovl_floor_fight	0.0281	0.0281
+Turn + Lex + DA	coord+coop	tr_ovl_completion_index	-0.0881	0.0881
+Turn + Lex + DA	coord+coop	lex_we_i_ratio	-0.0404	0.0404
+Turn + Lex + DA	coord+coop	lex_turn_cohesion	0.1402	0.1402
+Turn + Lex + DA	coord+coop	lex_word_gini	0.0853	0.0853
+Turn + Lex + DA	coord+coop	lex_hedging_count	-0.0032	0.0032
+Turn + Lex + DA	coord+coop	lex_agreement_count	0.0291	0.0291
+Turn + Lex + DA	coord+coop	lex_question_count	0.2194	0.2194
+Turn + Lex + DA	coord+coop	lex_suggestion_count	-0.1719	0.1719
+Turn + Lex + DA	coord+coop	lex_social_composite	-0.0419	0.0419
+Turn + Lex + DA	coord+coop	lex_sentiment_ratio	0.1561	0.1561
+Turn + Lex + DA	coord+coop	da_agreement	-0.1348	0.1348
+Turn + Lex + DA	coord+coop	da_disagreement	0.0638	0.0638
+Turn + Lex + DA	coord+coop	da_compromise	-0.142	0.142
+Turn + Lex + DA	coord+coop	da_proposal	-0.0334	0.0334
+Turn + Lex + DA	coord+coop	da_question	0.0555	0.0555
+Turn + Lex + DA	coord+coop	da_hedge	-0.2266	0.2266
+Turn + Lex + DA	coord+coop	da_backchannel	-0.1026	0.1026

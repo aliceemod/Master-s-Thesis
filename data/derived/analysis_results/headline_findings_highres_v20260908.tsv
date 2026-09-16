@@ -1,0 +1,5 @@
+Model	Target	CV	R2	n	p_2000perm	boot_ci_2.5%	boot_ci_97.5%	n_boot_valid
+Overlap+Backchannel (rescue)	voice_inclusion	LOGO	0.459	28	0.001	0.201	0.769	1000
+Overlap+Backchannel (rescue)	voice_inclusion	L2GO	0.483	28	0.001	0.095	0.769	1000
+Turn-taking only	team_coordination	LOGO	0.296	18	0.007	-0.462	0.959	1000
+Turn-taking only	team_coordination	L2GO	0.144	18	0.017	-0.642	0.938	1000

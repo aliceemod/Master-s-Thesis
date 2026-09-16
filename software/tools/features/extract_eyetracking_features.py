@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+import re
 from pathlib import Path
 
 import numpy as np
@@ -603,8 +604,18 @@ def compute_et_features(
 # ── T0 baseline normalisation ─────────────────────────────────────────────────
 
 
-def add_t0_baselines(df: pd.DataFrame) -> pd.DataFrame:
-    """Add within-participant T0 baseline delta and z-score columns."""
+def add_t0_baselines(
+    df: pd.DataFrame,
+    free_talk_baselines: pd.DataFrame | None = None,
+) -> pd.DataFrame:
+    """Add within-participant T0 baseline delta and z-score columns.
+
+    If *free_talk_baselines* is provided (columns: session_id, participant_id,
+    plus baseline feature values), uses the free_talk sub-phase of T0 instead
+    of the whole T0 task-level mean.  Falls back to whole-T0 when free_talk
+    data is missing for a participant.  When neither is available (e.g. grp-09,
+    grp-11), falls back to within-participant z-scoring across T1–T4.
+    """
     if df.empty:
         return df
     out = df.copy()
@@ -613,11 +624,34 @@ def add_t0_baselines(df: pd.DataFrame) -> pd.DataFrame:
         out[f"{feature}_delta_t0"] = np.nan
         out[f"{feature}_z_t0"] = np.nan
 
-    for (_session_id, _participant_id), group in out.groupby(["session_id", "participant_id"]):
-        baseline = group[group[task_col] == "T0"]
-        if baseline.empty:
-            continue
-        base = baseline.iloc[0]
+    ft_lookup: dict[tuple[str, str], pd.Series] = {}
+    if free_talk_baselines is not None and not free_talk_baselines.empty:
+        for _, row in free_talk_baselines.iterrows():
+            ft_lookup[(row["session_id"], row["participant_id"])] = row
+
+    for (session_id, participant_id), group in out.groupby(["session_id", "participant_id"]):
+        # Prefer free_talk baseline; fall back to whole-T0 task row
+        base = ft_lookup.get((session_id, participant_id))
+        if base is None:
+            whole_t0 = group[group[task_col] == "T0"]
+            if whole_t0.empty:
+                # No T0 at all: within-participant z-score across T1–T4
+                task_rows = group[group[task_col] != "T0"]
+                for feature, sd_feature in BASELINE_FEATURES.items():
+                    if feature not in out.columns:
+                        continue
+                    vals = pd.to_numeric(out.loc[task_rows.index, feature], errors="coerce")
+                    mu = vals.mean()
+                    sd = vals.std()
+                    out.loc[group.index, f"{feature}_delta_t0"] = (
+                        pd.to_numeric(out.loc[group.index, feature], errors="coerce") - mu
+                    )
+                    if np.isfinite(sd) and sd > 1e-9:
+                        out.loc[group.index, f"{feature}_z_t0"] = (
+                            pd.to_numeric(out.loc[group.index, feature], errors="coerce") - mu
+                        ) / sd
+                continue
+            base = whole_t0.iloc[0]
         for feature, sd_feature in BASELINE_FEATURES.items():
             if feature not in out.columns:
                 continue
@@ -743,6 +777,11 @@ def build_parser() -> argparse.ArgumentParser:
         "--min-pupil-coverage-frac", type=float, default=0.70,
         help="Minimum pupil coverage fraction below which pupil_low_coverage is raised (default: 0.70).",
     )
+    p.add_argument(
+        "--free-talk-timing", type=Path, default=None,
+        help="Path to phase_timing.tsv + task_timing.tsv directory (from extract_session_timing.py). "
+             "When provided, T0 baseline uses only the free_talk sub-phase.",
+    )
     p.add_argument("--verbose", action="store_true", help="Enable verbose logging.")
     return p
 
@@ -756,8 +795,41 @@ def main() -> int:
     session_dirs = discover_session_dirs(args.data_root, args.sessions)
     LOG.info("Found %d session directories.", len(session_dirs))
 
+    # Load free_talk timing if provided
+    ft_windows: dict[str, tuple[float, float]] = {}  # group_id → (ft_start_lsl, ft_end_lsl)
+    if args.free_talk_timing and args.free_talk_timing.is_dir():
+        _phase_path = args.free_talk_timing / "phase_timing.tsv"
+        _task_path = args.free_talk_timing / "task_timing.tsv"
+        if _phase_path.exists() and _task_path.exists():
+            _phases = pd.read_csv(_phase_path, sep="\t")
+            _tasks = pd.read_csv(_task_path, sep="\t")
+            _ft = _phases[(_phases["task"] == "T0") & (_phases["phase"] == "free_talk")][
+                ["group_id", "onset_s"]
+            ].drop_duplicates("group_id")
+            _t0w = _tasks[(_tasks["task"] == "T0") & _tasks["task_start_lsl"].notna()][
+                ["group_id", "task_start_lsl", "task_end_lsl"]
+            ]
+            # T1 start as fallback end for overnight T0 sessions
+            _t1w = _tasks[(_tasks["task"] == "T1") & _tasks["task_start_lsl"].notna()][
+                ["group_id", "task_start_lsl"]
+            ].rename(columns={"task_start_lsl": "t1_start_lsl"})
+            _merged = _ft.merge(_t0w, on="group_id").merge(_t1w, on="group_id", how="left")
+            for _, _r in _merged.iterrows():
+                dur = _r["task_end_lsl"] - _r["task_start_lsl"]
+                ft_start = _r["task_start_lsl"] + _r["onset_s"]
+                if dur > 3600 and pd.notna(_r.get("t1_start_lsl")):
+                    # Overnight: use T1 start as free_talk end
+                    ft_end = _r["t1_start_lsl"]
+                else:
+                    ft_end = _r["task_end_lsl"]
+                if ft_end <= ft_start:
+                    continue
+                ft_windows[_r["group_id"]] = (ft_start, ft_end)
+            LOG.info("Loaded free_talk windows for %d sessions.", len(ft_windows))
+
     task_rows: list[dict] = []
     window_rows: list[dict] = []
+    free_talk_rows: list[dict] = []  # free_talk-only baselines
 
     for session_dir in session_dirs:
         et_dir = session_dir / "et"
@@ -796,6 +868,60 @@ def main() -> int:
             )
             task_rows.append({**meta, **feat})
 
+            # Compute free_talk-only baseline for T0 files
+            if task == "T0" and ft_windows:
+                _grp_match = re.search(r"grp-\d+", meta["session_id"])
+                _grp = _grp_match.group() if _grp_match else None
+                if _grp and _grp in ft_windows:
+                    _ft_start, _ft_end = ft_windows[_grp]
+                    _ft_mask = (df["lsl_time"] >= _ft_start) & (df["lsl_time"] <= _ft_end)
+                    _ft_df = df[_ft_mask].reset_index(drop=True)
+                    if len(_ft_df) >= 10:
+                        _ft_feat = compute_et_features(
+                            _ft_df,
+                            gaze_x_idx=args.gaze_x_idx,
+                            gaze_y_idx=args.gaze_y_idx,
+                            pupil_left_idx=args.pupil_left_idx,
+                            pupil_right_idx=args.pupil_right_idx,
+                            gaze_valid_idx=args.gaze_valid_idx,
+                            min_duration_s=0.0,
+                            min_gaze_valid_frac=args.min_gaze_valid_frac,
+                            min_pupil_coverage_frac=args.min_pupil_coverage_frac,
+                        )
+                        free_talk_rows.append({
+                            "session_id": meta["session_id"],
+                            "participant_id": participant,
+                            **_ft_feat,
+                        })
+
+            # Fallback: first 60s of T1 as baseline for sessions without T0
+            if task == "T1":
+                _sid = meta["session_id"]
+                _has_baseline = any(r["session_id"] == _sid and r["participant_id"] == participant
+                                    for r in free_talk_rows)
+                if not _has_baseline:
+                    _t1_start = df["lsl_time"].min()
+                    _intro_mask = (df["lsl_time"] <= _t1_start + 60.0)
+                    _intro_df = df[_intro_mask].reset_index(drop=True)
+                    if len(_intro_df) >= 10:
+                        _intro_feat = compute_et_features(
+                            _intro_df,
+                            gaze_x_idx=args.gaze_x_idx,
+                            gaze_y_idx=args.gaze_y_idx,
+                            pupil_left_idx=args.pupil_left_idx,
+                            pupil_right_idx=args.pupil_right_idx,
+                            gaze_valid_idx=args.gaze_valid_idx,
+                            min_duration_s=0.0,
+                            min_gaze_valid_frac=args.min_gaze_valid_frac,
+                            min_pupil_coverage_frac=args.min_pupil_coverage_frac,
+                        )
+                        free_talk_rows.append({
+                            "session_id": _sid,
+                            "participant_id": participant,
+                            **_intro_feat,
+                        })
+                        LOG.info("T1-intro fallback baseline for %s %s", _sid, participant)
+
             for w in rolling_windows(df, args.window_s, args.step_s):
                 w_meta = {
                     **meta,
@@ -822,8 +948,14 @@ def main() -> int:
     task_df = pd.DataFrame(task_rows)
     window_df = pd.DataFrame(window_rows)
 
+    ft_baselines_df = pd.DataFrame(free_talk_rows) if free_talk_rows else None
+    if ft_baselines_df is not None and not ft_baselines_df.empty:
+        ft_path = out_dir / "et_free_talk_baselines.tsv"
+        ft_baselines_df.to_csv(ft_path, sep="\t", index=False)
+        LOG.info("Wrote free_talk baselines: %s (%d rows)", ft_path, len(ft_baselines_df))
+
     if not task_df.empty:
-        task_df = add_t0_baselines(task_df)
+        task_df = add_t0_baselines(task_df, free_talk_baselines=ft_baselines_df)
         task_df = task_df.sort_values(["session_id", "task_id", "participant_id"])
 
     if not window_df.empty:

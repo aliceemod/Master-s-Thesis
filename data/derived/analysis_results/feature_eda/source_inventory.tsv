@@ -1,0 +1,14 @@
+family	granularity	path	available	rows	columns
+physiology	window	analysis\results\physio_features\physio_window_30s.tsv	True	8588	156
+eye_tracking	window	analysis\results\et_features_v20260812\et_window_30s.tsv	True	8248	38
+audio_prosody	participant_task	analysis\results\participant_audio_features.tsv	True	108	8
+turn_taking	group_task	analysis\results\transcript_features_full\transcript_group_task.tsv	True	37	21
+lexical	window	analysis\results\lexical_window_30s.tsv	True	682	43
+bert_semantics	window	analysis\results\bert_embeddings_window_30s.tsv	True	813	15
+dialogue_acts_keyword	window	analysis\results\da_keyword_window_30s.tsv	True	597	16
+dialogue_acts_nli	window	analysis\results\da_window_30s.tsv	True	597	17
+semantic_continuity	window	analysis\results\semantic_continuity_window_30s.tsv	True	514	5
+group_dynamics	window	analysis\results\cross_modal\features_group_dynamics_window_30s.tsv	True	2430	12
+semantic_biomarkers	window	analysis\results\cross_modal\semantic_biomarkers_window_30s.tsv	True	16836	173
+self_report_targets	group_task	analysis\results\collective_features_v20260905\collective_task_selfreport.tsv	True	30	30
+participant_traits	participant	analysis\results\participant_traits.tsv	True	40	12

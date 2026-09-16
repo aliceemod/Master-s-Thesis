@@ -1,0 +1,51 @@
+group_id	task	task_duration_s	discussion_onset_s	discussion_duration_s	quality_notes
+grp-07	T0	1083.0	876.7	206.3	
+grp-07	T1	435.8	137.1	298.7	
+grp-07	T2	901.5	64.3	837.2	
+grp-07	T3	697.1	264.3	432.8	
+grp-07	T4	344.9	148.8	196.2	
+grp-08	T0	1108.2	792.1	316.1	events file exists but is empty;recovered from recording-lsl
+grp-08	T1	844.2	158.8	685.3	events file exists but is empty;recovered from recording-lsl
+grp-08	T2	995.2	72.9	922.3	events file exists but is empty;recovered from recording-lsl
+grp-08	T3	955.2	359.1	596.1	events file exists but is empty;recovered from recording-lsl
+grp-08	T4	477.4	142.8	334.6	events file exists but is empty;recovered from recording-lsl
+grp-09	T0				events file exists but is empty;no data
+grp-09	T1	23.6			
+grp-09	T2	598.1	48.1	549.9	
+grp-09	T3	725.2	225.1	500.1	
+grp-09	T4	400.9	214.6	186.3	
+grp-10	T0	70018.7	725.6	69293.1	duration 70019s suspiciously long (overnight issue?)
+grp-10	T1	604.8	190.3	414.4	
+grp-10	T2	891.7	50.5	841.2	
+grp-10	T3	657.6	225.5	432.1	
+grp-10	T4	341.2	218.9	122.3	
+grp-11	T0	1791.0			events file exists but is empty
+grp-11	T1	560.2			events file exists but is empty
+grp-11	T2	856.7			events file exists but is empty
+grp-11	T3	607.2			events file exists but is empty
+grp-11	T4	471.0			events file exists but is empty
+grp-12	T0	1459.3	1236.8	222.5	
+grp-12	T1	647.0	208.6	438.4	
+grp-12	T2	826.0	88.3	737.7	
+grp-12	T3	719.1	251.5	467.6	
+grp-12	T4	388.6	197.1	191.5	
+grp-13	T0	1145.8	924.8	220.9	
+grp-13	T1	589.4	213.3	376.1	
+grp-13	T2	697.0	88.1	608.9	
+grp-13	T3	646.8	266.0	380.8	
+grp-13	T4	228.4	112.6	115.8	
+grp-14	T0	978.2	636.8	339.4	finish marker missing; used last event
+grp-14	T1	857.1	188.5	458.5	
+grp-14	T2	945.7	85.5	721.6	
+grp-14	T3	812.7	259.4	429.2	
+grp-14	T4	542.0	236.1	214.5	
+grp-15	T0	1568.0	1002.3	552.7	
+grp-15	T1	901.0	165.8	446.0	
+grp-15	T2	1035.4	67.4	679.0	
+grp-15	T3	877.9	294.1	425.1	
+grp-15	T4	418.0	139.5	202.0	
+grp-16	T0	1362.0	1020.3	341.7	
+grp-16	T1	602.9	159.3	443.6	
+grp-16	T2	665.8	71.1	594.7	
+grp-16	T3	963.1	274.4	688.7	
+grp-16	T4	369.9	156.7	213.1	

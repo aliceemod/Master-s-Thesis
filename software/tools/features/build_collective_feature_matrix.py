@@ -615,6 +615,11 @@ def _load_selfreport(
             LOG.warning("Could not load %s: %s", tsv.name, exc)
             continue
 
+        # Some raw exports (e.g. grp-07) pad headers/cells with fixed-width whitespace.
+        df.columns = df.columns.str.strip()
+        for col in df.columns:
+            df[col] = df[col].str.strip()
+
         df["item_value"] = pd.to_numeric(df["item_value"], errors="coerce")
         task_col = "task" if "task" in df.columns else "task_id"
 
@@ -679,10 +684,24 @@ def run(
     groups: list[str],
     tasks: list[str],
     transcript_jitter_s: float = TRANSCRIPT_JITTER_S,
+    discussion_timing_dir: Path | None = None,
 ) -> None:
     """Build and write both output tables."""
     out_dir.mkdir(parents=True, exist_ok=True)
     key = ["group_id", "task_id", "window_index"]
+
+    # Load discussion onset timing for optional pre-discussion filtering
+    disc_onsets: pd.DataFrame | None = None
+    if discussion_timing_dir is not None:
+        _task_timing = discussion_timing_dir / "task_timing.tsv"
+        if _task_timing.is_file():
+            _tt = pd.read_csv(_task_timing, sep="\t")
+            disc_onsets = _tt[_tt["discussion_onset_s"].notna()][
+                ["group_id", "task", "discussion_onset_s"]
+            ].rename(columns={"task": "task_id"})
+            LOG.info("Loaded discussion timing for %d group-task entries.", len(disc_onsets))
+        else:
+            LOG.warning("discussion_timing_dir set but task_timing.tsv not found: %s", _task_timing)
 
     # ── Physio ────────────────────────────────────────────────────────────────
     physio_raw = _load_tsv(physio_path, "physio_window_30s")
@@ -740,6 +759,17 @@ def run(
 
     window_df.sort_values(["group_id", "task_id", "window_index"], inplace=True)
     window_df.reset_index(drop=True, inplace=True)
+
+    # Filter pre-discussion windows if timing is available
+    if disc_onsets is not None and not disc_onsets.empty:
+        n_before = len(window_df)
+        window_df = window_df.merge(disc_onsets, on=["group_id", "task_id"], how="left")
+        keep = window_df["discussion_onset_s"].isna() | (
+            window_df["window_start_s"] >= window_df["discussion_onset_s"]
+        )
+        window_df = window_df[keep].drop(columns=["discussion_onset_s"]).reset_index(drop=True)
+        LOG.info("Discussion-only filter: %d -> %d windows (%d pre-discussion dropped).",
+                 n_before, len(window_df), n_before - len(window_df))
 
     win_out = out_dir / "collective_window_features.tsv"
     window_df.to_csv(win_out, sep="\t", index=False)
@@ -819,6 +849,14 @@ def _build_parser() -> argparse.ArgumentParser:
         ),
     )
     p.add_argument(
+        "--discussion-timing",
+        type=Path,
+        default=None,
+        metavar="DIR",
+        help="Directory containing task_timing.tsv (from extract_session_timing.py). "
+             "When provided, drops windows before the discussion-start phase.",
+    )
+    p.add_argument(
         "--verbose",
         action="store_true",
         help="Enable DEBUG-level logging.",
@@ -841,6 +879,7 @@ def main() -> None:
         groups=args.groups,
         tasks=args.tasks,
         transcript_jitter_s=args.transcript_jitter_s,
+        discussion_timing_dir=args.discussion_timing.resolve() if args.discussion_timing else None,
     )
 
 

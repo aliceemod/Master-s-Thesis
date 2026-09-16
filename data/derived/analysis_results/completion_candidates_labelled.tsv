@@ -1,0 +1,83 @@
+#	group_id	task_id	onset_a	speaker_a	text_a	speaker_b	text_b	gap_s	is_completion	is_repetition_labelled	is_completion_labelled
+1	grp-07	T2	290.0	P1	So we could actually choose one of them which actually makes the most sense, and I think...	P4	Yeah, I agree, which is one of them.	-5.04	repetition	1	0
+2	grp-07	T2	587.112	P1	And the quiz is like, if you don't do it once, you know the answers for the next time, and then you...	P2	That depends on which department you are working in. I think with the continue, continue, because there are some departments that are really using these online trainings and the quizzes,	0.8	no	0	0
+3	grp-07	T2	796.917	P1	So I think something like an interactive workshop, again in my opinion, would actually create some good output in terms of the knowledge and stuff. So, uuh, if...	P3	So we give it a vote. I think we are out of time. So with the online training	-0.9	no	0	0
+4	grp-10	T2	420.143	P3	yeah what type of information they need and sometimes it's easier to adjust it to yourself if you do a more traditional lecture or maybe some online training that's more personalized in a way, would be my...	P1	But sometimes like to improve collaboration, I think things shouldn't be too formal.	1.46	no	0	0
+5	grp-10	T3	415.725	P2	And third idea was bowling and or ice skating where it could be...	P3	At the same time?	0.98	no	0	0
+6	grp-10	T3	595.174	P1	So do we narrow it down to three or...	P2	Or one.	0.43	yes	0	1
+7	grp-14	T1	436.591	P4	Now it's...	P1	We shouldn't ask that.	-0.86	no	0	0
+8	grp-14	T1	460.551	P3	So....	P2	Yeah.	-0.0	no	0	0
+9	grp-14	T1	606.733	P3	So we decided candidate C. If...	P4	Yeah.	0.44	no	0	0
+10	grp-14	T2	286.382	P1	It depends which position you are, but...	P3	Yeah, for me, maybe how to work better across teams or how to manage stress and workload at work.	1.09	no	0	0
+11	grp-14	T2	685.608	P1	So...	P4	Yeah, I would go for the fourth one.	-0.54	no	0	0
+12	grp-15	T1	337.439	P4	Yeah, it doesn't really say anything about...	P2	no	-0.99	no	0	0
+13	grp-15	T1	371.0	P3	I mean, I was only missing the bit of the amount of experience, I would say, to say that that quote is almost exactly the same as what I have here for Candidate C. Like someone who basically...	P1	I think it sounds good.	-7.48	no	0	0
+14	grp-15	T2	177.0	P1	I don't know, what do you guys think about the...	P3	Yeah.	2.0	no	0	0
+15	grp-15	T2	513.0	P3	And...	P1	All right, so we're leaning towards number two.	-4.24	no	0	0
+16	grp-15	T2	628.589	P2	Maybe a compromise could be like having, if it's like a lecture or something scheduled in the calendar. And then you could also if it’s recorded or something then you can look at it in your own time if the meetings are...	P1	It's just, I don't know, I just feel like if we have to talk about how to work better across teams, I guess you solve that topic by talking in workshops with the teams rather than having one giving a lecture about how to work in your team.	0.0	no	0	0
+17	grp-15	T2	711.0	P1	Then please, why don't you fill in the...	P4	Would you do it again?	0.0	no	0	0
+18	grp-15	T3	543.181	P1	I also like the launchable instrument thing. And also...	P2	I like something that you could do during the day	0.9	no	0	0
+19	grp-15	T3	615.903	P1	So, I guess it's either 2-1 or 3-1, if I would have to...	P2	Do we only have to choose one?	-2.02	no	0	0
+20	grp-15	T3	697.302	P2	Ok so P....	P1	P2-1	-1.19	yes	0	1
+21	grp-16	T1	496.272	P3	But we have to decide by...	P4	Yeah, there.	-0.98	no	0	0
+22	grp-16	T1	580.0	P4	It seems like...	P3	Yeah, it's three to one, yeah.	-2.27	no	0	0
+23	grp-16	T2	278.0	P3	And I also believe if that is enforced properly, then maybe the fourth point, how to manage stress, that would significantly reduce, so yeah...	P4	maybe maybe not because for some people it shows that it's very stressful to actually you know introduce these tools uh while they are out of control and spinning with the tasks they already have so I think if we want to, you know, look at the usage of AI to increase the productivity	-2.45	no	0	0
+24	grp-16	T2	487.0	P4	I agree. It would be nice to...	P1	And it's better to be across department work.	0.62	no	0	0
+25	grp-11	T1	175.048	P3	So what is a little bit unclear to me, are they all internal candidates here or is it...	P1	I don't think so, because one...	1.1	no	0	0
+26	grp-11	T1	225.211	P2	One final candidate, we have to find one...	P4	Yeah, we have to find one.	-2.73	repetition	1	0
+27	grp-11	T1	268.696	P4	If you look at the role, it looks like it's...	P2	It's supporting function, yeah?	-2.04	yes	0	1
+28	grp-11	T2	328.558	P2	or how to work better across teams could also but still that's something we've done throughout times...	P1	But how to manage the workload will influence the productivity too, in the last one.	1.89		0	0
+29	grp-11	T2	378.558	P1	It's, yeah, it's...	P4	I agree.	1.13		0	0
+30	grp-11	T2	518.061	P4	I mean, AI is not so mature just yet, and it will take a long time to really...	P2	But you have to engage people	0.41		0	0
+31	grp-11	T2	605.187	P3	I don't think there was an agreement, so...	P1	No	-0.61		0	0
+32	grp-11	T2	647.941	P4	The format is...	P2	Yeah, you are thinking, but I'm thinking the AI is the topic.	0.07		0	0
+33	grp-11	T2	704.922	P4	Yeah...	P1	Yeah, just one...	0.42		0	0
+34	grp-11	T2	705.498	P1	Yeah, just one...	P2	You just tell me what to select, right?	-0.82		0	0
+35	grp-11	T3	204.397	P1	Ready? Oh...	P2	No no no	-1.11		0	0
+36	grp-11	T3	274.702	P2	Yeah, it's also a nice...	P4	Yeah, I mean, it's a lot of those things.	0.34		0	0
+37	grp-11	T3	328.883	P4	Well, I think the beach party sounds really fun, but I just wonder if... people will feel a little bit...	P2	Yeah, if they would go...	-4.39		0	0
+38	grp-11	T3	352.861	P4	Well, it's...	P3	And there is no, there is also, you can, we have also rented place to stay there, and food, and games, so... there is no getting away.	-0.66		0	0
+39	grp-11	T3	381.468	P1	It's kind of tricky, but if we have...	P4	No, I you do it at the right time during the year, I agree, it's...	-2.28		0	0
+40	grp-11	T3	384.551	P4	No, I you do it at the right time during the year, I agree, it's...	P1	Yeah.	-0.88		0	0
+41	grp-11	T3	395.487	P1	Yeah, hmm...	P3	Of course, the budget will also be...	1.83		0	0
+42	grp-11	T3	398.642	P3	Of course, the budget will also be...	P1	Wohoo, you will be generous	0.05		0	0
+43	grp-11	T3	413.763	P4	I think it sounds, I think it's...	P1	If it's unlimited budget, it's fine.	-2.65		0	0
+44	grp-11	T3	486.132	P3	Yeah yeah, it was just on my...	P4	It hasn't disappeared from me either.	0.79		0	0
+45	grp-12	T1	643.425	P4	No, okay, I wasn't...	P3	So, decision made.	0.32		0	0
+46	grp-12	T2	504.351	P4	I mean, it depends on how many people you need to engage, but...	P1	You don't have to do them all at once, right? You can do them in rounds	0.57		0	0
+47	grp-12	T2	533.347	P3	But the interactive workshop that will take a lot of resources if we had to roll out throughout GN...	P1	I know, but we were not told that we have limited resources, right?	-0.79		0	0
+48	grp-12	T2	546.932	P2	And also feel like...	P4	I mean the threshold also like the i mean for for people to engage in these interactive like formal oh yeah okay inform even informal but if i think it's higher than you having like something you start with something more passive like a lecture and then you have the possibility to engage like Q&A for example that's a personal opinion of course but...	1.15		0	0
+49	grp-12	T2	773.166	P2	Any of those...	P1	So if you guys want to work across teams and then we can say we do it as interactive workshops.	0.74		0	0
+50	grp-12	T3	388.454	P1	There's laser tech, paintball, river rafting, maybe it's difficult to find a river we could do rafting on in Denmark, but...	P3	Boat trip, river rafting, campus, laser tech, cooking, pastry class, we have some nice like a...	-0.16		0	0
+51	grp-12	T3	396.261	P3	Boat trip, river rafting, campus, laser tech, cooking, pastry class, we have some nice like a...	P4	i didn't have i didn't have time to elaborate uh...	-6.18		0	0
+52	grp-12	T3	579.182	P2	We don't talk to each other, right? In the paintball...	P1	It's the calmer version of that	-2.23		0	0
+53	grp-12	T3	658.296	P3	No one dressed up for the Halloween Party, no one here...	P4	I mean...	-1.97		0	0
+54	grp-12	T3	658.446	P4	I mean...	P1	I know, as soon as you ask me to dress up they back out	0.82		0	0
+55	grp-12	T3	675.292	P4	You can, you can, you can extend your...	P2	Yeah, that's right, and also...	0.31		0	0
+56	grp-13	T1	479.186	P1	I think the only thing that I see...	P3	Probably A could do it as well, right?	-0.25		0	0
+57	grp-13	T1	496.553	P1	But...	P3	C mentioned something about, is for me, AlphaEI, right?	1.26		0	0
+58	grp-13	T1	498.163	P1	No...	P3	C mentioned something about, is for me, AlphaEI, right?	-0.1		0	0
+59	grp-08	T1	360.303	P3	So that's not...	P2	No.	0.97		0	0
+60	grp-08	T1	441.717	P3	I don't know if that's important for this specific role or...	P1	But I think the role will sort of lead the team, right?	0.26		0	0
+61	grp-08	T1	576.877	P1	Yeah, what about...	MODERATOR	You know that part.	-0.5		0	0
+62	grp-08	T1	578.818	P2	Just put seven or...	P3	Seven.	-0.07	repetition	1	0
+63	grp-08	T2	435.847	P4	So I think it's important to...	P1	Yeah, and the mental health is a big issue, not only in GN, but in general terms, right?	0.92		0	0
+64	grp-08	T2	552.661	P2	There's no...	P1	So both a topic and a format, right?	0.65		0	0
+65	grp-08	T2	562.476	P3	I don't know...	P4	Yeah.	0.92		0	0
+66	grp-08	T2	693.31	P2	Yeah, so getting the AI as a topic the three of us could agree, and then I would compromise on the interactive...	P1	Yeah?	-7.12		0	0
+67	grp-08	T2	773.13	P2	So next to you is oh because the other one is front of...	P1	Yeah. Next must be... Right?	-2.19		0	0
+68	grp-08	T3	72.434	P3	We will get some information of how the idea should be, or like in the tablet? This is our own...	MODERATOR	No, it's just... This is GN social event.	-2.39		0	0
+69	grp-08	T3	338.081	MODERATOR	Yeah, it works based on the timer, so...	P2	Yeah, it's fine.	-0.54		0	0
+70	grp-08	T3	521.563	P2	Some team event in Legoland that was on the hotel and they were building stuff but I previously actually worked in Legoland and we've had for the Legoland employees after our events where they closed down the park and we got to do stuff in some of the theme park rides that you normally wouldn't do like you start going in one and you throw peep stuff at each other you have to catch while hanging out the side of one of the boats or whatever or ride around in the little...	P1	Cool.	-21.18		0	0
+71	grp-08	T3	583.762	P2	Concerts and...	P1	Lego.	0.6		0	0
+72	grp-08	T3	590.656	P2	I mean, the...	P3	The mystery game and the haunted house.	-0.11		0	0
+73	grp-08	T3	633.055	P2	Outside Denmark? Or...	P4	Yeah, yeah.	1.14		0	0
+74	grp-08	T3	641.4	P2	Yeah, we had the infinite budget, right? So...	P3	Budget, yes.	-0.46		0	0
+75	grp-08	T3	688.339	P2	Yeah, so it's it's it's a theme park alongside like Tivoli and others but it's so as a theme park in general it's geared more towards kids that's sort of why the after hour things where you can do stuff you normally wouldn't do and it's...	P4	Okay.	-14.84		0	0
+76	grp-08	T3	815.454	P4	Yeah, I think P1-2, some family event, looks to me as well more engaging and also...	P2	Yeah.	1.45		0	0
+77	grp-08	T3	840.997	P2	"""Yeah, but there is a prompt """"winning idea"""", concrete, so..."""	P4	Just try to find out if there is something in the list.	0.97		0	0
+78	grp-09	T3	330.41	P4	Yeah, and then if you have grievances against your boss, you can just...	P2	Would you like to elaborate on the back to the 80's suggestion?	-2.33		0	0
+79	grp-09	T3	419.949	P4	Ah, and I am the negative guy seeing all the...	P1	They'd also, like, rent out golf carts for every team so you could, like, drive around.	1.94		0	0
+80	grp-09	T3	441.291	P2	I mean, you know, I...	P3	I mean, it could be one.	0.95		0	0
+81	grp-09	T3	465.749	P3	I think bowling can become a little bit difficult sometimes depends how big the groups are like personally if i play bowling and there's like seven people in a team then until you're like it's your turn again it just becomes a little bit boring but i guess you can yeah talk to other people just i'm also quite competitive so i feel like...	P2	But I think it's good.	0.41		0	0
+82	grp-09	T3	669.145	P3	My only reason to lean towards...	MODERATOR	One last minute, and as before, one of you at the end would say, sorry, the timer is not showing, but I will come and tell you.	-0.73		0	0

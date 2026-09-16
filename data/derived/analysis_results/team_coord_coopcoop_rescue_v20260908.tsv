@@ -1,0 +1,5 @@
+Target	Features	CV	R2	n	p_2000perm	boot_ci_2.5%	boot_ci_97.5%
+team_coordination	tr_ovl_count, tr_ovl_time_s, tr_ovl_competitive_timing	LOGO	0.233	18	0.015	-0.741	0.686
+team_coordination	tr_ovl_count, tr_ovl_time_s, tr_ovl_competitive_timing	L2GO	0.242	18	0.012	-0.92	0.681
+coord+coop	tr_ovl_count, tr_ovl_time_s, tr_ovl_competitive_timing	LOGO	0.066	28	0.031	-0.279	0.558
+coord+coop	tr_ovl_count, tr_ovl_time_s, tr_ovl_competitive_timing	L2GO	0.073	28	0.022	-0.414	0.547

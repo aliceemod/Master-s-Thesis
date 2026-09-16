@@ -1,0 +1,10 @@
+session_id	group_id	free_talk_onset_s	free_talk_duration_s	free_talk_offset_s	baseline_method
+ses-20260312_grp-07_run01	grp-07	876.7	206.3	1083.0	free_talk
+ses-20260317_grp-10_run01	grp-10	725.6	329.9	1055.5	free_talk
+ses-20260317_grp-10_run01	grp-10	69674.1	344.6	70018.70000000001	free_talk
+ses-20260318_grp-12_run01	grp-12	1236.8	222.5	1459.3	free_talk
+ses-20260318_grp-13_run01	grp-13	924.8	220.9	1145.7	free_talk
+ses-20260319_grp-14_run01	grp-14	636.8	339.4	976.1999999999999	free_talk
+ses-20260319_grp-15_run01	grp-15	1002.3	180.9	1183.2	free_talk
+ses-20260319_grp-15_run01	grp-15	1183.2	371.9	1555.1	free_talk
+ses-20260320_grp-16_run01	grp-16	1020.3	341.7	1362.0	free_talk
