@@ -1,44 +1,36 @@
 # AffectAI Thesis Repository
 
-This repository contains the full working material for the master's thesis project on AffectAI. It is organized as a thesis-focused research workspace and brings together the analysis, modeling, data processing, and result generation needed to answer the project questions.
+This is the working repository for my master's thesis project on AffectAI.
 
-## Overview
+The project looks at multimodal group interaction and perceived effectiveness through computational analysis, feature engineering, and predictive modeling. This repo brings together the data, analysis notebooks, model-building work, and result outputs that support the final thesis.
 
-The project investigates multimodal group interaction and perceived effectiveness using computational analysis and predictive modeling. The repository is structured to support the end-to-end workflow of the thesis: from raw and processed data, through feature engineering and modeling, to the final outputs and interpretation used in the thesis.
+## What is in here
 
-This is a private thesis repository intended to represent the final research project structure rather than a general shared project archive.
+- analysis/: exploratory analyses, validation work, and notebooks used to investigate the research questions
+- data/: datasets, metadata, and processed project data
+- feature_engineering/: feature extraction and preprocessing across audio, physiology, transcripts, eye tracking, and other modalities
+- models/: latent-state and predictive modeling experiments, plus evaluation workflows
+- results/: figures, tables, summaries, and reports generated from the project
+- software/: reusable scripts and tools that support the project pipeline
+- archive/: historical or non-active material kept separate from the main thesis workspace
 
-## What is in this repository
+## Why this repo exists
 
-- analysis/: exploratory work, validation checks, and analysis notebooks used to investigate the research questions
-- data/: datasets, metadata, and processed data resources used by the project
-- feature_engineering/: feature extraction and preprocessing pipelines across audio, physiology, transcripts, eye tracking, and other modalities
-- models/: modeling workflows, predictive experiments, and evaluation notebooks
-- results/: final outputs including tables, figures, summaries, and reports generated for the thesis
-- software/: reusable code and pipeline tooling that supports the research workflow
-- archive/: retained historical or non-active material that is kept separately from the main thesis workspace
+This is a thesis-focused project repository: it is the working space for the final research project, organized around the actual analysis and modeling pipeline used for the thesis.
 
-## Purpose of the repository
+The structure is meant to keep the project easy to follow. Data lives in one place, feature processing in another, models in another, and final outputs in the results folder. The goal is clarity and a clean, usable workspace.
 
-This repo is meant to act as the canonical thesis project workspace: it contains the project materials that are actively used to develop, validate, and communicate the final thesis work.
+## Scope
 
-It is intended for:
-- analysis and interpretation of the data
-- modeling and experimental evaluation
-- generation of evidence for the final thesis claims
-- organization of the project around the final thesis workflow
+This repository contains the work directly relevant to the final thesis, including:
+- data preparation and analysis
+- feature engineering
+- experimental and predictive modeling
+- result generation and interpretation
+- supporting software for the pipeline
 
-## Repository boundaries
-
-This repository is designed to be a clear and self-contained thesis workspace. It is meant to hold the research and computational work associated with the final thesis, while keeping unrelated or historical project material out of the main project view.
-
-The structure is intentionally organized to make it easy for someone who lands in the repo to understand:
-- what the project is about
-- where the data lives
-- how features are processed
-- where the models are developed
-- where the thesis results are stored
+This is not meant to be a broad archive of earlier shared project work.
 
 ## Notes
 
-This repository should be understood as the private, thesis-specific working copy of the AffectAI project. It serves the purpose of the academic work and the final analysis pipeline, rather than acting as a broad or shared project repository.
+This repo is the private thesis working copy of the AffectAI project. It is organized around the final research workflow and is meant to be a readable, focused space for the work that matters for the thesis.
