@@ -53,7 +53,7 @@ for col in LOG_FEATS:
     clean[col] = np.log1p(clean[col].clip(lower=0))
 
 feat_task = clean.groupby(["group_id", "task_id"])[HMM_FEATS + AUDIO_FEATS].mean().reset_index().rename(columns={"task_id": "task"})
-target_participant = pd.read_csv("analysis/results/perceived_effectiveness_index_participant.tsv", sep="\t")
+target_participant = pd.read_csv("data/derived/analysis_results/perceived_effectiveness_index_participant.tsv", sep="\t")
 available_outcomes = [c for c in ["perceived_effectiveness_z", "team_coordination", "cooperative", "satisfaction", "decision_confidence", "idea_quality"] if c in target_participant.columns]
 target_task = target_participant.groupby(["group_id", "task"])[available_outcomes].mean().reset_index()
 model_df = feat_task.merge(target_task, on=["group_id", "task"], how="inner")
@@ -61,7 +61,7 @@ task_dummies = pd.get_dummies(model_df["task"], prefix="task", drop_first=True)
 model_df = pd.concat([model_df, task_dummies], axis=1)
 TASK_DUMMY_COLS = list(task_dummies.columns)
 
-sr = pd.read_csv("analysis/results/collective_features_v20260812/collective_task_selfreport.tsv", sep="\t").rename(columns={"task_id": "task"})
+sr = pd.read_csv("data/derived/analysis_results/collective_features_v20260812/collective_task_selfreport.tsv", sep="\t").rename(columns={"task_id": "task"})
 SR_OUTCOMES = [c for c in ["voice_inclusion_mean", "mental_demand_mean", "team_coordination_mean",
                             "cooperative_mean", "satisfaction_mean", "decision_confidence_mean", "idea_quality_mean"] if c in sr.columns]
 model_df3 = model_df.merge(sr[["group_id", "task"] + SR_OUTCOMES], on=["group_id", "task"], how="left")
@@ -76,7 +76,7 @@ _raw_old = [c for c in ["S0_pct","S1_pct","S2_pct","S3_pct","S4_pct"] if c in _o
 _old_hmm = _old_hmm.rename(columns={c: f"old_{c}" for c in _raw_old})
 HMM_OLD_STATE_FEATS = [f"old_{c}" for c in _raw_old]
 model_df3 = model_df3.merge(_old_hmm[["group_id","task"] + HMM_OLD_STATE_FEATS], on=["group_id","task"], how="left")
-_new_hmm = pd.read_csv("analysis/results/hmm_state_proportions_expanded.tsv", sep="\t").rename(columns={"task_id": "task"})
+_new_hmm = pd.read_csv("data/derived/analysis_results/hmm_state_proportions_expanded.tsv", sep="\t").rename(columns={"task_id": "task"})
 _raw_new = [c for c in _new_hmm.columns if c.endswith("_pct")]
 _new_hmm = _new_hmm.rename(columns={c: f"new_{c}" for c in _raw_new})
 HMM_NEW_STATE_FEATS = [f"new_{c}" for c in _raw_new]
@@ -94,7 +94,7 @@ for df_m in [enh_task]:
     if new_cols:
         model_df3 = model_df3.merge(df_m[["group_id", "task"] + new_cols], on=["group_id", "task"], how="left")
 
-_lex = pd.read_csv("analysis/results/lexical_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
+_lex = pd.read_csv("data/derived/analysis_results/lexical_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
 LEX_THEORY = [c for c in ["lex_we_i_ratio", "lex_turn_cohesion", "lex_word_gini",
               "lex_hedging_count", "lex_agreement_count", "lex_question_count",
               "lex_suggestion_count", "lex_social_composite", "lex_sentiment_ratio"] if c in _lex.columns]
@@ -103,7 +103,7 @@ new_cols = [c for c in LEX_THEORY if c not in model_df3.columns]
 if new_cols:
     model_df3 = model_df3.merge(lex_task[["group_id", "task"] + new_cols], on=["group_id", "task"], how="left")
 
-_da = pd.read_csv("analysis/results/da_keyword_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
+_da = pd.read_csv("data/derived/analysis_results/da_keyword_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
 DA_FEATS = [c for c in ["da_agreement", "da_disagreement", "da_compromise", "da_proposal",
             "da_question", "da_hedge", "da_backchannel"] if c in _da.columns]
 da_task = _da.groupby(["group_id", "task"])[DA_FEATS].mean().reset_index()
@@ -111,10 +111,10 @@ new_cols = [c for c in DA_FEATS if c not in model_df3.columns]
 if new_cols:
     model_df3 = model_df3.merge(da_task[["group_id", "task"] + new_cols], on=["group_id", "task"], how="left")
 
-_sem = pd.read_csv("analysis/results/semantic_continuity_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
+_sem = pd.read_csv("data/derived/analysis_results/semantic_continuity_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
 SEM_FEATS = ["tr_semantic_continuity", "tr_cross_speaker_similarity"]
 sem_task = _sem.groupby(["group_id", "task"])[SEM_FEATS].mean().reset_index()
-_cr = pd.read_csv("analysis/results/completion_repetition_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
+_cr = pd.read_csv("data/derived/analysis_results/completion_repetition_window_30s.tsv", sep="\t").rename(columns={"task_id": "task"})
 CR_FEATS = ["tr_completion_count", "tr_repetition_count"]
 cr_task = _cr.groupby(["group_id", "task"])[CR_FEATS].mean().reset_index()
 for df_m in [sem_task, cr_task]:

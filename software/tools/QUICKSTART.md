@@ -40,7 +40,7 @@ python run_pipeline.py \
     --preset quick
 ```
 
-### ⭐ Recommended (1-2 hours)
+### Recommended (1-2 hours)
 ```bash
 python run_pipeline.py \
     --data-dir ../affectai-data-processing-seed/data \
@@ -48,7 +48,7 @@ python run_pipeline.py \
     --preset standard
 ```
 
-### 🚀 Maximum (2-3 hours)
+### Maximum (2-3 hours)
 ```bash
 python run_pipeline.py \
     --data-dir ../affectai-data-processing-seed/data \
@@ -95,7 +95,7 @@ find E:\processed_data -name "*.tsv" | wc -l        # PowerShell
 - [ ] Python 3.10+: `python --version`
 - [ ] GPU detected (if using 3D pose): `nvidia-smi`
 - [ ] MediaPipe installed: `python -c "import mediapipe; print(mediapipe.__version__)"`
-- [ ] Enough disk space: `27 sessions × 50-200 GB = 1.4-5.4 TB` (adjust for your options)
+- [ ] Enough disk space: `27 sessions × 50-200 GB = 1.4-5.4 TB` (depending on enabled stages)
 
 ## Performance Cheat Sheet
 

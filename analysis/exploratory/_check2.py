@@ -1,5 +1,5 @@
 import json, pathlib
-nb = json.loads(pathlib.Path('analysis/effectiveness_prediction_models.ipynb').read_text(encoding='utf-8'))
+nb = json.loads(pathlib.Path('models/prediction/effectiveness_prediction_data_prep.ipynb').read_text(encoding='utf-8'))
 print(f'Total cells: {len(nb["cells"])}')
 code_n = 0
 for i, cell in enumerate(nb["cells"]):

@@ -16,7 +16,7 @@ Usage
 -----
     python tools/sample_overlap_context_validation.py \\
         --transcript-dir transcripts/final \\
-        --out-dir analysis/results/context_label_validation \\
+        --out-dir data/derived/analysis_results/context_label_validation \\
         --n-collaborative 40 --n-completion 25 --n-competitive 30 --n-empty 30 \\
         --seed 42
 
@@ -157,7 +157,7 @@ def stratified_sample(
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--transcript-dir", type=Path, default=Path("transcripts/final"))
-    ap.add_argument("--out-dir", type=Path, default=Path("analysis/results/context_label_validation"))
+    ap.add_argument("--out-dir", type=Path, default=Path("data/derived/analysis_results/context_label_validation"))
     ap.add_argument("--n-collaborative", type=int, default=40)
     ap.add_argument("--n-completion", type=int, default=25)
     ap.add_argument("--n-competitive", type=int, default=30)

@@ -2,11 +2,11 @@
 involvement) from `transcripts/final/*.tsv`.
 
 Group-level features (silence, active-speaker count, collaboration index, etc.) are already
-covered by `icmi_paper/results/hmm_input_features_final.tsv` — this script only extracts what
+covered by `data/derived/analysis_results/hmm_input_features_final.tsv` — this script only extracts what
 can be legitimately attributed to an individual speaker (P1-P4). Aggregated to task level
 (not 30s windows) since participant-task is the granularity needed downstream.
 
-Output: analysis/results/participant_transcript_features.tsv
+Output: data/derived/analysis_results/participant_transcript_features.tsv
     columns: group_id, task, participant, tr_speaking_time_s, tr_n_turns,
              tr_backchannel_count, tr_laughter_count, tr_overlap_count, tr_overlap_time_s,
              tr_overlap_competitive, tr_overlap_floor_fight, tr_overlap_smooth,

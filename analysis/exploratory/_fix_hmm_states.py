@@ -1,6 +1,6 @@
 import json, pathlib
 
-path = pathlib.Path("analysis/effectiveness_prediction_models.ipynb")
+path = pathlib.Path("models/prediction/effectiveness_prediction_data_prep.ipynb")
 nb = json.loads(path.read_text(encoding="utf-8"))
 
 # Fix: the HMM states modeling cell merges _hmm_pred into model_df3 again,

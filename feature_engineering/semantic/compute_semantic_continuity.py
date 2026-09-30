@@ -1,8 +1,8 @@
 """Compute per-window semantic continuity: mean cosine similarity between consecutive speakers.
 Also computes a zero-shot completion score for each overlap candidate using the cached DeBERTa model.
 Outputs:
-  analysis/results/semantic_continuity_window_30s.tsv  — window-level tr_semantic_continuity
-  analysis/results/completion_scores_nli.tsv           — per-candidate NLI completion probability
+  data/derived/analysis_results/semantic_continuity_window_30s.tsv  — window-level tr_semantic_continuity
+  data/derived/analysis_results/completion_scores_nli.tsv           — per-candidate NLI completion probability
 """
 import logging
 import os

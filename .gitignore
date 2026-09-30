@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration and logs
+*.log
+*.local.*
+*.tmp
+
+# Generated caches and temporary exports
+_tmp/
+tmp/
+cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/

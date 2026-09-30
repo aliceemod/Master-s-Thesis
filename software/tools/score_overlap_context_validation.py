@@ -7,8 +7,8 @@ Run this AFTER a human annotator has filled in `human_context_label` (and option
 Usage
 -----
     python tools/score_overlap_context_validation.py \\
-        --blind analysis/results/context_label_validation/context_label_validation_BLIND.tsv \\
-        --answer-key analysis/results/context_label_validation/context_label_validation_ANSWER_KEY.tsv
+        --blind data/derived/analysis_results/context_label_validation/context_label_validation_BLIND.tsv \\
+        --answer-key data/derived/analysis_results/context_label_validation/context_label_validation_ANSWER_KEY.tsv
 
 Reports
 -------

@@ -1,6 +1,6 @@
 """Extract GeMAPSv01b audio features per 30-second window, group-averaged across P1-P4.
 
-Output: icmi_paper/results/audio_window_features.tsv
+Output: data/derived/analysis_results/audio_window_features.tsv
 """
 import re
 import logging

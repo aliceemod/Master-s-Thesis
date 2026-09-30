@@ -1,10 +1,10 @@
 """Per-participant audio/prosodic features aggregated to task level from the existing
-window-level per-participant GeMAPS table (`icmi_paper/results/_audio_window_partial.tsv`).
+window-level per-participant GeMAPS table (`data/derived/analysis_results/_audio_window_partial.tsv`).
 
 Uses the same curated 4-feature mapping as `icmi_paper/analysis/audio_window_features.ipynb`
 (the group-level version) — just aggregated per participant instead of averaged across P1-P4.
 
-Output: analysis/results/participant_audio_features.tsv
+Output: data/derived/analysis_results/participant_audio_features.tsv
     columns: group_id, task, participant, audio_energy_mean, audio_pitch_mean,
              audio_pitch_sd, audio_hnr_mean, n_windows
 """

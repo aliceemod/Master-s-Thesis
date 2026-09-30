@@ -4,12 +4,12 @@ Builds the group-task feature/target modeling matrix from the corrected
 `collective_features_v20260905` matrix plus the per-family generated tables
 (audio prosody, turn-taking, lexical, dialogue acts, semantic continuity, BERT
 semantics), using the same group-task aggregation and eligibility screening
-already established in `analysis/feature_eda_and_selection.ipynb`
+already established in `analysis/exploratory/feature_eda_and_selection.ipynb`
 (`to_group_task` / coverage-variance-sparsity screen), so the modeling feature
-sets match the audited diagnostics in `analysis/results/feature_eda/`.
+sets match the audited diagnostics in `data/derived/analysis_results/feature_eda/`.
 
-This supersedes `analysis/effectiveness_prediction_models.ipynb`, which still
-reads `icmi_paper/results/hmm_input_features_final.tsv` — pre-baseline-fix,
+This supersedes `models/prediction/effectiveness_prediction_data_prep.ipynb`, which still
+reads `data/derived/analysis_results/hmm_input_features_final.tsv` — pre-baseline-fix,
 pre-discussion-filter data. See docs/prediction_analysis_backlog.md Priority 1.
 
 Design (implements docs/prediction_analysis_backlog.md Priority 1, in part):
@@ -31,7 +31,7 @@ Priority 1): fold-local HMM fitting / state-vs-raw comparison, paired
 fold-level bootstrap, and multiple-comparison correction across the full
 feature-set x target grid.
 
-Outputs (analysis/results/primary_prediction_analysis/):
+Outputs (data/derived/analysis_results/primary_prediction_analysis/):
     prediction_primary_results.tsv
     run_metadata.json
 """

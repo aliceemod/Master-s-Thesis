@@ -1,10 +1,8 @@
-# Master BIDS Processing Pipeline — Complete Implementation
+# BIDS Processing Pipeline
 
-## 📋 What Has Been Created
+This directory contains the pipeline, launchers, configuration, and documentation for processing AffectAI recordings into a BIDS dataset. Session processing can run in parallel; optional stages use GPU resources.
 
-This comprehensive package adds **GPU-accelerated multiprocessing pipeline** capabilities to your AffectAI data processing workflow. Everything is production-ready and fully documented.
-
-### 📁 New Files Created
+## Files
 
 #### Core Pipeline
 1. **`master_bids_pipeline.py`** — Main orchestrator
@@ -49,14 +47,14 @@ This comprehensive package adds **GPU-accelerated multiprocessing pipeline** cap
    - Common scenarios
    - Troubleshooting checklist
 
-8. **`PIPELINE_README.md`** — Comprehensive manual (70+ pages equivalent)
+8. **`PIPELINE_README.md`** — Pipeline reference
    - Architecture overview
    - Preset descriptions
    - Performance tuning
    - GPU acceleration details
    - Multiprocessing explanation
    - Output structure documentation
-   - Extensive troubleshooting
+   - Troubleshooting
 
 9. **`ARCHITECTURE_PIPELINE.md`** — Design documentation
    - High-level flow diagrams
@@ -69,10 +67,9 @@ This comprehensive package adds **GPU-accelerated multiprocessing pipeline** cap
    - Extensibility points
 
 10. **`INDEX.md`** — This file
-    - Overview of everything created
-    - Getting started guide
+   - File inventory and usage examples
 
-## 🚀 Quick Start (30 seconds)
+## Usage Examples
 
 ### Option A: Windows Double-Click
 ```bash
@@ -118,7 +115,7 @@ python tools/master_bids_pipeline.py \
 | **dual_gpu** | Fast production | 45 min | Yes (2x) | BIDS + 3D + face/hand |
 | **single_session** | Debugging | 2-3 hours | Yes | Full features, 1 worker |
 
-## 🔧 System Requirements
+## System Requirements
 
 ### Minimum
 - Python 3.10+
@@ -140,21 +137,13 @@ python tools/master_bids_pipeline.py \
 - CPU: 16+ cores
 - GPU: 2x RTX 3090 or RTX 6000 (24GB VRAM each)
 
-## 📚 Documentation Guide
+## Documentation
 
-**New to the pipeline?**
-→ Start with **[QUICKSTART.md](QUICKSTART.md)** (5 min read)
+- [QUICKSTART.md](QUICKSTART.md): commands and prerequisites
+- [PIPELINE_README.md](PIPELINE_README.md): configuration, operation, and troubleshooting
+- [ARCHITECTURE_PIPELINE.md](ARCHITECTURE_PIPELINE.md): pipeline architecture
 
-**Setting up for production?**
-→ Read **[PIPELINE_README.md](PIPELINE_README.md)** (30 min read)
-
-**Curious about internals?**
-→ Study **[ARCHITECTURE_PIPELINE.md](ARCHITECTURE_PIPELINE.md)** (20 min read)
-
-**Debugging issues?**
-→ Check **PIPELINE_README.md** "Troubleshooting" section
-
-## 🎯 Key Features
+## Key Features
 
 ### 1. Multiprocessing
 ```python
@@ -366,7 +355,7 @@ python tools/master_bids_pipeline.py \
 3. Enable `--verbose` flag for debug output
 4. Review **Troubleshooting** section in PIPELINE_README.md
 
-## 🎨 Next Steps (After Pipeline Completes)
+## Inspecting Pipeline Output
 
 1. **Validate BIDS compliance:**
    ```bash
@@ -390,34 +379,15 @@ python tools/master_bids_pipeline.py \
    ```
 
 4. **Downstream analysis:**
-   - Use processed BIDS data in your analysis pipeline
+   - Use processed BIDS data in downstream analyses
    - Reference participant.tsv for demographics
    - Access synchronized modalities via events.tsv timeline
 
-## ✨ Summary
-
-You now have a **production-grade, GPU-accelerated, multiprocessing-enabled BIDS processing pipeline** that:
-
-✅ Processes all 27+ sessions in parallel  
-✅ Leverages GPU for 2-3x speedup on 3D pose/face recognition  
-✅ Generates BIDS-compliant output ready for downstream analysis  
-✅ Provides comprehensive logging and error reporting  
-✅ Includes easy-to-use launchers for common scenarios  
-✅ Fully documented with architecture & performance tuning guides  
-
-**Estimated total processing time:** 10–30 hours (depending on preset & hardware)
-
----
-
-**Ready to start?** Pick an option:
+## Example Invocations
 
 1. **Ultra-quick test:** `python tools/run_pipeline.py --preset quick --output-dir D:\test`
 2. **Recommended:** `python tools/run_pipeline.py --preset standard --output-dir E:\processed_data`
 3. **Maximum features:** `python tools/run_pipeline.py --preset full --output-dir E:\processed_data`
-
-🎉 **Enjoy your accelerated BIDS processing!**
-
----
 
 **Version:** 1.0  
 **Created:** 2026-03-27  

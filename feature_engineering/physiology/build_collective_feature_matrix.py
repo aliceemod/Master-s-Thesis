@@ -701,7 +701,7 @@ def run(
     t_bins = _bin_transcript_events(t_events, jitter_s=transcript_jitter_s)
 
     # ── Lexical window features ────────────────────────────────────────────────
-    lex_path = Path("analysis/results/lexical_window_30s.tsv")
+    lex_path = Path("data/derived/analysis_results/lexical_window_30s.tsv")
     lex_grp = _load_tsv(lex_path, "lexical_window_30s")
     if lex_grp is not None:
         # Filter to requested groups/tasks and select columns

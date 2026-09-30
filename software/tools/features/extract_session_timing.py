@@ -19,7 +19,7 @@ Usage:
     python tools/features/extract_session_timing.py \
         --beh-root  C:/Users/.../affectai_beh/bids_release_no_video \
         --annot-root C:/Users/.../affectai_annot/bids_release_no_video \
-        --out-dir   analysis/results/session_timing
+        --out-dir   data/derived/analysis_results/session_timing
 """
 
 from __future__ import annotations
@@ -387,7 +387,7 @@ def build_parser() -> argparse.ArgumentParser:
                    help="Path to bids_release_no_video containing sub-01/ses-*/beh/")
     p.add_argument("--annot-root", type=Path, default=None,
                    help="Path to bids_release_no_video containing sub-01/ses-*/annot/")
-    p.add_argument("--out-dir", type=Path, default=Path("analysis/results/session_timing"),
+    p.add_argument("--out-dir", type=Path, default=Path("data/derived/analysis_results/session_timing"),
                    help="Output directory for timing TSVs.")
     p.add_argument("--verbose", action="store_true")
     return p

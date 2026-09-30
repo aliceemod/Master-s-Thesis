@@ -6,7 +6,7 @@ needed.
 gaze/blink extractor) cannot be run in this workspace because the raw
 `et/*_acq-P*_tobii.tsv.gz` files are not present here. However, its group-level
 aggregate (mean/std across P1-P4) was already computed for the paper's HMM
-analysis and survives in `icmi_paper/results/enhanced_features_final.tsv`,
+analysis and survives in `data/derived/analysis_results/enhanced_features_final.tsv`,
 covering all 10 groups (grp-07..grp-16), tasks T1-T3, ~85% window coverage.
 
 This script pulls just the `group_et_*` columns (and identifying/attendance
@@ -19,7 +19,7 @@ blink rate / gaze dispersion / gaze velocity would require re-running
 `tools/features/extract_eyetracking_features.py` against the original raw ET
 files (not present in this workspace).
 
-Outputs (written to analysis/results/):
+Outputs (written to data/derived/analysis_results/):
     group_eyetracking_features_window_30s.tsv  — one row per group x task x 30s window
     group_eyetracking_features_task.tsv         — one row per group x task (mean across windows)
 

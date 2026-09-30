@@ -1,6 +1,6 @@
 """Check whether participant-level audio prosody features (energy, pitch, pitch SD, HNR)
 are confounded by how long a group's discussion phase lasted (`discussion_duration_s`,
-from `analysis/results/session_timing/task_timing.tsv`).
+from `data/derived/analysis_results/session_timing/task_timing.tsv`).
 
 Two checks, per audio feature:
     1. Direct correlation with discussion_duration_s (is the feature itself duration-dependent?).
@@ -13,7 +13,7 @@ took in a task, given that discussion-only window filtering was already applied.
 script is the reproducible check for that question — see docs/feature_catalog.md and
 docs/session_timing_audit.md for the discussion-window fix itself.
 
-Output: analysis/results/audio_duration_confound_check.tsv
+Output: data/derived/analysis_results/audio_duration_confound_check.tsv
 """
 from __future__ import annotations
 

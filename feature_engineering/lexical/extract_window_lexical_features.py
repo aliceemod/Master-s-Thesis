@@ -9,7 +9,7 @@ Output granularity: One row per group × task × window_index.
 This complements the participant×task lexical features in `extract_participant_lexical_features.py`
 by providing the temporal resolution needed for HMM latent state discovery.
 
-Output: analysis/results/lexical_window_30s.tsv
+Output: data/derived/analysis_results/lexical_window_30s.tsv
 
 Usage:
     python analysis/extract_window_lexical_features.py

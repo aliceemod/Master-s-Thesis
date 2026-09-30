@@ -15,7 +15,7 @@ Feature categories:
 Lemmatization: Words are lemmatized to base forms (via NLTK WordNet) to improve marker
 matching recall (e.g., "agreeing" → "agree", "problems" → "problem").
 
-Output: analysis/results/participant_lexical_features.tsv
+Output: data/derived/analysis_results/participant_lexical_features.tsv
 """
 from __future__ import annotations
 

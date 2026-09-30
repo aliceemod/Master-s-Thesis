@@ -1,36 +1,32 @@
-# AffectAI Thesis Repository
+# Multimodal Group Interaction | Master's Thesis
 
-This is the working repository for my master's thesis project on AffectAI.
+This repository contains the analysis for my master's thesis using data from the AffectAI project. I study how patterns in group conversation and multimodal signals relate to participants' perceived effectiveness of a group session. The work brings together transcript, audio, eye-tracking, and physiological features, with both direct prediction and latent-state approaches to modeling group interaction.
 
-The project looks at multimodal group interaction and perceived effectiveness through computational analysis, feature engineering, and predictive modeling. This repo brings together the data, analysis notebooks, model-building work, and result outputs that support the final thesis.
+The broader AffectAI work was developed in a shared repository under a company account, with contributions from other project members. This separate repository collects the material for my thesis. It is not a complete copy of the collaborative project.
 
-## What is in here
+## Repository guide
 
-- analysis/: exploratory analyses, validation work, and notebooks used to investigate the research questions
-- data/: datasets, metadata, and processed project data
-- feature_engineering/: feature extraction and preprocessing across audio, physiology, transcripts, eye tracking, and other modalities
-- models/: latent-state and predictive modeling experiments, plus evaluation workflows
-- results/: figures, tables, summaries, and reports generated from the project
-- software/: reusable scripts and tools that support the project pipeline
-- archive/: historical or non-active material kept separate from the main thesis workspace
+| Directory | Contents |
+| --- | --- |
+| `analysis/` | Exploratory notebooks and validation analyses. |
+| `data/` | Metadata, transcripts, stimulus responses, and derived data used in the analysis. |
+| `feature_engineering/` | Extraction and preprocessing for audio, dialogue, eye tracking, physiology, and other features. |
+| `models/` | Latent-state and outcome-prediction analyses. |
+| `results/` | Generated figures, tables, and reports. |
+| `software/` | Pipeline tools, configuration, and tests. |
+| `archive/` | Earlier data-processing material and scripts retained for reference. |
 
-## Why this repo exists
+The directories follow the path from data and feature extraction through analysis and modeling to reported results. Notebooks document exploratory work as well as later analyses; their presence does not imply that every experiment is part of the final thesis findings.
 
-This is a thesis-focused project repository: it is the working space for the final research project, organized around the actual analysis and modeling pipeline used for the thesis.
+## Reproducibility
 
-The structure is meant to keep the project easy to follow. Data lives in one place, feature processing in another, models in another, and final outputs in the results folder. The goal is clarity and a clean, usable workspace.
+The Python package configuration is in `software/pyproject.toml`. The project requires Python 3.10 or newer. Analysis dependencies are grouped under the `analysis` extra, while development dependencies include `pytest` and `ruff`.
 
-## Scope
+The usual workflow is:
 
-This repository contains the work directly relevant to the final thesis, including:
-- data preparation and analysis
-- feature engineering
-- experimental and predictive modeling
-- result generation and interpretation
-- supporting software for the pipeline
+1. Prepare the data under `data/`.
+2. Run the relevant feature pipelines in `feature_engineering/`.
+3. Run the HMM or prediction notebooks in `models/`.
+4. Review generated tables, figures, and reports under `results/`.
 
-This is not meant to be a broad archive of earlier shared project work.
-
-## Notes
-
-This repo is the private thesis working copy of the AffectAI project. It is organized around the final research workflow and is meant to be a readable, focused space for the work that matters for the thesis.
+Most notebooks expect to be run from the repository root and use paths relative to this structure. Large raw recordings and machine-specific environments are not part of the repository.

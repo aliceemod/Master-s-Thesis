@@ -4,7 +4,7 @@ Complete multiprocessing and GPU-accelerated pipeline for converting AffectAI mu
 
 ## Overview
 
-This pipeline orchestrates the complete processing of all sessions from your inventory files into a BIDS-compliant dataset. It provides:
+This pipeline processes sessions listed in the inventory files into a BIDS dataset. It provides:
 
 - **Multiprocessing support** — Parallel processing of multiple sessions
 - **GPU acceleration** — CUDA support for MediaPipe (face/hand detection) and computer vision tasks
@@ -115,7 +115,7 @@ python tools/master_bids_pipeline.py \
 
 ## Performance Tuning
 
-### For Your System
+### Resource Planning
 
 1. **Check available GPUs:**
    ```bash

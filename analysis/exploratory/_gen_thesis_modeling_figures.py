@@ -3,10 +3,10 @@ post-BIC-fix (2026-09-10, ADR-0008) pipeline outputs.
 
 Does NOT refit the HMM, KMeans, or any prediction model with new randomness where a
 saved artifact already exists — it either replays the exact deterministic PCA/KMeans
-steps from analysis/hmm_collective_states_updated_overlaps.ipynb (Sections 1-3, 11),
+steps from models/hmm/collective_states_hmm_updated_overlaps.ipynb (Sections 1-3, 11),
 or reads existing TSVs directly. Run with the audio_venv interpreter.
 
-Output: analysis/results/thesis_eda/<name>.png (matches existing thesis_eda figures'
+Output: data/derived/analysis_results/thesis_eda/<name>.png (matches existing thesis_eda figures'
 sns.set_theme(style='whitegrid', font_scale=1.1), dpi=300, bbox_inches='tight' style).
 """
 import numpy as np
@@ -26,7 +26,7 @@ COLLECTIVE_DIR = "results/collective_features_v20260905"
 HMM_DIR = "results/hmm_states_v20260905"
 
 # ---------------------------------------------------------------------------
-# 1. Reproduce the exact preprocessing from hmm_collective_states_updated_overlaps.ipynb
+# 1. Reproduce the exact preprocessing from collective_states_hmm_updated_overlaps.ipynb
 #    (Sections 1-3): load -> filter T1-T3+transcript -> physio z-score + log1p -> impute
 #    -> standardize -> PCA. This is fully deterministic (no random_state involved).
 # ---------------------------------------------------------------------------
@@ -120,7 +120,7 @@ print("saved pca_scatter_by_task_v20260905.png")
 
 # ---------------------------------------------------------------------------
 # Figure C: K-Means silhouette plot (k=6, random_state=42, n_init=10 -- matches
-# the exact call in hmm_collective_states_updated_overlaps.ipynb Section 11)
+# the exact call in collective_states_hmm_updated_overlaps.ipynb Section 11)
 # ---------------------------------------------------------------------------
 K_HMM = 6
 km = KMeans(n_clusters=K_HMM, random_state=42, n_init=10)
@@ -228,7 +228,7 @@ plt.savefig(f"{OUT_DIR}/matched_representation_comparison_v20260905.png", dpi=30
 plt.close(fig)
 print("saved matched_representation_comparison_v20260905.png")
 
-print("\nNOTE: source table analysis/results/prediction_model_comparison_v20260905.tsv "
+print("\nNOTE: source table data/derived/analysis_results/prediction_model_comparison_v20260905.tsv "
       "still labels the HMM model 'HMM states new K5 (v20260905)' even though the "
       "underlying occupancy features are the post-BIC-fix K=6 set (hmm_state_proportions_task.tsv "
       "has 6 state columns S0_pct..S5_pct, generated 2026-09-10 16:09, before this table's "

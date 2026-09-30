@@ -1,18 +1,18 @@
 """Combine participant-level transcript, audio, physio, lexical, and questionnaire (target)
 features into a single participant x task modeling table.
 
-Data-prep only, mirrors `analysis/effectiveness_prediction_models.ipynb` but at participant
+Data-prep only, mirrors `models/prediction/effectiveness_prediction_data_prep.ipynb` but at participant
 (P1-P4) granularity instead of group granularity. Sources:
-    - analysis/results/participant_transcript_features.tsv          (this repo, real per-speaker)
-    - analysis/results/participant_lexical_features.tsv             (this repo, real per-speaker)
-    - analysis/results/participant_audio_features.tsv               (this repo, real per-speaker)
-    - analysis/results/physio_features/physio_participant_task.tsv  (real, extracted from raw
+    - data/derived/analysis_results/participant_transcript_features.tsv          (this repo, real per-speaker)
+    - data/derived/analysis_results/participant_lexical_features.tsv             (this repo, real per-speaker)
+    - data/derived/analysis_results/participant_audio_features.tsv               (this repo, real per-speaker)
+    - data/derived/analysis_results/physio_features/physio_participant_task.tsv  (real, extracted from raw
       EmotiBit BIDS data via tools/features/extract_physio_features.py)
-    - analysis/results/pupil_features/features_pupil_participant_task.tsv (real, extracted from
+    - data/derived/analysis_results/pupil_features/features_pupil_participant_task.tsv (real, extracted from
       raw Tobii BIDS data via tools/features/extract_pupil_features.py)
-    - analysis/results/perceived_effectiveness_index_participant.tsv (target + questionnaire cols)
+    - data/derived/analysis_results/perceived_effectiveness_index_participant.tsv (target + questionnaire cols)
 
-Output: analysis/results/participant_model_df.tsv
+Output: data/derived/analysis_results/participant_model_df.tsv
 """
 from __future__ import annotations
 

@@ -324,7 +324,7 @@ To confirm that Ridge results are not estimator-dependent, the significant Ridge
 3. **RF generally underperforms** linear models (expected with n=28), except for team_coordination where it captures a nonlinear relationship.
 4. **No result flips sign** — every target that was positive with Ridge stays positive with at least 2 of 3 alternative estimators.
 
-Full results: `analysis/results/prediction_alternative_estimators.tsv`
+Full results: `data/derived/analysis_results/prediction_alternative_estimators.tsv`
 
 ---
 
