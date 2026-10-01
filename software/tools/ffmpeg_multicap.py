@@ -208,7 +208,7 @@ def disable_jabra_intelligent_zoom(
     if not found_devices:
         print("   [!]  No Jabra devices found on network")
         print("   [i] Tip: Disable intelligent zoom manually in Jabra Direct app or via web UI")
-        print("          See docs/panacast_usb_disable_zoom.md for instructions")
+        print("          Configure zoom manually in Jabra Direct or the device web interface.")
         logger.warning("No Jabra devices found for zoom control; may need manual configuration")
         return results
 

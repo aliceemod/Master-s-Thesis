@@ -1,7 +1,8 @@
-"""Convert a Markdown audit document to an editable DOCX file."""
+"""Convert a Markdown file to an editable DOCX file."""
 
 from __future__ import annotations
 
+import argparse
 import re
 from pathlib import Path
 
@@ -9,10 +10,6 @@ from docx import Document
 from docx.enum.table import WD_TABLE_ALIGNMENT, WD_CELL_VERTICAL_ALIGNMENT
 from docx.enum.text import WD_BREAK
 from docx.shared import Inches, Pt
-
-
-SOURCE = Path("docs/session_timing_audit.md")
-OUTPUT = Path("docs/session_timing_audit.docx")
 
 
 def add_inline_text(paragraph, text: str) -> None:
@@ -93,4 +90,8 @@ def convert(source: Path, output: Path) -> None:
 
 
 if __name__ == "__main__":
-    convert(SOURCE, OUTPUT)
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("source", type=Path, help="Markdown file to convert")
+    parser.add_argument("output", type=Path, help="Destination DOCX file")
+    arguments = parser.parse_args()
+    convert(arguments.source, arguments.output)

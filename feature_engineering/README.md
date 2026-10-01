@@ -1,13 +1,7 @@
 # Feature Engineering
 
-This folder contains the feature extraction and preprocessing pipeline used in the thesis.
+This folder contains code for extracting and preparing the features used in the thesis analyses.
 
-It includes feature transforms for:
-- audio
-- speech and dialogue structure
-- eye tracking
-- lexical and semantic representations
-- participant-level and group-level features
-- physiology and multimodal signals
+The subdirectories organize work by modality: `audio/`, `bert/`, `completion/`, `dialogue_act/`, `eye_tracking/`, `lexical/`, `participants/`, `physiology/`, `semantic/`, and `transcripts/`.
 
-This directory holds the computational feature pipeline that prepares the project data for modeling and analysis.
+Participant- and group-level feature assembly is also included. Generated feature tables are stored under `data/derived/analysis_results/`; they are inputs to analyses in `analysis/` and `models/`.

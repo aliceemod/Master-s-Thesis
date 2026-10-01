@@ -10,9 +10,9 @@ sets match the audited diagnostics in `data/derived/analysis_results/feature_eda
 
 This supersedes `models/prediction/effectiveness_prediction_data_prep.ipynb`, which still
 reads `data/derived/analysis_results/hmm_input_features_final.tsv` — pre-baseline-fix,
-pre-discussion-filter data. See docs/prediction_analysis_backlog.md Priority 1.
+pre-discussion-filter data.
 
-Design (implements docs/prediction_analysis_backlog.md Priority 1, in part):
+Design:
     - Group-task is the prediction unit; validation is leave-one-group-out
       (GroupKFold with n_splits == n_groups).
     - Complete-case (listwise) per feature-set x target combination; no
@@ -24,12 +24,11 @@ Design (implements docs/prediction_analysis_backlog.md Priority 1, in part):
     - Targets are grouped into primary (administered in all 3 tasks, n<=30),
       secondary (2 tasks, n<=20), and exploratory (1 task, n<=10) tiers by
       questionnaire coverage; exploratory-tier results are small-n and must
-      not be read as robust evidence (see backlog Priority 4).
+        be interpreted cautiously because few groups contribute observations.
 
-Not yet implemented here (tracked in docs/prediction_analysis_backlog.md
-Priority 1): fold-local HMM fitting / state-vs-raw comparison, paired
-fold-level bootstrap, and multiple-comparison correction across the full
-feature-set x target grid.
+    Not implemented: fold-local HMM fitting and state-vs-raw comparison, paired
+    fold-level bootstrap, and multiple-comparison correction across the full
+    feature-set-by-target grid.
 
 Outputs (data/derived/analysis_results/primary_prediction_analysis/):
     prediction_primary_results.tsv
@@ -51,8 +50,8 @@ from sklearn.model_selection import GroupKFold, cross_val_predict
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-RESULTS_DIR = REPO_ROOT / "analysis" / "results"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+RESULTS_DIR = REPO_ROOT / "data" / "derived" / "analysis_results"
 COLLECTIVE_DIR = RESULTS_DIR / "collective_features_v20260905"
 OUTPUT_DIR = RESULTS_DIR / "primary_prediction_analysis"
 
@@ -279,7 +278,7 @@ def main() -> None:
         "target_task_availability": TARGET_TASKS,
         "python_version": platform.python_version(),
         "known_gaps": [
-            "Fold-local HMM fitting not yet implemented (see docs/prediction_analysis_backlog.md Priority 1).",
+            "Fold-local HMM fitting is not implemented in this analysis.",
             "Lasso/ElasticNet alternative estimators not yet rerun on this matrix.",
             "No multiple-comparison correction across the feature-set x target grid; "
             "perm_p values here are per-comparison and exploratory.",

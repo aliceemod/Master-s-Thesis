@@ -1659,7 +1659,7 @@ def cmd_calibrate(args: argparse.Namespace) -> None:
             print(f"  Ground-plane     : {status}")
         print()
         print("You can now use this calibration with FreeMoCap for 3D reconstruction.")
-        print("See: docs/freemocap_quickstart.md")
+        print("Refer to the FreeMoCap setup instructions before running 3D reconstruction.")
     else:
         sys.exit("ERROR: Calibration completed but no .toml file was produced.")
 

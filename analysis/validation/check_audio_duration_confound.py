@@ -8,10 +8,8 @@ Two checks, per audio feature:
        feature on discussion_duration_s (does controlling for duration change the target
        correlation?).
 
-Context: user asked (2026-09-02) whether audio features might depend on how long a group
-took in a task, given that discussion-only window filtering was already applied. This
-script is the reproducible check for that question — see docs/feature_catalog.md and
-docs/session_timing_audit.md for the discussion-window fix itself.
+Context: this check tests whether audio-feature associations change after accounting for
+discussion duration, following the discussion-only window filtering used in the analysis.
 
 Output: data/derived/analysis_results/audio_duration_confound_check.tsv
 """

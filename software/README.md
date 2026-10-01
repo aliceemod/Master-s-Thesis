@@ -1,10 +1,7 @@
 # Software
 
-This folder contains the executable code and tooling that support the thesis workflow.
+This folder contains supporting software for data processing and project workflows.
 
-It includes:
-- pipeline configuration and support scripts
-- reusable analysis utilities
-- software tools used to prepare, run, and validate the project pipeline
+`src/` contains the Python package, `tools/` contains command-line utilities and processing tools, `configs/` contains configuration files, and `tests/` contains automated tests.
 
-This directory forms the implementation layer behind the thesis analysis and modeling work.
+The package configuration is in `pyproject.toml`. It covers the software utilities, not every dependency required by the thesis notebooks; check the requirements of an individual analysis before running it.

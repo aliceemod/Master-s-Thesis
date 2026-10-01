@@ -27,8 +27,8 @@ from scipy.stats import zscore
 logging.basicConfig(level=logging.INFO, format="%(levelname)s  %(message)s")
 logger = logging.getLogger(__name__)
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-RESULTS_DIR = REPO_ROOT / "analysis" / "results"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+RESULTS_DIR = REPO_ROOT / "data" / "derived" / "analysis_results"
 PHYSIO_PATH = RESULTS_DIR / "physio_features" / "physio_participant_task.tsv"
 PUPIL_PATH = RESULTS_DIR / "pupil_features" / "features_pupil_participant_task.tsv"
 OUT_PATH = RESULTS_DIR / "participant_model_df.tsv"

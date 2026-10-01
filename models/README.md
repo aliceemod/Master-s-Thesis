@@ -1,11 +1,7 @@
 # Models
 
-This folder contains the modeling work for the thesis.
+This folder contains the latent-state and outcome-prediction analyses.
 
-It includes:
-- HMM and latent-state modeling
-- prediction pipelines and evaluation notebooks
-- model comparison and performance analysis
-- final modeling workflows used to answer the thesis research questions
+For the main workflows, see [collective_states_hmm_updated_overlaps.ipynb](hmm/collective_states_hmm_updated_overlaps.ipynb) for the HMM analysis and [effectiveness_prediction_comprehensive.ipynb](prediction/effectiveness_prediction_comprehensive.ipynb) for prediction-model comparisons. The `hmm/` and `prediction/` directories also contain supporting analyses and earlier model variants.
 
-This directory is the main model-building and evaluation workspace for the project.
+The notebooks include comparisons and exploratory variants; use [the curated results summary](../analysis/exploratory/thesis_final_results_summary.ipynb) for the findings selected for discussion in the thesis.

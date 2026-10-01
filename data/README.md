@@ -1,11 +1,10 @@
 # Data
 
-This folder contains the datasets and metadata used in the thesis workflow.
+This folder contains the data resources used by the thesis analyses. It is organized by data type and processing stage.
 
-It includes:
-- raw and derived datasets
-- metadata and session-level information
-- stimulus response material and transcript resources
-- project data artifacts required for analysis and modeling
+- `derived/`: processed feature tables and other analysis-ready outputs
+- `metadata/`: participant, group, and session metadata
+- `stimuli_answers/`: responses to the study stimuli
+- `transcripts/`: transcript files used in feature extraction and analysis
 
-This directory is intended to hold only the data needed for the final thesis research workflow.
+Large source recordings are not included here. Some analyses therefore require access to the original study data and may not be fully reproducible from this repository alone.

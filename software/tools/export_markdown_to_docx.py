@@ -4,8 +4,9 @@ The exporter creates native headings, paragraphs, bullet lists, code blocks, and
 tables. Upload the resulting DOCX to Google Drive and open it with Google Docs.
 
 Usage:
-    python tools/export_markdown_to_docx.py docs/feature_catalog.md
-    python tools/export_markdown_to_docx.py docs/feature_catalog.md --output docs/feature_catalog.docx
+    python tools/export_markdown_to_docx.py README.md
+    python tools/export_markdown_to_docx.py results/reports/prediction_results_report.md \
+        --output results/reports/prediction_results_report.docx
 """
 
 from __future__ import annotations

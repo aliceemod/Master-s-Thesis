@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Offline compute stack helper for staging, planning, and execution.
 
-This tool codifies the workflow documented in docs/offline_compute_stack.md for
-the two-workstation post-collection processing setup.
+This tool supports a two-workstation post-collection processing setup.
 
 Subcommands:
 - init: create stack directories and an optional queue TSV file.

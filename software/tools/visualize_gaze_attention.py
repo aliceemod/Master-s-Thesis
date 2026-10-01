@@ -71,8 +71,8 @@ _ZONE_PALETTE = {
 
 
 # ── Camera positions in world frame (metres) ──────────────────────────────────
-# Source: docs/camera_layout_and_positions.md (derived from calibration TOML +
-# ChArUco board origin + physical mounting measurements).
+# Camera positions are derived from the calibration TOML, ChArUco board origin,
+# and physical mounting measurements.
 #
 # World frame: origin = desk-centre ChArUco board, x = right, y = back, z = up.
 #

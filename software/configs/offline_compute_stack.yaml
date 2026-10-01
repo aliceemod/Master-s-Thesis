@@ -1,5 +1,5 @@
 # Offline two-workstation processing stack — AffectAI post-collection.
-# See docs/offline_compute_stack.md for the full workflow guide.
+# Paths and resource settings for the offline processing workflow.
 #
 # Privacy: never put real participant names here.
 # Use P1–P4 or ses-* IDs only in notes and queue entries.

@@ -787,10 +787,10 @@ def write_video_clock_anchors(
 
        DPA mics sharing the same RME Fireface DirectShow device are captured
        by separate ffmpeg processes, causing 50–250 ms start-time jitter.
-       Post-hoc alignment uses **per-mic anchors** with equal-duration cuts
-       to produce correctly aligned, equal-length clips.  See
-       ``_compute_dpa_anchors()``, ``split_av_audio_by_windows()``, and
-       docs/recording_sync_calibration_pipeline.md §3.3 for details.
+    Post-hoc alignment uses **per-mic anchors** with equal-duration cuts
+    to produce correctly aligned, equal-length clips. See
+    ``_compute_dpa_anchors()`` and ``split_av_audio_by_windows()`` for the
+    implementation.
     """
     # Also scan AV session dir for frame-log anchors if available
     if av_session_dir and av_session_dir.exists():
